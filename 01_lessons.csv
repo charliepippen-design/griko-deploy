@@ -1,0 +1,74 @@
+id,titolo,categoria,genere,desinenza,video_index
+1,"Aggettivi qualificativi parossitoni (fem. in -a) (O-Z)",aggettivi,femminile,-a,1
+2,"Aggettivi qualificativi parossitoni (fem. in -a) (K-N)",aggettivi,femminile,-a,2
+3,"Aggettivi qualificativi parossitoni (fem. in -a) (C-G)",aggettivi,femminile,-a,3
+4,"Aggettivi qualificativi parossitoni (fem. in -a) (A)",aggettivi,femminile,-a,4
+5,"Aggettivi qualificativi proparossitoni (fem. in -i) (I-Z)",aggettivi,femminile,-i,5
+6,"Aggettivi qualificativi proparossitoni (fem. in -i) (C-E)",aggettivi,femminile,-i,6
+7,"Aggettivi qualificativi proparossitoni (fem. in -i) (A)",aggettivi,femminile,-i,7
+8,"Aggettivi qualificativi parossitoni (fem. in -i)",aggettivi,femminile,-i,8
+9,"Aggettivi qualificativi ossitoni (fem. in -ì) (T-Z)",aggettivi,femminile,-ì,9
+10,"Aggettivi qualificativi ossitoni (fem. in -ì) (S)",aggettivi,femminile,-ì,10
+11,"Aggettivi qualificativi ossitoni (fem. in -ì) (P-R)",aggettivi,femminile,-ì,11
+12,"Aggettivi qualificativi ossitoni (fem. in -ì) (L-N)",aggettivi,femminile,-ì,12
+13,"Aggettivi qualificativi ossitoni (fem. in -ì) (D-K)",aggettivi,femminile,-ì,13
+14,"Aggettivi qualificativi ossitoni (fem. in -ì) (A-CH)",aggettivi,femminile,-ì,14
+15,"Aggettivi qualificativi - Aspetti generali",aggettivi,,,15
+16,"Lemmi vari dei tre generi",lessico,tre generi,,16
+17,"Lemmi rari dei tre generi",lessico,tre generi,,17
+18,"Lemmi vari di genere neutro (M-Z)",lessico,neutro,,18
+19,"Lemmi vari di genere neutro (A-K)",lessico,neutro,,19
+20,"Loja danikà ce ess imisìa (R-V)",lessico,,,20
+21,"Loja danikà ce ess imisìa (M-P)",lessico,,,21
+22,"Loja danikà ce ess imisìa (A-K)",lessico,,,22
+23,"Pluralia tantum di genere neutro",sostantivi,neutro,,23
+24,"Sostantivi di genere neutro ossitoni in -o (M-Z)",sostantivi,neutro,-o,24
+25,"Sostantivi di genere neutro ossitoni in -o (A-L)",sostantivi,neutro,-o,25
+26,"Sostantivi di genere neutro parossitoni in -o (M-Z)",sostantivi,neutro,-o,26
+27,"Sostantivi di genere neutro parossitoni in -o (A-L)",sostantivi,neutro,-o,27
+28,"Sostantivi di genere neutro proparossitoni in -o (M-Z)",sostantivi,neutro,-o,28
+29,"Sostantivi di genere neutro proparossitoni in -o (A-L)",sostantivi,neutro,-o,29
+30,"Sostantivi di genere neutro ossitoni in -i",sostantivi,neutro,-i,30
+31,"Sostantivi di genere neutro parossitoni in -i (T-Z)",sostantivi,neutro,-i,31
+32,"Sostantivi di genere neutro parossitoni in -i (R-S)",sostantivi,neutro,-i,32
+33,"Sostantivi di genere neutro parossitoni in -i (L-P)",sostantivi,neutro,-i,33
+34,"Sostantivi di genere neutro parossitoni in -i (K)",sostantivi,neutro,-i,34
+35,"Sostantivi di genere neutro parossitoni in -i (C-J)",sostantivi,neutro,-i,35
+36,"Sostantivi di genere neutro parossitoni in -i (A)",sostantivi,neutro,-i,36
+37,"Sostantivi di genere neutro in -i",sostantivi,neutro,-i,37
+38,"Altri sostantivi di genere neutro in -a",sostantivi,neutro,-a,38
+39,"Sostantivi di genere neutro in -ma derivanti da verbi (M-X)",sostantivi,neutro,-ma,39
+40,"Sostantivi di genere neutro in -ma derivanti da verbi (A-K)",sostantivi,neutro,-ma,40
+41,"Flessione dei sostantivi di genere neutro",sostantivi,neutro,,41
+42,"Sostantivi di genere neutro",sostantivi,neutro,,42
+43,"Sostantivi maschili vari",sostantivi,maschile,,43
+44,"Loja danikà ce ess imisìa",lessico,,,44
+45,"Ìmesta griki - Otranto e Roca 1480/81",storia,,,45
+46,"Sostantivi di genere maschile in -a",sostantivi,maschile,-a,46
+47,"Sostantivi di genere maschile proparossitoni o sdruccioli in -o",sostantivi,maschile,-o,47
+48,"Sostantivi di genere maschile parossitoni o piani in -o (P-V)",sostantivi,maschile,-o,48
+49,"Sostantivi di genere maschile parossitoni o piani in -o (A-N)",sostantivi,maschile,-o,49
+50,"Sostantivi di genere maschile in -ò",sostantivi,maschile,-ò,50
+51,"Sostantivi di genere maschile in -io e -ìo",sostantivi,maschile,-io/-ìo,51
+52,"Sostantivi di genere maschile",sostantivi,maschile,,52
+53,"Loja ess imisìa",lessico,,,53
+54,"Loja danikà",lessico,,,54
+55,"Vari sostantivi di genere femminile",sostantivi,femminile,,55
+56,"Diminutivi e vezzeggiativi di genere femminile",sostantivi,femminile,,56
+57,"Altri sostantivi di genere femminile in -a (III decl.)",sostantivi,femminile,-a,57
+58,"Sostantivi di genere femminile in -ida",sostantivi,femminile,-ida,58
+59,"Sostantivi di genere femminile in -à(da)",sostantivi,femminile,-à(da),59
+60,"Sostantivi di genere femminile in -i",sostantivi,femminile,-i,60
+61,"Altri sostantivi di genere femminile in -a (I decl.)",sostantivi,femminile,-a,61
+62,"Sostantivi di genere femminile in -ia",sostantivi,femminile,-ia,62
+63,"Sostantivi di genere femminile in -ea",sostantivi,femminile,-ea,63
+64,"Sostantivi di genere femminile",sostantivi,femminile,,64
+65,"Preposizioni articolate",preposizioni,,,65
+66,"Articolo determinativo plurale",articoli,,,66
+67,"Articolo determinativo singolare",articoli,,,67
+68,"Articolo indeterminativo",articoli,,,68
+69,"Fenomeni fonetici consonantici",fonetica,,,69
+70,"Fenomeni fonetici vocalici",fonetica,,,70
+71,"Il genere",grammatica,,,71
+72,"Trascrizione fonetica",fonetica,,,72
+73,"Graeci sumus",introduzione,,,73

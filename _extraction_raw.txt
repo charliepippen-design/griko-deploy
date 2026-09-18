@@ -1,0 +1,947 @@
+@@LESSON 1
+#RULE Aggettivi qualificativi parossitoni della seconda classe: femminile in -a, maschile/neutro in -o(n).
+#RULE Molte forme maschili/neutre in -o(n) derivano dall'antica desinenza femminile in -a.
+$VOCAB orrios :: bello
+$VOCAB pachos :: pingue/grasso
+$VOCAB paleos :: vecchio/antico
+$VOCAB plateo :: largo
+$VOCAB plusios :: ricco
+$VOCAB pornitos :: mattiniero
+$VOCAB polemos :: laborioso/gran lavoratore
+$VOCAB promos :: primaticcio
+$VOCAB scersos :: incolto/arido
+$VOCAB sideros :: di ferro/ferroso
+$VOCAB arteo :: diritto/dritto/destro
+$VOCAB termidigno :: focoso/testa calda
+$VOCAB termi :: tiepido/calduccio
+$VOCAB hurmos :: maturo
+@@LESSON 2
+#RULE Aggettivi parossitoni (accento sulla penultima) con femminile in -a, iniziali fra K e N.
+#RULE macario (beato) è indeclinabile e si usa con pronome enclitico, sdoppiando l'accento (magario ommu = beato me).
+$VOCAB camulos :: nebbioso/offuscato
+$VOCAB cataros :: bestemmiatore
+$VOCAB checci :: piccolo
+$VOCAB checiuli :: piccolino/piccoletto
+$VOCAB cuffios :: vuoto/sciocco
+$VOCAB lippus :: unto/viscido
+$VOCAB malligno :: peloso/villoso
+$VOCAB macario :: beato/felice
+$VOCAB macreos :: lungo/alto
+$VOCAB marmaros :: marmoreo/di marmo
+$VOCAB mineos :: di un mese
+$VOCAB neos :: nuovo/recente
+@@LESSON 3
+#RULE Aggettivi parossitoni con femminile in -a, iniziali fra C e G; molte forme derivano da quella femminile antica.
+#RULE glice (dolce) si scrive senza accento perché EOS/EA non formano dittongo (parola piana).
+$VOCAB cerameos :: delle tegole
+$VOCAB chroneos :: di un anno
+$VOCAB cinurios :: recente/nuovo
+$VOCAB domanos :: generoso/caritatevole
+$VOCAB dorsos :: destro
+$VOCAB antropiaris :: pudico/che si vergogna
+$VOCAB fariziaris :: timoroso/timido
+$VOCAB tirus :: pieno di pidocchi
+$VOCAB glice :: dolce
+@@LESSON 4
+#RULE Aggettivi parossitoni con femminile in -a, iniziale A; declinazione tipo aos/aia/aion (Santo).
+#RULE Agios (Santo) davanti a nome: la S si conserva davanti a vocale (as Santoni), la n si adatta in m davanti a p/b (am Blasi).
+$VOCAB aos :: santo
+$VOCAB alisios :: vero/veritiero/sincero
+$VOCAB areos :: rado/raro
+$VOCAB arteo :: diritto/dritto/destro
+$VOCAB asimos :: argenteo/d'argento
+@@LESSON 5
+#RULE Aggettivi proparossitoni (accento sulla terzultima) con femminile in -i, iniziali fra I e Z.
+#RULE Aggettivi con suffisso -ariko (da accusativo terza declinazione) indicano età o stagione: minariko (di un mese), scimonariko (invernale).
+$VOCAB imisos :: mezzo/metà
+$VOCAB minariko :: di un mese
+$VOCAB opsimos :: tardivo/tardo
+$VOCAB salenos :: giallo pallido
+$VOCAB scimonariko :: invernale/d'inverno
+$VOCAB serocaros :: sgraziato/senza grazia
+@@LESSON 6
+#RULE Aggettivi proparossitoni con femminile in -i, iniziali fra C ed E.
+#RULE Alfa privativo (a-) nega il significato della radice; dis- (dus-) indica difficoltà.
+$VOCAB citrinos :: verdastro/verde oliva
+$VOCAB cucibile :: di facile cottura
+$VOCAB culimos :: colmo/strapieno
+$VOCAB discolos :: discolo/difficile/fastidioso
+$VOCAB edimi :: incinta/gravida
+$VOCAB arceros :: vuoto/vacante
+@@LESSON 7
+#RULE Aggettivi proparossitoni con femminile in -i, iniziale A; molti formati con Alfa privativo che nega la radice.
+#RULE I diminutivi vezzeggiativi hanno forma unica per maschile/neutro e distinta al femminile.
+$VOCAB adinatos :: privo di forze/debole
+$VOCAB alocaros :: allegro/felice/contento
+$VOCAB ametros :: smisurato/innumerevole
+$VOCAB anapoli :: rovescio/inverso/contrario
+$VOCAB anazeros :: imbranato/incapace/ignorante
+$VOCAB anepautos :: irrequieto
+$VOCAB anemos :: debole
+$VOCAB askimos :: brutto/sgraziato
+$VOCAB azimos :: pane non lievitato/azzimo
+@@LESSON 8
+#RULE Aggettivi qualificativi parossitoni con femminile in -i (accento sulla penultima).
+#RULE La i del femminile deriva dall'antica vocale lunga ETA, pronunciata i nelle parlate salentine.
+$VOCAB anoitos :: stupido/che non comprende
+$VOCAB arbos :: acerbo/immaturo
+$VOCAB aspros :: bianco/candido
+$VOCAB mavros :: nero/scuro
+$VOCAB senos :: straniero/forestiero/estraneo
+@@LESSON 9
+#RULE Aggettivi qualificativi ossitoni con femminile in -ì accentato, iniziali fra T e Z.
+#RULE Beta si pronuncia B ed ETA si pronuncia è alla maniera erasmiana (pronuncia antica).
+$VOCAB termos :: caldo
+$VOCAB triferos :: tenero/morbido/molle
+$VOCAB tromeros :: terrificante/terribile
+$VOCAB brastos :: bollente
+$VOCAB bromeros :: puzzolente/maleodorante
+$VOCAB secleros :: duro/coriaceo
+$VOCAB serizeros :: secco/asciutto/arido
+$VOCAB sinos :: acido
+$VOCAB zontos :: rozzo/grossolano
+@@LESSON 10
+#RULE Negli aggettivi ossitoni con femminile in -ì, la Z dentale sorda aspirata preceduta da mu diventa doppia T (es. spinta > spittò).
+#RULE In greco antico la gamma davanti a un'altra gutturale si pronuncia come n nasale (es. sfingtos > spitto).
+#RULE Il greco non ammette più di tre sillabe consecutive con una sola emissione di fiato: si aggiunge un secondo accento.
+$VOCAB scotinò :: scuro/oscuro/buio
+$VOCAB spittò :: scintillante/sfavillante/brillante
+$VOCAB sporicò :: pieno di semi
+$VOCAB stittò :: stretto
+$VOCAB stannò :: asciutto/asciugato
+$VOCAB stenò :: stretto
+$VOCAB stranghilò :: enorme/altissimo
+$VOCAB stravò :: storto/incurvato
+@@LESSON 11
+#RULE Negli aggettivi ossitoni la s/n finale del maschile e neutro si conserva e si scrive davanti a parola che inizia per vocale.
+#RULE I verbi in -eno (dall'antico -aino, per metatesi della r) possono avere valore transitivo o intransitivo senza forma riflessiva media.
+$VOCAB spastrikò :: pulito/terso
+$VOCAB spinò :: spesso/fitto/doppio
+$VOCAB prikò :: amaro
+$VOCAB protinò :: primo
+$VOCAB psacnò :: magro/morbido
+$VOCAB psicrò :: freddo/gelido
+$VOCAB ftexò :: povero/mendicante
+$VOCAB purmistò :: bollente/scottante
+$VOCAB rodinò :: rosso
+@@LESSON 12
+#RULE Gli aggettivi ossitoni con femminile in -ì derivano spesso da aggettivi antichi col femminile in -a, poi uniformatosi alla terminazione prevalente ETA.
+#RULE Con parola clitica atona che porterebbe oltre le tre sillabe, nasce un secondo accento sulla sillaba clitica.
+$VOCAB lafrò :: leggero/lieve/agile
+$VOCAB lamperò :: lucente
+$VOCAB leftò :: sottile/magro/fine
+$VOCAB liparò :: grasso/obeso
+$VOCAB lisarò :: pietroso/sassoso/roccioso
+$VOCAB maddarò :: lanoso/peloso
+$VOCAB manachò :: solo/unico
+$VOCAB metaxotò :: serico/di seta
+$VOCAB miristikò :: odoroso/profumato
+$VOCAB miristò :: odoroso
+$VOCAB monò :: singolo/semplice
+$VOCAB negò :: magro
+$VOCAB nistikò :: digiuno
+@@LESSON 13
+#RULE In alcuni aggettivi/verbi la vocale iniziale antica può cadere (es. endiastikò > diastikò; anitto > nitto).
+#RULE Dopo una n esplicita l'aggettivo raddoppia la consonante iniziale (es. glielastò diventa gghielastò).
+$VOCAB danikò :: prestato/preso in prestito/altrui
+$VOCAB diplò :: doppio
+$VOCAB droserò :: rugiadoso/umido
+$VOCAB diastikò :: utile/necessario
+$VOCAB fanerò :: evidente/appariscente
+$VOCAB fiddarò :: ricco di foglie/frondoso
+$VOCAB fonarò :: rumoroso/che parla a voce alta
+$VOCAB gghielò :: sorridente/allegro
+$VOCAB gghielastò :: ridente/ridicolo/deriso
+$VOCAB jumnò :: nudo
+$VOCAB kalò :: buono
+$VOCAB kakò :: malvagio/cattivo
+$VOCAB kinipò :: costoso/caro
+@@LESSON 14
+#RULE Gli aggettivi ossitoni si dividono in due classi in base al femminile (in -ì o in -a) e si declinano come i sostantivi del genere corrispondente.
+#RULE Le parole ossitone in greco non sono tronche come in italiano ma spesso contratte (due vocali che si contraggono).
+$VOCAB afelasò :: inutile
+$VOCAB agapitò :: amato/caro/prediletto
+$VOCAB agrikò :: rustico/selvatico/agreste
+$VOCAB igrò :: bagnato/umido
+$VOCAB omò :: crudo/non cotto
+$VOCAB ampisinò :: ultimo/estremo
+$VOCAB anitò :: aperto/spalancato
+$VOCAB apalò :: molle/madido
+$VOCAB ipsilò :: alto
+$VOCAB chlorò :: verde/acerbo
+$VOCAB kondrò :: grosso
+@@LESSON 15
+#RULE Gli aggettivi qualificativi si distinguono in due classi in base al femminile al nominativo singolare: in -ì (da ETA) o in -a; maschile e neutro in -os e -on.
+#RULE Il femminile in -ì deriva dall'antica ETA evolutasi in i nella pronuncia; in casi conservativi resta la e.
+$VOCAB kalò :: buono
+$VOCAB oriò :: bello
+$VOCAB azilò :: alto
+$VOCAB mavrò :: nero
+$VOCAB citrinò :: verdastro
+$VOCAB glicèo :: dolce
+$VOCAB cinùrio :: nuovo/recente
+$VOCAB crusafègno :: aureo/fatto d'oro
+$VOCAB crusameno :: dorato/ricoperto d'oro
+$VOCAB antropiaro :: pudico/che si vergogna
+$VOCAB polemao :: laborioso/gran lavoratore
+$VOCAB pornò :: mattiniero
+@@LESSON 16
+#RULE Molti lemmi dei tre generi derivano da termini greci antichi tramite metatesi della r o alloglotti entrati per via latina.
+#RULE Le forme tronche (accento sull'ultima) alternano con forme piane a seconda del termine (es. ramma/rammàta).
+$VOCAB ampoma :: spinta
+$VOCAB creta :: argilla
+$VOCAB idrota :: sudore
+$VOCAB macara :: strega
+$VOCAB magaria :: stregoneria
+$VOCAB mascìa :: magia/incantesimo
+$VOCAB miscìmera :: mezzogiorno
+$VOCAB pesma :: caduta
+$VOCAB pupusha :: upupa
+$VOCAB ramma :: cucitura
+$VOCAB saracostì :: quaresima
+$VOCAB teò :: Dio
+$VOCAB bromò :: fetido
+$VOCAB crauno :: carbone
+$VOCAB paladi :: palazzo
+$VOCAB sublì :: lesina
+$VOCAB thermò :: caldo
+$VOCAB trifiddi :: trifoglio
+$VOCAB bui :: bue
+@@LESSON 17
+#RULE Molti lemmi rari dei tre generi si riscontrano soprattutto in letteratura più che nel parlato e presentano più varianti.
+#RULE Alcune parole potrebbero essere alloglotte o di sostrato pre-ellenico e vanno confrontate col greco antico o medievale.
+$VOCAB cocchiarèa :: coppia di friselle/puccia
+$VOCAB decadìa :: decima parte
+$VOCAB cafì :: crusca d'orzo
+$VOCAB protimisì :: arroganza/prepotenza
+$VOCAB sicra :: gelata notturna/ghiaccio
+$VOCAB tesi :: colpa
+$VOCAB spara :: specie di salvia
+$VOCAB glitona :: vicino/vicinato
+$VOCAB cuccovìo :: maschio della civetta
+$VOCAB milissùna :: fuco
+$VOCAB rucco :: colombo/piccione
+$VOCAB ditti :: rete per uccelli
+$VOCAB nema :: filo
+$VOCAB panìri :: fiera/sagra
+$VOCAB parabossolo :: granturco/mais
+$VOCAB azzemero :: alba/aurora
+$VOCAB serama :: vomito
+$VOCAB zinùtti :: aceto
+$VOCAB zonari :: cintola
+@@LESSON 18
+#RULE I lemmi neutri derivano spesso da diminutivi greci antichi (es. -ion), con conservazione del suono u antico.
+#RULE Le forme tronche alternano con le piane; la doppia D segnala pronuncia cacuminale.
+$VOCAB maddi :: capello/pelo/lana
+$VOCAB matì :: camicia
+$VOCAB morolò :: canto/lamento funebre
+$VOCAB mustài :: baffi
+$VOCAB peristeri :: colomba/piccione
+$VOCAB pezzali :: sedile di pietra o legno
+$VOCAB piccio :: uccello
+$VOCAB pittarai :: panino di orzo per bambini
+$VOCAB pramazzi :: cosetta trascurabile
+$VOCAB ftecheddhi :: poveretto/mendicante
+$VOCAB pugghì :: pollo/animale giovane
+$VOCAB stamnì :: orciolo/brocca di terracotta
+$VOCAB telimata :: cose desiderate/occorrente
+$VOCAB tiàni :: teglia di rame/padella
+$VOCAB truddhi :: mucchio di pietre
+@@LESSON 19
+#RULE I diminutivi neutri in -acin/-ain/-i derivano da forme antiche in -ion; al plurale danno -acia.
+#RULE Molti neutri sono aggettivi sostantivati (colori, qualità) che assumono valore di sostantivo.
+#RULE Il griko conserva forme arcaiche più vicine al greco antico che al moderno.
+$VOCAB apunai :: carbonaia piccola
+$VOCAB claraci :: rametto
+$VOCAB claro :: ramo
+$VOCAB magro :: nero
+$VOCAB halo :: sale
+$VOCAB dermazzi :: cuoio
+$VOCAB frea :: pozzo
+$VOCAB calangi :: frittura natalizia
+$VOCAB copano :: randello
+$VOCAB cutali :: cucchiaio
+$VOCAB cutrupi :: oliera
+@@LESSON 20
+#RULE Parole di genere neutro di origine straniera (totale o parziale) o ibride, con iniziale R-V.
+#RULE I prestiti spesso mantengono forme del greco antico o subiscono dissimilazione (es. sabaton da sciabbat).
+$VOCAB rebatto :: rumore/frastuono
+$VOCAB recco :: maiale/porco
+$VOCAB roggio :: bastone per mescolare il latte cagliato
+$VOCAB sambo :: sabato
+$VOCAB saracinico :: anguria/cocomero
+$VOCAB stacchi :: pietra del gioco delle stacche
+$VOCAB tavari :: otre
+$VOCAB tristelli :: cavalletto di ferro
+$VOCAB tumeno :: tomolo (misura)
+$VOCAB turnisi :: soldo/moneta
+$VOCAB imbuto :: imbuto
+@@LESSON 21
+#RULE Parole di genere neutro di origine straniera o meticciata, con iniziale M-P.
+#RULE L'origine dei prestiti va indicata con prudenza (latino, francese, spagnolo, germanico).
+$VOCAB maccaluri :: fazzoletto
+$VOCAB mansanemi :: luogo soleggiato al riparo dal vento
+$VOCAB mantili :: grembiale
+$VOCAB miuli :: bicchiere
+$VOCAB inchinari :: uncino
+$VOCAB ninni :: bambino
+$VOCAB nastudi :: bottone
+$VOCAB pasca :: Pasqua
+$VOCAB pilacci :: vasca per il mosto
+$VOCAB pipituri :: pannocchia
+@@LESSON 22
+#RULE Parole di genere neutro non propriamente elleniche (da altre lingue o miste), con iniziale A-K.
+#RULE Non ogni parola ritenuta grecismo lo è: crombolo deriva in realtà dal latino morula.
+$VOCAB atari :: altare
+$VOCAB arbari :: aiuola rialzata
+$VOCAB arzuli :: orciolo/brocca di terracotta
+$VOCAB cacanili :: ultimo nato di una nidiata
+$VOCAB culumi :: mucchio
+$VOCAB favaruli :: tonchio (parassita delle fave)
+$VOCAB fossi :: fossa/granaio sotterraneo
+$VOCAB gaduri :: somaro/asino
+$VOCAB guruni :: grugno/muso/maiale
+$VOCAB iermito :: fascio di spighe
+$VOCAB crombolo :: corbezzolo/mora di rovo
+@@LESSON 23
+#RULE I pluralia tantum di genere neutro si usano solo al plurale, pur derivando da un singolare.
+#RULE Il griko conserva le doppie antiche e talvolta le crea, a differenza del greco moderno.
+$VOCAB ascromata :: mucchio di schegge di legno
+$VOCAB casarmata :: scarti della pulizia delle verdure
+$VOCAB masimata :: cose da imparare/ammaestramenti
+$VOCAB minomata :: rimanenze/avanzi/residui
+$VOCAB potimata :: piante da fiore/ortaggi
+$VOCAB spermata :: seminagioni
+$VOCAB tiflomata :: talpa
+$VOCAB sera :: luoghi forestieri
+@@LESSON 24
+#RULE Sostantivi neutri ossitoni in -o (accento sull'ultima sillaba), iniziali M-Z.
+#RULE Una doppia iniziale (es. nnero) può derivare dall'assorbimento della n dell'articolo maschile accusativo ton.
+$VOCAB miulo :: midollo/cervello
+$VOCAB nnero :: acqua/pioggia
+$VOCAB neuro :: parte magra della carne
+$VOCAB patremo :: padre nostro
+$VOCAB pleuro :: fianco
+$VOCAB porno :: mattino
+$VOCAB picro :: amaro/amarezza
+$VOCAB steno :: piccone
+$VOCAB stomaco :: stomaco
+$VOCAB stravo :: torto
+$VOCAB vasilico :: basilico
+@@LESSON 25
+#RULE Sostantivi neutri parossitoni in -o (accento sulla penultima sillaba), iniziali A-L.
+#RULE La s finale può sentirsi o meno per raddoppiamento sintattico secondo la parola successiva.
+$VOCAB afimo :: fiato/respiro
+$VOCAB avuo :: uovo
+$VOCAB agro :: bagnato/umido
+$VOCAB ambro :: davanti/parte anteriore
+$VOCAB apalo :: molle/madido
+$VOCAB cloro :: parte verde del ramo
+$VOCAB condro :: grosso/stupido
+$VOCAB fano :: apparenza/esteriorità
+$VOCAB caco :: male/malvagità/malanno
+$VOCAB calo :: bene
+$VOCAB catalimo :: distruzione/dissoluzione
+$VOCAB crifo :: nascosto/segreto
+$VOCAB ctino :: bestia/animale d'allevamento
+$VOCAB croco :: tuorlo dell'uovo
+$VOCAB lipo :: grasso
+@@LESSON 26
+#RULE Sostantivi neutri parossitoni in -o (accento sulla penultima), iniziali M-Z.
+#RULE Alcuni neutri hanno plurale in -i (es. mero/meri) in analogia col greco antico.
+$VOCAB malacro :: finocchio
+$VOCAB mariato :: cibo cotto/cucinato
+$VOCAB mero :: lato/parte
+$VOCAB metro :: misura
+$VOCAB milo :: mela
+$VOCAB rodo :: rosa
+$VOCAB rufo :: roba/panno/averi
+$VOCAB scino :: lentischio
+$VOCAB scordo :: aglio
+$VOCAB steo :: osso
+$VOCAB teros :: mietitura/mese di giugno
+$VOCAB trifillo :: trifoglio
+$VOCAB silo :: legno
+@@LESSON 27
+#RULE Sostantivi neutri parossitoni in -o (accento sulla penultima), iniziali A-L.
+#RULE La legge del trisillabismo impone un secondo accento quando un possessivo clitico sposterebbe l'accento oltre la terzultima.
+$VOCAB afo :: pisello secco
+$VOCAB argalio :: telaio
+$VOCAB ceilo :: labbro
+$VOCAB corio :: villaggio/paese
+$VOCAB corto :: erba/foraggio
+$VOCAB dricheo :: giusto/ragione
+$VOCAB fengo :: luna
+$VOCAB filo :: foglia/petalo
+$VOCAB glico :: dolce
+$VOCAB ieno :: parto/figliata
+$VOCAB clidio :: uovo fecondato
+$VOCAB cocco :: acino/chicco
+$VOCAB copro :: letame/sporcizia
+$VOCAB licaci :: lupacchiotto
+@@LESSON 28
+#RULE I sostantivi neutri proparossitoni in -o (accento sulla terzultima) formano il plurale in -a.
+#RULE Aggiungendo un suffisso che crea una quartultima sillaba, la parola prende un secondo accento (es. proato > proatato).
+$VOCAB maratho :: finocchio
+$VOCAB maro :: marmo
+$VOCAB petrosino :: prezzemolo
+$VOCAB nefo :: nuvola
+$VOCAB sikamino :: gelso
+@@LESSON 29
+#RULE I sostantivi neutri proparossitoni in -o hanno il plurale in -a (es. sidero/sidera).
+#RULE La -n finale in parentesi è strutturale (non eufonica): si conserva davanti a vocale.
+$VOCAB sidero :: ferro
+$VOCAB achero :: paglia
+$VOCAB adiko :: ingiustizia
+$VOCAB dattilo :: dito
+$VOCAB gonato :: ginocchio
+$VOCAB kokkalo :: osso
+@@LESSON 30
+#RULE I sostantivi neutri ossitoni in -i hanno l'accento sull'ultima sillaba e sono pochi rispetto ai parossitoni.
+#RULE Molti derivano da parole realmente attestate nel greco medievale.
+$VOCAB ampì :: parte posteriore
+$VOCAB arnì :: agnello
+$VOCAB kucì :: fava
+$VOCAB vizì :: mammella
+@@LESSON 31
+#RULE I sostantivi neutri parossitoni in -i, iniziali T-Z, spesso derivano da diminutivi greci in -ion.
+#RULE La consonante dopo l'accento spesso si raddoppia; -nt- e -mp- si conservano senza assimilare.
+$VOCAB tiani :: padella
+$VOCAB trapani :: falce
+$VOCAB vambaci :: cotone
+$VOCAB zonari :: cintola
+@@LESSON 32
+#RULE I sostantivi neutri parossitoni in -i, iniziali R-S, nascono per lo più come diminutivi greci in -ion.
+#RULE La -n strutturale riappare quando è seguita da vocale o da certe consonanti.
+$VOCAB rodani :: trama del telaio
+$VOCAB rufi :: grappolo
+$VOCAB roidi :: melagrana
+$VOCAB previti :: cece
+$VOCAB stafili :: uva
+@@LESSON 33
+#RULE I sostantivi neutri parossitoni in -i, iniziali L-P, derivano spesso da diminutivi greci in -ion.
+#RULE Alcune parole sono meticciate (radice non greca con struttura greca).
+$VOCAB linari :: lino
+$VOCAB lisari :: sasso
+$VOCAB livani :: incenso
+$VOCAB meli :: miele
+$VOCAB piperi :: pepe
+@@LESSON 34
+#RULE I sostantivi neutri parossitoni in -i, iniziali K, derivano da diminutivi greci in -ion e fanno plurale in -a col raddoppio della consonante dopo l'accento.
+#RULE Nella grecìa salentina i gruppi consonantici e le doppie si conservano (dissimilazione, non assimilazione: cromidi vs crommidi).
+$VOCAB cattari :: caldaia
+$VOCAB calami :: canna
+$VOCAB caridi :: noce
+$VOCAB crusafi :: oro
+$VOCAB crommidi :: cipolla
+@@LESSON 35
+#RULE I sostantivi neutri parossitoni in -i, iniziali C-J, derivano da diminutivi in -ion; i nomi dei frutti sono neutri mentre gli alberi sono femminili.
+#RULE Il plurale in -a palatalizza la -n- (es. demoni > demonia).
+$VOCAB cerami :: tegola
+$VOCAB cerasi :: ciliegia
+$VOCAB chioni :: neve
+$VOCAB citoni :: mela cotogna
+$VOCAB donti :: dente
+@@LESSON 36
+#RULE I sostantivi neutri parossitoni in -i, iniziali A, derivano da diminutivi greci in -ion (terminazione -ion pronunciata -i).
+#RULE La vocale iniziale spesso deriva dall'assorbimento dell'accento/articolo, non da forma dorica.
+$VOCAB afidi :: serpe
+$VOCAB apidi :: pera
+$VOCAB ardari :: crosta lattea
+$VOCAB asteri :: stella
+@@LESSON 37
+#RULE I sostantivi neutri in -i comprendono parossitoni e ossitoni; molti derivano da diminutivi in -ion diventati di grado normale.
+#RULE Esistono sottotipi in -ai e -oi accentati sul dittongo finale (es. pedai da paidaction, alai da eladion).
+$VOCAB alai :: aia
+$VOCAB ampeli :: vite
+$VOCAB pedai :: bambino
+$VOCAB matai :: occhio
+$VOCAB alaio :: olivo
+@@LESSON 38
+#RULE I sostantivi neutri in -a (spesso in -ma correlati a verbi) restano neutri, non femminili nonostante la terminazione in -a; al plurale aggiungono -ta.
+#RULE Nelle parole polisillabiche l'accento non può cadere oltre la terzultima: aggiungendo -ta al plurale l'accento si sposta in avanti.
+#RULE L'aferesi (caduta della vocale iniziale atona) è tipica di Calimera; a Martano avviene la protesi (aggiunta di vocali iniziali).
+$VOCAB agiasma :: acquasanta
+$VOCAB gala :: latte
+$VOCAB iema :: sangue
+$VOCAB krea :: carne
+$VOCAB noma :: corno
+$VOCAB psema :: bugia
+$VOCAB stoma :: ferro temperato
+$VOCAB tama :: voto
+@@LESSON 39
+#RULE Prosegue l'esame dei sostantivi neutri in -ma derivanti da verbi (iniziale M-X), in ordine alfabetico.
+#RULE Al plurale, per parole di almeno tre sillabe, l'accento si sposta in avanti per rispettare la legge del trisillabo.
+#RULE Alcune parole con una sola -m al singolare raddoppiano la -m al plurale quando l'accento resta indietro.
+$VOCAB meletima :: lettura
+$VOCAB mirisma :: profumo
+$VOCAB nima :: tomba
+$VOCAB noima :: intelligenza
+$VOCAB pramma :: pane plasmato
+$VOCAB fisima :: gonfiore
+$VOCAB rocanima :: cartilagine
+$VOCAB schisma :: squarcio
+$VOCAB selima :: volontà
+$VOCAB vamma :: tintura
+$VOCAB vattisma :: battesimo
+$VOCAB vascama :: malocchio
+$VOCAB vlemma :: sguardo
+$VOCAB vlojisma :: benedizione
+$VOCAB singorima :: perdono
+@@LESSON 40
+#RULE I sostantivi neutri in -ma derivanti da verbi (iniziale A-K) esprimono il concetto legato a un verbo; molti verbi d'origine sono ancora in uso.
+#RULE Al plurale aggiungono -ta con spostamento dell'accento; se la parola è bisillaba (es. derma) l'accento resta al suo posto.
+$VOCAB strema :: lampo
+$VOCAB gramma :: lettera
+$VOCAB prama :: cosa
+$VOCAB chiretima :: saluto
+$VOCAB choma :: terra
+$VOCAB kinonima :: comunione
+$VOCAB derma :: pelle
+$VOCAB jennima :: creatura
+$VOCAB kakalima :: aborto
+$VOCAB katurima :: pianto
+$VOCAB klama :: pianto
+$VOCAB klima :: tralcio di vite
+$VOCAB klisima :: recinto
+$VOCAB komma :: pezzo
+@@LESSON 41
+#RULE Nei sostantivi neutri nominativo, accusativo e vocativo sono uguali sia al singolare sia al plurale.
+#RULE I neutri da temi antichi in -os fanno plurale in -i; i neutri in -a fanno plurale in -ata; altri fanno plurale in -a.
+#RULE Al genitivo/dativo la desinenza singolare è -u e plurale -o(n)/-os, con eventuale spostamento dell'accento.
+$VOCAB chili :: labbro
+$VOCAB meri :: lato
+$VOCAB teri :: mietitura
+$VOCAB achilo :: chiodo
+$VOCAB rodo :: rosa
+$VOCAB avuo :: uovo
+$VOCAB cama :: caldo
+$VOCAB ceri :: cera/candela
+$VOCAB crasi :: vino
+$VOCAB tiri :: formaggio
+$VOCAB sico :: fico
+@@LESSON 42
+#RULE I sostantivi neutri conservano la flessione nominale (a differenza dell'italiano); si classificano per terminazione (-a, -i, -o) e i neutri in -ma aggiungono una sillaba al plurale.
+#RULE I nomi dei frutti sono neutri, mentre i nomi delle piante sono femminili.
+#RULE Esistono neutri pluralia tantum e diminutivi in -i (da -ion) che oggi hanno valore normale.
+$VOCAB soma :: corpo
+$VOCAB krea :: carne
+$VOCAB pedì :: bambino
+$VOCAB alài :: olio
+$VOCAB somì :: pane
+$VOCAB sidero :: ferro
+$VOCAB sico :: fico
+$VOCAB daso :: bosco
+@@LESSON 43
+#RULE Rassegna conclusiva di sostantivi maschili di varia tipologia: parole greche, prestiti e alloglotte.
+#RULE Alcune particelle pronominali identiche in italiano si distinguono in griko per caso: dativo contro accusativo.
+$VOCAB uranisco :: palato
+$VOCAB chiro :: vedovo
+$VOCAB fustiano :: gonna
+$VOCAB agguito :: gomito
+$VOCAB cleftì :: ladro
+$VOCAB copanari :: picchiatore
+$VOCAB lippo :: grasso
+$VOCAB paraiso :: paradiso
+$VOCAB pono :: dolore
+$VOCAB semmatàri :: bugiardo
+$VOCAB sio :: pulce
+$VOCAB stavrò :: croce
+$VOCAB trio :: vendemmia
+$VOCAB zio :: giogo
+@@LESSON 44
+#RULE Lezione sui prestiti (loja danikà) e sulle parole ibride (ess imisìa), nate dalla fusione tra griko e altre lingue.
+#RULE Il singolare può essere assente in parole pluralia tantum.
+$VOCAB anto :: striscia di terreno lavorata
+$VOCAB pago :: ghiaccio
+$VOCAB cucco :: focaccia di farina d'orzo
+$VOCAB galani :: massaro/pastore
+$VOCAB macio :: persona mascherata
+$VOCAB trapilo :: frantoio
+$VOCAB tufo :: conci di pietra calcarea
+$VOCAB burro :: capriccio/vezzo
+@@LESSON 45
+#RULE Lezione narrativa/storica (non grammaticale): ricostruzione documentata della presa di Otranto e Roca da parte dei Turchi nel 1480-81, con revisione critica di numeri, date e leggende popolari.
+@@LESSON 46
+#RULE I sostantivi maschili con nominativo in -a derivano dalla terza declinazione antica (dall'accusativo); al plurale nom./voc. in -i e gen./dat. in -o(n)/-os.
+#RULE Alcuni maschili cambiano genere diventando neutri nella flessione (es. poda > plurale neutro pòdia).
+$VOCAB andra :: marito
+$VOCAB papa :: prete/padre
+$VOCAB patera :: prete/sacerdote
+$VOCAB poda :: piede
+$VOCAB scimona :: inverno
+$VOCAB rajona :: braccio
+$VOCAB mina :: mese
+$VOCAB terinari :: giugno
+$VOCAB alonari :: luglio
+$VOCAB mascia :: maestro/artigiano
+$VOCAB tata :: papà/nonno
+@@LESSON 47
+#RULE I sostantivi maschili proparossitoni (sdruccioli) in -o hanno l'accento sulla terzultima sillaba al nominativo singolare.
+#RULE Nella flessione, se la vocale dell'ultima sillaba è lunga, l'accento si sposta sulla penultima (es. ànemo > anèmo).
+#RULE Con un possessivo enclitico atono la parola aggiunge un secondo accento (es. sfòndilo > sfondilòssu).
+$VOCAB abisso :: abisso/voragine
+$VOCAB agrio :: olivo selvatico/oleastro
+$VOCAB alatro :: aratro
+$VOCAB anemo :: vento
+$VOCAB antropo :: uomo
+$VOCAB diavolo :: diavolo
+$VOCAB garofalo :: garofano
+$VOCAB ipuno :: sonno/sogno
+$VOCAB cantaro :: vaso da notte
+$VOCAB mandalo :: catenaccio/chiavistello
+$VOCAB marturo :: martire
+$VOCAB sfondilo :: collo
+$VOCAB tanato :: morte
+$VOCAB bombo :: moscone/grossa vespa
+@@LESSON 48
+#RULE I sostantivi maschili parossitoni (piani) in -o hanno l'accento sulla penultima; iniziali P-V.
+#RULE Molte derivano dal greco antico spesso con metatesi consonantica (es. coradia da podaria).
+$VOCAB palanco :: leva di ferro/grande punteruolo
+$VOCAB pago :: gelo/brina
+$VOCAB pappo :: nonno
+$VOCAB pato :: via battuta/passaggio
+$VOCAB poro :: entrata/varco
+$VOCAB sacco :: sacco
+$VOCAB spero :: seme
+$VOCAB straso :: porro/brufolo duro
+$VOCAB strigno :: capriccio
+$VOCAB tico :: muro/parete
+$VOCAB topo :: luogo/posto
+$VOCAB trafo :: porca (striscia di terra tra due solchi)
+$VOCAB mandato :: rovo
+$VOCAB volo :: terra argillosa
+@@LESSON 49
+#RULE I sostantivi maschili parossitoni (piani) in -o con iniziale A-N.
+#RULE crono (anno) sposta l'accento sull'ultima al genitivo plurale quando indica età o durata (cronò).
+$VOCAB crono :: anno
+$VOCAB chipo :: giardino/orto
+$VOCAB tiro :: pidocchio
+$VOCAB grotto :: manciata/pugno
+$VOCAB canzo :: cerchio del setaccio
+$VOCAB claro :: ramo
+$VOCAB colombo :: nodo/legame
+$VOCAB cosmo :: mondo/universo
+$VOCAB crino :: giglio
+$VOCAB laco :: pozzanghera/palude/stagno
+$VOCAB licno :: lucerna/lume
+$VOCAB milo :: mola/macina/mulino
+$VOCAB mito :: filo/ordito
+$VOCAB omo :: spalla
+$VOCAB nosto :: retrogusto sgradevole
+$VOCAB noto :: vento di scirocco
+@@LESSON 50
+#RULE I sostantivi maschili in -ò (accento sull'ultima) derivano dalla seconda declinazione antica; non sono tronchi ma frutto di contrazione vocalica.
+#RULE Alcuni aggettivi sostantivati terminano in -ò accentata (es. alò, chinipò).
+$VOCAB lico :: lupo
+$VOCAB alò :: lepre
+$VOCAB ascò :: otre di pelle
+$VOCAB chierò :: tempo opportuno
+$VOCAB fanò :: apparenza/pubblicità
+$VOCAB fò :: luce
+$VOCAB grambò :: genero
+$VOCAB capnò :: fumo
+$VOCAB cristianò :: uomo cristiano/uomo
+$VOCAB ponticò :: topo
+@@LESSON 51
+#RULE I sostantivi maschili in -io (accento su sillaba precedente) e in -ìo (accento sulla i).
+$VOCAB aforchio :: tana
+$VOCAB miciìlio :: capo dei frantoiani/nocchiero
+$VOCAB nistio :: digiuno
+$VOCAB sciaddio :: cappello
+$VOCAB crio :: montone/ariete
+$VOCAB dio :: zio
+$VOCAB ambrachio :: tettoia/riparo dal sole
+@@LESSON 52
+#RULE Panoramica dei sostantivi maschili: in -o (seconda declinazione), in -ò accentata, in -io/-ìo, e in -a (terza declinazione, dall'accusativo).
+#RULE I nomi propri maschili in -o formano il vocativo sostituendo -o con -i (es. Lenardo > Lenard); quelli in -a restano invariati.
+#RULE Il genitivo-dativo dei maschili in -o è in -u (es. lico > licu).
+$VOCAB lico :: lupo
+$VOCAB alò :: lepre
+$VOCAB chinipò :: costoso/caro
+$VOCAB nistio :: digiuno
+$VOCAB andra :: marito/uomo
+$VOCAB limbuna :: grande bacinella per il bucato
+$VOCAB canaria :: venditore di verdure/millantatore
+$VOCAB asurari :: usuraio
+$VOCAB lampasciuna :: lampascione
+$VOCAB mina :: mese
+@@LESSON 53
+#RULE Loja ess imisìa: parole ibride/meticciate, composte fondendo elementi di lingue diverse (greco, latino, francese, celtico); etimologie spesso congetturali.
+#RULE Molte di queste voci sono di ambito agricolo e gastronomico.
+$VOCAB acuchi :: ago grosso
+$VOCAB acquasale :: pane bagnato e condito
+$VOCAB salicurda :: pane cotto in acqua con verdure
+$VOCAB frisa :: frisella
+$VOCAB camula :: nebbia/foschia
+$VOCAB volumi :: mucchio
+$VOCAB copula :: sfera di pietra/boccia
+$VOCAB copuledda :: polpetta di pane in brodo
+$VOCAB lacunetta :: nuca
+$VOCAB lapistra :: ramolaccio/rafano
+$VOCAB latula :: rucola a foglia larga
+$VOCAB lumia :: limone
+$VOCAB mella :: mela
+$VOCAB pentima :: grosso masso/rupe
+$VOCAB piotta :: brodo di cottura
+$VOCAB silogatta :: trappola per topi
+$VOCAB striara :: strega
+$VOCAB scasini :: pigrizia
+$VOCAB tiedra :: teglia
+$VOCAB zagareto :: fioritura
+$VOCAB stanciula :: gheppio
+$VOCAB ascla :: pezzo di tronco
+$VOCAB merula :: merla
+$VOCAB tabla :: tavola/asse di legno
+$VOCAB viannova :: strada nuova
+@@LESSON 54
+#RULE Vari sostantivi (e aggettivi) di genere femminile che sono prestiti da altre lingue (latino, talora antico francese).
+#RULE Davanti a p/b si scrive m, davanti a f la n (es. ambugghia/anfora).
+$VOCAB ambugghia :: bolla/foruncolo
+$VOCAB aruggia :: vivaio/semenzaio
+$VOCAB grifa :: sansa delle olive
+$VOCAB granza :: frisella di farina grossa d'orzo
+$VOCAB esterna :: cisterna
+$VOCAB jurnata :: giornata lavorativa
+$VOCAB cioccia :: piccola/bambina
+$VOCAB gruppo :: cripta/grotta
+$VOCAB lumera :: fiamma/luce
+$VOCAB passiuna :: passione
+$VOCAB pungia :: tasca/taschina
+$VOCAB purgula :: polvere
+$VOCAB reccia :: frisa d'orzo e grano
+$VOCAB parrata :: scrofa/suina
+$VOCAB strada :: strada
+$VOCAB specchia :: mucchio di pietre/punto d'osservazione
+$VOCAB turri :: torre
+$VOCAB fusca :: pula
+$VOCAB cucuvascia :: civetta
+$VOCAB rapa :: parte inferiore del tronco
+$VOCAB spina :: cuneo/zeppa
+@@LESSON 55
+#RULE Riepilogo dei sostantivi femminili: in -a e in -i, della prima e terza declinazione antica, con diminutivi e vezzeggiativi.
+#RULE Alcune parole cambiano genere rispetto al greco antico (es. pira, maschile in antico, oggi femminile).
+$VOCAB alatra :: aratura
+$VOCAB ampa :: spinta
+$VOCAB anapodia :: irrequietezza dei bambini
+$VOCAB arpa :: arpia/mostro
+$VOCAB afentia :: autorità/signoria
+$VOCAB catadicasia :: condanna
+$VOCAB lampa :: fiammata/vampa
+$VOCAB langa :: breccia in un muro
+$VOCAB magaria :: stregoneria/fattura
+$VOCAB paratomia :: pasto offerto ai familiari di un defunto
+$VOCAB pira :: fuoco/calore
+$VOCAB saccuna :: pagliericcio/materassino
+$VOCAB sicalinda :: pianta di fico d'india
+$VOCAB sirma :: tiro/l'atto del tirare
+$VOCAB scotinia :: oscurità/tenebra
+$VOCAB stavricola :: lucertola
+$VOCAB strolechia :: rimprovero/straparlare
+$VOCAB sìtsira :: zia
+$VOCAB smirna :: sedano selvatico
+$VOCAB anemi :: arcolaio
+$VOCAB sarcosti :: quaresima
+$VOCAB tenni :: arte/mestiere/abilità
+@@LESSON 56
+#RULE I diminutivi e vezzeggiativi femminili si formano con suffissi come -edda/-edduci; spesso conservano un significato traslato.
+#RULE Alcuni diminutivi conservano il significato antico della radice: caletta bellina da calè (anticamente bella).
+$VOCAB aderfecia :: sorellina
+$VOCAB celonaci :: piccola tartaruga
+$VOCAB cerulaci :: manina
+$VOCAB cefalaci :: testolina
+$VOCAB caletta :: bellina/carina
+$VOCAB monachedda :: monachella
+$VOCAB tripedda :: buchetto
+@@LESSON 57
+#RULE Molti sostantivi femminili in -a derivano dall'accusativo della terza declinazione greca antica (es. alopos > alupuna volpe).
+#RULE La parola mano al plurale (cheria) si comporta come neutro per l'organo, ma è femminile in altri usi.
+$VOCAB alupuna :: volpe
+$VOCAB chera :: mano
+$VOCAB nifta :: notte
+$VOCAB placa :: chianca/lastra di pietra
+$VOCAB carassa :: fessura/fenditura
+@@LESSON 58
+#RULE I sostantivi femminili in -ida derivano dall'accusativo (-ida) di termini della terza declinazione greca antica.
+#RULE Talvolta l'ultima sillaba si pronuncia con dentale sorda (-ita) invece di sonora (-ida) secondo le parlate.
+$VOCAB damalida :: vitella/giovenca
+$VOCAB culura :: ciambella/dolce pasquale
+$VOCAB salitedda :: pipistrello
+$VOCAB stafida :: uva passa/uvetta
+$VOCAB scordalida :: aglio selvatico
+@@LESSON 59
+#RULE Molti sostantivi femminili in -a (con o senza -da finale) derivano localmente da verbi greci (es. prima imbiancatura da frio).
+#RULE Casi come forada cavalla non si abbreviano per distinguerli da parole simili (ora volta/tempo).
+$VOCAB agelada :: mucca
+$VOCAB prima :: imbiancatura/pittura
+$VOCAB dacca :: morso
+$VOCAB forada :: cavalla/giumenta
+$VOCAB filima :: bacio
+@@LESSON 60
+#RULE I sostantivi femminili in -i (accentata) derivano quasi tutti dalla prima declinazione greca antica, alcuni dalla terza.
+#RULE I giorni della settimana femminili derivano da numerali ordinali: petti giovedì (quinto), tetradi mercoledì (quarto), triti martedì (terzo).
+$VOCAB aderfi :: sorella
+$VOCAB cefali :: testa/capo/mente
+$VOCAB curiaci :: domenica
+$VOCAB petti :: giovedì
+$VOCAB zoì :: vita
+@@LESSON 61
+#RULE Altri sostantivi femminili in -a derivano dalla prima declinazione greca antica (es. celona testuggine, nemera giorno).
+#RULE Molti nomi mantengono desinenza in -a di origine dorica, tipica della lingua greco-salentina.
+$VOCAB alesia :: verità/il vero
+$VOCAB celona :: testuggine/tartaruga
+$VOCAB nemera :: giorno
+$VOCAB grasta :: vaso
+$VOCAB mandra :: recinto/ovile
+@@LESSON 62
+#RULE I sostantivi femminili in -ia derivano quasi tutti dalla prima declinazione greca antica (spesso da aggettivi o verbi).
+#RULE Alcuni sono termini più letterari o caduti in disuso, talora con significato traslato.
+$VOCAB alocaria :: allegrezza/gioia/contentezza
+$VOCAB drosia :: rugiada
+$VOCAB cardia :: cuore
+$VOCAB lamia :: terrazza
+$VOCAB ptochia :: povertà
+@@LESSON 63
+#RULE I sostantivi femminili in -ea derivano da un'antica desinenza in -ea; i nomi di piante/alberi sono femminili.
+#RULE Spesso il nome dell'albero (femminile in -ea) si affianca a quello del frutto (neutro): es. caridi noce > caridea noce (albero).
+$VOCAB apidea :: pero
+$VOCAB milea :: melo
+$VOCAB rodea :: rosaio/cespuglio di rose
+$VOCAB suchea :: fico (albero)
+$VOCAB sulinea :: ferro di cavallo/staffa
+@@LESSON 64
+#RULE I sostantivi femminili derivano dalla prima declinazione (terminano in -a o -i) o dalla terza (forma dell'accusativo, di solito in -a).
+#RULE Genitivo/dativo e vocativo singolare hanno la stessa forma del nominativo; l'accusativo singolare termina in -n.
+#RULE gine donna (acc. inaica) e chiatera figlia (acc. sulatera) hanno gen./dat. plurale con accento sull'ultima (inecos, chiateron).
+$VOCAB mira :: parte/porzione
+$VOCAB chara :: gioia/allegrezza
+$VOCAB alacati :: conocchia
+$VOCAB avli :: corte/cortile
+$VOCAB agapi :: amore
+@@LESSON 65
+#RULE Le preposizioni articolate si formano unendo la preposizione con l'articolo determinativo all'accusativo, nei tre generi e due numeri; tra vocali le parole si fondono.
+#RULE Quando nell'incontro di due vocali resta una sola vocale, su di essa si pone l'accento circonflesso; se cade la vocale iniziale della preposizione, niente circonflesso.
+#RULE Preposizioni base: apu/api/apo (da), gli/i (per), ma (con), (e)s/sto (su, in); es. atto/attu (dai, dal), stes/stin (sulle, nel).
+$VOCAB apu :: da
+$VOCAB ma :: con
+$VOCAB akrisi :: chiesa
+$VOCAB martia :: peccato
+$VOCAB carti :: carta/foglio
+$VOCAB fori :: paese/villaggio
+$VOCAB lisari :: pietra/sasso
+$VOCAB mina :: mese
+$VOCAB podi :: piede
+$VOCAB pono :: dolore/pena
+$VOCAB psichì :: anima
+$VOCAB soma :: corpo
+@@LESSON 66
+#RULE L'articolo determinativo plurale ha tre generi: al nominativo m. e f. sono uguali (i/e), il neutro è ta; l'accusativo distingue tus (m.) e tes (f.), il neutro resta ta.
+#RULE Il genitivo-dativo plurale è ton per tutti e tre i generi (dalla fusione di ton + tois).
+$VOCAB i :: gli (nom. m. pl.)
+$VOCAB e :: le (nom. f. pl.)
+$VOCAB ta :: i/le (neutro pl.)
+$VOCAB tus :: i (acc. m. pl.)
+$VOCAB tes :: le (acc. f. pl.)
+$VOCAB ton :: dei/ai (gen.-dat. pl.)
+$VOCAB olo :: tutto/intero
+$VOCAB anemos :: vento
+$VOCAB lico :: lupo
+$VOCAB pratina :: pecora
+$VOCAB sidero :: ferro
+@@LESSON 67
+#RULE L'articolo determinativo singolare al nominativo è: o (maschile), i/e (femminile), to (neutro, uguale all'accusativo).
+#RULE Genitivo-dativo singolare: tu/u (del, al) per m. e neutro; tis/tes (della, alla) per il femminile. Accusativo: ton/to (m.), tin/ti (f.), to (neutro).
+$VOCAB o :: il (nom. m. sing.)
+$VOCAB i :: la (nom. f. sing.)
+$VOCAB to :: il/lo (neutro sing.)
+$VOCAB tu :: del/al (gen.-dat. m./neutro)
+$VOCAB tis :: della/alla (gen.-dat. f.)
+$VOCAB ton :: il (acc. m. sing.)
+$VOCAB andra :: marito
+$VOCAB kirà :: vedova
+$VOCAB corto :: erba/foraggio/fieno
+$VOCAB dattilo :: dito
+$VOCAB manà :: madre
+$VOCAB patera :: prete/sacerdote
+$VOCAB spiti :: casa
+@@LESSON 68
+#RULE L'articolo indeterminativo ai casi diretti: m. e neutro na/ena (uno), femminile mia (nom.)/mian (acc.); la scelta na/ena dipende dai suoni seguenti.
+#RULE Ai casi obliqui (gen.-dat.): m. e neutro anu/ena (di un, a un); femminile anis/mias (di una, a una).
+$VOCAB na :: un/uno (m./neutro)
+$VOCAB ena :: uno (m./neutro)
+$VOCAB mia :: una (f. nom.)
+$VOCAB mian :: una (f. acc.)
+$VOCAB anu :: di un/a un (gen.-dat. m./neutro)
+$VOCAB anis :: di una/a una (gen.-dat. f.)
+$VOCAB cipo :: giardino/orto
+$VOCAB foni :: voce/grido
+$VOCAB ora :: volta/tempo
+$VOCAB clama :: pianto
+$VOCAB orne :: gallina
+$VOCAB sciddo :: cane
+$VOCAB simeri :: oggi
+@@LESSON 69
+#RULE Fenomeni consonantici: raddoppiamento fonosintattico e assimilazione della -n/-s finale alla consonante iniziale della parola seguente; davanti a sonora la -n si conserva, davanti a sorda si assimila.
+#RULE La gamma antica ha esiti diversi: davanti a vocale palatale diventa semiconsonante j, altrove può conservarsi, diventare v, o cadere (es. leo da leggo, laò da lagò).
+#RULE Le doppie consonanti antiche si conservano nella pronuncia; esistono metatesi della r e rotacismo l>r.
+$VOCAB gala :: latte
+$VOCAB glossa :: lingua
+$VOCAB gonato :: ginocchio
+$VOCAB agapi :: amore
+$VOCAB lagò :: lepre
+$VOCAB gliceo :: dolce
+$VOCAB ampeli :: vite
+$VOCAB cosmo :: mondo
+$VOCAB endino :: vesto
+$VOCAB feo :: vado via/fuggo
+$VOCAB grafo :: scrivo
+@@LESSON 70
+#RULE Fenomeni vocalici: aferesi (caduta di vocale iniziale) e il fenomeno opposto, la protesi (aggiunta di vocale iniziale) e l'anaptissi (aggiunta interna), spesso per motivi eufonici.
+#RULE Crasi: due parole in stretta connessione fondono le vocali di contatto in una sola (segnata col circonflesso).
+#RULE Sincope: caduta di vocale interna; i dittonghi antichi si chiudono (ai > e); consonanti aspirate possono cadere al nominativo e riaffiorare negli altri casi.
+$VOCAB imera :: giorno
+$VOCAB ipno :: sonno/sogno
+$VOCAB catera :: figlia/ragazza
+$VOCAB amilia :: favella/discorso
+$VOCAB agapao :: amo
+$VOCAB brady :: sera
+$VOCAB pedaci :: bambino
+$VOCAB evrisko :: trovo/incontro
+$VOCAB leo :: dico
+$VOCAB milo :: spengo
+@@LESSON 71
+#RULE La lingua ha tre generi (maschile, femminile, neutro) e flessione nominale con casi: nominativo, genitivo-dativo (forma unica), accusativo, vocativo, più casi retti da preposizioni.
+#RULE Genere neutro conservato: i sostantivi in -ma (da radice verbale, es. gramma da grafo) sono neutri; i frutti sono neutri (sico, milo), gli alberi femminili (sichea, milea).
+#RULE Molti diminutivi in -i sono neutri anche se derivano da parole maschili/femminili (es. ampari cavallo, sinari zappa).
+$VOCAB ampari :: cavallo
+$VOCAB sinari :: zappa
+$VOCAB gramma :: lettera
+$VOCAB astrapi :: lampo
+$VOCAB sico :: fico (frutto)
+$VOCAB sichea :: albero di fico
+$VOCAB milo :: mela
+$VOCAB milea :: melo
+$VOCAB apidi :: pera
+$VOCAB apidea :: pero
+$VOCAB persico :: pesca
+@@LESSON 72
+#RULE La trascrizione fonetica proposta segue l'alfabeto greco: k velare sorda dura, ch affricata palatale sorda, g dolce all'italiana, q solo per cai (ogni).
+#RULE Suoni dentali speciali: la doppia lambda antica dà una d retroflessa/cacuminale (es. addo da allos); il theta antico è per lo più s, ma ti a Martignano e Sternatia.
+#RULE Psi e csi mantengono la grafia ps- e x-; le doppie con simboli speciali distinguono sonora da sorda.
+$VOCAB cnida :: ortica
+$VOCAB cero :: tempo opportuno
+$VOCAB pedaci :: bambino
+$VOCAB velani :: ghianda
+$VOCAB addo :: altro
+$VOCAB filo :: foglia
+$VOCAB atera :: resta di spiga
+$VOCAB xilo :: legno
+$VOCAB frizza :: radice
+$VOCAB acrisia :: chiesa
+@@LESSON 73
+#RULE Il griko è l'antica lingua greca del Salento, parlata ancora oggi in circa sette comuni della provincia di Lecce; Graeci sumus (siamo greci) del Galateo esprime l'identità greca di questa terra.
+#RULE La lingua greco-salentina conserva arcaismi fonetici che precedono l'influsso bizantino: la distinzione tra nome del frutto (sico) e dell'albero (sichea) riflette stratificazioni storiche antiche.
+$VOCAB calimera :: buongiorno
+$VOCAB calispera :: buonasera
+$VOCAB sico :: fico (frutto)
+$VOCAB sichea :: albero di fico

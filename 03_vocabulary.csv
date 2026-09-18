@@ -1,0 +1,717 @@
+id,lesson_id,parola_griko,parola_italiano
+1,1,orrios,bello
+2,1,pachos,pingue/grasso
+3,1,paleos,vecchio/antico
+4,1,plateo,largo
+5,1,plusios,ricco
+6,1,pornitos,mattiniero
+7,1,polemos,laborioso/gran lavoratore
+8,1,promos,primaticcio
+9,1,scersos,incolto/arido
+10,1,sideros,di ferro/ferroso
+11,1,arteo,diritto/dritto/destro
+12,1,termidigno,focoso/testa calda
+13,1,termi,tiepido/calduccio
+14,1,hurmos,maturo
+15,2,camulos,nebbioso/offuscato
+16,2,cataros,bestemmiatore
+17,2,checci,piccolo
+18,2,checiuli,piccolino/piccoletto
+19,2,cuffios,vuoto/sciocco
+20,2,lippus,unto/viscido
+21,2,malligno,peloso/villoso
+22,2,macario,beato/felice
+23,2,macreos,lungo/alto
+24,2,marmaros,marmoreo/di marmo
+25,2,mineos,di un mese
+26,2,neos,nuovo/recente
+27,3,cerameos,delle tegole
+28,3,chroneos,di un anno
+29,3,cinurios,recente/nuovo
+30,3,domanos,generoso/caritatevole
+31,3,dorsos,destro
+32,3,antropiaris,pudico/che si vergogna
+33,3,fariziaris,timoroso/timido
+34,3,tirus,pieno di pidocchi
+35,3,glice,dolce
+36,4,aos,santo
+37,4,alisios,vero/veritiero/sincero
+38,4,areos,rado/raro
+39,4,arteo,diritto/dritto/destro
+40,4,asimos,argenteo/d'argento
+41,5,imisos,mezzo/metà
+42,5,minariko,di un mese
+43,5,opsimos,tardivo/tardo
+44,5,salenos,giallo pallido
+45,5,scimonariko,invernale/d'inverno
+46,5,serocaros,sgraziato/senza grazia
+47,6,citrinos,verdastro/verde oliva
+48,6,cucibile,di facile cottura
+49,6,culimos,colmo/strapieno
+50,6,discolos,discolo/difficile/fastidioso
+51,6,edimi,incinta/gravida
+52,6,arceros,vuoto/vacante
+53,7,adinatos,privo di forze/debole
+54,7,alocaros,allegro/felice/contento
+55,7,ametros,smisurato/innumerevole
+56,7,anapoli,rovescio/inverso/contrario
+57,7,anazeros,imbranato/incapace/ignorante
+58,7,anepautos,irrequieto
+59,7,anemos,debole
+60,7,askimos,brutto/sgraziato
+61,7,azimos,pane non lievitato/azzimo
+62,8,anoitos,stupido/che non comprende
+63,8,arbos,acerbo/immaturo
+64,8,aspros,bianco/candido
+65,8,mavros,nero/scuro
+66,8,senos,straniero/forestiero/estraneo
+67,9,termos,caldo
+68,9,triferos,tenero/morbido/molle
+69,9,tromeros,terrificante/terribile
+70,9,brastos,bollente
+71,9,bromeros,puzzolente/maleodorante
+72,9,secleros,duro/coriaceo
+73,9,serizeros,secco/asciutto/arido
+74,9,sinos,acido
+75,9,zontos,rozzo/grossolano
+76,10,scotinò,scuro/oscuro/buio
+77,10,spittò,scintillante/sfavillante/brillante
+78,10,sporicò,pieno di semi
+79,10,stittò,stretto
+80,10,stannò,asciutto/asciugato
+81,10,stenò,stretto
+82,10,stranghilò,enorme/altissimo
+83,10,stravò,storto/incurvato
+84,11,spastrikò,pulito/terso
+85,11,spinò,spesso/fitto/doppio
+86,11,prikò,amaro
+87,11,protinò,primo
+88,11,psacnò,magro/morbido
+89,11,psicrò,freddo/gelido
+90,11,ftexò,povero/mendicante
+91,11,purmistò,bollente/scottante
+92,11,rodinò,rosso
+93,12,lafrò,leggero/lieve/agile
+94,12,lamperò,lucente
+95,12,leftò,sottile/magro/fine
+96,12,liparò,grasso/obeso
+97,12,lisarò,pietroso/sassoso/roccioso
+98,12,maddarò,lanoso/peloso
+99,12,manachò,solo/unico
+100,12,metaxotò,serico/di seta
+101,12,miristikò,odoroso/profumato
+102,12,miristò,odoroso
+103,12,monò,singolo/semplice
+104,12,negò,magro
+105,12,nistikò,digiuno
+106,13,danikò,prestato/preso in prestito/altrui
+107,13,diplò,doppio
+108,13,droserò,rugiadoso/umido
+109,13,diastikò,utile/necessario
+110,13,fanerò,evidente/appariscente
+111,13,fiddarò,ricco di foglie/frondoso
+112,13,fonarò,rumoroso/che parla a voce alta
+113,13,gghielò,sorridente/allegro
+114,13,gghielastò,ridente/ridicolo/deriso
+115,13,jumnò,nudo
+116,13,kalò,buono
+117,13,kakò,malvagio/cattivo
+118,13,kinipò,costoso/caro
+119,14,afelasò,inutile
+120,14,agapitò,amato/caro/prediletto
+121,14,agrikò,rustico/selvatico/agreste
+122,14,igrò,bagnato/umido
+123,14,omò,crudo/non cotto
+124,14,ampisinò,ultimo/estremo
+125,14,anitò,aperto/spalancato
+126,14,apalò,molle/madido
+127,14,ipsilò,alto
+128,14,chlorò,verde/acerbo
+129,14,kondrò,grosso
+130,15,kalò,buono
+131,15,oriò,bello
+132,15,azilò,alto
+133,15,mavrò,nero
+134,15,citrinò,verdastro
+135,15,glicèo,dolce
+136,15,cinùrio,nuovo/recente
+137,15,crusafègno,aureo/fatto d'oro
+138,15,crusameno,dorato/ricoperto d'oro
+139,15,antropiaro,pudico/che si vergogna
+140,15,polemao,laborioso/gran lavoratore
+141,15,pornò,mattiniero
+142,16,ampoma,spinta
+143,16,creta,argilla
+144,16,idrota,sudore
+145,16,macara,strega
+146,16,magaria,stregoneria
+147,16,mascìa,magia/incantesimo
+148,16,miscìmera,mezzogiorno
+149,16,pesma,caduta
+150,16,pupusha,upupa
+151,16,ramma,cucitura
+152,16,saracostì,quaresima
+153,16,teò,Dio
+154,16,bromò,fetido
+155,16,crauno,carbone
+156,16,paladi,palazzo
+157,16,sublì,lesina
+158,16,thermò,caldo
+159,16,trifiddi,trifoglio
+160,16,bui,bue
+161,17,cocchiarèa,coppia di friselle/puccia
+162,17,decadìa,decima parte
+163,17,cafì,crusca d'orzo
+164,17,protimisì,arroganza/prepotenza
+165,17,sicra,gelata notturna/ghiaccio
+166,17,tesi,colpa
+167,17,spara,specie di salvia
+168,17,glitona,vicino/vicinato
+169,17,cuccovìo,maschio della civetta
+170,17,milissùna,fuco
+171,17,rucco,colombo/piccione
+172,17,ditti,rete per uccelli
+173,17,nema,filo
+174,17,panìri,fiera/sagra
+175,17,parabossolo,granturco/mais
+176,17,azzemero,alba/aurora
+177,17,serama,vomito
+178,17,zinùtti,aceto
+179,17,zonari,cintola
+180,18,maddi,capello/pelo/lana
+181,18,matì,camicia
+182,18,morolò,canto/lamento funebre
+183,18,mustài,baffi
+184,18,peristeri,colomba/piccione
+185,18,pezzali,sedile di pietra o legno
+186,18,piccio,uccello
+187,18,pittarai,panino di orzo per bambini
+188,18,pramazzi,cosetta trascurabile
+189,18,ftecheddhi,poveretto/mendicante
+190,18,pugghì,pollo/animale giovane
+191,18,stamnì,orciolo/brocca di terracotta
+192,18,telimata,cose desiderate/occorrente
+193,18,tiàni,teglia di rame/padella
+194,18,truddhi,mucchio di pietre
+195,19,apunai,carbonaia piccola
+196,19,claraci,rametto
+197,19,claro,ramo
+198,19,magro,nero
+199,19,halo,sale
+200,19,dermazzi,cuoio
+201,19,frea,pozzo
+202,19,calangi,frittura natalizia
+203,19,copano,randello
+204,19,cutali,cucchiaio
+205,19,cutrupi,oliera
+206,20,rebatto,rumore/frastuono
+207,20,recco,maiale/porco
+208,20,roggio,bastone per mescolare il latte cagliato
+209,20,sambo,sabato
+210,20,saracinico,anguria/cocomero
+211,20,stacchi,pietra del gioco delle stacche
+212,20,tavari,otre
+213,20,tristelli,cavalletto di ferro
+214,20,tumeno,tomolo (misura)
+215,20,turnisi,soldo/moneta
+216,20,imbuto,imbuto
+217,21,maccaluri,fazzoletto
+218,21,mansanemi,luogo soleggiato al riparo dal vento
+219,21,mantili,grembiale
+220,21,miuli,bicchiere
+221,21,inchinari,uncino
+222,21,ninni,bambino
+223,21,nastudi,bottone
+224,21,pasca,Pasqua
+225,21,pilacci,vasca per il mosto
+226,21,pipituri,pannocchia
+227,22,atari,altare
+228,22,arbari,aiuola rialzata
+229,22,arzuli,orciolo/brocca di terracotta
+230,22,cacanili,ultimo nato di una nidiata
+231,22,culumi,mucchio
+232,22,favaruli,tonchio (parassita delle fave)
+233,22,fossi,fossa/granaio sotterraneo
+234,22,gaduri,somaro/asino
+235,22,guruni,grugno/muso/maiale
+236,22,iermito,fascio di spighe
+237,22,crombolo,corbezzolo/mora di rovo
+238,23,ascromata,mucchio di schegge di legno
+239,23,casarmata,scarti della pulizia delle verdure
+240,23,masimata,cose da imparare/ammaestramenti
+241,23,minomata,rimanenze/avanzi/residui
+242,23,potimata,piante da fiore/ortaggi
+243,23,spermata,seminagioni
+244,23,tiflomata,talpa
+245,23,sera,luoghi forestieri
+246,24,miulo,midollo/cervello
+247,24,nnero,acqua/pioggia
+248,24,neuro,parte magra della carne
+249,24,patremo,padre nostro
+250,24,pleuro,fianco
+251,24,porno,mattino
+252,24,picro,amaro/amarezza
+253,24,steno,piccone
+254,24,stomaco,stomaco
+255,24,stravo,torto
+256,24,vasilico,basilico
+257,25,afimo,fiato/respiro
+258,25,avuo,uovo
+259,25,agro,bagnato/umido
+260,25,ambro,davanti/parte anteriore
+261,25,apalo,molle/madido
+262,25,cloro,parte verde del ramo
+263,25,condro,grosso/stupido
+264,25,fano,apparenza/esteriorità
+265,25,caco,male/malvagità/malanno
+266,25,calo,bene
+267,25,catalimo,distruzione/dissoluzione
+268,25,crifo,nascosto/segreto
+269,25,ctino,bestia/animale d'allevamento
+270,25,croco,tuorlo dell'uovo
+271,25,lipo,grasso
+272,26,malacro,finocchio
+273,26,mariato,cibo cotto/cucinato
+274,26,mero,lato/parte
+275,26,metro,misura
+276,26,milo,mela
+277,26,rodo,rosa
+278,26,rufo,roba/panno/averi
+279,26,scino,lentischio
+280,26,scordo,aglio
+281,26,steo,osso
+282,26,teros,mietitura/mese di giugno
+283,26,trifillo,trifoglio
+284,26,silo,legno
+285,27,afo,pisello secco
+286,27,argalio,telaio
+287,27,ceilo,labbro
+288,27,corio,villaggio/paese
+289,27,corto,erba/foraggio
+290,27,dricheo,giusto/ragione
+291,27,fengo,luna
+292,27,filo,foglia/petalo
+293,27,glico,dolce
+294,27,ieno,parto/figliata
+295,27,clidio,uovo fecondato
+296,27,cocco,acino/chicco
+297,27,copro,letame/sporcizia
+298,27,licaci,lupacchiotto
+299,28,maratho,finocchio
+300,28,maro,marmo
+301,28,petrosino,prezzemolo
+302,28,nefo,nuvola
+303,28,sikamino,gelso
+304,29,sidero,ferro
+305,29,achero,paglia
+306,29,adiko,ingiustizia
+307,29,dattilo,dito
+308,29,gonato,ginocchio
+309,29,kokkalo,osso
+310,30,ampì,parte posteriore
+311,30,arnì,agnello
+312,30,kucì,fava
+313,30,vizì,mammella
+314,31,tiani,padella
+315,31,trapani,falce
+316,31,vambaci,cotone
+317,31,zonari,cintola
+318,32,rodani,trama del telaio
+319,32,rufi,grappolo
+320,32,roidi,melagrana
+321,32,previti,cece
+322,32,stafili,uva
+323,33,linari,lino
+324,33,lisari,sasso
+325,33,livani,incenso
+326,33,meli,miele
+327,33,piperi,pepe
+328,34,cattari,caldaia
+329,34,calami,canna
+330,34,caridi,noce
+331,34,crusafi,oro
+332,34,crommidi,cipolla
+333,35,cerami,tegola
+334,35,cerasi,ciliegia
+335,35,chioni,neve
+336,35,citoni,mela cotogna
+337,35,donti,dente
+338,36,afidi,serpe
+339,36,apidi,pera
+340,36,ardari,crosta lattea
+341,36,asteri,stella
+342,37,alai,aia
+343,37,ampeli,vite
+344,37,pedai,bambino
+345,37,matai,occhio
+346,37,alaio,olivo
+347,38,agiasma,acquasanta
+348,38,gala,latte
+349,38,iema,sangue
+350,38,krea,carne
+351,38,noma,corno
+352,38,psema,bugia
+353,38,stoma,ferro temperato
+354,38,tama,voto
+355,39,meletima,lettura
+356,39,mirisma,profumo
+357,39,nima,tomba
+358,39,noima,intelligenza
+359,39,pramma,pane plasmato
+360,39,fisima,gonfiore
+361,39,rocanima,cartilagine
+362,39,schisma,squarcio
+363,39,selima,volontà
+364,39,vamma,tintura
+365,39,vattisma,battesimo
+366,39,vascama,malocchio
+367,39,vlemma,sguardo
+368,39,vlojisma,benedizione
+369,39,singorima,perdono
+370,40,strema,lampo
+371,40,gramma,lettera
+372,40,prama,cosa
+373,40,chiretima,saluto
+374,40,choma,terra
+375,40,kinonima,comunione
+376,40,derma,pelle
+377,40,jennima,creatura
+378,40,kakalima,aborto
+379,40,katurima,pianto
+380,40,klama,pianto
+381,40,klima,tralcio di vite
+382,40,klisima,recinto
+383,40,komma,pezzo
+384,41,chili,labbro
+385,41,meri,lato
+386,41,teri,mietitura
+387,41,achilo,chiodo
+388,41,rodo,rosa
+389,41,avuo,uovo
+390,41,cama,caldo
+391,41,ceri,cera/candela
+392,41,crasi,vino
+393,41,tiri,formaggio
+394,41,sico,fico
+395,42,soma,corpo
+396,42,krea,carne
+397,42,pedì,bambino
+398,42,alài,olio
+399,42,somì,pane
+400,42,sidero,ferro
+401,42,sico,fico
+402,42,daso,bosco
+403,43,uranisco,palato
+404,43,chiro,vedovo
+405,43,fustiano,gonna
+406,43,agguito,gomito
+407,43,cleftì,ladro
+408,43,copanari,picchiatore
+409,43,lippo,grasso
+410,43,paraiso,paradiso
+411,43,pono,dolore
+412,43,semmatàri,bugiardo
+413,43,sio,pulce
+414,43,stavrò,croce
+415,43,trio,vendemmia
+416,43,zio,giogo
+417,44,anto,striscia di terreno lavorata
+418,44,pago,ghiaccio
+419,44,cucco,focaccia di farina d'orzo
+420,44,galani,massaro/pastore
+421,44,macio,persona mascherata
+422,44,trapilo,frantoio
+423,44,tufo,conci di pietra calcarea
+424,44,burro,capriccio/vezzo
+425,46,andra,marito
+426,46,papa,prete/padre
+427,46,patera,prete/sacerdote
+428,46,poda,piede
+429,46,scimona,inverno
+430,46,rajona,braccio
+431,46,mina,mese
+432,46,terinari,giugno
+433,46,alonari,luglio
+434,46,mascia,maestro/artigiano
+435,46,tata,papà/nonno
+436,47,abisso,abisso/voragine
+437,47,agrio,olivo selvatico/oleastro
+438,47,alatro,aratro
+439,47,anemo,vento
+440,47,antropo,uomo
+441,47,diavolo,diavolo
+442,47,garofalo,garofano
+443,47,ipuno,sonno/sogno
+444,47,cantaro,vaso da notte
+445,47,mandalo,catenaccio/chiavistello
+446,47,marturo,martire
+447,47,sfondilo,collo
+448,47,tanato,morte
+449,47,bombo,moscone/grossa vespa
+450,48,palanco,leva di ferro/grande punteruolo
+451,48,pago,gelo/brina
+452,48,pappo,nonno
+453,48,pato,via battuta/passaggio
+454,48,poro,entrata/varco
+455,48,sacco,sacco
+456,48,spero,seme
+457,48,straso,porro/brufolo duro
+458,48,strigno,capriccio
+459,48,tico,muro/parete
+460,48,topo,luogo/posto
+461,48,trafo,porca (striscia di terra tra due solchi)
+462,48,mandato,rovo
+463,48,volo,terra argillosa
+464,49,crono,anno
+465,49,chipo,giardino/orto
+466,49,tiro,pidocchio
+467,49,grotto,manciata/pugno
+468,49,canzo,cerchio del setaccio
+469,49,claro,ramo
+470,49,colombo,nodo/legame
+471,49,cosmo,mondo/universo
+472,49,crino,giglio
+473,49,laco,pozzanghera/palude/stagno
+474,49,licno,lucerna/lume
+475,49,milo,mola/macina/mulino
+476,49,mito,filo/ordito
+477,49,omo,spalla
+478,49,nosto,retrogusto sgradevole
+479,49,noto,vento di scirocco
+480,50,lico,lupo
+481,50,alò,lepre
+482,50,ascò,otre di pelle
+483,50,chierò,tempo opportuno
+484,50,fanò,apparenza/pubblicità
+485,50,fò,luce
+486,50,grambò,genero
+487,50,capnò,fumo
+488,50,cristianò,uomo cristiano/uomo
+489,50,ponticò,topo
+490,51,aforchio,tana
+491,51,miciìlio,capo dei frantoiani/nocchiero
+492,51,nistio,digiuno
+493,51,sciaddio,cappello
+494,51,crio,montone/ariete
+495,51,dio,zio
+496,51,ambrachio,tettoia/riparo dal sole
+497,52,lico,lupo
+498,52,alò,lepre
+499,52,chinipò,costoso/caro
+500,52,nistio,digiuno
+501,52,andra,marito/uomo
+502,52,limbuna,grande bacinella per il bucato
+503,52,canaria,venditore di verdure/millantatore
+504,52,asurari,usuraio
+505,52,lampasciuna,lampascione
+506,52,mina,mese
+507,53,acuchi,ago grosso
+508,53,acquasale,pane bagnato e condito
+509,53,salicurda,pane cotto in acqua con verdure
+510,53,frisa,frisella
+511,53,camula,nebbia/foschia
+512,53,volumi,mucchio
+513,53,copula,sfera di pietra/boccia
+514,53,copuledda,polpetta di pane in brodo
+515,53,lacunetta,nuca
+516,53,lapistra,ramolaccio/rafano
+517,53,latula,rucola a foglia larga
+518,53,lumia,limone
+519,53,mella,mela
+520,53,pentima,grosso masso/rupe
+521,53,piotta,brodo di cottura
+522,53,silogatta,trappola per topi
+523,53,striara,strega
+524,53,scasini,pigrizia
+525,53,tiedra,teglia
+526,53,zagareto,fioritura
+527,53,stanciula,gheppio
+528,53,ascla,pezzo di tronco
+529,53,merula,merla
+530,53,tabla,tavola/asse di legno
+531,53,viannova,strada nuova
+532,54,ambugghia,bolla/foruncolo
+533,54,aruggia,vivaio/semenzaio
+534,54,grifa,sansa delle olive
+535,54,granza,frisella di farina grossa d'orzo
+536,54,esterna,cisterna
+537,54,jurnata,giornata lavorativa
+538,54,cioccia,piccola/bambina
+539,54,gruppo,cripta/grotta
+540,54,lumera,fiamma/luce
+541,54,passiuna,passione
+542,54,pungia,tasca/taschina
+543,54,purgula,polvere
+544,54,reccia,frisa d'orzo e grano
+545,54,parrata,scrofa/suina
+546,54,strada,strada
+547,54,specchia,mucchio di pietre/punto d'osservazione
+548,54,turri,torre
+549,54,fusca,pula
+550,54,cucuvascia,civetta
+551,54,rapa,parte inferiore del tronco
+552,54,spina,cuneo/zeppa
+553,55,alatra,aratura
+554,55,ampa,spinta
+555,55,anapodia,irrequietezza dei bambini
+556,55,arpa,arpia/mostro
+557,55,afentia,autorità/signoria
+558,55,catadicasia,condanna
+559,55,lampa,fiammata/vampa
+560,55,langa,breccia in un muro
+561,55,magaria,stregoneria/fattura
+562,55,paratomia,pasto offerto ai familiari di un defunto
+563,55,pira,fuoco/calore
+564,55,saccuna,pagliericcio/materassino
+565,55,sicalinda,pianta di fico d'india
+566,55,sirma,tiro/l'atto del tirare
+567,55,scotinia,oscurità/tenebra
+568,55,stavricola,lucertola
+569,55,strolechia,rimprovero/straparlare
+570,55,sìtsira,zia
+571,55,smirna,sedano selvatico
+572,55,anemi,arcolaio
+573,55,sarcosti,quaresima
+574,55,tenni,arte/mestiere/abilità
+575,56,aderfecia,sorellina
+576,56,celonaci,piccola tartaruga
+577,56,cerulaci,manina
+578,56,cefalaci,testolina
+579,56,caletta,bellina/carina
+580,56,monachedda,monachella
+581,56,tripedda,buchetto
+582,57,alupuna,volpe
+583,57,chera,mano
+584,57,nifta,notte
+585,57,placa,chianca/lastra di pietra
+586,57,carassa,fessura/fenditura
+587,58,damalida,vitella/giovenca
+588,58,culura,ciambella/dolce pasquale
+589,58,salitedda,pipistrello
+590,58,stafida,uva passa/uvetta
+591,58,scordalida,aglio selvatico
+592,59,agelada,mucca
+593,59,prima,imbiancatura/pittura
+594,59,dacca,morso
+595,59,forada,cavalla/giumenta
+596,59,filima,bacio
+597,60,aderfi,sorella
+598,60,cefali,testa/capo/mente
+599,60,curiaci,domenica
+600,60,petti,giovedì
+601,60,zoì,vita
+602,61,alesia,verità/il vero
+603,61,celona,testuggine/tartaruga
+604,61,nemera,giorno
+605,61,grasta,vaso
+606,61,mandra,recinto/ovile
+607,62,alocaria,allegrezza/gioia/contentezza
+608,62,drosia,rugiada
+609,62,cardia,cuore
+610,62,lamia,terrazza
+611,62,ptochia,povertà
+612,63,apidea,pero
+613,63,milea,melo
+614,63,rodea,rosaio/cespuglio di rose
+615,63,suchea,fico (albero)
+616,63,sulinea,ferro di cavallo/staffa
+617,64,mira,parte/porzione
+618,64,chara,gioia/allegrezza
+619,64,alacati,conocchia
+620,64,avli,corte/cortile
+621,64,agapi,amore
+622,65,apu,da
+623,65,ma,con
+624,65,akrisi,chiesa
+625,65,martia,peccato
+626,65,carti,carta/foglio
+627,65,fori,paese/villaggio
+628,65,lisari,pietra/sasso
+629,65,mina,mese
+630,65,podi,piede
+631,65,pono,dolore/pena
+632,65,psichì,anima
+633,65,soma,corpo
+634,66,i,gli (nom. m. pl.)
+635,66,e,le (nom. f. pl.)
+636,66,ta,i/le (neutro pl.)
+637,66,tus,i (acc. m. pl.)
+638,66,tes,le (acc. f. pl.)
+639,66,ton,dei/ai (gen.-dat. pl.)
+640,66,olo,tutto/intero
+641,66,anemos,vento
+642,66,lico,lupo
+643,66,pratina,pecora
+644,66,sidero,ferro
+645,67,o,il (nom. m. sing.)
+646,67,i,la (nom. f. sing.)
+647,67,to,il/lo (neutro sing.)
+648,67,tu,del/al (gen.-dat. m./neutro)
+649,67,tis,della/alla (gen.-dat. f.)
+650,67,ton,il (acc. m. sing.)
+651,67,andra,marito
+652,67,kirà,vedova
+653,67,corto,erba/foraggio/fieno
+654,67,dattilo,dito
+655,67,manà,madre
+656,67,patera,prete/sacerdote
+657,67,spiti,casa
+658,68,na,un/uno (m./neutro)
+659,68,ena,uno (m./neutro)
+660,68,mia,una (f. nom.)
+661,68,mian,una (f. acc.)
+662,68,anu,di un/a un (gen.-dat. m./neutro)
+663,68,anis,di una/a una (gen.-dat. f.)
+664,68,cipo,giardino/orto
+665,68,foni,voce/grido
+666,68,ora,volta/tempo
+667,68,clama,pianto
+668,68,orne,gallina
+669,68,sciddo,cane
+670,68,simeri,oggi
+671,69,gala,latte
+672,69,glossa,lingua
+673,69,gonato,ginocchio
+674,69,agapi,amore
+675,69,lagò,lepre
+676,69,gliceo,dolce
+677,69,ampeli,vite
+678,69,cosmo,mondo
+679,69,endino,vesto
+680,69,feo,vado via/fuggo
+681,69,grafo,scrivo
+682,70,imera,giorno
+683,70,ipno,sonno/sogno
+684,70,catera,figlia/ragazza
+685,70,amilia,favella/discorso
+686,70,agapao,amo
+687,70,brady,sera
+688,70,pedaci,bambino
+689,70,evrisko,trovo/incontro
+690,70,leo,dico
+691,70,milo,spengo
+692,71,ampari,cavallo
+693,71,sinari,zappa
+694,71,gramma,lettera
+695,71,astrapi,lampo
+696,71,sico,fico (frutto)
+697,71,sichea,albero di fico
+698,71,milo,mela
+699,71,milea,melo
+700,71,apidi,pera
+701,71,apidea,pero
+702,71,persico,pesca
+703,72,cnida,ortica
+704,72,cero,tempo opportuno
+705,72,pedaci,bambino
+706,72,velani,ghianda
+707,72,addo,altro
+708,72,filo,foglia
+709,72,atera,resta di spiga
+710,72,xilo,legno
+711,72,frizza,radice
+712,72,acrisia,chiesa
+713,73,calimera,buongiorno
+714,73,calispera,buonasera
+715,73,sico,fico (frutto)
+716,73,sichea,albero di fico

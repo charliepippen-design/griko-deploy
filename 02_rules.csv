@@ -1,0 +1,159 @@
+id,lesson_id,regola_testo
+1,1,"Aggettivi qualificativi parossitoni della seconda classe: femminile in -a, maschile/neutro in -o(n)."
+2,1,Molte forme maschili/neutre in -o(n) derivano dall'antica desinenza femminile in -a.
+3,2,"Aggettivi parossitoni (accento sulla penultima) con femminile in -a, iniziali fra K e N."
+4,2,"macario (beato) è indeclinabile e si usa con pronome enclitico, sdoppiando l'accento (magario ommu = beato me)."
+5,3,"Aggettivi parossitoni con femminile in -a, iniziali fra C e G; molte forme derivano da quella femminile antica."
+6,3,glice (dolce) si scrive senza accento perché EOS/EA non formano dittongo (parola piana).
+7,4,"Aggettivi parossitoni con femminile in -a, iniziale A; declinazione tipo aos/aia/aion (Santo)."
+8,4,"Agios (Santo) davanti a nome: la S si conserva davanti a vocale (as Santoni), la n si adatta in m davanti a p/b (am Blasi)."
+9,5,"Aggettivi proparossitoni (accento sulla terzultima) con femminile in -i, iniziali fra I e Z."
+10,5,"Aggettivi con suffisso -ariko (da accusativo terza declinazione) indicano età o stagione: minariko (di un mese), scimonariko (invernale)."
+11,6,"Aggettivi proparossitoni con femminile in -i, iniziali fra C ed E."
+12,6,Alfa privativo (a-) nega il significato della radice; dis- (dus-) indica difficoltà.
+13,7,"Aggettivi proparossitoni con femminile in -i, iniziale A; molti formati con Alfa privativo che nega la radice."
+14,7,I diminutivi vezzeggiativi hanno forma unica per maschile/neutro e distinta al femminile.
+15,8,Aggettivi qualificativi parossitoni con femminile in -i (accento sulla penultima).
+16,8,"La i del femminile deriva dall'antica vocale lunga ETA, pronunciata i nelle parlate salentine."
+17,9,"Aggettivi qualificativi ossitoni con femminile in -ì accentato, iniziali fra T e Z."
+18,9,Beta si pronuncia B ed ETA si pronuncia è alla maniera erasmiana (pronuncia antica).
+19,10,"Negli aggettivi ossitoni con femminile in -ì, la Z dentale sorda aspirata preceduta da mu diventa doppia T (es. spinta > spittò)."
+20,10,In greco antico la gamma davanti a un'altra gutturale si pronuncia come n nasale (es. sfingtos > spitto).
+21,10,Il greco non ammette più di tre sillabe consecutive con una sola emissione di fiato: si aggiunge un secondo accento.
+22,11,Negli aggettivi ossitoni la s/n finale del maschile e neutro si conserva e si scrive davanti a parola che inizia per vocale.
+23,11,"I verbi in -eno (dall'antico -aino, per metatesi della r) possono avere valore transitivo o intransitivo senza forma riflessiva media."
+24,12,"Gli aggettivi ossitoni con femminile in -ì derivano spesso da aggettivi antichi col femminile in -a, poi uniformatosi alla terminazione prevalente ETA."
+25,12,"Con parola clitica atona che porterebbe oltre le tre sillabe, nasce un secondo accento sulla sillaba clitica."
+26,13,In alcuni aggettivi/verbi la vocale iniziale antica può cadere (es. endiastikò > diastikò; anitto > nitto).
+27,13,Dopo una n esplicita l'aggettivo raddoppia la consonante iniziale (es. glielastò diventa gghielastò).
+28,14,Gli aggettivi ossitoni si dividono in due classi in base al femminile (in -ì o in -a) e si declinano come i sostantivi del genere corrispondente.
+29,14,Le parole ossitone in greco non sono tronche come in italiano ma spesso contratte (due vocali che si contraggono).
+30,15,Gli aggettivi qualificativi si distinguono in due classi in base al femminile al nominativo singolare: in -ì (da ETA) o in -a; maschile e neutro in -os e -on.
+31,15,Il femminile in -ì deriva dall'antica ETA evolutasi in i nella pronuncia; in casi conservativi resta la e.
+32,16,Molti lemmi dei tre generi derivano da termini greci antichi tramite metatesi della r o alloglotti entrati per via latina.
+33,16,Le forme tronche (accento sull'ultima) alternano con forme piane a seconda del termine (es. ramma/rammàta).
+34,17,Molti lemmi rari dei tre generi si riscontrano soprattutto in letteratura più che nel parlato e presentano più varianti.
+35,17,Alcune parole potrebbero essere alloglotte o di sostrato pre-ellenico e vanno confrontate col greco antico o medievale.
+36,18,"I lemmi neutri derivano spesso da diminutivi greci antichi (es. -ion), con conservazione del suono u antico."
+37,18,Le forme tronche alternano con le piane; la doppia D segnala pronuncia cacuminale.
+38,19,I diminutivi neutri in -acin/-ain/-i derivano da forme antiche in -ion; al plurale danno -acia.
+39,19,"Molti neutri sono aggettivi sostantivati (colori, qualità) che assumono valore di sostantivo."
+40,19,Il griko conserva forme arcaiche più vicine al greco antico che al moderno.
+41,20,"Parole di genere neutro di origine straniera (totale o parziale) o ibride, con iniziale R-V."
+42,20,I prestiti spesso mantengono forme del greco antico o subiscono dissimilazione (es. sabaton da sciabbat).
+43,21,"Parole di genere neutro di origine straniera o meticciata, con iniziale M-P."
+44,21,"L'origine dei prestiti va indicata con prudenza (latino, francese, spagnolo, germanico)."
+45,22,"Parole di genere neutro non propriamente elleniche (da altre lingue o miste), con iniziale A-K."
+46,22,Non ogni parola ritenuta grecismo lo è: crombolo deriva in realtà dal latino morula.
+47,23,"I pluralia tantum di genere neutro si usano solo al plurale, pur derivando da un singolare."
+48,23,"Il griko conserva le doppie antiche e talvolta le crea, a differenza del greco moderno."
+49,24,"Sostantivi neutri ossitoni in -o (accento sull'ultima sillaba), iniziali M-Z."
+50,24,Una doppia iniziale (es. nnero) può derivare dall'assorbimento della n dell'articolo maschile accusativo ton.
+51,25,"Sostantivi neutri parossitoni in -o (accento sulla penultima sillaba), iniziali A-L."
+52,25,La s finale può sentirsi o meno per raddoppiamento sintattico secondo la parola successiva.
+53,26,"Sostantivi neutri parossitoni in -o (accento sulla penultima), iniziali M-Z."
+54,26,Alcuni neutri hanno plurale in -i (es. mero/meri) in analogia col greco antico.
+55,27,"Sostantivi neutri parossitoni in -o (accento sulla penultima), iniziali A-L."
+56,27,La legge del trisillabismo impone un secondo accento quando un possessivo clitico sposterebbe l'accento oltre la terzultima.
+57,28,I sostantivi neutri proparossitoni in -o (accento sulla terzultima) formano il plurale in -a.
+58,28,"Aggiungendo un suffisso che crea una quartultima sillaba, la parola prende un secondo accento (es. proato > proatato)."
+59,29,I sostantivi neutri proparossitoni in -o hanno il plurale in -a (es. sidero/sidera).
+60,29,La -n finale in parentesi è strutturale (non eufonica): si conserva davanti a vocale.
+61,30,I sostantivi neutri ossitoni in -i hanno l'accento sull'ultima sillaba e sono pochi rispetto ai parossitoni.
+62,30,Molti derivano da parole realmente attestate nel greco medievale.
+63,31,"I sostantivi neutri parossitoni in -i, iniziali T-Z, spesso derivano da diminutivi greci in -ion."
+64,31,La consonante dopo l'accento spesso si raddoppia; -nt- e -mp- si conservano senza assimilare.
+65,32,"I sostantivi neutri parossitoni in -i, iniziali R-S, nascono per lo più come diminutivi greci in -ion."
+66,32,La -n strutturale riappare quando è seguita da vocale o da certe consonanti.
+67,33,"I sostantivi neutri parossitoni in -i, iniziali L-P, derivano spesso da diminutivi greci in -ion."
+68,33,Alcune parole sono meticciate (radice non greca con struttura greca).
+69,34,"I sostantivi neutri parossitoni in -i, iniziali K, derivano da diminutivi greci in -ion e fanno plurale in -a col raddoppio della consonante dopo l'accento."
+70,34,"Nella grecìa salentina i gruppi consonantici e le doppie si conservano (dissimilazione, non assimilazione: cromidi vs crommidi)."
+71,35,"I sostantivi neutri parossitoni in -i, iniziali C-J, derivano da diminutivi in -ion; i nomi dei frutti sono neutri mentre gli alberi sono femminili."
+72,35,Il plurale in -a palatalizza la -n- (es. demoni > demonia).
+73,36,"I sostantivi neutri parossitoni in -i, iniziali A, derivano da diminutivi greci in -ion (terminazione -ion pronunciata -i)."
+74,36,"La vocale iniziale spesso deriva dall'assorbimento dell'accento/articolo, non da forma dorica."
+75,37,I sostantivi neutri in -i comprendono parossitoni e ossitoni; molti derivano da diminutivi in -ion diventati di grado normale.
+76,37,"Esistono sottotipi in -ai e -oi accentati sul dittongo finale (es. pedai da paidaction, alai da eladion)."
+77,38,"I sostantivi neutri in -a (spesso in -ma correlati a verbi) restano neutri, non femminili nonostante la terminazione in -a; al plurale aggiungono -ta."
+78,38,Nelle parole polisillabiche l'accento non può cadere oltre la terzultima: aggiungendo -ta al plurale l'accento si sposta in avanti.
+79,38,L'aferesi (caduta della vocale iniziale atona) è tipica di Calimera; a Martano avviene la protesi (aggiunta di vocali iniziali).
+80,39,"Prosegue l'esame dei sostantivi neutri in -ma derivanti da verbi (iniziale M-X), in ordine alfabetico."
+81,39,"Al plurale, per parole di almeno tre sillabe, l'accento si sposta in avanti per rispettare la legge del trisillabo."
+82,39,Alcune parole con una sola -m al singolare raddoppiano la -m al plurale quando l'accento resta indietro.
+83,40,I sostantivi neutri in -ma derivanti da verbi (iniziale A-K) esprimono il concetto legato a un verbo; molti verbi d'origine sono ancora in uso.
+84,40,Al plurale aggiungono -ta con spostamento dell'accento; se la parola è bisillaba (es. derma) l'accento resta al suo posto.
+85,41,"Nei sostantivi neutri nominativo, accusativo e vocativo sono uguali sia al singolare sia al plurale."
+86,41,I neutri da temi antichi in -os fanno plurale in -i; i neutri in -a fanno plurale in -ata; altri fanno plurale in -a.
+87,41,"Al genitivo/dativo la desinenza singolare è -u e plurale -o(n)/-os, con eventuale spostamento dell'accento."
+88,42,"I sostantivi neutri conservano la flessione nominale (a differenza dell'italiano); si classificano per terminazione (-a, -i, -o) e i neutri in -ma aggiungono una sillaba al plurale."
+89,42,"I nomi dei frutti sono neutri, mentre i nomi delle piante sono femminili."
+90,42,Esistono neutri pluralia tantum e diminutivi in -i (da -ion) che oggi hanno valore normale.
+91,43,"Rassegna conclusiva di sostantivi maschili di varia tipologia: parole greche, prestiti e alloglotte."
+92,43,Alcune particelle pronominali identiche in italiano si distinguono in griko per caso: dativo contro accusativo.
+93,44,"Lezione sui prestiti (loja danikà) e sulle parole ibride (ess imisìa), nate dalla fusione tra griko e altre lingue."
+94,44,Il singolare può essere assente in parole pluralia tantum.
+95,45,"Lezione narrativa/storica (non grammaticale): ricostruzione documentata della presa di Otranto e Roca da parte dei Turchi nel 1480-81, con revisione critica di numeri, date e leggende popolari."
+96,46,I sostantivi maschili con nominativo in -a derivano dalla terza declinazione antica (dall'accusativo); al plurale nom./voc. in -i e gen./dat. in -o(n)/-os.
+97,46,Alcuni maschili cambiano genere diventando neutri nella flessione (es. poda > plurale neutro pòdia).
+98,47,I sostantivi maschili proparossitoni (sdruccioli) in -o hanno l'accento sulla terzultima sillaba al nominativo singolare.
+99,47,"Nella flessione, se la vocale dell'ultima sillaba è lunga, l'accento si sposta sulla penultima (es. ànemo > anèmo)."
+100,47,Con un possessivo enclitico atono la parola aggiunge un secondo accento (es. sfòndilo > sfondilòssu).
+101,48,I sostantivi maschili parossitoni (piani) in -o hanno l'accento sulla penultima; iniziali P-V.
+102,48,Molte derivano dal greco antico spesso con metatesi consonantica (es. coradia da podaria).
+103,49,I sostantivi maschili parossitoni (piani) in -o con iniziale A-N.
+104,49,crono (anno) sposta l'accento sull'ultima al genitivo plurale quando indica età o durata (cronò).
+105,50,I sostantivi maschili in -ò (accento sull'ultima) derivano dalla seconda declinazione antica; non sono tronchi ma frutto di contrazione vocalica.
+106,50,"Alcuni aggettivi sostantivati terminano in -ò accentata (es. alò, chinipò)."
+107,51,I sostantivi maschili in -io (accento su sillaba precedente) e in -ìo (accento sulla i).
+108,52,"Panoramica dei sostantivi maschili: in -o (seconda declinazione), in -ò accentata, in -io/-ìo, e in -a (terza declinazione, dall'accusativo)."
+109,52,I nomi propri maschili in -o formano il vocativo sostituendo -o con -i (es. Lenardo > Lenard); quelli in -a restano invariati.
+110,52,Il genitivo-dativo dei maschili in -o è in -u (es. lico > licu).
+111,53,"Loja ess imisìa: parole ibride/meticciate, composte fondendo elementi di lingue diverse (greco, latino, francese, celtico); etimologie spesso congetturali."
+112,53,Molte di queste voci sono di ambito agricolo e gastronomico.
+113,54,"Vari sostantivi (e aggettivi) di genere femminile che sono prestiti da altre lingue (latino, talora antico francese)."
+114,54,"Davanti a p/b si scrive m, davanti a f la n (es. ambugghia/anfora)."
+115,55,"Riepilogo dei sostantivi femminili: in -a e in -i, della prima e terza declinazione antica, con diminutivi e vezzeggiativi."
+116,55,"Alcune parole cambiano genere rispetto al greco antico (es. pira, maschile in antico, oggi femminile)."
+117,56,I diminutivi e vezzeggiativi femminili si formano con suffissi come -edda/-edduci; spesso conservano un significato traslato.
+118,56,Alcuni diminutivi conservano il significato antico della radice: caletta bellina da calè (anticamente bella).
+119,57,Molti sostantivi femminili in -a derivano dall'accusativo della terza declinazione greca antica (es. alopos > alupuna volpe).
+120,57,"La parola mano al plurale (cheria) si comporta come neutro per l'organo, ma è femminile in altri usi."
+121,58,I sostantivi femminili in -ida derivano dall'accusativo (-ida) di termini della terza declinazione greca antica.
+122,58,Talvolta l'ultima sillaba si pronuncia con dentale sorda (-ita) invece di sonora (-ida) secondo le parlate.
+123,59,Molti sostantivi femminili in -a (con o senza -da finale) derivano localmente da verbi greci (es. prima imbiancatura da frio).
+124,59,Casi come forada cavalla non si abbreviano per distinguerli da parole simili (ora volta/tempo).
+125,60,"I sostantivi femminili in -i (accentata) derivano quasi tutti dalla prima declinazione greca antica, alcuni dalla terza."
+126,60,"I giorni della settimana femminili derivano da numerali ordinali: petti giovedì (quinto), tetradi mercoledì (quarto), triti martedì (terzo)."
+127,61,"Altri sostantivi femminili in -a derivano dalla prima declinazione greca antica (es. celona testuggine, nemera giorno)."
+128,61,"Molti nomi mantengono desinenza in -a di origine dorica, tipica della lingua greco-salentina."
+129,62,I sostantivi femminili in -ia derivano quasi tutti dalla prima declinazione greca antica (spesso da aggettivi o verbi).
+130,62,"Alcuni sono termini più letterari o caduti in disuso, talora con significato traslato."
+131,63,I sostantivi femminili in -ea derivano da un'antica desinenza in -ea; i nomi di piante/alberi sono femminili.
+132,63,Spesso il nome dell'albero (femminile in -ea) si affianca a quello del frutto (neutro): es. caridi noce > caridea noce (albero).
+133,64,"I sostantivi femminili derivano dalla prima declinazione (terminano in -a o -i) o dalla terza (forma dell'accusativo, di solito in -a)."
+134,64,Genitivo/dativo e vocativo singolare hanno la stessa forma del nominativo; l'accusativo singolare termina in -n.
+135,64,"gine donna (acc. inaica) e chiatera figlia (acc. sulatera) hanno gen./dat. plurale con accento sull'ultima (inecos, chiateron)."
+136,65,"Le preposizioni articolate si formano unendo la preposizione con l'articolo determinativo all'accusativo, nei tre generi e due numeri; tra vocali le parole si fondono."
+137,65,"Quando nell'incontro di due vocali resta una sola vocale, su di essa si pone l'accento circonflesso; se cade la vocale iniziale della preposizione, niente circonflesso."
+138,65,"Preposizioni base: apu/api/apo (da), gli/i (per), ma (con), (e)s/sto (su, in); es. atto/attu (dai, dal), stes/stin (sulle, nel)."
+139,66,"L'articolo determinativo plurale ha tre generi: al nominativo m. e f. sono uguali (i/e), il neutro è ta; l'accusativo distingue tus (m.) e tes (f.), il neutro resta ta."
+140,66,Il genitivo-dativo plurale è ton per tutti e tre i generi (dalla fusione di ton + tois).
+141,67,"L'articolo determinativo singolare al nominativo è: o (maschile), i/e (femminile), to (neutro, uguale all'accusativo)."
+142,67,"Genitivo-dativo singolare: tu/u (del, al) per m. e neutro; tis/tes (della, alla) per il femminile. Accusativo: ton/to (m.), tin/ti (f.), to (neutro)."
+143,68,"L'articolo indeterminativo ai casi diretti: m. e neutro na/ena (uno), femminile mia (nom.)/mian (acc.); la scelta na/ena dipende dai suoni seguenti."
+144,68,"Ai casi obliqui (gen.-dat.): m. e neutro anu/ena (di un, a un); femminile anis/mias (di una, a una)."
+145,69,"Fenomeni consonantici: raddoppiamento fonosintattico e assimilazione della -n/-s finale alla consonante iniziale della parola seguente; davanti a sonora la -n si conserva, davanti a sorda si assimila."
+146,69,"La gamma antica ha esiti diversi: davanti a vocale palatale diventa semiconsonante j, altrove può conservarsi, diventare v, o cadere (es. leo da leggo, laò da lagò)."
+147,69,Le doppie consonanti antiche si conservano nella pronuncia; esistono metatesi della r e rotacismo l>r.
+148,70,"Fenomeni vocalici: aferesi (caduta di vocale iniziale) e il fenomeno opposto, la protesi (aggiunta di vocale iniziale) e l'anaptissi (aggiunta interna), spesso per motivi eufonici."
+149,70,Crasi: due parole in stretta connessione fondono le vocali di contatto in una sola (segnata col circonflesso).
+150,70,Sincope: caduta di vocale interna; i dittonghi antichi si chiudono (ai > e); consonanti aspirate possono cadere al nominativo e riaffiorare negli altri casi.
+151,71,"La lingua ha tre generi (maschile, femminile, neutro) e flessione nominale con casi: nominativo, genitivo-dativo (forma unica), accusativo, vocativo, più casi retti da preposizioni."
+152,71,"Genere neutro conservato: i sostantivi in -ma (da radice verbale, es. gramma da grafo) sono neutri; i frutti sono neutri (sico, milo), gli alberi femminili (sichea, milea)."
+153,71,"Molti diminutivi in -i sono neutri anche se derivano da parole maschili/femminili (es. ampari cavallo, sinari zappa)."
+154,72,"La trascrizione fonetica proposta segue l'alfabeto greco: k velare sorda dura, ch affricata palatale sorda, g dolce all'italiana, q solo per cai (ogni)."
+155,72,"Suoni dentali speciali: la doppia lambda antica dà una d retroflessa/cacuminale (es. addo da allos); il theta antico è per lo più s, ma ti a Martignano e Sternatia."
+156,72,Psi e csi mantengono la grafia ps- e x-; le doppie con simboli speciali distinguono sonora da sorda.
+157,73,"Il griko è l'antica lingua greca del Salento, parlata ancora oggi in circa sette comuni della provincia di Lecce; Graeci sumus (siamo greci) del Galateo esprime l'identità greca di questa terra."
+158,73,La lingua greco-salentina conserva arcaismi fonetici che precedono l'influsso bizantino: la distinzione tra nome del frutto (sico) e dell'albero (sichea) riflette stratificazioni storiche antiche.
