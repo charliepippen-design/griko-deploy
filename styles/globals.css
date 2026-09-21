@@ -262,6 +262,8 @@ a:hover {
   align-items: center;
   justify-content: space-between;
   gap: var(--space-4);
+  flex-wrap: wrap;
+  row-gap: var(--space-2);
 }
 
 .brand-link {
@@ -391,6 +393,14 @@ a:hover {
 
 .toggle-text { font-size: 0.78rem; letter-spacing: 0.02em; }
 
+@media (max-width: 480px) {
+  /* Icone soltanto: su schermi piccoli le etichette testuali fanno
+     traboccare l'header, molto peggio del semplice bottone icona */
+  .toggle-text { display: none; }
+  .theme-toggle-btn { padding: 8px; }
+  .header-right { gap: 6px; }
+}
+
 .menu-toggle {
   display: none;
   background: var(--bg-surface);
@@ -411,7 +421,7 @@ a:hover {
   transition: var(--transition-normal);
 }
 
-@media (max-width: 1040px) {
+@media (max-width: 1240px) {
   .menu-toggle { display: flex; }
   .site-nav {
     display: none;
@@ -2372,8 +2382,7 @@ body {
 .google-translate-widget {
   display: inline-flex;
   align-items: center;
-  min-width: 36px;
-  min-height: 32px;
+  flex-shrink: 0;
 }
 
 .google-translate-widget .goog-te-gadget {
@@ -2389,12 +2398,14 @@ body {
   border-radius: var(--radius-pill);
   padding: 6px 12px;
   transition: var(--transition-normal);
+  white-space: nowrap;
 }
 
 .google-translate-widget .goog-te-gadget-simple:hover {
   border-color: var(--accent-terra-border);
 }
 
+/* L'icona bandiera di Google viene sostituita da un globo nel nostro ::before */
 .google-translate-widget .goog-te-gadget-icon {
   display: none;
 }
@@ -2405,19 +2416,34 @@ body {
   text-decoration: none;
 }
 
-/* Sostituiamo l'icona di Google con un'etichetta leggibile */
+/* Il primo <span> dentro il link è il testo inglese "Select Language":
+   lo azzeriamo con font-size (mai con display:none, altrimenti l'intero
+   link cliccabile di Google smette di essere raggiungibile) e mostriamo
+   al suo posto una nostra etichetta breve tramite ::before. */
+.google-translate-widget .goog-te-gadget-simple a > span:first-child {
+  font-size: 0;
+}
+
 .google-translate-widget .goog-te-gadget-simple::before {
   content: "🌐 Lingua";
   color: var(--text-secondary);
-  margin-right: 6px;
   font-size: 0.85rem;
+  margin-right: 4px;
 }
 
-@media (max-width: 900px) {
-  .google-translate-widget {
-    order: -1;
-    width: 100%;
-    justify-content: flex-start;
-    margin-bottom: var(--space-2);
+@media (max-width: 1240px) {
+  /* Sotto la soglia dell'hamburger il widget sta sulla riga delle icone,
+     non più insieme alla lista di navigazione (che diventa un menu a tendina) */
+  .google-translate-widget .goog-te-gadget-simple::before {
+    content: "🌐";
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 480px) {
+  /* Su schermi molto stretti restano solo le icone: niente più testo
+     "Lingua"/"Chiaro" che spinge il layout fuori dallo schermo */
+  .google-translate-widget .goog-te-gadget-simple {
+    padding: 6px 9px;
   }
 }
