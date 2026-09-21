@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Home Page -->
+  <url>
+    <loc>https://www.griko.online/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.griko.online/images/og-share.jpg</image:loc>
+      <image:title>griko.online — Portale della lingua e cultura della Grecìa Salentina</image:title>
+    </image:image>
+  </url>
+
+  <!-- Dizionario & Grammatica (684 lessemi, 73 lezioni) -->
+  <url>
+    <loc>https://www.griko.online/dizionario</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- Esplora: I 9 Comuni della Grecìa Salentina -->
+  <url>
+    <loc>https://www.griko.online/esplora</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Leggi: Antologia di Testi Tradizionali e Poesie -->
+  <url>
+    <loc>https://www.griko.online/leggi</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Ascolta: Archivio Sonoro e Canti Salentini -->
+  <url>
+    <loc>https://www.griko.online/ascolta</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Persone: Memoria e Custodi del Griko -->
+  <url>
+    <loc>https://www.griko.online/persone</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Archivio: Fonti e Studi Filologici -->
+  <url>
+    <loc>https://www.griko.online/archivio</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- Il Progetto: Metodologia e Trasparenza -->
+  <url>
+    <loc>https://www.griko.online/il-progetto</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+</urlset>

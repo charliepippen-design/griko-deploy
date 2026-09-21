@@ -1,0 +1,51 @@
+# ==============================================================================
+# robots.txt per griko.online
+# Scansione e indicizzazione aperte per Google, Bing e sistemi AI / LLM
+# ==============================================================================
+
+User-agent: *
+Allow: /
+
+# Motori di ricerca tradizionali
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# Crawler AI e Sistemi di Sintesi Generativa (LLM)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# Indice della sitemap XML
+Sitemap: https://www.griko.online/sitemap.xml

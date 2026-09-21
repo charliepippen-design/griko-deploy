@@ -31,6 +31,43 @@ export default function Layout({
     return router.pathname.startsWith(href);
   };
 
+  const cleanPath = router.asPath ? router.asPath.split("?")[0] : "";
+  const canonicalUrl = `https://www.griko.online${cleanPath === "/" ? "" : cleanPath}`;
+
+  const schemaOrgJSONLD = [
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "griko.online",
+      "url": "https://www.griko.online",
+      "description": "Portale culturale aperto dedicato alla tutela, studio e documentazione della lingua grika e della Grecìa Salentina.",
+      "inLanguage": ["it", "el"],
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.griko.online/dizionario?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "EducationalOrganization",
+      "name": "griko.online",
+      "url": "https://www.griko.online",
+      "logo": "https://www.griko.online/images/og-share.jpg",
+      "areaServed": {
+        "@type": "AdministrativeArea",
+        "name": "Grecìa Salentina, Puglia, Italia"
+      },
+      "knowsAbout": [
+        "Lingua Grika",
+        "Grecìa Salentina",
+        "Dialetti italo-greci",
+        "Cultura e folklore del Salento",
+        "Legge 482/1999"
+      ]
+    }
+  ];
+
   return (
     <div className="site-wrapper">
       <Head>
@@ -38,6 +75,44 @@ export default function Layout({
         <meta name="description" content={description} />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta charSet="utf-8" />
+
+        {/* Canonical URL per evitare duplicati */}
+        <link rel="canonical" href={canonicalUrl} />
+
+        {/* Direttive per Motori di Ricerca (Googlebot, Bingbot) e Crawler AI */}
+        <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+        <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+        <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+
+        {/* Parole chiave ed entità territoriali */}
+        <meta name="keywords" content="griko, greco salentino, lingua grika, grecia salentina, dizionario griko, grammatica griko, salento, puglia, calimera, martano, corigliano dotranto, soleto, sternatia, melpignano, zollino, castrignano dei greci, carpignano salentino, canzoni griche, kalinifta, canti salentini, minoranza linguistica" />
+        <meta name="author" content="griko.online" />
+        <meta name="geo.region" content="IT-LE" />
+        <meta name="geo.placename" content="Grecìa Salentina, Salento, Puglia, Italia" />
+
+        {/* Open Graph (Facebook, WhatsApp, LinkedIn, Telegram, AI Chat Previews) */}
+        <meta property="og:site_name" content="griko.online" />
+        <meta property="og:title" content={title} />
+        <meta property="og:description" content={description} />
+        <meta property="og:url" content={canonicalUrl} />
+        <meta property="og:type" content="website" />
+        <meta property="og:locale" content="it_IT" />
+        <meta property="og:image" content="https://www.griko.online/images/og-share.jpg" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta property="og:image:alt" content="griko.online — Portale culturale della Grecìa Salentina" />
+
+        {/* Twitter Card */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={title} />
+        <meta name="twitter:description" content={description} />
+        <meta name="twitter:image" content="https://www.griko.online/images/og-share.jpg" />
+
+        {/* Schema.org Structured Data (JSON-LD) per Google e AI Knowledge Graph */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaOrgJSONLD) }}
+        />
       </Head>
 
       {/* Top micro-bar with cultural contextual note */}
