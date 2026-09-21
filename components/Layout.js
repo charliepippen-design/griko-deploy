@@ -3,6 +3,7 @@ import Link from "next/link";
 import { useRouter } from "next/router";
 import { useState } from "react";
 import ThemeToggle from "./ThemeToggle";
+import CookieBanner from "./CookieBanner";
 
 const NAV_ITEMS = [
   { label: "Home", href: "/" },
@@ -168,9 +169,25 @@ export default function Layout({
             <p className="footer-license">
               Contenuti e documentazione rilasciati nel rispetto delle fonti territoriali e della cultura salentina.
             </p>
+            <div className="footer-cookie-row">
+              <button
+                type="button"
+                className="footer-cookie-btn"
+                onClick={() => {
+                  if (typeof window !== "undefined") {
+                    window.dispatchEvent(new Event("open-cookie-banner"));
+                  }
+                }}
+              >
+                Preferenze Cookie & Privacy
+              </button>
+            </div>
           </div>
         </div>
       </footer>
+
+      {/* Banner Consenso Cookie GDPR & Consent Mode v2 */}
+      <CookieBanner />
     </div>
   );
 }
