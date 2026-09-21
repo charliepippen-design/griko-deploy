@@ -8,9 +8,8 @@ let memoryCache = null;
 
 // Criterio di ordinamento editoriale: dalla saggezza quotidiana (proverbi)
 // all'infanzia (filastrocche), al canto condiviso (canti), al rito del lutto
-// (morolòj), fino al racconto lungo della sera (fiabe). Ogni categoria ha
-// un nome leggibile, una nota di contesto e un ordine fisso — non alfabetico
-// a caso, ma una progressione riconoscibile per chi legge.
+// (morolòj), fino al racconto lungo della sera (fiabe). Ordine fisso e
+// riconoscibile, non alfabetico a caso.
 const CATEGORY_META = {
   proverbio: {
     order: 1,
@@ -40,17 +39,19 @@ const CATEGORY_META = {
 };
 
 function categoryMeta(cat) {
-  return (
-    CATEGORY_META[cat] || { order: 99, label: cat, note: "" }
-  );
+  return CATEGORY_META[cat] || { order: 99, label: cat, note: "" };
 }
 
-// Estrae il numero progressivo da titoli come "Fiaba 92 – ..." o
-// "Massime di vita (4)" per ordinare la categoria in modo naturale
-// invece che alfabetico (dove "Fiaba 10" finirebbe prima di "Fiaba 2").
+// Estrae il numero da titoli come "Fiaba 92 – ..." per ordinare in modo
+// naturale invece che alfabetico ("Fiaba 10" prima di "Fiaba 2" altrimenti).
 function leadingNumber(titolo) {
   const m = titolo.match(/(\d+)/);
   return m ? parseInt(m[1], 10) : Number.MAX_SAFE_INTEGER;
+}
+
+function excerpt(testo, len = 90) {
+  const clean = testo.replace(/\s+/g, " ").trim();
+  return clean.length > len ? clean.slice(0, len).trim() + "…" : clean;
 }
 
 export default function LeggiPage() {
@@ -59,7 +60,7 @@ export default function LeggiPage() {
   const [error, setError] = useState(null);
   const [query, setQuery] = useState("");
   const [activeCategory, setActiveCategory] = useState(null); // null = tutte
-  const [openSlug, setOpenSlug] = useState(null);
+  const [selected, setSelected] = useState(null); // testo aperto nel pannello di lettura
 
   useEffect(() => {
     if (memoryCache) return;
@@ -90,6 +91,18 @@ export default function LeggiPage() {
     };
   }, []);
 
+  // Chiudi il pannello di lettura con Esc e blocca lo scroll del body mentre è aperto
+  useEffect(() => {
+    if (!selected) return;
+    const onKey = (e) => e.key === "Escape" && setSelected(null);
+    document.addEventListener("keydown", onKey);
+    document.body.style.overflow = "hidden";
+    return () => {
+      document.removeEventListener("keydown", onKey);
+      document.body.style.overflow = "";
+    };
+  }, [selected]);
+
   const byCategory = useMemo(() => {
     const m = {};
     for (const t of testi) {
@@ -107,10 +120,7 @@ export default function LeggiPage() {
   }, [testi]);
 
   const orderedCategories = useMemo(
-    () =>
-      Object.keys(byCategory).sort(
-        (a, b) => categoryMeta(a).order - categoryMeta(b).order
-      ),
+    () => Object.keys(byCategory).sort((a, b) => categoryMeta(a).order - categoryMeta(b).order),
     [byCategory]
   );
 
@@ -118,9 +128,7 @@ export default function LeggiPage() {
     const q = query.trim().toLowerCase();
     if (!q) return [];
     return testi.filter(
-      (t) =>
-        t.titolo.toLowerCase().includes(q) ||
-        t.testo.toLowerCase().includes(q)
+      (t) => t.titolo.toLowerCase().includes(q) || t.testo.toLowerCase().includes(q)
     );
   }, [query, testi]);
 
@@ -145,19 +153,19 @@ export default function LeggiPage() {
               : `${testi.length} testi della tradizione orale salentina, organizzati per genere.`}
           </p>
           <p className="sub" style={{ fontSize: "0.9rem" }}>
-            Fiabe, canti, morolòj, filastrocche e proverbi trascritti da
-            fonti popolari libere da diritti d'autore. Ogni testo riporta la
-            pagina di provenienza.
+            Fiabe, canti, morolòj, filastrocche e proverbi trascritti da fonti
+            popolari libere da diritti d'autore. Ogni testo riporta la pagina
+            di provenienza.
           </p>
         </div>
 
         {loading && testi.length === 0 ? (
           <div className="skeleton-container" aria-label="Caricamento antologia in corso...">
-            {[1, 2, 3, 4].map((i) => (
-              <div key={i} className="skeleton-lesson-card">
-                <div className="skeleton-box skeleton-shimmer" style={{ width: `${50 + (i * 9) % 30}%`, height: "20px" }} />
-              </div>
-            ))}
+            <div className="testi-grid">
+              {[1, 2, 3, 4, 5, 6].map((i) => (
+                <div key={i} className="skeleton-box skeleton-shimmer" style={{ height: "108px", borderRadius: "14px" }} />
+              ))}
+            </div>
           </div>
         ) : error ? (
           <div className="error-box">
@@ -168,7 +176,6 @@ export default function LeggiPage() {
           </div>
         ) : (
           <>
-            {/* Ricerca full-text */}
             <div className="search-wrap">
               <input
                 className="search"
@@ -190,33 +197,26 @@ export default function LeggiPage() {
             </div>
 
             {query.trim() ? (
-              <section style={{ marginBottom: "40px" }}>
+              <section className="testi-section" style={{ borderTop: "none", paddingTop: 0 }}>
                 <h2>
                   {results.length} risultat{results.length === 1 ? "o" : "i"} per “{query.trim()}”
                 </h2>
                 {results.length === 0 ? (
                   <p className="empty">Nessun testo trovato per questo termine di ricerca.</p>
                 ) : (
-                  <ul className="lessons">
+                  <div className="testi-grid">
                     {results.map((t) => (
-                      <TestoItem
-                        key={t.slug}
-                        t={t}
-                        open={openSlug === t.slug}
-                        onToggle={() => setOpenSlug(openSlug === t.slug ? null : t.slug)}
-                      />
+                      <TestoCard key={t.slug} t={t} onOpen={() => setSelected(t)} />
                     ))}
-                  </ul>
+                  </div>
                 )}
               </section>
             ) : (
               <>
-                {/* Filtro categorie */}
-                <div className="category-filter" style={{ display: "flex", flexWrap: "wrap", gap: "8px", marginBottom: "28px" }}>
+                <div className="testi-category-filter">
                   <button
                     type="button"
-                    className={`nav-link ${!activeCategory ? "active" : ""}`}
-                    style={{ background: !activeCategory ? undefined : "none", border: !activeCategory ? undefined : "1px solid var(--border-color)", cursor: "pointer", font: "inherit" }}
+                    className={`testi-filter-chip ${!activeCategory ? "active" : ""}`}
                     onClick={() => setActiveCategory(null)}
                   >
                     Tutte le categorie ({testi.length})
@@ -225,8 +225,7 @@ export default function LeggiPage() {
                     <button
                       key={cat}
                       type="button"
-                      className={`nav-link ${activeCategory === cat ? "active" : ""}`}
-                      style={{ background: activeCategory === cat ? undefined : "none", border: activeCategory === cat ? undefined : "1px solid var(--border-color)", cursor: "pointer", font: "inherit" }}
+                      className={`testi-filter-chip ${activeCategory === cat ? "active" : ""}`}
                       onClick={() => setActiveCategory(cat)}
                     >
                       {categoryMeta(cat).label} ({byCategory[cat].length})
@@ -237,24 +236,19 @@ export default function LeggiPage() {
                 {visibleCategories.map((cat) => {
                   const meta = categoryMeta(cat);
                   return (
-                    <div key={cat} className="cat">
-                      <h3>{meta.label} <span style={{ fontWeight: 400, fontSize: "0.85rem", color: "var(--text-tertiary)" }}>({byCategory[cat].length})</span></h3>
-                      {meta.note && (
-                        <p className="sub" style={{ marginTop: "-4px", marginBottom: "12px", fontSize: "0.92rem" }}>
-                          {meta.note}
-                        </p>
-                      )}
-                      <ul className="lessons">
+                    <section key={cat} className="testi-section">
+                      <div className="testi-section-head">
+                        <h3>{meta.label}</h3>
+                        <span className="testi-section-count">{byCategory[cat].length} testi</span>
+                      </div>
+                      {meta.note && <p className="testi-section-note">{meta.note}</p>}
+
+                      <div className="testi-grid">
                         {byCategory[cat].map((t) => (
-                          <TestoItem
-                            key={t.slug}
-                            t={t}
-                            open={openSlug === t.slug}
-                            onToggle={() => setOpenSlug(openSlug === t.slug ? null : t.slug)}
-                          />
+                          <TestoCard key={t.slug} t={t} onOpen={() => setSelected(t)} />
                         ))}
-                      </ul>
-                    </div>
+                      </div>
+                    </section>
                   );
                 })}
               </>
@@ -262,41 +256,49 @@ export default function LeggiPage() {
           </>
         )}
 
-        <p style={{ marginTop: "32px" }}>
+        <p style={{ marginTop: "16px" }}>
           <Link href="/" className="section-card-action">
             ← Torna alla Home page
           </Link>
         </p>
       </div>
+
+      {selected && (
+        <div
+          className="reading-overlay"
+          onClick={(e) => e.target === e.currentTarget && setSelected(null)}
+        >
+          <div className="reading-panel" role="dialog" aria-modal="true">
+            <button
+              type="button"
+              className="reading-close"
+              onClick={() => setSelected(null)}
+              aria-label="Chiudi lettura"
+            >
+              ✕
+            </button>
+            <span className="reading-panel-tag">{categoryMeta(selected.categoria).label}</span>
+            <h2>{selected.titolo}</h2>
+            <p className="reading-panel-text">{selected.testo}</p>
+            <p className="reading-panel-source">
+              Fonte: <a href={selected.url_fonte} target="_blank" rel="noopener noreferrer">{selected.url_fonte}</a>
+              {" · "}
+              {selected.licenza === "pubblico_dominio_tradizione_orale"
+                ? "pubblico dominio / tradizione orale"
+                : selected.licenza}
+            </p>
+          </div>
+        </div>
+      )}
     </Layout>
   );
 }
 
-function TestoItem({ t, open, onToggle }) {
+function TestoCard({ t, onOpen }) {
   return (
-    <li>
-      <button
-        type="button"
-        className="lesson-btn"
-        onClick={onToggle}
-        aria-expanded={open}
-      >
-        <span className="lesson-title-text">{t.titolo}</span>
-        <span className="lesson-expand-arrow">{open ? "▲" : "▼"}</span>
-      </button>
-
-      {open && (
-        <div className="detail">
-          <p style={{ whiteSpace: "pre-line", lineHeight: 1.7 }}>{t.testo}</p>
-          <p style={{ fontSize: "0.8rem", color: "var(--text-tertiary)", marginTop: "12px" }}>
-            Fonte: <a href={t.url_fonte} target="_blank" rel="noopener noreferrer">{t.url_fonte}</a>
-            {" · "}
-            {t.licenza === "pubblico_dominio_tradizione_orale"
-              ? "pubblico dominio / tradizione orale"
-              : t.licenza}
-          </p>
-        </div>
-      )}
-    </li>
+    <button type="button" className="testo-card" onClick={onOpen}>
+      <span className="testo-card-title">{t.titolo}</span>
+      <span className="testo-card-excerpt">{excerpt(t.testo)}</span>
+    </button>
   );
 }
