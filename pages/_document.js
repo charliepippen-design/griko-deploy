@@ -4,6 +4,12 @@ export default function Document() {
   return (
     <Html lang="it">
       <Head>
+        {/* Google Search Console Site Verification Tag */}
+        <meta
+          name="google-site-verification"
+          content="60SM_9htgWp-qUgxNX3nBgZULCV50YvFsoCFINafP6A"
+        />
+
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link
@@ -11,7 +17,7 @@ export default function Document() {
           rel="stylesheet"
         />
 
-        {/* Google Consent Mode v2: Pre-initialization before GTM */}
+        {/* Google Consent Mode v2: Inizializzazione sincrona prima di GTM */}
         <script
           dangerouslySetInnerHTML={{
             __html: `
@@ -40,7 +46,20 @@ export default function Document() {
           }}
         />
 
-        {/* Anti-flash theme script: runs synchronously before body is rendered */}
+        {/* Google Tag Manager Snippet nel <head> (riconosciuto nativamente da Google Search Console) */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+              new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+              j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+              'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+              })(window,document,'script','dataLayer','GTM-MSH7BTJ5');
+            `,
+          }}
+        />
+
+        {/* Anti-flash theme script */}
         <script
           dangerouslySetInnerHTML={{
             __html: `
@@ -59,6 +78,15 @@ export default function Document() {
         />
       </Head>
       <body>
+        {/* Google Tag Manager (noscript) nel <body> */}
+        <noscript
+          dangerouslySetInnerHTML={{
+            __html: `
+              <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MSH7BTJ5"
+              height="0" width="0" style="display:none;visibility:hidden"></iframe>
+            `,
+          }}
+        />
         <Main />
         <NextScript />
       </body>
