@@ -131,11 +131,15 @@ html {
   font-size: 16px;
   scroll-behavior: smooth;
   -webkit-text-size-adjust: 100%;
+  overflow-x: hidden;
+  max-width: 100%;
 }
 
 body {
   margin: 0;
   padding: 0;
+  overflow-x: hidden;
+  max-width: 100%;
   font-family: var(--font-sans);
   color: var(--text-primary);
   background-color: var(--bg-page);
@@ -548,6 +552,7 @@ a:hover {
   box-shadow: var(--shadow-card);
   transition: var(--transition-normal);
   gap: 8px;
+  flex-wrap: wrap;
 }
 
 .hero-search-input-box:focus-within {
@@ -562,6 +567,8 @@ a:hover {
 
 .hero-search-field {
   flex: 1;
+  min-width: 0; /* senza questo, l'input rifiuta di restringersi sotto ~170px
+                   e spinge l'intera pagina fuori dallo schermo sui telefoni */
   background: transparent;
   border: none;
   font-family: var(--font-sans);
@@ -586,6 +593,16 @@ a:hover {
   transition: var(--transition-normal);
   box-shadow: 0 2px 8px rgba(255, 94, 44, 0.3);
   white-space: nowrap;
+  flex-shrink: 0;
+}
+
+@media (max-width: 480px) {
+  /* Sotto i 480px il pulsante va a capo sotto il campo invece di
+     forzare la ricerca dell'ultimo px di spazio orizzontale */
+  .hero-search-submit {
+    width: 100%;
+    margin-top: 4px;
+  }
 }
 
 .hero-search-submit:hover {
