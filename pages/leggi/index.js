@@ -279,7 +279,8 @@ export default function LeggiPage() {
             </button>
             <span className="reading-panel-tag">{categoryMeta(selected.categoria).label}</span>
             <h2>{selected.titolo}</h2>
-            <p className="reading-panel-text">{selected.testo}</p>
+            {/* Testo originale in griko: escluso dalla traduzione automatica */}
+            <p className="reading-panel-text notranslate" translate="no">{selected.testo}</p>
             <p className="reading-panel-source">
               Fonte: <a href={selected.url_fonte} target="_blank" rel="noopener noreferrer">{selected.url_fonte}</a>
               {" · "}
@@ -298,7 +299,8 @@ function TestoCard({ t, onOpen }) {
   return (
     <button type="button" className="testo-card" onClick={onOpen}>
       <span className="testo-card-title">{t.titolo}</span>
-      <span className="testo-card-excerpt">{excerpt(t.testo)}</span>
+      {/* Anteprima in griko: esclusa dalla traduzione automatica */}
+      <span className="testo-card-excerpt notranslate" translate="no">{excerpt(t.testo)}</span>
     </button>
   );
 }

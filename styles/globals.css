@@ -2353,3 +2353,71 @@ a:hover {
     min-height: 100vh;
   }
 }
+
+/* ==========================================================================
+   GOOGLE TRANSLATE — selettore lingua automatico
+   ========================================================================== */
+
+/* Google forza una banda superiore fissa quando la pagina è tradotta:
+   la nascondiamo e annulliamo lo spostamento che applica al <body>. */
+.goog-te-banner-frame.skiptranslate,
+.goog-te-balloon-frame {
+  display: none !important;
+}
+
+body {
+  top: 0 !important;
+}
+
+.google-translate-widget {
+  display: inline-flex;
+  align-items: center;
+  min-width: 36px;
+  min-height: 32px;
+}
+
+.google-translate-widget .goog-te-gadget {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+}
+
+.google-translate-widget .goog-te-gadget-simple {
+  display: inline-flex !important;
+  align-items: center;
+  background: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-pill);
+  padding: 6px 12px;
+  transition: var(--transition-normal);
+}
+
+.google-translate-widget .goog-te-gadget-simple:hover {
+  border-color: var(--accent-terra-border);
+}
+
+.google-translate-widget .goog-te-gadget-icon {
+  display: none;
+}
+
+.google-translate-widget .goog-te-gadget-simple a,
+.google-translate-widget .goog-te-gadget-simple span {
+  color: var(--text-secondary) !important;
+  text-decoration: none;
+}
+
+/* Sostituiamo l'icona di Google con un'etichetta leggibile */
+.google-translate-widget .goog-te-gadget-simple::before {
+  content: "🌐 Lingua";
+  color: var(--text-secondary);
+  margin-right: 6px;
+  font-size: 0.85rem;
+}
+
+@media (max-width: 900px) {
+  .google-translate-widget {
+    order: -1;
+    width: 100%;
+    justify-content: flex-start;
+    margin-bottom: var(--space-2);
+  }
+}

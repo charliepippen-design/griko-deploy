@@ -267,7 +267,7 @@ export default function Dizionario() {
                   <ul className="results">
                     {results.map((v) => (
                       <li key={v.id}>
-                        <span className="griko">{v.parola_griko}</span>
+                        <span className="griko notranslate" translate="no">{v.parola_griko}</span>
                         <span className="arrow">→</span>
                         <span className="ita">{v.parola_italiano}</span>
                         {v.lessons && v.lessons.length > 0 && (
@@ -341,7 +341,7 @@ export default function Dizionario() {
                                     <tbody>
                                       {lVocab.map((v) => (
                                         <tr key={v.id}>
-                                          <td className="griko">{v.parola_griko}</td>
+                                          <td className="griko notranslate" translate="no">{v.parola_griko}</td>
                                           <td>{v.parola_italiano}</td>
                                         </tr>
                                       ))}

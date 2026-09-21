@@ -85,8 +85,8 @@ export default function PoeticCarousel({ slides = defaultSlides }) {
           </button>
         </div>
 
-        {/* Verse in Griko */}
-        <blockquote className="poetic-verse-griko">
+        {/* Verse in Griko: escluso dalla traduzione automatica */}
+        <blockquote className="poetic-verse-griko notranslate" translate="no">
           {showGreekScript && activeSlide.verso_griko_alfabeto ? (
             <p className="verse-text-greek">{activeSlide.verso_griko_alfabeto}</p>
           ) : (

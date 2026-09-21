@@ -3,6 +3,7 @@ import Link from "next/link";
 import { useRouter } from "next/router";
 import { useState } from "react";
 import ThemeToggle from "./ThemeToggle";
+import GoogleTranslate from "./GoogleTranslate";
 import CookieBanner from "./CookieBanner";
 
 const NAV_ITEMS = [
@@ -160,6 +161,9 @@ export default function Layout({
                 })}
               </ul>
             </nav>
+
+            {/* Selettore lingua automatico (Google Translate) */}
+            <GoogleTranslate />
 
             {/* Dark / Light Mode Switcher */}
             <ThemeToggle />
