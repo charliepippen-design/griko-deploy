@@ -1522,3 +1522,327 @@ a:hover {
 .retry-btn:hover {
   background: var(--accent-terra-hover);
 }
+
+/* ==========================================================================
+   CAROSELLO POETICO DEL SALENTO E DELLA GRECIA SALENTINA
+   ========================================================================== */
+
+.poetic-carousel-wrapper {
+  position: relative;
+  width: 100%;
+  max-width: var(--max-w);
+  margin: 0 auto var(--space-8) auto;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  height: 520px;
+  min-height: 480px;
+  border: 1px solid var(--border-color);
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.45);
+  background-color: #0c0a08;
+}
+
+.poetic-carousel-viewport {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.poetic-slide {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  opacity: 0;
+  transition: opacity 1s cubic-bezier(0.4, 0, 0.2, 1), transform 8s ease-out;
+  transform: scale(1.04);
+  pointer-events: none;
+}
+
+.poetic-slide.active {
+  opacity: 1;
+  transform: scale(1);
+  pointer-events: auto;
+}
+
+.poetic-overlay-gradient {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(12, 10, 8, 0.15) 0%,
+    rgba(12, 10, 8, 0.5) 45%,
+    rgba(12, 10, 8, 0.92) 85%,
+    rgba(12, 10, 8, 0.98) 100%
+  );
+}
+
+.poetic-overlay-vignette {
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at center, transparent 35%, rgba(12, 10, 8, 0.6) 100%);
+}
+
+.poetic-content-container {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 32px 40px 24px 40px;
+  z-index: 5;
+  display: flex;
+  flex-direction: column;
+}
+
+.poetic-meta-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 14px;
+}
+
+.poetic-badge-loc {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(232, 176, 66, 0.2);
+  border: 1px solid rgba(232, 176, 66, 0.45);
+  color: var(--accent-gold);
+  font-size: 0.78rem;
+  font-weight: 700;
+  padding: 4px 12px;
+  border-radius: var(--radius-pill);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.poetic-ambient-tag {
+  color: #D8D0C5;
+  font-size: 0.88rem;
+  font-style: italic;
+  font-family: var(--font-serif);
+}
+
+.poetic-script-toggle-btn {
+  margin-left: auto;
+  background: rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(4px);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  color: #FFFFFF;
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 4px 12px;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: var(--transition-normal);
+}
+
+.poetic-script-toggle-btn:hover {
+  background: rgba(255, 255, 255, 0.22);
+  border-color: #FFFFFF;
+}
+
+.poetic-verse-griko {
+  margin: 0 0 12px 0;
+  padding: 0;
+}
+
+.verse-text-latin,
+.verse-text-greek {
+  font-family: var(--font-display), serif;
+  font-size: 2.1rem;
+  line-height: 1.35;
+  font-weight: 700;
+  color: #FFFFFF;
+  text-shadow: 0 2px 14px rgba(0, 0, 0, 0.8);
+  white-space: pre-line;
+  margin: 0;
+  letter-spacing: -0.01em;
+}
+
+.poetic-verse-italian {
+  margin-bottom: 20px;
+}
+
+.poetic-verse-italian p {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  color: var(--accent-gold);
+  text-shadow: 0 1px 8px rgba(0, 0, 0, 0.9);
+  margin: 0;
+  white-space: pre-line;
+}
+
+.poetic-footer-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+  padding-top: 14px;
+  margin-bottom: 14px;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.poetic-credit {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.poetic-song-title {
+  color: var(--accent-terra);
+  font-size: 1rem;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+}
+
+.poetic-author-sep {
+  color: rgba(255, 255, 255, 0.4);
+}
+
+.poetic-author-name {
+  color: #C0B7AB;
+  font-size: 0.88rem;
+}
+
+.poetic-deepen-link {
+  display: inline-flex;
+  align-items: center;
+  color: #FFFFFF;
+  text-decoration: none;
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 6px 14px;
+  border-radius: var(--radius-sm);
+  background: rgba(255, 94, 44, 0.28);
+  border: 1px solid rgba(255, 94, 44, 0.55);
+  transition: var(--transition-normal);
+}
+
+.poetic-deepen-link:hover {
+  background: var(--accent-terra);
+  border-color: var(--accent-terra);
+  color: #FFFFFF;
+  transform: translateY(-1px);
+}
+
+.poetic-nav-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 10;
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  background: rgba(12, 10, 8, 0.65);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: #FFFFFF;
+  font-size: 2rem;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: var(--transition-normal);
+  padding-bottom: 4px;
+}
+
+.poetic-nav-btn.prev {
+  left: 20px;
+}
+
+.poetic-nav-btn.next {
+  right: 20px;
+}
+
+.poetic-nav-btn:hover {
+  background: var(--accent-terra);
+  border-color: var(--accent-terra);
+  transform: translateY(-50%) scale(1.08);
+}
+
+.poetic-indicators {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.poetic-indicator-bar {
+  flex: 1;
+  height: 4px;
+  background: rgba(255, 255, 255, 0.25);
+  border: none;
+  border-radius: 2px;
+  padding: 0;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.poetic-indicator-bar:hover {
+  background: rgba(255, 255, 255, 0.5);
+}
+
+.poetic-indicator-bar.active {
+  background: var(--accent-gold);
+  box-shadow: 0 0 8px rgba(232, 176, 66, 0.6);
+}
+
+.poetic-playpause-btn {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: #FFFFFF;
+  font-size: 0.75rem;
+  cursor: pointer;
+  padding: 3px 8px;
+  border-radius: 4px;
+  margin-left: 6px;
+  transition: var(--transition-normal);
+}
+
+.poetic-playpause-btn:hover {
+  background: rgba(255, 255, 255, 0.25);
+}
+
+@media (max-width: 768px) {
+  .poetic-carousel-wrapper {
+    height: 480px;
+    border-radius: var(--radius-md);
+    margin-bottom: var(--space-6);
+  }
+
+  .poetic-content-container {
+    padding: 20px 20px 16px 20px;
+  }
+
+  .verse-text-latin,
+  .verse-text-greek {
+    font-size: 1.45rem;
+    line-height: 1.35;
+  }
+
+  .poetic-verse-italian p {
+    font-size: 1rem;
+  }
+
+  .poetic-nav-btn {
+    width: 36px;
+    height: 36px;
+    font-size: 1.5rem;
+  }
+
+  .poetic-nav-btn.prev {
+    left: 8px;
+  }
+
+  .poetic-nav-btn.next {
+    right: 8px;
+  }
+}

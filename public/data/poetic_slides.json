@@ -1,0 +1,50 @@
+[
+  {
+    "id": "kalinifta",
+    "titolo_canto": "Kalinìfta",
+    "autore_origine": "Canto d'amore tradizionale di Calimera (Vito Domenico Palumbo)",
+    "tag_ambientazione": "Notte sul Mare Salentino",
+    "contesto_luogo": "Torre Sant'Andrea / Canale d'Otranto",
+    "immagine_url": "/images/carousel/salento_sea_night.jpg",
+    "alt_immagine": "Scogliere calcaree di Torre Sant'Andrea al chiarore di luna sul mare del Salento",
+    "verso_griko": "Ti 'n-ai tui nifta, ti 'n-ai tui kalósi,\nt'orrio fengo sta panta lumisenta...",
+    "verso_griko_alfabeto": "Τι 'ν-αι τούη νύφτα, τι 'ν-αι τούη καλόση,\nτ' ώρριο φέγγο στα πάντα λουμισέντα...",
+    "traduzione_italiano": "Che notte è questa, che incanto,\nla bella luna illumina ogni cosa..."
+  },
+  {
+    "id": "aremu-rindineddha",
+    "titolo_canto": "Àremu rindinèddha mu",
+    "autore_origine": "Canto tradizionale d'esilio e memoria della Grecìa Salentina",
+    "tag_ambientazione": "L'Orizzonte del Mare e la Rondine",
+    "contesto_luogo": "Punta Palàscia / Costa d'Otranto",
+    "immagine_url": "/images/carousel/salento_coastal_horizon.jpg",
+    "alt_immagine": "Orizzonte aperto sul mare del Salento al tramonto con rondini in volo",
+    "verso_griko": "Àremu rindinèddha mu, 'pù t'èrkese,\naddhu 'pù to mare t'addho fòsso...",
+    "verso_griko_alfabeto": "Άρεμου ρινδινέδδα μου, 'πού τ' έρκεσε,\nάδδου 'πού το μάρε τ' άδδο φώσσο...",
+    "traduzione_italiano": "O rondinella mia, da dove giungi,\ndall'altra parte del mare, dall'altro confine..."
+  },
+  {
+    "id": "i-glossa-ma",
+    "titolo_canto": "I glòssa ma (La nostra lingua)",
+    "autore_origine": "Testimonianza identitaria della memoria ellenofona salentina",
+    "tag_ambientazione": "La Terra Rossa e gli Ulivi Monumentali",
+    "contesto_luogo": "Campagna della Grecìa Salentina",
+    "immagine_url": "/images/carousel/grecia_salentina_olive_grove.jpg",
+    "alt_immagine": "Ulivo monumentale centenario nella terra rossa tra muretti a secco della Grecìa Salentina",
+    "verso_griko": "I glòssa ma en ghiatì ena pràma chariàtiko,\nma en i kardìa ma ce to aìma ma.",
+    "verso_griko_alfabeto": "Η γλώσσα μα εν γιατὶ ένα πράμα χωριάτικο,\nμα εν η καρδία μα τσε το αίμα μα.",
+    "traduzione_italiano": "La nostra lingua non è cosa da villaggio,\nma è il nostro cuore e il nostro sangue."
+  },
+  {
+    "id": "i-chora",
+    "titolo_canto": "I Chòra (La Notte nel Borgo)",
+    "autore_origine": "Lirica d'amore e nostalgia della tradizione grica",
+    "tag_ambientazione": "I Vicoli Dorati in Pietra Leccese",
+    "contesto_luogo": "Sternatia e i borghi ellenofoni",
+    "immagine_url": "/images/carousel/grecia_salentina_ancient_street.jpg",
+    "alt_immagine": "Antico vicolo lastricato in pietra leccese illuminato da calde lanterne sotto le stelle",
+    "verso_griko": "Emmèna gèlatze o kòsmo c'i kardìa mu,\nquai vrài kùome i phonì su...",
+    "verso_griko_alfabeto": "Εμμένα γέλατζε ο κόσμο τσ' η καρδία μου,\nκουάι βράϊ κούομε η φωνή σου...",
+    "traduzione_italiano": "Mi sorrideva il mondo e il mio cuore,\nogni sera ascolto la tua voce..."
+  }
+]

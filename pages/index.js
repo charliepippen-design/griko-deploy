@@ -2,6 +2,7 @@ import { useState } from "react";
 import { useRouter } from "next/router";
 import Link from "next/link";
 import Layout from "../components/Layout";
+import PoeticCarousel from "../components/PoeticCarousel";
 
 const SECTIONS = [
   {
@@ -99,6 +100,9 @@ export default function HomePage() {
       title="griko.online — Lingua, memoria e cultura della Grecia Salentina"
       description="Portale culturale dedicato alla tutela, studio e documentazione del patrimonio linguistico griko: dizionario, grammatica, borghi ellenofoni e archivio."
     >
+      {/* Carosello Poetico Salento, Mare e Grecia Salentina */}
+      <PoeticCarousel />
+
       {/* Hero Section Ridisegnata con Profondità Culturale */}
       <section className="portal-hero">
         <div className="portal-hero-grid">
