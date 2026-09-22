@@ -273,25 +273,98 @@ a:hover {
 .brand-link {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 14px;
   color: var(--text-primary);
   text-decoration: none;
+  transition: transform var(--transition-fast);
 }
 
-.brand-symbol {
-  display: flex;
+.brand-link:hover {
+  transform: translateY(-1px);
+}
+
+.brand-link:hover .logo-ember {
+  filter: drop-shadow(0 0 6px var(--accent-terra));
+}
+
+.brand-link:hover .logo-pneuma-wave {
+  stroke: var(--accent-gold-hover);
+}
+
+.griko-logo-wrapper {
+  display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 40px;
-  height: 40px;
-  background: linear-gradient(135deg, var(--accent-terra), #D44419);
-  color: #FFFFFF;
-  font-family: var(--font-display);
-  font-size: 1.5rem;
-  font-weight: 700;
-  border-radius: var(--radius-md);
-  box-shadow: var(--accent-terra-glow);
   flex-shrink: 0;
+  transition: var(--transition-normal);
+}
+
+.griko-logo-svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.griko-logo-svg .logo-bg {
+  fill: var(--bg-surface);
+  stroke: var(--border-strong);
+  stroke-width: 1.5;
+  transition: fill 0.25s ease, stroke 0.25s ease;
+}
+
+.griko-logo-svg .logo-gamma-stem,
+.griko-logo-svg .logo-gamma-arm {
+  fill: var(--text-primary);
+  transition: fill 0.25s ease;
+}
+
+.griko-logo-svg .logo-pneuma-wave {
+  stroke: var(--accent-gold);
+  fill: none;
+  transition: stroke 0.25s ease;
+}
+
+.griko-logo-svg .logo-ember {
+  fill: var(--accent-terra);
+  transition: fill 0.25s ease, filter 0.25s ease;
+}
+
+.griko-logo-svg .logo-ember-glow {
+  stroke: var(--accent-terra);
+  stroke-width: 1;
+  stroke-opacity: 0.35;
+  fill: none;
+  transition: stroke 0.25s ease;
+}
+
+/* Light mode per il logo */
+html.light .griko-logo-svg .logo-bg {
+  fill: var(--bg-page);
+  stroke: var(--border-strong);
+}
+
+html.light .griko-logo-svg .logo-gamma-stem,
+html.light .griko-logo-svg .logo-gamma-arm {
+  fill: var(--text-primary);
+}
+
+html.light .griko-logo-svg .logo-pneuma-wave {
+  stroke: var(--accent-gold);
+}
+
+html.light .griko-logo-svg .logo-ember {
+  fill: var(--accent-terra);
+}
+
+html.light .griko-logo-svg .logo-ember-glow {
+  stroke: var(--accent-terra);
+  stroke-opacity: 0.25;
+}
+
+.brand-dot {
+  color: var(--accent-terra);
+  font-weight: 900;
+  transition: color 0.2s ease;
 }
 
 .brand-text { display: flex; flex-direction: column; }
@@ -309,11 +382,22 @@ a:hover {
   font-size: 0.72rem;
   color: var(--text-tertiary);
   letter-spacing: 0.01em;
-  max-width: 440px;
+  max-width: 460px;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
   margin-top: 2px;
+}
+
+.footer-brand-lockup {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: var(--space-3);
+}
+
+.footer-brand-lockup .footer-title {
+  margin-bottom: 0;
 }
 
 @media (max-width: 860px) { .brand-subtitle { display: none; } }
@@ -515,17 +599,135 @@ a:hover {
   box-shadow: 0 0 8px var(--accent-terra);
 }
 
+/* Motto e verso orale autentico in Griko */
+.hero-oral-motto {
+  margin-bottom: var(--space-3);
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  animation: heroPneumaFade 0.8s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.oral-motto-verse {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 0.98rem;
+  color: var(--accent-gold);
+  letter-spacing: 0.01em;
+  line-height: 1.4;
+}
+
+.oral-motto-sub {
+  font-size: 0.72rem;
+  color: var(--text-tertiary);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 600;
+}
+
+/* Hero Main Title Epigrafico e Ritmico */
 .hero-main-title {
-  font-size: 2.6rem;
+  font-size: 2.35rem;
   font-weight: 800;
   color: var(--text-primary);
   margin-bottom: var(--space-4);
   line-height: 1.15;
+  letter-spacing: -0.02em;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
 }
 
 @media (min-width: 768px) {
   .hero-main-title {
-    font-size: 3.2rem;
+    font-size: 3.15rem;
+    line-height: 1.12;
+  }
+}
+
+.title-row {
+  display: block;
+}
+
+.title-row-top {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 8px;
+  animation: heroPneumaFade 0.85s cubic-bezier(0.16, 1, 0.3, 1) 0.08s both;
+}
+
+.title-row-bottom {
+  animation: heroPneumaFade 0.9s cubic-bezier(0.16, 1, 0.3, 1) 0.18s both;
+}
+
+.word-sculpt {
+  font-family: var(--font-display);
+  font-weight: 800;
+  color: var(--text-primary);
+}
+
+.word-lithic-sep {
+  color: var(--accent-terra);
+  font-size: 0.85em;
+  font-weight: 300;
+  opacity: 0.85;
+  user-select: none;
+}
+
+.word-poetic {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 600;
+  color: var(--accent-gold);
+  background: linear-gradient(135deg, var(--accent-gold) 0%, #F5C672 50%, var(--accent-terra) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  padding-right: 4px;
+  position: relative;
+}
+
+html.light .word-poetic {
+  background: linear-gradient(135deg, var(--accent-gold) 0%, var(--accent-terra) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.title-highlight {
+  position: relative;
+  display: inline-block;
+  color: var(--text-primary);
+}
+
+.title-highlight::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 2px;
+  width: 100%;
+  height: 3px;
+  background: linear-gradient(90deg, var(--accent-terra) 0%, var(--accent-gold) 60%, transparent 100%);
+  border-radius: 2px;
+  opacity: 0.85;
+}
+
+/* Animazione Pneuma Breath Reveal */
+@keyframes heroPneumaFade {
+  0% {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-oral-motto,
+  .title-row-top,
+  .title-row-bottom {
+    animation: none !important;
   }
 }
 

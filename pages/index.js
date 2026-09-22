@@ -113,13 +113,28 @@ export default function HomePage() {
               <span>Patrimonio Linguistico Minoritario · Legge 482/1999</span>
             </div>
 
-            <h1 className="hero-main-title">
-              Lingua, memoria e cultura della Grecìa Salentina
+            {/* Verso sorgente della tradizione orale grica */}
+            <div className="hero-oral-motto">
+              <span className="oral-motto-verse">“I glossa ma ’en eni pràma chariatiko, ma en i kardìa ma”</span>
+              <span className="oral-motto-sub">La voce tramandata da millenni nei 9 comuni ellenofoni</span>
+            </div>
+
+            <h1 className="hero-main-title" aria-label="Lingua, memoria e voce viva della Grecìa Salentina">
+              <span className="title-row title-row-top">
+                <span className="word-sculpt">Lingua</span>
+                <span className="word-lithic-sep" aria-hidden="true">·</span>
+                <span className="word-sculpt">memoria</span>
+                <span className="word-lithic-sep" aria-hidden="true">·</span>
+                <em className="word-poetic">voce</em>
+              </span>
+              <span className="title-row title-row-bottom">
+                della <span className="title-highlight">Grecìa Salentina</span>
+              </span>
             </h1>
 
             <p className="hero-manifesto-text">
-              Non soltanto un traduttore: uno spazio digitale aperto e rigoroso per esplorare 
-              il patrimonio neo-greco del Salento, dalla grammatica parlata alla memoria monumentale dei nove borghi ellenofoni.
+              Non un semplice traduttore, ma un archivio vivo per riscoprire il patrimonio neo-greco del Salento:
+              dalla parlata quotidiana tramandata a voce alle memorie monumentali dei nove borghi ellenofoni.
             </p>
 
             {/* Quick Search Bar Integrata */}

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <style>
+    .bg { fill: #0C0A08; stroke: #2D221A; stroke-width: 1.5; }
+    .stem, .arm { fill: #FAF6EE; }
+    .wave { stroke: #E8B042; stroke-width: 3.5; stroke-linecap: round; fill: none; }
+    .ember { fill: #FF5E2C; }
+
+    @media (prefers-color-scheme: light) {
+      .bg { fill: #FAF7F2; stroke: #DFD5C4; stroke-width: 1.5; }
+      .stem, .arm { fill: #1A1613; }
+      .wave { stroke: #B08023; stroke-width: 3.5; stroke-linecap: round; fill: none; }
+      .ember { fill: #C7441E; }
+    }
+  </style>
+  <rect x="1" y="1" width="62" height="62" rx="14" class="bg"/>
+  <path d="M19 16H29.5V49H19V16Z" class="stem"/>
+  <path d="M29.5 16H47C47 16 46 25 39 26.5C36 27.2 29.5 25 29.5 25V16Z" class="arm"/>
+  <path d="M15 34C21 34 26 29 32 29C38 29 42 32.5 49 32.5" class="wave"/>
+  <circle cx="47" cy="18" r="4.2" class="ember"/>
+</svg>

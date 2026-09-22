@@ -17,6 +17,11 @@ export default function Document() {
           rel="stylesheet"
         />
 
+        {/* Favicon Adattiva (SVG con prefers-color-scheme, PNG 32x32 e Apple Touch Icon) */}
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+
         {/* Google Consent Mode v2: Inizializzazione sincrona prima di GTM */}
         <script
           dangerouslySetInnerHTML={{

@@ -5,6 +5,7 @@ import { useState } from "react";
 import ThemeToggle from "./ThemeToggle";
 import GoogleTranslate from "./GoogleTranslate";
 import CookieBanner from "./CookieBanner";
+import GrikoLogo from "./GrikoLogo";
 
 const NAV_ITEMS = [
   { label: "Home", href: "/" },
@@ -80,6 +81,11 @@ export default function Layout({
         {/* Canonical URL per evitare duplicati */}
         <link rel="canonical" href={canonicalUrl} />
 
+        {/* Favicon Adattiva (Dark & Light) */}
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+
         {/* Direttive per Motori di Ricerca (Googlebot, Bingbot) e Crawler AI */}
         <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
         <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
@@ -130,12 +136,14 @@ export default function Layout({
       <header className="site-header">
         <div className="header-inner">
           <div className="site-brand">
-            <Link href="/" className="brand-link">
-              <span className="brand-symbol" aria-hidden="true">Γ</span>
+            <Link href="/" className="brand-link" aria-label="griko.online — Portale Culturale">
+              <GrikoLogo size={44} className="brand-logo" />
               <div className="brand-text">
-                <span className="brand-title">griko.online</span>
+                <span className="brand-title">
+                  griko<span className="brand-dot">.</span>online
+                </span>
                 <span className="brand-subtitle">
-                  Grecia Salentina · Calimera, Castrignano, Corigliano, Martano, Melpignano, Soleto, Sternatia, Zollino, Carpignano
+                  Grecìa Salentina · Archivio Vivo dei 9 Comuni Ellenofoni
                 </span>
               </div>
             </Link>
@@ -194,7 +202,12 @@ export default function Layout({
         <div className="footer-inner">
           <div className="footer-grid">
             <div className="footer-col footer-col-about">
-              <h3 className="footer-title">griko.online</h3>
+              <div className="footer-brand-lockup">
+                <GrikoLogo size={34} className="footer-brand-logo" />
+                <h3 className="footer-title">
+                  griko<span className="brand-dot">.</span>online
+                </h3>
+              </div>
               <p className="footer-desc">
                 Uno spazio digitale indipendente per documentare, ascoltare e studiare il dialetto neo-greco del Salento.
                 Un patrimonio linguistico millenario tutelato dalla Legge 482/1999, vivo nelle voci e nelle memorie del territorio.
