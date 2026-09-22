@@ -26,13 +26,18 @@ const CATEGORY_META = {
     label: "Canti popolari e religiosi",
     note: "Canti d'amore, di preghiera e di festa cantati nelle case e nelle chiese della Grecìa Salentina.",
   },
-  "morolòj": {
+  canto_carmine_greco: {
     order: 4,
+    label: "Canti commentati da Carmine Greco",
+    note: "Quattro canti tradizionali griki (Kalinifta, Klama, Aremu Rindinedda-mu, Agapimu Fidela Protinì) presentati e commentati nel corso video di Carmine Greco.",
+  },
+  "morolòj": {
+    order: 5,
     label: "Morolòj — lamenti funebri",
     note: "Il pianto rituale intonato alla morte di un familiare, forma poetica antichissima.",
   },
   fiaba: {
-    order: 5,
+    order: 6,
     label: "Fiabe popolari",
     note: "Racconti lunghi della tradizione orale salentina, trascritti dalle raccolte storiche.",
   },
@@ -52,6 +57,14 @@ function leadingNumber(titolo) {
 function excerpt(testo, len = 90) {
   const clean = testo.replace(/\s+/g, " ").trim();
   return clean.length > len ? clean.slice(0, len).trim() + "…" : clean;
+}
+
+// Tutte le categorie sono testo in griko da proteggere dalla traduzione
+// automatica, tranne il commento parlato di Carmine Greco: quello è in
+// italiano (sua spiegazione dei canti), quindi va tradotto normalmente
+// per chi visita il sito in un'altra lingua.
+function isGrikoText(categoria) {
+  return categoria !== "canto_carmine_greco";
 }
 
 export default function LeggiPage() {
@@ -279,13 +292,20 @@ export default function LeggiPage() {
             </button>
             <span className="reading-panel-tag">{categoryMeta(selected.categoria).label}</span>
             <h2>{selected.titolo}</h2>
-            {/* Testo originale in griko: escluso dalla traduzione automatica */}
-            <p className="reading-panel-text notranslate" translate="no">{selected.testo}</p>
+            {isGrikoText(selected.categoria) ? (
+              // Testo originale in griko: escluso dalla traduzione automatica
+              <p className="reading-panel-text notranslate" translate="no">{selected.testo}</p>
+            ) : (
+              // Commento in italiano di Carmine Greco: va tradotto normalmente
+              <p className="reading-panel-text">{selected.testo}</p>
+            )}
             <p className="reading-panel-source">
               Fonte: <a href={selected.url_fonte} target="_blank" rel="noopener noreferrer">{selected.url_fonte}</a>
               {" · "}
               {selected.licenza === "pubblico_dominio_tradizione_orale"
                 ? "pubblico dominio / tradizione orale"
+                : selected.licenza === "cortesia_carmine_greco"
+                ? "trascrizione del video-lezione di Carmine Greco, contenuto a lui attribuito"
                 : selected.licenza}
             </p>
           </div>
@@ -299,8 +319,12 @@ function TestoCard({ t, onOpen }) {
   return (
     <button type="button" className="testo-card" onClick={onOpen}>
       <span className="testo-card-title">{t.titolo}</span>
-      {/* Anteprima in griko: esclusa dalla traduzione automatica */}
-      <span className="testo-card-excerpt notranslate" translate="no">{excerpt(t.testo)}</span>
+      {isGrikoText(t.categoria) ? (
+        // Anteprima in griko: esclusa dalla traduzione automatica
+        <span className="testo-card-excerpt notranslate" translate="no">{excerpt(t.testo)}</span>
+      ) : (
+        <span className="testo-card-excerpt">{excerpt(t.testo)}</span>
+      )}
     </button>
   );
 }

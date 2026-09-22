@@ -245,8 +245,8 @@ export default function Layout({
             <div className="footer-col">
               <h4 className="footer-heading">Origine dei Dati</h4>
               <p className="footer-note">
-                I dati del vocabolario e delle lezioni sono tratti dalle lezioni didattiche di Daniele Palma. 
-                Le trascrizioni sono in fase di revisione linguistica collaborativa.
+                I dati e le trascrizioni sono tratti dai corsi didattici aperti di Daniele Palma e Carmine Greco. 
+                Le trascrizioni e i lemmi sono in fase di documentazione e revisione linguistica collaborativa.
               </p>
               <div className="footer-badge">
                 <span>Documentazione partecipata</span>

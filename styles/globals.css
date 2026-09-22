@@ -2666,3 +2666,488 @@ body {
     padding: 6px 9px;
   }
 }
+
+/* ==========================================================================
+   SELETTORE CORSI & LEZIONI CARMINE GRECO
+   ========================================================================== */
+
+.course-author-switcher {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--space-4);
+  margin-bottom: var(--space-8);
+}
+
+@media (max-width: 768px) {
+  .course-author-switcher {
+    grid-template-columns: 1fr;
+    gap: var(--space-3);
+  }
+}
+
+.course-tab-btn {
+  background: var(--bg-surface);
+  border: 1.5px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  padding: 16px 20px;
+  text-align: left;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  transition: var(--transition-normal);
+  color: var(--text-primary);
+  font-family: inherit;
+}
+
+.course-tab-btn:hover {
+  border-color: var(--accent-gold);
+  background: var(--bg-subtle);
+}
+
+.course-tab-btn.active {
+  border-color: var(--accent-terra);
+  background: var(--accent-terra-subtle);
+  box-shadow: 0 0 16px rgba(255, 94, 44, 0.15);
+}
+
+.course-tab-title {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.course-tab-btn.active .course-tab-title {
+  color: var(--accent-terra);
+}
+
+.course-tab-meta {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+}
+
+.carmine-filter-bar {
+  margin-bottom: var(--space-6);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+.carmine-pills-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.carmine-pill {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  color: var(--text-secondary);
+  padding: 6px 14px;
+  border-radius: var(--radius-pill);
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: var(--transition-normal);
+  font-family: inherit;
+}
+
+.carmine-pill:hover {
+  border-color: var(--accent-gold);
+  color: var(--text-primary);
+}
+
+.carmine-pill.active {
+  background: var(--accent-gold);
+  color: #14100D;
+  border-color: var(--accent-gold);
+  font-weight: 700;
+}
+
+html.light .carmine-pill.active {
+  color: #FFFFFF;
+}
+
+.carmine-lessons-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+
+.carmine-card {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  padding: var(--space-5) var(--space-6);
+  box-shadow: var(--shadow-card);
+  transition: var(--transition-normal);
+}
+
+.carmine-card:hover {
+  border-color: var(--accent-gold-border);
+  box-shadow: var(--shadow-hover);
+}
+
+.carmine-card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: var(--space-2);
+}
+
+.carmine-badges-group {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.carmine-num-badge {
+  background: var(--accent-terra);
+  color: #FFFFFF;
+  font-size: 0.72rem;
+  font-weight: 800;
+  padding: 2px 8px;
+  border-radius: var(--radius-sm);
+  letter-spacing: 0.05em;
+}
+
+.carmine-cat-badge {
+  font-size: 0.76rem;
+  font-weight: 600;
+  color: var(--accent-gold);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.carmine-meta-info {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 0.78rem;
+  color: var(--text-tertiary);
+}
+
+.carmine-lesson-heading {
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  font-weight: 700;
+  margin-bottom: var(--space-2);
+  color: var(--text-primary);
+  line-height: 1.3;
+}
+
+.carmine-summary-body {
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin-bottom: var(--space-4);
+}
+
+.carmine-proverb-highlight {
+  background: var(--bg-subtle);
+  border-left: 3px solid var(--accent-terra);
+  padding: 10px 14px;
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
+  margin-bottom: var(--space-4);
+  font-size: 0.88rem;
+  color: var(--text-primary);
+  font-family: var(--font-serif);
+  font-style: italic;
+}
+
+.carmine-card-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+  padding-top: var(--space-3);
+  border-top: 1px solid var(--border-color);
+}
+
+.carmine-btn-toggle {
+  background: transparent;
+  border: 1px solid var(--border-strong);
+  color: var(--text-primary);
+  padding: 6px 14px;
+  border-radius: var(--radius-md);
+  font-size: 0.84rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: var(--transition-normal);
+  font-family: inherit;
+}
+
+.carmine-btn-toggle:hover {
+  border-color: var(--accent-terra);
+  color: var(--accent-terra);
+}
+
+/* La trascrizione è aperta di default: il pulsante "Comprimi" resta comunque
+   ben visibile invece di apparire come un dettaglio marginale */
+.carmine-btn-toggle.is-open {
+  border-color: var(--accent-terra-border);
+  background: var(--accent-terra-subtle);
+  color: var(--accent-terra);
+}
+
+.carmine-yt-link {
+  font-size: 0.84rem;
+  font-weight: 600;
+  color: var(--accent-gold);
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.carmine-yt-link:hover {
+  color: var(--accent-gold-hover);
+  text-decoration: underline;
+}
+
+.carmine-transcript-drawer {
+  margin-top: var(--space-4);
+  padding: var(--space-4);
+  background: var(--bg-subtle);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  max-height: 340px;
+  overflow-y: auto;
+  font-size: 0.9rem;
+  line-height: 1.7;
+  color: var(--text-secondary);
+  font-family: var(--font-sans);
+}
+
+.carmine-transcript-drawer p {
+  margin-bottom: 8px;
+}
+
+.carmine-transcript-drawer p:last-child {
+  margin-bottom: 0;
+}
+
+/* ==========================================================================
+   SEZIONE ASCOLTA — ARCHIVIO MULTIMEDIALE
+   ========================================================================== */
+
+.ascolta-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--space-8);
+}
+
+@media (max-width: 960px) {
+  .ascolta-cards-grid {
+    grid-template-columns: 1fr;
+    gap: var(--space-6);
+  }
+}
+
+.ascolta-card {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-xl);
+  overflow: hidden;
+  box-shadow: var(--shadow-card);
+  display: flex;
+  flex-direction: column;
+  transition: var(--transition-normal);
+}
+
+.ascolta-card:hover {
+  border-color: var(--accent-terra-border);
+  box-shadow: var(--shadow-hover);
+}
+
+.ascolta-card-media {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+  background: #000000;
+}
+
+.ascolta-video-frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.ascolta-card-content {
+  padding: var(--space-6);
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.ascolta-card-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: var(--space-3);
+  font-size: 0.78rem;
+}
+
+.ascolta-tag {
+  color: var(--accent-terra);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.ascolta-durata {
+  color: var(--text-tertiary);
+  font-weight: 500;
+}
+
+.ascolta-card-title {
+  font-family: var(--font-display);
+  font-size: 1.45rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: var(--space-3);
+  line-height: 1.25;
+}
+
+.ascolta-card-summary {
+  font-size: 0.94rem;
+  color: var(--text-secondary);
+  line-height: 1.65;
+  margin-bottom: var(--space-4);
+  flex: 1;
+}
+
+.ascolta-proverb-box {
+  background: var(--bg-subtle);
+  border-left: 3px solid var(--accent-gold);
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
+  padding: 10px 14px;
+  display: flex;
+  gap: 8px;
+  align-items: flex-start;
+  margin-bottom: var(--space-5);
+}
+
+.proverb-icon {
+  font-size: 1.1rem;
+}
+
+.proverb-quote {
+  margin: 0;
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 0.9rem;
+  color: var(--text-primary);
+  line-height: 1.45;
+}
+
+.ascolta-actions-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding-top: var(--space-3);
+  border-top: 1px solid var(--border-color);
+}
+
+.ascolta-transcript-toggle {
+  background: transparent;
+  border: 1px solid var(--border-strong);
+  color: var(--text-primary);
+  padding: 8px 14px;
+  border-radius: var(--radius-md);
+  font-size: 0.84rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: var(--transition-normal);
+  font-family: inherit;
+}
+
+.ascolta-transcript-toggle:hover {
+  border-color: var(--accent-terra);
+  color: var(--accent-terra);
+}
+
+.ascolta-yt-link {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--accent-gold);
+}
+
+.ascolta-yt-link:hover {
+  text-decoration: underline;
+}
+
+.ascolta-transcript-body {
+  margin-top: var(--space-4);
+  padding: var(--space-4);
+  background: var(--bg-subtle);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+}
+
+.transcript-scroll-area {
+  max-height: 280px;
+  overflow-y: auto;
+  font-size: 0.9rem;
+  line-height: 1.7;
+  color: var(--text-secondary);
+}
+
+.transcript-line {
+  margin-bottom: 6px;
+}
+
+.transcript-line:last-child {
+  margin-bottom: 0;
+}
+
+/* Banner di Raccordo Grammatica */
+.ascolta-grammar-banner {
+  margin-top: var(--space-12);
+  background: var(--hero-bg);
+  border: 1px solid var(--hero-border);
+  border-radius: var(--radius-xl);
+  padding: var(--space-8);
+  box-shadow: var(--shadow-card);
+}
+
+.grammar-banner-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: var(--space-6);
+  flex-wrap: wrap;
+}
+
+.grammar-banner-text {
+  flex: 1;
+  min-width: 280px;
+}
+
+.grammar-banner-text h3 {
+  font-family: var(--font-display);
+  font-size: 1.6rem;
+  color: var(--text-primary);
+  margin-bottom: var(--space-2);
+}
+
+.grammar-banner-text p {
+  color: var(--text-secondary);
+  font-size: 1rem;
+  margin-bottom: 0;
+  line-height: 1.6;
+}
+
+.grammar-banner-cta {
+  flex-shrink: 0;
+}
+

@@ -21,11 +21,20 @@ export default function IlProgettoPage() {
         </p>
 
         <p>
-          I dati del dizionario e delle lezioni grammaticali attualmente pubblicati provengono dalla trascrizione automatica del corso didattico YouTube curato da <strong>Daniele Palma</strong>. Rappresentano un punto di partenza prezioso, ma non costituiscono ancora un'edizione filologicamente definitiva: le forme lessicali, gli accenti e le regole sono attualmente in fase di revisione e verifica.
+          I dati didattici e lessicali attualmente fruibili sul portale provengono da due importanti fonti aperte della divulgazione contemporanea della Grecìa Salentina:
         </p>
 
+        <ul style={{ margin: "16px 0 24px 20px", color: "var(--text-secondary)" }}>
+          <li style={{ marginBottom: "10px" }}>
+            <strong>Daniele Palma:</strong> 73 micro-lezioni didattiche focalizzate su regole morfologiche puntuali e frasario bilingue, da cui è stato estratto il vocabolario di base (684 lessemi).
+          </li>
+          <li style={{ marginBottom: "10px" }}>
+            <strong>Carmine Greco:</strong> un corso grammaticale sistematico e organico in 24 lezioni teoriche approfondite (dall'alfabeto alla coniugazione completa del verbo, corredate da proverbi commentati) affiancato da 4 video-letture esegetiche di capolavori della poesia e del canto popolare griko (*Kalinifta*, *Klama*, *Aremu rindinedda-mu*, *Agapi-mu fidela protinì*).
+          </li>
+        </ul>
+
         <p>
-          Il portale è concepito come un cantiere partecipato. È aperto al contributo di parlanti nativi, ricercatori, associazioni culturali locali e appassionati che desiderino proporre correzioni, integrare varianti paesane o condividere registrazioni e testi.
+          I testi trascritti rappresentano una straordinaria risorsa di documentazione viva, ma non un'edizione cartacea chiusa: sono parte di un cantiere aperto e collaborativo, volto a conservare la voce parlata di chi difende l'idioma sul territorio.
         </p>
 
         <div style={{ marginTop: "40px", paddingTop: "24px", borderTop: "1px solid var(--border-color)" }}>
