@@ -44,22 +44,6 @@ export default function Dizionario() {
   const [carmineCategory, setCarmineCategory] = useState("tutte");
   const [carmineSearch, setCarmineSearch] = useState("");
 
-  // La trascrizione integrale è aperta di default su ogni lezione: prima
-  // era chiusa dietro un piccolo pulsante e dava l'impressione (sbagliata)
-  // che il contenuto vero non ci fosse. Qui teniamo l'INSIEME delle
-  // trascrizioni CHIUSE (di norma vuoto): un video_id è "chiuso" solo se
-  // l'utente lo comprime esplicitamente.
-  const [closedCarmineTranscripts, setClosedCarmineTranscripts] = useState(() => new Set());
-
-  const toggleCarmineTranscript = (videoId) => {
-    setClosedCarmineTranscripts((prev) => {
-      const next = new Set(prev);
-      if (next.has(videoId)) next.delete(videoId);
-      else next.add(videoId);
-      return next;
-    });
-  };
-
   // Sincronizzazione query URL (?q=... e ?corso=...)
   useEffect(() => {
     if (router.query.corso === "carmine") {
@@ -523,8 +507,6 @@ export default function Dizionario() {
                 </div>
               ) : (
                 filteredCarmineLessons.map((l) => {
-                  const isOpen = !closedCarmineTranscripts.has(l.video_id);
-
                   return (
                     <article key={l.video_id} className="carmine-card">
                       <div className="carmine-card-top">
@@ -549,15 +531,6 @@ export default function Dizionario() {
                       )}
 
                       <div className="carmine-card-actions">
-                        <button
-                          type="button"
-                          className={`carmine-btn-toggle ${isOpen ? "is-open" : ""}`}
-                          onClick={() => toggleCarmineTranscript(l.video_id)}
-                          aria-expanded={isOpen}
-                        >
-                          {isOpen ? "▲ Comprimi trascrizione" : "▼ Mostra trascrizione integrale"}
-                        </button>
-
                         <a
                           href={l.youtube_url}
                           target="_blank"
@@ -567,17 +540,6 @@ export default function Dizionario() {
                           Guarda la lezione su YouTube ↗
                         </a>
                       </div>
-
-                      {isOpen && (
-                        <div className="carmine-transcript-drawer">
-                          <p style={{ fontWeight: "700", color: "var(--text-primary)", marginBottom: "12px" }}>
-                            Trascrizione del parlato (Carmine Greco):
-                          </p>
-                          {l.transcript.split("\n").map((para, pIdx) => (
-                            <p key={pIdx}>{para}</p>
-                          ))}
-                        </div>
-                      )}
                     </article>
                   );
                 })
