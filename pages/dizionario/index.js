@@ -36,13 +36,20 @@ export default function Dizionario() {
   const [query, setQuery] = useState("");
   const [openLesson, setOpenLesson] = useState(null);
 
-  // Dati Corso Carmine Greco (24 lezioni di grammatica)
+  // Dati Corso Carmine Greco (24 lezioni di grammatica) - metadati statici (titolo,
+  // durata, proverbio, link YouTube) più regole/vocabolario estratti su Supabase.
   const carmineLessons = useMemo(
     () => carmineData.lessons.filter((l) => !l.is_poetry),
     []
   );
   const [carmineCategory, setCarmineCategory] = useState("tutte");
   const [carmineSearch, setCarmineSearch] = useState("");
+  const [openCarmineLesson, setOpenCarmineLesson] = useState(null);
+
+  // Regole e vocabolario del corso di Carmine Greco (carmine_lessons/rules/lexemes/occurrences)
+  const [carmineRules, setCarmineRules] = useState(memoryCache ? memoryCache.carmineRules : []);
+  const [carmineLexemes, setCarmineLexemes] = useState(memoryCache ? memoryCache.carmineLexemes : []);
+  const [carmineOccurrences, setCarmineOccurrences] = useState(memoryCache ? memoryCache.carmineOccurrences : []);
 
   // Sincronizzazione query URL (?q=... e ?corso=...)
   useEffect(() => {
@@ -99,18 +106,29 @@ export default function Dizionario() {
           { data: lData, error: lErr },
           { data: rData, error: rErr },
           { data: lxData, error: lxErr },
-          { data: oData, error: oErr }
+          { data: oData, error: oErr },
+          { data: crData, error: crErr },
+          { data: clxData, error: clxErr },
+          { data: coData, error: coErr }
         ] = await Promise.all([
           supabase.from("lessons").select("*").order("id", { ascending: true }),
           supabase.from("rules").select("*").order("id", { ascending: true }),
           supabase.from("lexemes").select("*").order("parola_griko", { ascending: true }),
-          supabase.from("occurrences").select("*").order("id", { ascending: true })
+          supabase.from("occurrences").select("*").order("id", { ascending: true }),
+          supabase.from("carmine_rules").select("*").order("id", { ascending: true }),
+          supabase.from("carmine_lexemes").select("*").order("parola_griko", { ascending: true }),
+          supabase.from("carmine_occurrences").select("*").order("id", { ascending: true })
         ]);
 
         if (lErr) throw lErr;
         if (rErr) throw rErr;
         if (lxErr) throw lxErr;
         if (oErr) throw oErr;
+        // Le tabelle di Carmine Greco sono un'aggiunta più recente: se non
+        // rispondono non blocchiamo il corso di Palma, mostriamo solo un log.
+        if (crErr) console.error("Errore carmine_rules:", crErr);
+        if (clxErr) console.error("Errore carmine_lexemes:", clxErr);
+        if (coErr) console.error("Errore carmine_occurrences:", coErr);
 
         timeoutIds.forEach(clearTimeout);
 
@@ -119,13 +137,19 @@ export default function Dizionario() {
           setRules(rData || []);
           setLexemes(lxData || []);
           setOccurrences(oData || []);
+          setCarmineRules(crData || []);
+          setCarmineLexemes(clxData || []);
+          setCarmineOccurrences(coData || []);
           setLoading(false);
 
           memoryCache = {
             lessons: lData || [],
             rules: rData || [],
             lexemes: lxData || [],
-            occurrences: oData || []
+            occurrences: oData || [],
+            carmineRules: crData || [],
+            carmineLexemes: clxData || [],
+            carmineOccurrences: coData || []
           };
         }
       } catch (err) {
@@ -191,10 +215,51 @@ export default function Dizionario() {
     return m;
   }, [lessons]);
 
+  // Mappature per il corso di Carmine Greco (regole/vocabolario per lezione,
+  // indicizzati per id di lezione = "order" nel JSON dei metadati statici)
+  const carmineLessonById = useMemo(() => {
+    const m = {};
+    for (const l of carmineLessons) m[l.order] = l;
+    return m;
+  }, [carmineLessons]);
+
+  const carmineRulesByLesson = useMemo(() => {
+    const m = {};
+    for (const r of carmineRules) {
+      (m[r.lesson_id] = m[r.lesson_id] || []).push(r);
+    }
+    return m;
+  }, [carmineRules]);
+
+  const carmineLexemeById = useMemo(() => {
+    const m = {};
+    for (const lx of carmineLexemes) m[lx.id] = lx;
+    return m;
+  }, [carmineLexemes]);
+
+  const carmineOccurrencesByLesson = useMemo(() => {
+    const m = {};
+    for (const o of carmineOccurrences) {
+      (m[o.lesson_id] = m[o.lesson_id] || []).push(o);
+    }
+    return m;
+  }, [carmineOccurrences]);
+
+  const carmineOccurrencesByLexeme = useMemo(() => {
+    const m = {};
+    for (const o of carmineOccurrences) {
+      (m[o.lexeme_id] = m[o.lexeme_id] || []).push(o);
+    }
+    return m;
+  }, [carmineOccurrences]);
+
+  // Ricerca unificata: cerca sia nel vocabolario di Daniele Palma sia in
+  // quello di Carmine Greco, indicando sempre la fonte di ciascun risultato.
   const results = useMemo(() => {
     const q = query.trim().toLowerCase();
     if (!q) return [];
-    return lexemes
+
+    const palmaResults = lexemes
       .filter(
         (lx) =>
           lx.parola_griko.toLowerCase().includes(q) ||
@@ -204,13 +269,48 @@ export default function Dizionario() {
         const occs = occurrencesByLexeme[lx.id] || [];
         const linkedLessons = occs
           .map((o) => lessonById[o.lesson_id])
-          .filter(Boolean);
+          .filter(Boolean)
+          .map((l) => ({ id: l.id, titolo: l.titolo, categoria: l.categoria }));
         return {
-          ...lx,
+          id: `palma-${lx.id}`,
+          source: "palma",
+          parola_griko: lx.parola_griko,
+          parola_italiano: lx.parola_italiano,
           lessons: linkedLessons,
         };
       });
-  }, [query, lexemes, occurrencesByLexeme, lessonById]);
+
+    const carmineResults = carmineLexemes
+      .filter(
+        (lx) =>
+          lx.parola_griko.toLowerCase().includes(q) ||
+          lx.parola_italiano.toLowerCase().includes(q)
+      )
+      .map((lx) => {
+        const occs = carmineOccurrencesByLexeme[lx.id] || [];
+        const linkedLessons = occs
+          .map((o) => carmineLessonById[o.lesson_id])
+          .filter(Boolean)
+          .map((l) => ({ id: l.order, titolo: l.title, categoria: l.category_label }));
+        return {
+          id: `carmine-${lx.id}`,
+          source: "carmine",
+          parola_griko: lx.parola_griko,
+          parola_italiano: lx.parola_italiano,
+          lessons: linkedLessons,
+        };
+      });
+
+    return [...palmaResults, ...carmineResults];
+  }, [
+    query,
+    lexemes,
+    occurrencesByLexeme,
+    lessonById,
+    carmineLexemes,
+    carmineOccurrencesByLexeme,
+    carmineLessonById,
+  ]);
 
   // Filtri per Carmine Greco
   const filteredCarmineLessons = useMemo(() => {
@@ -271,7 +371,7 @@ export default function Dizionario() {
           >
             <span className="course-tab-title">Corso Sistematico di Carmine Greco</span>
             <span className="course-tab-meta">
-              24 lezioni organiche · Declinazioni, verbi e proverbi spiegati
+              24 lezioni organiche · {carmineLexemes.length || "…"} lessemi bilingui · {carmineRules.length || "…"} regole grammaticali
             </span>
           </button>
         </div>
@@ -315,7 +415,7 @@ export default function Dizionario() {
                   <input
                     className="search"
                     type="text"
-                    placeholder="Cerca una parola in griko o in italiano (es. kalimera, terra, mare, mangiare)..."
+                    placeholder="Cerca una parola in griko o in italiano, tra i due corsi (es. kalimera, terra, mare, mangiare)..."
                     value={query}
                     onChange={(e) => setQuery(e.target.value)}
                     autoFocus={Boolean(router.query.q)}
@@ -344,6 +444,12 @@ export default function Dizionario() {
                       <ul className="results">
                         {results.map((v) => (
                           <li key={v.id}>
+                            <span
+                              className="src-badge"
+                              title={v.source === "carmine" ? "Corso di Carmine Greco" : "Corso di Daniele Palma"}
+                            >
+                              {v.source === "carmine" ? "Carmine Greco" : "Daniele Palma"}
+                            </span>
                             <span className="griko notranslate" translate="no">{v.parola_griko}</span>
                             <span className="arrow">→</span>
                             <span className="ita">{v.parola_italiano}</span>
@@ -539,7 +645,67 @@ export default function Dizionario() {
                         >
                           Guarda la lezione su YouTube ↗
                         </a>
+                        {(() => {
+                          const lRules = carmineRulesByLesson[l.order] || [];
+                          const lOccs = carmineOccurrencesByLesson[l.order] || [];
+                          const lVocab = lOccs
+                            .map((o) => carmineLexemeById[o.lexeme_id])
+                            .filter(Boolean);
+                          if (lRules.length === 0 && lVocab.length === 0) return null;
+                          const isOpen = openCarmineLesson === l.order;
+                          return (
+                            <button
+                              type="button"
+                              className="lesson-btn"
+                              style={{ marginTop: "10px" }}
+                              onClick={() => setOpenCarmineLesson(isOpen ? null : l.order)}
+                              aria-expanded={isOpen}
+                            >
+                              <span className="lesson-title-text">
+                                Regole ({lRules.length}) e vocabolario ({lVocab.length}) di questa lezione
+                              </span>
+                              <span className="lesson-expand-arrow">{isOpen ? "▲" : "▼"}</span>
+                            </button>
+                          );
+                        })()}
                       </div>
+
+                      {openCarmineLesson === l.order && (() => {
+                        const lRules = carmineRulesByLesson[l.order] || [];
+                        const lOccs = carmineOccurrencesByLesson[l.order] || [];
+                        const lVocab = lOccs
+                          .map((o) => carmineLexemeById[o.lexeme_id])
+                          .filter(Boolean);
+                        return (
+                          <div className="detail">
+                            {lRules.length > 0 && (
+                              <>
+                                <h4>Regole grammaticali ({lRules.length})</h4>
+                                <ul>
+                                  {lRules.map((r) => (
+                                    <li key={r.id}>{r.regola_testo}</li>
+                                  ))}
+                                </ul>
+                              </>
+                            )}
+                            {lVocab.length > 0 && (
+                              <>
+                                <h4>Vocabolario estratto ({lVocab.length})</h4>
+                                <table className="vtab">
+                                  <tbody>
+                                    {lVocab.map((v) => (
+                                      <tr key={v.id}>
+                                        <td className="griko notranslate" translate="no">{v.parola_griko}</td>
+                                        <td>{v.parola_italiano}</td>
+                                      </tr>
+                                    ))}
+                                  </tbody>
+                                </table>
+                              </>
+                            )}
+                          </div>
+                        );
+                      })()}
                     </article>
                   );
                 })
