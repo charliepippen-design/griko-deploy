@@ -93,22 +93,23 @@ def main():
                 unique_lexemes.append({"parola_griko": g, "parola_italiano": it})
             raw_occurrences.append((g, it, l["order"]))
 
-    print(f"Lezioni: {len(lessons_rows)}")
+    print(f"Lezioni (gia' presenti, non toccate): {len(lessons_rows)}")
     print(f"Regole: {len(rules_rows)}")
     print(f"Lessemi unici: {len(unique_lexemes)} (da {len(raw_occurrences)} occorrenze grezze)")
 
     # --- Inserimento ---
-    print("\n1. Inserimento carmine_lessons...")
-    batch_insert("carmine_lessons", lessons_rows)
-
-    print("\n2. Inserimento carmine_rules...")
+    # NOTA: carmine_lessons NON viene toccata qui. Le 24 lezioni erano gia'
+    # state inserite (stessi video_id/ordine) da un'altra sessione in
+    # parallelo; questo script sostituisce solo regole/vocabolario/
+    # occorrenze, che erano state svuotate a mano prima di lanciarlo.
+    print("\n1. Inserimento carmine_rules...")
     batch_insert("carmine_rules", rules_rows)
 
-    print("\n3. Inserimento carmine_lexemes...")
+    print("\n2. Inserimento carmine_lexemes...")
     inserted_lexemes = batch_insert("carmine_lexemes", unique_lexemes)
     lexeme_map = {(r["parola_griko"], r["parola_italiano"]): r["id"] for r in inserted_lexemes}
 
-    print("\n4. Inserimento carmine_occurrences...")
+    print("\n3. Inserimento carmine_occurrences...")
     occurrences_rows = []
     occ_seen = set()
     for g, it, lesson_id in raw_occurrences:

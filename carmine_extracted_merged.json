@@ -1,0 +1,3601 @@
+[
+  {
+    "order": 1,
+    "video_id": "WlpRcf-8zmo",
+    "rules": [
+      "Il griko si scrive con l'alfabeto latino: le lettere sono sostanzialmente quelle italiane, con alcune convenzioni particolari per i suoni che l'italiano non possiede.",
+      "La lettera c ha due valori come in italiano: palatale davanti a i ed e (come in «cena»), velare davanti ad a, o, u (come in «casa»).",
+      "La c velare si scrive c davanti ad a, o, u e ch davanti a e, i; in alternativa si può usare sempre la k, sia davanti ad a, o, u sia davanti a e, i.",
+      "Il griko possiede un terzo suono estraneo all'italiano: la c aspirata (corrispondente al greco χ), che si pronuncia con forte soffio gutturale.",
+      "Per rendere la c aspirata esistono grafie concorrenti: se si sceglie ch per l'aspirata, la c velare va allora scritta k per evitare ambiguità; altrimenti si può scrivere kh, oppure usare direttamente il segno della chi greca o una semplice h.",
+      "La i semivocale (suono di «ieri», «iuventus») esiste anche in griko e si rende con la i, come nelle parole che iniziano per ja-, je-, jo-.",
+      "Le lettere d, l, r, k, m, n, p, t, q si pronunciano come in italiano; la q può essere sostituita dalla k.",
+      "La z ha due valori: sonora (come in «zona», «zaino»), che si scrive z, e sorda o aspra (come la doppia z di «pozzo»).",
+      "La z sorda è preferibile scriverla ts, perché la grafia zz viene pronunciata in modo diverso da regione a regione e genererebbe confusione sulla pronuncia corretta delle parole griko.",
+      "Il griko è il dialetto neogreco della Grecìa Salentina, di origine antichissima (secondo alcuni studiosi risale alla colonizzazione della Magna Grecia del VII secolo a.C.) e conserva termini già presenti in Omero."
+    ],
+    "vocabulary": [
+      {
+        "parola_griko": "cefali",
+        "parola_italiano": "testa"
+      },
+      {
+        "parola_griko": "cinurgio",
+        "parola_italiano": "nuovo"
+      },
+      {
+        "parola_griko": "icì",
+        "parola_italiano": "lì"
+      },
+      {
+        "parola_griko": "citrino",
+        "parola_italiano": "giallo"
+      },
+      {
+        "parola_griko": "calocheri",
+        "parola_italiano": "estate"
+      },
+      {
+        "parola_griko": "cardìa",
+        "parola_italiano": "cuore"
+      },
+      {
+        "parola_griko": "coftò",
+        "parola_italiano": "io taglio"
+      },
+      {
+        "parola_griko": "chiatera",
+        "parola_italiano": "ragazza"
+      },
+      {
+        "parola_griko": "chioni",
+        "parola_italiano": "neve"
+      },
+      {
+        "parola_griko": "chilie",
+        "parola_italiano": "mille"
+      },
+      {
+        "parola_griko": "chorevo",
+        "parola_italiano": "io ballo"
+      },
+      {
+        "parola_griko": "Christò",
+        "parola_italiano": "Cristo"
+      },
+      {
+        "parola_griko": "jatì",
+        "parola_italiano": "perché"
+      },
+      {
+        "parola_griko": "zimòno",
+        "parola_italiano": "io impasto"
+      },
+      {
+        "parola_griko": "tseno",
+        "parola_italiano": "forestiero"
+      },
+      {
+        "parola_griko": "tsilo",
+        "parola_italiano": "legno"
+      }
+    ]
+  },
+  {
+    "order": 2,
+    "video_id": "sifVb8H8EvM",
+    "rules": [
+      "Come in italiano, in griko l'articolo determinativo accompagna il nome e ne segue il genere e il numero; a differenza dell'italiano, però, il griko ha tre generi: maschile, femminile e neutro.",
+      "In italiano l'articolo si usa solo per i casi diretti (soggetto e complemento oggetto) e per gli altri complementi si ricorre alle preposizioni; in griko, come nel greco antico e moderno, l'articolo si declina e cambia forma secondo la funzione logica del nome.",
+      "Articolo maschile singolare: o per il soggetto (nominativo), tu per il complemento di specificazione e di termine (genitivo-dativo), ton per il complemento oggetto (accusativo).",
+      "Articolo femminile singolare: i per il soggetto, tis per il complemento di specificazione e di termine, tin per il complemento oggetto.",
+      "Articolo neutro singolare: to per il soggetto, tu per il complemento di specificazione e di termine, to per il complemento oggetto.",
+      "La n finale di ton e tin cade quando la parola successiva comincia per consonante (es. ida to pappo mu «vidi mio nonno»), mentre si mantiene davanti a vocale (es. ida tin innamorata «ho visto la fidanzata»).",
+      "L'articolo neutro to davanti a parola che comincia per vocale può subire elisione e scriversi con l'apostrofo (es. t'arnì «l'agnello»).",
+      "Il tu maschile e neutro si traduce in italiano con di/del/dello se è complemento di specificazione e con a/al/allo se è complemento di termine; allo stesso modo il femminile tis vale di/della oppure a/alla.",
+      "Nozioni di analisi logica necessarie per usare l'articolo: il soggetto compie l'azione e risponde a «chi? che cosa?»; il complemento di specificazione risponde a «di chi? di che cosa?»; il complemento di termine risponde a «a chi? a che cosa?»; il complemento oggetto riceve direttamente l'azione compiuta dal soggetto.",
+      "In griko l'aggettivo possessivo segue il nome: si dice letteralmente «il nonno mio» (o pappo mu), «il marito mio» (ton andra mu)."
+    ],
+    "vocabulary": [
+      {
+        "parola_griko": "pappo",
+        "parola_italiano": "nonno"
+      },
+      {
+        "parola_griko": "giacco",
+        "parola_italiano": "giacca"
+      },
+      {
+        "parola_griko": "mavro",
+        "parola_italiano": "nero"
+      },
+      {
+        "parola_griko": "sordo",
+        "parola_italiano": "soldo, denaro"
+      },
+      {
+        "parola_griko": "scarpari",
+        "parola_italiano": "calzolaio"
+      },
+      {
+        "parola_griko": "andra",
+        "parola_italiano": "marito"
+      },
+      {
+        "parola_griko": "agapò",
+        "parola_italiano": "io amo"
+      },
+      {
+        "parola_griko": "ghinèka",
+        "parola_italiano": "moglie, donna"
+      },
+      {
+        "parola_griko": "jìtona",
+        "parola_italiano": "vicino di casa"
+      },
+      {
+        "parola_griko": "psilì",
+        "parola_italiano": "alta"
+      },
+      {
+        "parola_griko": "maddhìa",
+        "parola_italiano": "capelli"
+      },
+      {
+        "parola_griko": "condà",
+        "parola_italiano": "corti"
+      },
+      {
+        "parola_griko": "làchana",
+        "parola_italiano": "verdura"
+      },
+      {
+        "parola_griko": "paniri",
+        "parola_italiano": "fiera"
+      },
+      {
+        "parola_griko": "imera",
+        "parola_italiano": "giorno"
+      },
+      {
+        "parola_griko": "pedì",
+        "parola_italiano": "figlio, ragazzo"
+      },
+      {
+        "parola_griko": "liko",
+        "parola_italiano": "lupo"
+      },
+      {
+        "parola_griko": "arnì",
+        "parola_italiano": "agnello"
+      },
+      {
+        "parola_griko": "troi",
+        "parola_italiano": "mangia"
+      }
+    ]
+  },
+  {
+    "order": 3,
+    "video_id": "e2LjR6CoOG0",
+    "rules": [
+      "Articolo determinativo plurale al nominativo (soggetto): i per il maschile, e per il femminile, ta per il neutro.",
+      "Al genitivo-dativo plurale (complemento di specificazione e di termine) l'articolo è tos per tutti e tre i generi e traduce l'italiano dei/degli/delle oppure ai/agli/alle.",
+      "All'accusativo plurale (complemento oggetto) l'articolo è tus per il maschile, tes per il femminile, ta per il neutro; tutti e tre traducono l'italiano i/gli/le.",
+      "Una lingua non si impara solo memorizzando schemi: il metodo consigliato è imparare a memoria le frasi d'esempio e ricavare da esse la regola, usando poi la lingua nella vita quotidiana.",
+      "Il complemento di specificazione specifica il significato della parola da cui dipende (il libro di geografia) e risponde a «di chi? di che cosa?».",
+      "Il complemento di termine indica la persona, l'animale o la cosa su cui va a terminare l'azione compiuta dal soggetto (do un libro a Mario) e risponde a «a chi? a che cosa?».",
+      "Il complemento oggetto, detto anche complemento diretto, è ciò su cui ricade direttamente l'azione espressa dal verbo, senza alcuna preposizione, e risponde a «chi? che cosa?»."
+    ],
+    "vocabulary": [
+      {
+        "parola_griko": "pedìa",
+        "parola_italiano": "ragazzi"
+      },
+      {
+        "parola_griko": "glicèa",
+        "parola_italiano": "dolci"
+      },
+      {
+        "parola_griko": "pappi",
+        "parola_italiano": "nonni"
+      },
+      {
+        "parola_griko": "attechì",
+        "parola_italiano": "poveri"
+      },
+      {
+        "parola_griko": "apethamenu",
+        "parola_italiano": "defunti"
+      },
+      {
+        "parola_griko": "chiru",
+        "parola_italiano": "maiali"
+      },
+      {
+        "parola_griko": "argulo",
+        "parola_italiano": "albero"
+      },
+      {
+        "parola_griko": "càmbara",
+        "parola_italiano": "stanza"
+      },
+      {
+        "parola_griko": "spiti",
+        "parola_italiano": "casa"
+      },
+      {
+        "parola_griko": "mikrè",
+        "parola_italiano": "piccole"
+      },
+      {
+        "parola_griko": "makrà",
+        "parola_italiano": "lunghi"
+      },
+      {
+        "parola_griko": "argalìo",
+        "parola_italiano": "telaio"
+      },
+      {
+        "parola_griko": "cofìni",
+        "parola_italiano": "paniere"
+      },
+      {
+        "parola_griko": "gomàta",
+        "parola_italiano": "pieni"
+      },
+      {
+        "parola_griko": "machèri",
+        "parola_italiano": "coltello"
+      },
+      {
+        "parola_griko": "silo",
+        "parola_italiano": "legno"
+      },
+      {
+        "parola_griko": "fiddha",
+        "parola_italiano": "foglie"
+      }
+    ]
+  },
+  {
+    "order": 4,
+    "video_id": "DSEasnZnTkE",
+    "rules": [
+      "I nomi griki possono essere maschili, femminili o neutri: il genere neutro, assente in italiano, si ritrova invece in latino, in greco antico e in greco moderno.",
+      "Il nome è formato da una parte fissa, il tema o radice, e da una parte mobile, la desinenza, che cambia a seconda del caso.",
+      "Per classificare i nomi si usa la posizione dell'accento: proparossitoni con accento sulla terzultima sillaba, parossitoni sulla penultima, ossitoni sull'ultima.",
+      "I nomi maschili in -o possono essere proparossitoni, parossitoni od ossitoni; i maschili in -a sono soltanto parossitoni; quelli in -i soltanto parossitoni; quelli in -e soltanto ossitoni.",
+      "Declinazione dei maschili in -o (tipo àntrepo «uomo»): nominativo singolare -o e plurale -i (o àntrepo / i àntrepi); genitivo-dativo singolare -u e plurale -o (tu antrèpu / tos antrèpo); accusativo singolare -o e plurale -u (ton àntrepo / tus antrèpu).",
+      "Declinazione dei maschili in -a (tipo patera «prete, padre»): nominativo o patera / i pateri; genitivo-dativo tu patera / tos patero; accusativo ton patera / tus pateru.",
+      "Attenzione ai cambi di genere rispetto all'italiano: alcuni nomi italiani femminili sono maschili in griko, come fengo «luna» (o fengo, non «la luna»).",
+      "La preposizione me «con» regge l'accusativo: me ton andra mu «con mio marito» è un complemento di compagnia in caso accusativo.",
+      "Alcuni nomi maschili in -a hanno due plurali, uno maschile e uno neutro (vrachiona «braccio» → i vrachioni / ta vrachionia): corrispondono ai nomi sovrabbondanti italiani come «i muri / le mura», dove la forma femminile italiana corrisponde in sostanza al neutro griko.",
+      "Un nome può avere anche un significato metaforico: calascione è un antico strumento musicale alto e sgraziato e per traslato indica un uomo alto e sciocco."
+    ],
+    "vocabulary": [
+      {
+        "parola_griko": "àntrepo",
+        "parola_italiano": "uomo"
+      },
+      {
+        "parola_griko": "ànemo",
+        "parola_italiano": "vento"
+      },
+      {
+        "parola_griko": "gàmbaro",
+        "parola_italiano": "gambero"
+      },
+      {
+        "parola_griko": "càntaro",
+        "parola_italiano": "vaso da notte"
+      },
+      {
+        "parola_griko": "liko",
+        "parola_italiano": "lupo"
+      },
+      {
+        "parola_griko": "tico",
+        "parola_italiano": "muro"
+      },
+      {
+        "parola_griko": "cosmo",
+        "parola_italiano": "mondo"
+      },
+      {
+        "parola_griko": "fengo",
+        "parola_italiano": "luna"
+      },
+      {
+        "parola_griko": "fos",
+        "parola_italiano": "luce"
+      },
+      {
+        "parola_griko": "pono",
+        "parola_italiano": "dolore"
+      },
+      {
+        "parola_griko": "lagò",
+        "parola_italiano": "lepre"
+      },
+      {
+        "parola_griko": "cannò",
+        "parola_italiano": "fumo"
+      },
+      {
+        "parola_griko": "petterò",
+        "parola_italiano": "suocero"
+      },
+      {
+        "parola_griko": "cerò",
+        "parola_italiano": "tempo"
+      },
+      {
+        "parola_griko": "stavrò",
+        "parola_italiano": "croce"
+      },
+      {
+        "parola_griko": "gambrò",
+        "parola_italiano": "genero"
+      },
+      {
+        "parola_griko": "argulo",
+        "parola_italiano": "albero"
+      },
+      {
+        "parola_griko": "simeri",
+        "parola_italiano": "oggi"
+      },
+      {
+        "parola_griko": "magirèo",
+        "parola_italiano": "io cucino"
+      },
+      {
+        "parola_griko": "agàpi",
+        "parola_italiano": "amore"
+      },
+      {
+        "parola_griko": "mina",
+        "parola_italiano": "mese"
+      },
+      {
+        "parola_griko": "patera",
+        "parola_italiano": "prete, padre"
+      },
+      {
+        "parola_griko": "andra",
+        "parola_italiano": "marito"
+      },
+      {
+        "parola_griko": "vrachiona",
+        "parola_italiano": "braccio"
+      },
+      {
+        "parola_griko": "aghera",
+        "parola_italiano": "cielo"
+      },
+      {
+        "parola_griko": "plaona",
+        "parola_italiano": "lenzuolo"
+      },
+      {
+        "parola_griko": "cantuna",
+        "parola_italiano": "camino, angolo del focolare"
+      },
+      {
+        "parola_griko": "calascione",
+        "parola_italiano": "antico strumento musicale; (figurato) uomo alto e sciocco"
+      },
+      {
+        "parola_griko": "amartìa",
+        "parola_italiano": "peccato"
+      },
+      {
+        "parola_griko": "maio",
+        "parola_italiano": "maggio"
+      }
+    ]
+  },
+  {
+    "order": 5,
+    "video_id": "GuHQfb3lJs4",
+    "rules": [
+      "I nomi maschili terminanti in -i sono tutti parossitoni, cioè hanno l'accento sulla penultima sillaba.",
+      "Declinazione dei maschili in -i (tipo furnari «fornaio»): nominativo o furnari / i furnari; genitivo-dativo tu furnari / tos furnaro; accusativo ton furnari / tus furnaru.",
+      "In genere tutti i nomi che indicano un mestiere escono in -i (mulinari, barbieri, scarpari), e così pure i nomi dei mesi (Scennari, Flevari, Aprili).",
+      "I nomi maschili in -e sono pochissimi, in genere di origine straniera, e sono tutti ossitoni (caffè, canapè); al plurale prendono la desinenza -ede, come caffè → caffède.",
+      "I nomi femminili in -a possono essere proparossitoni, parossitoni od ossitoni.",
+      "Declinazione dei femminili in -a (tipo ornita «gallina»): nominativo i ornita / e ornite; genitivo-dativo tis ornita / tos ornito; accusativo tin ornita / tes ornite.",
+      "La preposizione se/is «in, a» regge l'accusativo e forma il complemento di moto a luogo (pao is tin aglisìa «vado in chiesa»).",
+      "Alcuni nomi hanno un significato dispregiativo derivato: vastasi significava «facchino» (dal verbo vastò «portare») e oggi vale «ragazzaccio, mascalzone»."
+    ],
+    "vocabulary": [
+      {
+        "parola_griko": "furnari",
+        "parola_italiano": "fornaio"
+      },
+      {
+        "parola_griko": "mulinari",
+        "parola_italiano": "mugnaio"
+      },
+      {
+        "parola_griko": "barbieri",
+        "parola_italiano": "barbiere"
+      },
+      {
+        "parola_griko": "scarpari",
+        "parola_italiano": "calzolaio"
+      },
+      {
+        "parola_griko": "Scennari",
+        "parola_italiano": "gennaio"
+      },
+      {
+        "parola_griko": "Flevari",
+        "parola_italiano": "febbraio"
+      },
+      {
+        "parola_griko": "Aprili",
+        "parola_italiano": "aprile"
+      },
+      {
+        "parola_griko": "ciuri",
+        "parola_italiano": "padre"
+      },
+      {
+        "parola_griko": "massari",
+        "parola_italiano": "massaro, fattore"
+      },
+      {
+        "parola_griko": "vastasi",
+        "parola_italiano": "facchino; ragazzaccio, mascalzone"
+      },
+      {
+        "parola_griko": "vastò",
+        "parola_italiano": "portare"
+      },
+      {
+        "parola_griko": "caffè",
+        "parola_italiano": "caffè"
+      },
+      {
+        "parola_griko": "canapè",
+        "parola_italiano": "divano"
+      },
+      {
+        "parola_griko": "pìtera",
+        "parola_italiano": "crusca"
+      },
+      {
+        "parola_griko": "chioni",
+        "parola_italiano": "neve"
+      },
+      {
+        "parola_griko": "nerò",
+        "parola_italiano": "acqua"
+      },
+      {
+        "parola_griko": "fèrni",
+        "parola_italiano": "porta (egli porta)"
+      },
+      {
+        "parola_griko": "ornita",
+        "parola_italiano": "gallina"
+      },
+      {
+        "parola_griko": "idrota",
+        "parola_italiano": "sudore"
+      },
+      {
+        "parola_griko": "thàlassa",
+        "parola_italiano": "mare"
+      },
+      {
+        "parola_griko": "alipuna",
+        "parola_italiano": "volpe"
+      },
+      {
+        "parola_griko": "aglisìa",
+        "parola_italiano": "chiesa"
+      },
+      {
+        "parola_griko": "cardìa",
+        "parola_italiano": "cuore"
+      },
+      {
+        "parola_griko": "ajelàda",
+        "parola_italiano": "mucca"
+      },
+      {
+        "parola_griko": "charà",
+        "parola_italiano": "gioia"
+      },
+      {
+        "parola_griko": "ghinèka",
+        "parola_italiano": "donna, moglie"
+      },
+      {
+        "parola_griko": "chiatèra",
+        "parola_italiano": "ragazza, figlia"
+      },
+      {
+        "parola_griko": "cucuvàscia",
+        "parola_italiano": "civetta"
+      },
+      {
+        "parola_griko": "nifta",
+        "parola_italiano": "notte"
+      },
+      {
+        "parola_griko": "pràtina",
+        "parola_italiano": "pecora"
+      },
+      {
+        "parola_griko": "chora",
+        "parola_italiano": "paese"
+      },
+      {
+        "parola_griko": "sucèa",
+        "parola_italiano": "fico (albero)"
+      },
+      {
+        "parola_griko": "matrìa",
+        "parola_italiano": "matrigna"
+      },
+      {
+        "parola_griko": "litrìa",
+        "parola_italiano": "messa"
+      },
+      {
+        "parola_griko": "avgà",
+        "parola_italiano": "uova"
+      }
+    ]
+  },
+  {
+    "order": 6,
+    "video_id": "yUnPN_rN2aE",
+    "rules": [
+      "Riepilogo dei femminili in -a: possono essere proparossitoni, parossitoni od ossitoni e si declinano con nominativo singolare -a e plurale -e, genitivo-dativo singolare -a e plurale -o, accusativo singolare -a e plurale -e.",
+      "I nomi femminili in -i possono anch'essi essere proparossitoni, parossitoni od ossitoni.",
+      "Declinazione dei femminili in -i: nominativo singolare -i e plurale -e; genitivo-dativo singolare -i (con articolo tis) e plurale -o (con articolo tos); accusativo singolare -i (con articolo tin) e plurale -e (con articolo tes).",
+      "Nei nomi neutri in -o le desinenze del singolare (nominativo, genitivo-dativo, accusativo) sono identiche a quelle dei maschili, così come il genitivo-dativo plurale; cambiano invece il nominativo e l'accusativo plurale, che escono in -a.",
+      "Declinazione del neutro dàttilo «dito»: to dàttilo / ta dàttila al nominativo e all'accusativo, tu dattìlu / tos dattìlo al genitivo-dativo.",
+      "L'articolo neutro to non ha la n finale, perciò non provoca il raddoppiamento della consonante iniziale della parola che segue: si pronuncia to dàttilo e non to ddàttilo.",
+      "Alcuni nomi neutri cambiano significato al plurale: sìdero «ferro» al plurale ta sìdera vale «gli attrezzi»; ruco «roba, averi» al plurale ta ruca vale «i vestiti».",
+      "Alcuni neutri ammettono due forme di plurale, come nerò che al plurale fa nerà oppure nerèa.",
+      "Lo stesso nome può avere un doppio significato che si distingue dal contesto: ruco vale sia «vestiti» sia «averi, ricchezze»."
+    ],
+    "vocabulary": [
+      {
+        "parola_griko": "cànnavi",
+        "parola_italiano": "canapa"
+      },
+      {
+        "parola_griko": "agàpi",
+        "parola_italiano": "amore"
+      },
+      {
+        "parola_griko": "cari",
+        "parola_italiano": "grazia, favore"
+      },
+      {
+        "parola_griko": "cefàli",
+        "parola_italiano": "testa"
+      },
+      {
+        "parola_griko": "stàchti",
+        "parola_italiano": "cenere"
+      },
+      {
+        "parola_griko": "Pefti",
+        "parola_italiano": "giovedì"
+      },
+      {
+        "parola_griko": "anemi",
+        "parola_italiano": "arcolaio"
+      },
+      {
+        "parola_griko": "tripi",
+        "parola_italiano": "buco"
+      },
+      {
+        "parola_griko": "foni",
+        "parola_italiano": "voce, grido"
+      },
+      {
+        "parola_griko": "psichì",
+        "parola_italiano": "anima"
+      },
+      {
+        "parola_griko": "zoì",
+        "parola_italiano": "vita"
+      },
+      {
+        "parola_griko": "Ciuriacì",
+        "parola_italiano": "domenica"
+      },
+      {
+        "parola_griko": "adelfì",
+        "parola_italiano": "sorella"
+      },
+      {
+        "parola_griko": "avlì",
+        "parola_italiano": "corte, cortile"
+      },
+      {
+        "parola_griko": "Parasceì",
+        "parola_italiano": "venerdì"
+      },
+      {
+        "parola_griko": "nifi",
+        "parola_italiano": "nuora"
+      },
+      {
+        "parola_griko": "dàttilo",
+        "parola_italiano": "dito"
+      },
+      {
+        "parola_griko": "gònato",
+        "parola_italiano": "ginocchio"
+      },
+      {
+        "parola_griko": "sìdero",
+        "parola_italiano": "ferro (al plurale: attrezzi)"
+      },
+      {
+        "parola_griko": "cèrato",
+        "parola_italiano": "corno"
+      },
+      {
+        "parola_griko": "pròvato",
+        "parola_italiano": "pecora"
+      },
+      {
+        "parola_griko": "sico",
+        "parola_italiano": "fico (frutto)"
+      },
+      {
+        "parola_griko": "agò",
+        "parola_italiano": "uovo"
+      },
+      {
+        "parola_griko": "ruco",
+        "parola_italiano": "roba, averi (al plurale: vestiti)"
+      },
+      {
+        "parola_griko": "silo",
+        "parola_italiano": "legno"
+      },
+      {
+        "parola_griko": "chili",
+        "parola_italiano": "labbro"
+      },
+      {
+        "parola_griko": "nerò",
+        "parola_italiano": "acqua"
+      },
+      {
+        "parola_griko": "calò",
+        "parola_italiano": "il bene"
+      },
+      {
+        "parola_griko": "cacò",
+        "parola_italiano": "il male"
+      },
+      {
+        "parola_griko": "jèlio",
+        "parola_italiano": "riso, risata"
+      },
+      {
+        "parola_griko": "mèro",
+        "parola_italiano": "parte"
+      },
+      {
+        "parola_griko": "rodinì",
+        "parola_italiano": "rossa, rosata"
+      }
+    ]
+  },
+  {
+    "order": 7,
+    "video_id": "lFkRMXvJMzA",
+    "rules": [
+      "I nomi neutri in -i possono essere parossitoni, cioè con l'accento sulla penultima sillaba (anichi = unghia), oppure ossitoni, con l'accento sull'ultima sillaba (atì = orecchio).",
+      "I nomi neutri in -i hanno la stessa desinenza -i al nominativo, al genitivo-dativo e all'accusativo singolare; al plurale escono in -ia per nominativo e accusativo e in -io per il genitivo-dativo (o atì, ta attia; tu attiu, tos attio; to atì, ta attia).",
+      "L'articolo neutro plurale ta si apostrofa davanti a parola che comincia per vocale (t'attia, t'ampelia).",
+      "I nomi neutri in -ma possono essere proparossitoni (accento sulla terzultima) o parossitoni (accento sulla penultima): astrema = lampo, soma = corpo.",
+      "I nomi neutri in -ma si declinano cosi: -ma al nominativo e accusativo singolare, -mata al nominativo e accusativo plurale, -matu al genitivo-dativo singolare, -mato al genitivo-dativo plurale (to astrema, ta astremata, tu astrematu, tos astremato).",
+      "Nei neutri in -ma l'accento si sposta quando si passa dal singolare al plurale e ai casi obliqui: astrema diventa astremata, astrematu.",
+      "Le declinazioni non vanno imparate a memoria schema per schema: conviene ricordare un nome campione per ciascuna desinenza del maschile, del femminile e del neutro e da quello ricavare la regola.",
+      "Quando una desinenza e comune a piu generi (per esempio -o valida sia per il maschile sia per il neutro, oppure -a per maschile, femminile e neutro), il genere del nome non si puo dedurre dalla terminazione: occorre affidarsi al vocabolario o all'uso quotidiano della lingua."
+    ],
+    "vocabulary": [
+      {
+        "parola_griko": "anichi",
+        "parola_italiano": "unghia"
+      },
+      {
+        "parola_griko": "atì",
+        "parola_italiano": "orecchio"
+      },
+      {
+        "parola_griko": "alòni",
+        "parola_italiano": "aia"
+      },
+      {
+        "parola_griko": "psari",
+        "parola_italiano": "pesce"
+      },
+      {
+        "parola_griko": "asteri",
+        "parola_italiano": "stella"
+      },
+      {
+        "parola_griko": "ammadi",
+        "parola_italiano": "occhio"
+      },
+      {
+        "parola_griko": "arni",
+        "parola_italiano": "agnello"
+      },
+      {
+        "parola_griko": "kodari",
+        "parola_italiano": "albero di olivo"
+      },
+      {
+        "parola_griko": "pedì",
+        "parola_italiano": "ragazzo, figlio"
+      },
+      {
+        "parola_griko": "skanni",
+        "parola_italiano": "sgabello"
+      },
+      {
+        "parola_griko": "kurti",
+        "parola_italiano": "cascina"
+      },
+      {
+        "parola_griko": "luri",
+        "parola_italiano": "cinghia"
+      },
+      {
+        "parola_griko": "ceri",
+        "parola_italiano": "cero"
+      },
+      {
+        "parola_griko": "ampeli",
+        "parola_italiano": "vigna"
+      },
+      {
+        "parola_griko": "stafìli",
+        "parola_italiano": "uva"
+      },
+      {
+        "parola_griko": "forti",
+        "parola_italiano": "fascina"
+      },
+      {
+        "parola_griko": "astrema",
+        "parola_italiano": "lampo, fulmine"
+      },
+      {
+        "parola_griko": "gramma",
+        "parola_italiano": "lettera"
+      },
+      {
+        "parola_griko": "soma",
+        "parola_italiano": "corpo"
+      },
+      {
+        "parola_griko": "derma",
+        "parola_italiano": "pelle"
+      },
+      {
+        "parola_griko": "jema",
+        "parola_italiano": "sangue"
+      },
+      {
+        "parola_griko": "psema",
+        "parola_italiano": "bugia"
+      },
+      {
+        "parola_griko": "gala",
+        "parola_italiano": "latte"
+      },
+      {
+        "parola_griko": "krea",
+        "parola_italiano": "carne (al plurale kreata: parti del corpo, carnagione)"
+      },
+      {
+        "parola_griko": "somata",
+        "parola_italiano": "le parti del corpo"
+      }
+    ]
+  },
+  {
+    "order": 8,
+    "video_id": "EX3WDyF42R0",
+    "rules": [
+      "L'aggettivo qualificativo segue il nome nel genere e nel numero: come il nome, anche in griko puo essere maschile, femminile o neutro.",
+      "Gli aggettivi si dividono sostanzialmente in tre gruppi regolari piu un gruppo di irregolari.",
+      "Primo gruppo: desinenze -o per il maschile, -i per il femminile, -o per il neutro (aspro, aspri, aspro = bianco); al plurale -i maschile, -e femminile, -a neutro; genitivo-dativo -u per maschile e neutro e -i per il femminile, -o al plurale; accusativo -o maschile, -i femminile, -o neutro, e al plurale -u maschile, -e femminile, -a neutro.",
+      "Secondo gruppo: desinenze -o per il maschile, -a per il femminile, -o per il neutro (paleo, palea, paleo = vecchio); al plurale -i maschile, -e femminile, -a neutro.",
+      "Terzo gruppo: desinenze -i per il maschile, -ea per il femminile, -i per il neutro (glicì, glicea, glicì = dolce); al plurale -i maschile e -ea femminile e neutro.",
+      "Gli aggettivi del terzo gruppo in -i / -ea possono passare anche al modello del secondo gruppo con desinenze in -eo / -ea / -eo: accanto a steri, sterea, steri si puo dire stereo, sterea, stereo.",
+      "L'aggettivo si accorda col nome in genere, numero e caso, come mostrano le coppie articolo + nome + aggettivo (o tico aspro, i cambara acheri, to pedì apsilo).",
+      "L'articolo accusativo maschile e femminile perde la n finale, che si segnala con l'apostrofo e provoca il raddoppiamento della consonante iniziale della parola seguente (to' tico aspro si pronuncia con la t raddoppiata).",
+      "L'aggettivo pseftari (bugiardo) ha una declinazione propria: -i per il maschile, -a per il femminile, -o per il neutro, con plurale in -i, -e, -a.",
+      "I diminutivi degli aggettivi hanno desinenza -udi per il maschile, -edda per il femminile, -udi per il neutro, con plurale in -udi, -edde, -udia (attechudi = poveretto, diminutivo di attechò = povero).",
+      "L'aggettivo poddhì (molto) ha un'unica forma per il maschile, il femminile e il neutro al singolare, ma varia al plurale e nei casi (poddhè per il femminile plurale, poddhà per il neutro plurale).",
+      "L'aggettivo malo (grande) ha la forma unica -o per maschile e femminile e -o per il neutro, ma esiste anche la forma parallela mea (maschile), mali (femminile), mea (neutro); al plurale si usa solo mali, male, mala, mai la forma mea."
+    ],
+    "vocabulary": [
+      {
+        "parola_griko": "aspro",
+        "parola_italiano": "bianco"
+      },
+      {
+        "parola_griko": "paleo",
+        "parola_italiano": "vecchio"
+      },
+      {
+        "parola_griko": "glicì",
+        "parola_italiano": "dolce"
+      },
+      {
+        "parola_griko": "steri / stereo",
+        "parola_italiano": "duro"
+      },
+      {
+        "parola_griko": "vari / vareo",
+        "parola_italiano": "pesante"
+      },
+      {
+        "parola_griko": "macreo",
+        "parola_italiano": "lungo"
+      },
+      {
+        "parola_griko": "acheri",
+        "parola_italiano": "vuoto"
+      },
+      {
+        "parola_griko": "apsilo",
+        "parola_italiano": "alto"
+      },
+      {
+        "parola_griko": "cinurgio",
+        "parola_italiano": "nuovo"
+      },
+      {
+        "parola_griko": "pacheo",
+        "parola_italiano": "grosso"
+      },
+      {
+        "parola_griko": "pseftari",
+        "parola_italiano": "bugiardo"
+      },
+      {
+        "parola_griko": "attechò",
+        "parola_italiano": "povero"
+      },
+      {
+        "parola_griko": "attechudi",
+        "parola_italiano": "poveretto"
+      },
+      {
+        "parola_griko": "poddhì",
+        "parola_italiano": "molto"
+      },
+      {
+        "parola_griko": "malo / mea",
+        "parola_italiano": "grande"
+      },
+      {
+        "parola_griko": "tico",
+        "parola_italiano": "muro"
+      },
+      {
+        "parola_griko": "cambara",
+        "parola_italiano": "stanza, camera"
+      },
+      {
+        "parola_griko": "argalio",
+        "parola_italiano": "telaio"
+      },
+      {
+        "parola_griko": "gineca",
+        "parola_italiano": "donna"
+      },
+      {
+        "parola_griko": "cratti",
+        "parola_italiano": "letto"
+      },
+      {
+        "parola_griko": "coccalo",
+        "parola_italiano": "testa, cranio"
+      },
+      {
+        "parola_griko": "antropo",
+        "parola_italiano": "uomo"
+      },
+      {
+        "parola_griko": "ròdi",
+        "parola_italiano": "melograno"
+      },
+      {
+        "parola_griko": "astachi",
+        "parola_italiano": "spiga"
+      },
+      {
+        "parola_griko": "alevri",
+        "parola_italiano": "farina"
+      },
+      {
+        "parola_griko": "amari",
+        "parola_italiano": "carro"
+      },
+      {
+        "parola_griko": "pedì",
+        "parola_italiano": "ragazzo"
+      }
+    ]
+  },
+  {
+    "order": 9,
+    "video_id": "eXAcJxO-beQ",
+    "rules": [
+      "I gradi dell'aggettivo qualificativo sono tre: positivo (la qualita senza confronto), comparativo (confronto fra due qualita) e superlativo (la qualita al massimo grado).",
+      "Nel comparativo ci sono sempre due termini di paragone: il primo termine e quello di cui si parla, il secondo e quello con cui si fa il confronto.",
+      "Il comparativo di maggioranza si forma con l'avverbio plon (piu) davanti all'aggettivo; il secondo termine di paragone e introdotto da tiri, da se, oppure da ata (solo davanti a nomi neutri e a pronomi) oppure dalla congiunzione ca.",
+      "Il comparativo di minoranza si forma con plon alìo (meno), ma e forma poco usata: si preferisce rovesciare la frase e usare il comparativo di maggioranza (invece di 'io sono meno ricco di te' si dice 'tu sei piu ricco di me').",
+      "Il comparativo di uguaglianza si rende con posso nel primo termine e posso(n) nel secondo; la n finale e una n eufonica che compare quando la parola seguente comincia per vocale.",
+      "Il comparativo di uguaglianza si puo rendere anche con ito nel primo termine e ca + articolo nel secondo, oppure con la sola preposizione san (come) nel secondo termine.",
+      "Dopo san non si mette mai l'articolo (glicea san meli = dolce come miele), mentre dopo ca l'articolo va messo (ca to meli).",
+      "Il superlativo relativo si forma premettendo l'articolo al comparativo di maggioranza (o plon apsilò = il piu alto).",
+      "Il superlativo assoluto si forma premettendo all'aggettivo di grado positivo l'avverbio poddhì (molto), oppure ripetendo due volte lo stesso aggettivo (apsilò apsilò = altissimo).",
+      "Gli aggettivi cacò (cattivo) e calò (buono) hanno comparativo irregolare: chiro (peggiore) e caglio (migliore); possono essere preceduti da plon, che davanti a consonante si tronca in plo.",
+      "Il superlativo relativo di cacò e calò si forma premettendo l'articolo: o plo chiro (il peggiore), o plo caglio (il migliore); il superlativo assoluto si forma invece con poddhì cacò e poddhì calò.",
+      "Caglio e chiro possono funzionare anche da avverbi, e in quel caso significano 'meglio' e 'peggio' e non 'migliore' e 'peggiore'."
+    ],
+    "vocabulary": [
+      {
+        "parola_griko": "plon / plo",
+        "parola_italiano": "piu"
+      },
+      {
+        "parola_griko": "alìo",
+        "parola_italiano": "poco, meno"
+      },
+      {
+        "parola_griko": "posso",
+        "parola_italiano": "tanto, quanto"
+      },
+      {
+        "parola_griko": "san",
+        "parola_italiano": "come"
+      },
+      {
+        "parola_griko": "tiri",
+        "parola_italiano": "di (secondo termine di paragone)"
+      },
+      {
+        "parola_griko": "ca",
+        "parola_italiano": "che, di (secondo termine di paragone)"
+      },
+      {
+        "parola_griko": "apsilò",
+        "parola_italiano": "alto"
+      },
+      {
+        "parola_griko": "condò",
+        "parola_italiano": "basso"
+      },
+      {
+        "parola_griko": "plusìo",
+        "parola_italiano": "ricco"
+      },
+      {
+        "parola_griko": "attechò",
+        "parola_italiano": "povero"
+      },
+      {
+        "parola_griko": "orrio",
+        "parola_italiano": "bello"
+      },
+      {
+        "parola_griko": "glicea",
+        "parola_italiano": "dolce (femminile)"
+      },
+      {
+        "parola_griko": "meli",
+        "parola_italiano": "miele"
+      },
+      {
+        "parola_griko": "coli",
+        "parola_italiano": "fiele, bile"
+      },
+      {
+        "parola_griko": "cofini",
+        "parola_italiano": "paniere"
+      },
+      {
+        "parola_griko": "gomao",
+        "parola_italiano": "pieno"
+      },
+      {
+        "parola_griko": "micrò",
+        "parola_italiano": "piccolo"
+      },
+      {
+        "parola_griko": "cacò",
+        "parola_italiano": "cattivo"
+      },
+      {
+        "parola_griko": "calò",
+        "parola_italiano": "buono"
+      },
+      {
+        "parola_griko": "chiro",
+        "parola_italiano": "peggiore, peggio"
+      },
+      {
+        "parola_griko": "caglio",
+        "parola_italiano": "migliore, meglio"
+      },
+      {
+        "parola_griko": "fortomeno",
+        "parola_italiano": "carico"
+      },
+      {
+        "parola_griko": "dattilo",
+        "parola_italiano": "dito"
+      },
+      {
+        "parola_griko": "chera",
+        "parola_italiano": "mano"
+      },
+      {
+        "parola_griko": "profeta",
+        "parola_italiano": "stupido (nell'espressione o plo profeta = il piu stupido)"
+      }
+    ]
+  },
+  {
+    "order": 10,
+    "video_id": "-cIgt2pDVKo",
+    "rules": [
+      "I possessivi griki hanno una forma tonica, cioe accentata, e una forma atona che non ha accento proprio ma si appoggia alla parola che precede: per questo si chiama enclitica.",
+      "Le forme enclitiche si usano solo come aggettivi, proprio perche devono appoggiarsi a un nome; le forme toniche possono invece essere sia aggettivi sia pronomi, cioe possono accompagnare un nome o sostituirlo.",
+      "Le forme enclitiche sono -mu (mio), -su (tuo), -tu (suo, di lui), -ti (suo, di lei), -ma (nostro), -sa (vostro), -to (loro) e coincidono con il genitivo del pronome personale atono.",
+      "A differenza dell'italiano, che ha forme diverse per maschile, femminile e plurale, il griko usa un'unica forma enclitica per tutti i generi e i numeri: o ciuri-mu (mio padre), i mana-mu (mia madre), i adelfì-mu (le mie sorelle).",
+      "Alla terza persona il griko distingue il possessore maschile dal femminile: -tu significa 'di lui' e -ti significa 'di lei', distinzione che l'italiano non fa (in italiano 'suo padre' e ambiguo).",
+      "Se la parola a cui si appoggia l'enclitica e ossitona, cioe ha l'accento sull'ultima sillaba, la consonante iniziale dell'enclitica si raddoppia nella pronuncia e nella scrittura: o pedì-ssu (tuo figlio), i chera-ti diventa invece regolare perche parossitona.",
+      "Le forme toniche sono composte da una prima parte dico- che varia secondo il genere e il numero (dico maschile, dichì femminile, dico neutro al singolare; dichì, diche, dicà al plurale) e da una seconda parte, l'enclitica del possessore, che resta invariata.",
+      "Nelle forme toniche l'enclitica si pronuncia e si scrive raddoppiata, perche l'accento cade sull'ultima sillaba di dicò: dico-mmu, dico-ssu, dico-ttu.",
+      "Non esiste una regola rigida che imponga la forma tonica o quella atona: la forma tonica si usa quando si vuole dare particolare enfasi al possesso o quando c'e una contrapposizione fra possessori diversi.",
+      "A Sternatia si usa spesso l'articolo maschile con il neutro pedì (o pedì-ssu invece di to pedì-ssu)."
+    ],
+    "vocabulary": [
+      {
+        "parola_griko": "ciuri",
+        "parola_italiano": "padre"
+      },
+      {
+        "parola_griko": "mana",
+        "parola_italiano": "madre, mamma"
+      },
+      {
+        "parola_griko": "adelfò",
+        "parola_italiano": "fratello"
+      },
+      {
+        "parola_griko": "adelfì",
+        "parola_italiano": "sorella"
+      },
+      {
+        "parola_griko": "andra",
+        "parola_italiano": "marito"
+      },
+      {
+        "parola_griko": "gineca",
+        "parola_italiano": "moglie, donna"
+      },
+      {
+        "parola_griko": "pappo",
+        "parola_italiano": "nonno"
+      },
+      {
+        "parola_griko": "pedì",
+        "parola_italiano": "figlio, ragazzo"
+      },
+      {
+        "parola_griko": "chorafi",
+        "parola_italiano": "campo, fondo"
+      },
+      {
+        "parola_griko": "spiti",
+        "parola_italiano": "casa"
+      },
+      {
+        "parola_griko": "ampari",
+        "parola_italiano": "cavallo"
+      },
+      {
+        "parola_griko": "clidì",
+        "parola_italiano": "chiave"
+      },
+      {
+        "parola_griko": "cista",
+        "parola_italiano": "cesta"
+      },
+      {
+        "parola_griko": "coccalo",
+        "parola_italiano": "cranio, testa"
+      },
+      {
+        "parola_griko": "chera",
+        "parola_italiano": "mano"
+      },
+      {
+        "parola_griko": "chrono",
+        "parola_italiano": "anno"
+      },
+      {
+        "parola_griko": "cucuvascia",
+        "parola_italiano": "civetta"
+      },
+      {
+        "parola_griko": "vrizo",
+        "parola_italiano": "ingiuriare (da cui: soprannominare)"
+      },
+      {
+        "parola_griko": "teli",
+        "parola_italiano": "vuole"
+      },
+      {
+        "parola_griko": "dico-mu",
+        "parola_italiano": "mio (forma tonica)"
+      },
+      {
+        "parola_griko": "gamba",
+        "parola_italiano": "gamba (nell'esempio: ha una gamba rotta)"
+      }
+    ]
+  },
+  {
+    "order": 11,
+    "video_id": "NWsqcHqbUPk",
+    "rules": [
+      "L'aggettivo accompagna il nome per aggiungergli una qualita o per determinarlo meglio, mentre il pronome sostituisce il nome: la stessa distinzione vale per i dimostrativi.",
+      "Gli aggettivi dimostrativi sono tuso, tusi, tuso (questo, questa) per la vicinanza e cisso, cissi, cisso (quello, quella) per la lontananza; i pronomi corrispondenti sono tuo, tui, tuo e cino, cini, cino.",
+      "Come l'articolo, il nome e l'aggettivo qualificativo, anche l'aggettivo e il pronome dimostrativo hanno un'uscita propria per il nominativo, una per il genitivo-dativo e una per l'accusativo.",
+      "Il nominativo e il caso del soggetto, il genitivo quello del complemento di specificazione (di chi? di che cosa?), il dativo quello del complemento di termine (a chi? a che cosa?), l'accusativo quello del complemento oggetto.",
+      "La n finale dell'accusativo cade davanti a consonante sorda e si segnala con l'apostrofo (tuti' seggia = questa sedia), mentre si mantiene davanti a vocale (citto' astico).",
+      "Il complemento di tempo determinato richiede il caso accusativo: tuti ciuriacì (questa domenica) e accusativo femminile singolare.",
+      "I dimostrativi possono essere rafforzati dalle particelle avverbiali -tu (qui) e -ci (li, da ecì); sono facoltative e si usano quando si vuole insistere sull'idea di vicinanza o di lontananza.",
+      "Quando il dimostrativo e aggettivo, la particella rafforzativa si mette dopo il nome (tuso libro-tu = questo libro qui); quando invece e pronome, la particella si mette subito dopo il pronome (tuto-tu, cino-ci).",
+      "Al posto del genitivo di specificazione riferito a persona si preferisce comunemente l'espressione con la preposizione asse piu accusativo: invece di tunù cristianù si dice asse tuto cristiano.",
+      "Nel pronome dimostrativo cinù vale sia per il maschile sia per il neutro singolare, mentre cinì e il genitivo femminile singolare; cinò vale per tutti e tre i generi al plurale.",
+      "Cino, cini, cino puo funzionare anche da pronome personale (egli, ella).",
+      "Nelle frasi si capisce il genere e il numero del dimostrativo dal nome a cui si riferisce e dalla persona del verbo: tui 'en katalei tipoti (terza singolare, costei) contro tui 'en katalenne tipoti (terza plurale, costoro)."
+    ],
+    "vocabulary": [
+      {
+        "parola_griko": "tuso",
+        "parola_italiano": "questo (aggettivo)"
+      },
+      {
+        "parola_griko": "tuo",
+        "parola_italiano": "questo, costui (pronome)"
+      },
+      {
+        "parola_griko": "cisso",
+        "parola_italiano": "quello (aggettivo)"
+      },
+      {
+        "parola_griko": "cino",
+        "parola_italiano": "quello, colui (pronome)"
+      },
+      {
+        "parola_griko": "tu",
+        "parola_italiano": "qui (particella rafforzativa)"
+      },
+      {
+        "parola_griko": "ci",
+        "parola_italiano": "li (particella rafforzativa, da ecì)"
+      },
+      {
+        "parola_griko": "sacco",
+        "parola_italiano": "sacco"
+      },
+      {
+        "parola_griko": "ora",
+        "parola_italiano": "ora"
+      },
+      {
+        "parola_griko": "seggia",
+        "parola_italiano": "sedia"
+      },
+      {
+        "parola_griko": "ciuriacì",
+        "parola_italiano": "domenica"
+      },
+      {
+        "parola_griko": "arnaci",
+        "parola_italiano": "agnellino"
+      },
+      {
+        "parola_griko": "cristiano",
+        "parola_italiano": "persona"
+      },
+      {
+        "parola_griko": "prosopo",
+        "parola_italiano": "viso"
+      },
+      {
+        "parola_griko": "citta",
+        "parola_italiano": "zitto, zitti"
+      },
+      {
+        "parola_griko": "furno",
+        "parola_italiano": "forno"
+      },
+      {
+        "parola_griko": "chorafi",
+        "parola_italiano": "campo"
+      },
+      {
+        "parola_griko": "maddhia",
+        "parola_italiano": "capelli"
+      },
+      {
+        "parola_griko": "vesta",
+        "parola_italiano": "veste"
+      },
+      {
+        "parola_griko": "sucia",
+        "parola_italiano": "fichi (le piante di fico)"
+      },
+      {
+        "parola_griko": "antropo",
+        "parola_italiano": "uomo"
+      },
+      {
+        "parola_griko": "franza",
+        "parola_italiano": "fronda"
+      },
+      {
+        "parola_griko": "astico",
+        "parola_italiano": "pavimento"
+      },
+      {
+        "parola_griko": "prama",
+        "parola_italiano": "cosa"
+      },
+      {
+        "parola_griko": "asimegno",
+        "parola_italiano": "argenteo, d'argento"
+      },
+      {
+        "parola_griko": "chrisafegno",
+        "parola_italiano": "aureo, d'oro"
+      },
+      {
+        "parola_griko": "rologi",
+        "parola_italiano": "orologio"
+      },
+      {
+        "parola_griko": "scoccola",
+        "parola_italiano": "sberla"
+      },
+      {
+        "parola_griko": "elie",
+        "parola_italiano": "olive"
+      },
+      {
+        "parola_griko": "gitonissa",
+        "parola_italiano": "vicina di casa"
+      },
+      {
+        "parola_griko": "scarso",
+        "parola_italiano": "pantalone"
+      },
+      {
+        "parola_griko": "frontì",
+        "parola_italiano": "fulmine, saetta"
+      },
+      {
+        "parola_griko": "calò",
+        "parola_italiano": "buono, bravo"
+      },
+      {
+        "parola_griko": "pedia",
+        "parola_italiano": "ragazzi, bambini, figli"
+      },
+      {
+        "parola_griko": "clefti",
+        "parola_italiano": "ruba (dal proverbio: cino pu clefti)"
+      }
+    ]
+  },
+  {
+    "order": 12,
+    "video_id": "wzTot2RZznQ",
+    "rules": [
+      "Gli aggettivi e pronomi indefiniti sono quasi tutti sia aggettivi sia pronomi; fa eccezione passo, passi, passo, che puo essere soltanto aggettivo.",
+      "Ena, mia, ena (uno, un tale, una tale) coincide con l'articolo indeterminativo e con il numerale cardinale e ha soltanto il singolare.",
+      "Canè (maschile), camia (femminile), canena (neutro) ha un doppio significato: in frase negativa vale 'nessuno', in frase affermativa o interrogativa vale 'qualche' se e aggettivo e 'qualcuno' se e pronome; ha soltanto il singolare.",
+      "Posso, possi, posso (tanto, parecchio) ha forme distinte per i tre generi e, a differenza di ena e canè, anche per il singolare e il plurale.",
+      "Quai e aggettivo o pronome indeclinabile, con la stessa uscita in -e per tutti i generi e per entrambi i numeri, e si traduce con 'certo', 'un tale', 'alcuni'.",
+      "Passo, passi, passo (ciascuno, ciascuna, ogni) funziona solo da aggettivo e non puo mai sostituire il nome.",
+      "Olo, oli, olo (tutto) ha una terminazione per ciascun genere al singolare e una al plurale; lo stesso schema seguono alìo (poco) e poddhì (molto).",
+      "Addho, addhi, addho significa 'altro' nel senso di 'diverso': si usa quando si vuole una cosa diversa da quella indicata prima.",
+      "Per dire invece 'un altro ancora', cioe uno in aggiunta a quelli di prima, non si usa addho ma il pronome addhona, addhomia, addhona.",
+      "Tispo e tipoti sono soltanto pronomi, mai aggettivi, e sono indeclinabili: in frase affermativa o interrogativa significano 'qualcuno' e 'qualcosa', in frase negativa 'nessuno' e 'niente'.",
+      "Tispo si usa solo quando fa da soggetto; quando serve il complemento oggetto si usa tinò (oppure canena).",
+      "Passo-ena, passo-mia, passo-ena e pronome e significa 'ciascuno', 'ognuno'."
+    ],
+    "vocabulary": [
+      {
+        "parola_griko": "ena / mia",
+        "parola_italiano": "uno, un tale, una tale"
+      },
+      {
+        "parola_griko": "canè",
+        "parola_italiano": "nessuno; qualche, qualcuno"
+      },
+      {
+        "parola_griko": "camia",
+        "parola_italiano": "nessuna; qualche, qualcuna"
+      },
+      {
+        "parola_griko": "canena",
+        "parola_italiano": "nessuno (neutro); qualcuno"
+      },
+      {
+        "parola_griko": "posso",
+        "parola_italiano": "tanto, parecchio"
+      },
+      {
+        "parola_griko": "quai",
+        "parola_italiano": "certo, un tale, alcuni"
+      },
+      {
+        "parola_griko": "passo",
+        "parola_italiano": "ogni, ciascuno"
+      },
+      {
+        "parola_griko": "passo-ena",
+        "parola_italiano": "ciascuno, ognuno"
+      },
+      {
+        "parola_griko": "olo",
+        "parola_italiano": "tutto"
+      },
+      {
+        "parola_griko": "alìo",
+        "parola_italiano": "poco"
+      },
+      {
+        "parola_griko": "poddhì",
+        "parola_italiano": "molto"
+      },
+      {
+        "parola_griko": "addho",
+        "parola_italiano": "altro (diverso)"
+      },
+      {
+        "parola_griko": "addhona",
+        "parola_italiano": "un altro ancora, un altro in piu"
+      },
+      {
+        "parola_griko": "tispo",
+        "parola_italiano": "qualcuno; nessuno (soggetto)"
+      },
+      {
+        "parola_griko": "tinò",
+        "parola_italiano": "qualcuno; nessuno (complemento oggetto)"
+      },
+      {
+        "parola_griko": "tipoti",
+        "parola_italiano": "qualcosa; niente"
+      },
+      {
+        "parola_griko": "cristiano",
+        "parola_italiano": "persona"
+      },
+      {
+        "parola_griko": "gineca",
+        "parola_italiano": "donna"
+      },
+      {
+        "parola_griko": "stati",
+        "parola_italiano": "cenere"
+      },
+      {
+        "parola_griko": "alevri",
+        "parola_italiano": "farina"
+      },
+      {
+        "parola_griko": "ecclisia",
+        "parola_italiano": "chiesa"
+      },
+      {
+        "parola_griko": "mesi",
+        "parola_italiano": "piazza"
+      },
+      {
+        "parola_griko": "mana",
+        "parola_italiano": "mamma"
+      },
+      {
+        "parola_griko": "pedia",
+        "parola_italiano": "figli, ragazzi"
+      },
+      {
+        "parola_griko": "elie",
+        "parola_italiano": "olive"
+      },
+      {
+        "parola_griko": "forà",
+        "parola_italiano": "volta"
+      },
+      {
+        "parola_griko": "milò",
+        "parola_italiano": "parlare"
+      },
+      {
+        "parola_griko": "vrisko",
+        "parola_italiano": "trovare"
+      },
+      {
+        "parola_griko": "psiddha",
+        "parola_italiano": "pulce"
+      }
+    ]
+  },
+  {
+    "order": 13,
+    "video_id": "fs2z_en6mIw",
+    "rules": [
+      "Gli aggettivi si dividono in qualificativi, che aggiungono una qualità al nome, e determinativi, che aggiungono una determinazione: numerali, possessivi, dimostrativi, interrogativi, indefiniti ed esclamativi.",
+      "Le stesse forme sono aggettivi quando accompagnano il nome e pronomi quando lo sostituiscono (tuto biblìo = questo libro, aggettivo; ecino = quello, pronome).",
+      "I numerali si distinguono in cardinali, ordinali, moltiplicativi, collettivi e distributivi.",
+      "Solo i primi quattro numeri cardinali variano secondo il genere: ena (maschile), mia (femminile), ena (neutro); dyo è indeclinabile; tris vale per maschile e femminile e tria per il neutro; tessaris per maschile e femminile e tessera per il neutro.",
+      "Il numerale ena si declina come l'articolo indeterminativo (ena, enù, ena).",
+      "Le decine si compongono premettendo la decina all'unità: ikosi ena (21), trianta mia (31), saranta dyo (42), peninta tria (53).",
+      "La -n finale dei numerali (akatòn, sarantan, triantan) si pronuncia davanti a parola che comincia per vocale o per consonante media (d, b, g, v), mentre cade davanti alle altre consonanti: akatòn ena, akatòn dyo, ma akatò tessera.",
+      "Dopo una parola ossitona la consonante iniziale della parola che segue si pronuncia raddoppiata.",
+      "tris si pronuncia con la -s davanti a vocale o consonante media, ma la perde davanti a consonante sorda (p, t, k, f, s): tris ambrì, ma tri kalì.",
+      "I numerali delle migliaia si formano con chiliada, che propriamente significa 'migliaio' ed è un nome collettivo: dyo chiliades = duemila; le date si esprimono allo stesso modo (chiglie ennakosie saranta ennea = 1949).",
+      "Degli ordinali il griko conserva solo protinò/protinì/protinò (primo); conservano però valore ordinale i nomi dei giorni della settimana (deftera = secondo giorno, triti = terzo, tetarti = quarto, pefti = quinto), perché la settimana comincia di domenica.",
+      "I moltiplicativi sono pochissimi: monaxò (solo) e diplò (doppio); i collettivi sono chiliada (migliaio), zevgari (coppia) e centinaro (centinaio).",
+      "I distributivi si formano ripetendo il numerale o aggiungendo una preposizione: ena ena (a uno a uno), ena jà ena (uno per ciascuno), ena ti forà (uno alla volta).",
+      "Le ore si indicano con la preposizione articolata ses (formata da as, dall'antico greco eis, più l'articolo femminile plurale tes) seguita dal numerale: ses deka (alle dieci), se mia (all'una), se dyo (alle due); in altri paesi della Grecìa si dice stes, sti mia.",
+      "I giorni del mese si indicano con la preposizione più l'ordinale, con il nome mera (giorno) che può essere omesso: si protinì mera aprilìu o semplicemente si protinì aprilìu (il primo di aprile).",
+      "La percentuale si esprime con la formula 'numero + passa akatò', letteralmente 'tanti ogni cento': deka passa akatò = dieci per cento.",
+      "La metà si dice misos (maschile), misi (femminile), misò (neutro) e concorda col nome: i mis' in ora = mezz'ora.",
+      "Le operazioni aritmetiche si esprimono con perifrasi: dyo ce dyo (2+2, letteralmente 'due e due'), as deka vgale pente (10-5, 'da dieci togli cinque'), tria epì tessera (3x4), tessera ta merazzome me to dyo (4:2, 'quattro li dividiamo per due')."
+    ],
+    "vocabulary": [
+      {
+        "parola_griko": "ena / mia",
+        "parola_italiano": "uno / una"
+      },
+      {
+        "parola_griko": "dyo",
+        "parola_italiano": "due"
+      },
+      {
+        "parola_griko": "tris / tria",
+        "parola_italiano": "tre"
+      },
+      {
+        "parola_griko": "tessaris / tessera",
+        "parola_italiano": "quattro"
+      },
+      {
+        "parola_griko": "pente",
+        "parola_italiano": "cinque"
+      },
+      {
+        "parola_griko": "eftà",
+        "parola_italiano": "sette"
+      },
+      {
+        "parola_griko": "deka",
+        "parola_italiano": "dieci"
+      },
+      {
+        "parola_griko": "enteka",
+        "parola_italiano": "undici"
+      },
+      {
+        "parola_griko": "dodeka",
+        "parola_italiano": "dodici"
+      },
+      {
+        "parola_griko": "dekatria",
+        "parola_italiano": "tredici"
+      },
+      {
+        "parola_griko": "dekatessera",
+        "parola_italiano": "quattordici"
+      },
+      {
+        "parola_griko": "ikosi",
+        "parola_italiano": "venti"
+      },
+      {
+        "parola_griko": "trianta",
+        "parola_italiano": "trenta"
+      },
+      {
+        "parola_griko": "saranta",
+        "parola_italiano": "quaranta"
+      },
+      {
+        "parola_griko": "peninta",
+        "parola_italiano": "cinquanta"
+      },
+      {
+        "parola_griko": "eksinta",
+        "parola_italiano": "sessanta"
+      },
+      {
+        "parola_griko": "ebdominta",
+        "parola_italiano": "settanta"
+      },
+      {
+        "parola_griko": "ogdonta",
+        "parola_italiano": "ottanta"
+      },
+      {
+        "parola_griko": "enneninta",
+        "parola_italiano": "novanta"
+      },
+      {
+        "parola_griko": "akatò",
+        "parola_italiano": "cento"
+      },
+      {
+        "parola_griko": "chiglia",
+        "parola_italiano": "mille"
+      },
+      {
+        "parola_griko": "chiliada",
+        "parola_italiano": "migliaio"
+      },
+      {
+        "parola_griko": "zevgari",
+        "parola_italiano": "coppia"
+      },
+      {
+        "parola_griko": "centinaro",
+        "parola_italiano": "centinaio"
+      },
+      {
+        "parola_griko": "monaxò",
+        "parola_italiano": "solo, soltanto"
+      },
+      {
+        "parola_griko": "diplò",
+        "parola_italiano": "doppio"
+      },
+      {
+        "parola_griko": "protinò",
+        "parola_italiano": "primo"
+      },
+      {
+        "parola_griko": "deftera",
+        "parola_italiano": "lunedì (secondo giorno)"
+      },
+      {
+        "parola_griko": "triti",
+        "parola_italiano": "martedì (terzo giorno)"
+      },
+      {
+        "parola_griko": "tetarti",
+        "parola_italiano": "mercoledì (quarto giorno)"
+      },
+      {
+        "parola_griko": "pefti",
+        "parola_italiano": "giovedì (quinto giorno)"
+      },
+      {
+        "parola_griko": "mera",
+        "parola_italiano": "giorno"
+      },
+      {
+        "parola_griko": "ora",
+        "parola_italiano": "ora"
+      },
+      {
+        "parola_griko": "chrono",
+        "parola_italiano": "anno"
+      },
+      {
+        "parola_griko": "misò",
+        "parola_italiano": "metà, mezzo"
+      },
+      {
+        "parola_griko": "sakko",
+        "parola_italiano": "sacco"
+      },
+      {
+        "parola_griko": "matia",
+        "parola_italiano": "occhi"
+      },
+      {
+        "parola_griko": "ena ena",
+        "parola_italiano": "a uno a uno"
+      },
+      {
+        "parola_griko": "ena ti forà",
+        "parola_italiano": "uno alla volta"
+      }
+    ]
+  },
+  {
+    "order": 14,
+    "video_id": "fOZxkr35OAs",
+    "rules": [
+      "Il pronome personale ha tre persone al singolare e al plurale e possiede, come in italiano, forme toniche (accentate) e forme atone (prive di accento proprio).",
+      "Le forme atone non hanno accento autonomo: si appoggiano alla parola che precede, e allora si dicono enclitiche, oppure alla parola che segue, e allora si dicono proclitiche.",
+      "Prima persona: egò (io) ed emì (noi) si usano soltanto con funzione di soggetto; nei complementi si usano le forme toniche emena (singolare) ed emà (plurale).",
+      "Le forme atone di prima persona sono mu per il complemento di termine e di specificazione e me per il complemento oggetto; al plurale mas vale per entrambi i casi.",
+      "Il genitivo atono (mu, su, tu, tis, mas, sas, tos) significa letteralmente 'di me, di te...' ma si usa come aggettivo possessivo: o pappo-mu = mio nonno, cioè 'il nonno di me'.",
+      "In griko è normale ripetere nella stessa frase la forma tonica e quella atona dello stesso pronome (s'emena en mu ipe tipoti = 'a me non mi ha detto niente'), costruzione che in italiano non sarebbe corretta.",
+      "Dopo una parola ossitona la consonante iniziale del pronome atono si pronuncia raddoppiata (jomo-mmu to potiri = riempimi il bicchiere).",
+      "Seconda persona: esù (tu) ed esì (voi) come soggetto; forme toniche di complemento esena ed esà; forme atone su (termine e possessivo) e se (oggetto) al singolare, sas al plurale.",
+      "Anche per la seconda persona il genitivo atono su/sas si usa solo come possessivo (tuo, vostro), mentre su e se corrispondono a 'ti', sas a 'vi'.",
+      "Per la terza persona il griko non ha un pronome proprio: usa il dimostrativo ecino, ecini, ecino ('quello, quella'), sia come soggetto sia come complemento oggetto.",
+      "Le forme atone di terza persona sono tu e tis per il complemento di termine (gli, le), ton, tin, to per il complemento oggetto (lo, la), tos per 'a loro' e tus, tes, ta per 'li, le'.",
+      "Il genitivo tonico di terza persona si forma con la preposizione a(s) più il dimostrativo: acinù, acinìs = di lui, di lei.",
+      "Attenzione alla forma ecina: non è un femminile singolare ma l'accusativo neutro plurale; me cina = con quelli (cose o nomi neutri), me cini = con lei, me cinu = con quelli (maschile)."
+    ],
+    "vocabulary": [
+      {
+        "parola_griko": "egò",
+        "parola_italiano": "io"
+      },
+      {
+        "parola_griko": "emì",
+        "parola_italiano": "noi"
+      },
+      {
+        "parola_griko": "emena",
+        "parola_italiano": "me, di me, a me"
+      },
+      {
+        "parola_griko": "emà",
+        "parola_italiano": "noi, a noi, di noi"
+      },
+      {
+        "parola_griko": "mu",
+        "parola_italiano": "mi, a me; mio"
+      },
+      {
+        "parola_griko": "me",
+        "parola_italiano": "mi (complemento oggetto)"
+      },
+      {
+        "parola_griko": "mas",
+        "parola_italiano": "ci, a noi; nostro"
+      },
+      {
+        "parola_griko": "esù",
+        "parola_italiano": "tu"
+      },
+      {
+        "parola_griko": "esì",
+        "parola_italiano": "voi"
+      },
+      {
+        "parola_griko": "esena",
+        "parola_italiano": "te, di te, a te"
+      },
+      {
+        "parola_griko": "esà",
+        "parola_italiano": "voi, di voi, a voi"
+      },
+      {
+        "parola_griko": "su",
+        "parola_italiano": "ti, a te; tuo"
+      },
+      {
+        "parola_griko": "se",
+        "parola_italiano": "ti (complemento oggetto)"
+      },
+      {
+        "parola_griko": "sas",
+        "parola_italiano": "vi, a voi; vostro"
+      },
+      {
+        "parola_griko": "ecino",
+        "parola_italiano": "egli, lui, quello"
+      },
+      {
+        "parola_griko": "ecini",
+        "parola_italiano": "ella, lei, quella"
+      },
+      {
+        "parola_griko": "ecini / ecina",
+        "parola_italiano": "essi, esse, quelli, quelle"
+      },
+      {
+        "parola_griko": "tu",
+        "parola_italiano": "gli, a lui"
+      },
+      {
+        "parola_griko": "tis",
+        "parola_italiano": "le, a lei"
+      },
+      {
+        "parola_griko": "ton",
+        "parola_italiano": "lo"
+      },
+      {
+        "parola_griko": "tin",
+        "parola_italiano": "la"
+      },
+      {
+        "parola_griko": "tus",
+        "parola_italiano": "li, a loro"
+      },
+      {
+        "parola_griko": "pappo",
+        "parola_italiano": "nonno"
+      },
+      {
+        "parola_griko": "mana",
+        "parola_italiano": "madre, mamma"
+      },
+      {
+        "parola_griko": "pedì",
+        "parola_italiano": "ragazzo, figlio"
+      },
+      {
+        "parola_griko": "pedàci",
+        "parola_italiano": "ragazza, figlia"
+      },
+      {
+        "parola_griko": "potiri",
+        "parola_italiano": "bicchiere"
+      },
+      {
+        "parola_griko": "krea",
+        "parola_italiano": "carne"
+      },
+      {
+        "parola_griko": "sitari",
+        "parola_italiano": "grano"
+      },
+      {
+        "parola_griko": "krasì",
+        "parola_italiano": "vino"
+      },
+      {
+        "parola_griko": "zomì",
+        "parola_italiano": "pane"
+      },
+      {
+        "parola_griko": "strata",
+        "parola_italiano": "strada"
+      },
+      {
+        "parola_griko": "dascalo",
+        "parola_italiano": "maestro"
+      },
+      {
+        "parola_griko": "mea",
+        "parola_italiano": "grande"
+      }
+    ]
+  },
+  {
+    "order": 15,
+    "video_id": "TBmX4e6y9og",
+    "rules": [
+      "Le stesse forme si chiamano interrogative quando compaiono in una frase interrogativa ed esclamative quando compaiono in una frase esclamativa.",
+      "tis (chi) ha un'unica forma per maschile, femminile e neutro e si riferisce sempre a persone; ti (che, che cosa) è neutro e si riferisce a cose.",
+      "tis è soltanto pronome, mentre ti può essere sia pronome sia aggettivo.",
+      "tis si declina in tutti i casi: nominativo tis (chi), genitivo tinos (di chi), dativo tinos (a chi), accusativo tino (chi).",
+      "L'accusativo tino dell'interrogativo non va confuso con l'omofono indefinito tino ('nessuno, qualcuno') usato nelle frasi negative: en fònasa tino = non ho chiamato nessuno.",
+      "posso, possi, posso (quanto, quanta) si declina come gli aggettivi del tipo mali/malo (grande), cioè con uscita in -o al maschile e neutro e -i al femminile.",
+      "plio, plia, plio (quale) si declina invece come gli aggettivi del tipo pachì (grosso), che escono in -ì al nominativo singolare.",
+      "Una stessa forma è aggettivo quando accompagna il nome e pronome quando lo sostituisce: ti prama ene tuto? (aggettivo) contro ti mu lei? (pronome).",
+      "La -s finale di possus a volte si pronuncia e a volte cade: si può dire indifferentemente possus chronus ei o posso chronus ei.",
+      "I pronomi relativi sono pu e ka: entrambi sono indeclinabili e valgono per il singolare e per il plurale, traducendo 'che, il quale, la quale, i quali, le quali'.",
+      "pu è di origine greca ed è usato anche nel greco moderno, mentre ka deriva dal latino quod; non esiste una regola fissa e si possono usare indifferentemente.",
+      "Il dimostrativo ecino, ecini, ecina funge anche da antecedente del relativo e si traduce 'colui che, colei che, quelli che'; solo il numero del verbo che segue permette di capire se ecini è femminile singolare o maschile plurale (ecini pu lei = colei che dice; ecini pu lene = quelli che dicono)."
+    ],
+    "vocabulary": [
+      {
+        "parola_griko": "tis",
+        "parola_italiano": "chi"
+      },
+      {
+        "parola_griko": "ti",
+        "parola_italiano": "che, che cosa"
+      },
+      {
+        "parola_griko": "tinos",
+        "parola_italiano": "di chi, a chi"
+      },
+      {
+        "parola_griko": "tino",
+        "parola_italiano": "chi (complemento oggetto); nessuno"
+      },
+      {
+        "parola_griko": "posso",
+        "parola_italiano": "quanto, quanta"
+      },
+      {
+        "parola_griko": "plio",
+        "parola_italiano": "quale"
+      },
+      {
+        "parola_griko": "pu",
+        "parola_italiano": "che, il quale; dove"
+      },
+      {
+        "parola_griko": "ka",
+        "parola_italiano": "che, il quale"
+      },
+      {
+        "parola_griko": "prama",
+        "parola_italiano": "cosa"
+      },
+      {
+        "parola_griko": "pedì",
+        "parola_italiano": "ragazzo"
+      },
+      {
+        "parola_griko": "chrono",
+        "parola_italiano": "anno"
+      },
+      {
+        "parola_griko": "rolòi",
+        "parola_italiano": "orologio"
+      },
+      {
+        "parola_griko": "ebdomada",
+        "parola_italiano": "settimana"
+      },
+      {
+        "parola_griko": "psari",
+        "parola_italiano": "pesce"
+      },
+      {
+        "parola_griko": "elies",
+        "parola_italiano": "olive"
+      },
+      {
+        "parola_griko": "kalò",
+        "parola_italiano": "buono"
+      },
+      {
+        "parola_griko": "mali",
+        "parola_italiano": "grande"
+      },
+      {
+        "parola_griko": "pachì",
+        "parola_italiano": "grosso"
+      },
+      {
+        "parola_griko": "sperno",
+        "parola_italiano": "semino"
+      },
+      {
+        "parola_griko": "terizo",
+        "parola_italiano": "mieto, raccolgo"
+      },
+      {
+        "parola_griko": "matara",
+        "parola_italiano": "bugiarda"
+      }
+    ]
+  },
+  {
+    "order": 16,
+    "video_id": "_nQhT5XUggI",
+    "rules": [
+      "Molti avverbi derivano da aggettivi: si toglie la desinenza del nominativo singolare e si aggiunge una -a finale (da presto si ha presta, da tardo si ha tarda); lo stesso procedimento vale anche in neogreco.",
+      "Per fissare gli avverbi in memoria conviene impararli sempre dentro una breve frase, perché un termine si ricorda solo se inserito in un contesto.",
+      "Gli avverbi di modo rispondono alla domanda 'come?': antama (insieme), siga siga (piano piano), krifà (di nascosto), fanerà (apertamente), olamià (tutto a un tratto), kalà (bene), ascimà (male), itu (così), pos (come).",
+      "Gli avverbi di luogo distinguono la posizione vicino a chi parla (etù = qui) da quella lontana (ecì = lì), e si combinano con altri avverbi per formare composti: etù + embrò dà etumbrò (qui davanti, qui fuori), ecì + embrò dà ecimbrò (lì davanti).",
+      "essu significa 'dentro' ma anche 'a casa', mentre ozzu significa letteralmente 'fuori' e per estensione 'in campagna', cioè fuori dalle mura del paese.",
+      "La forma pu è avverbio di luogo quando significa 'dove' ed è invece pronome relativo quando significa 'che, il quale': nella stessa frase possono comparire entrambi (pu stei to macheri pu su edoka?).",
+      "Gli avverbi di tempo formano coppie e serie regolari: ettè (ieri) e protettè (avantieri), simeri (oggi), avri (domani), metavrì (dopodomani), mettì metavrì (fra tre giorni), feto (quest'anno), fetoportè (l'anno venturo), pertsi (l'anno scorso), propertsi (due anni fa).",
+      "La parola porna (mattina) deriva dal greco proinò (mattutino) e si combina con gli altri avverbi temporali: attiporna (stamattina), ettè porna (ieri mattina).",
+      "Alcuni avverbi hanno due forme equivalenti, entrambe corrette: pale o mapale (di nuovo), pukanè o jurizze pukanè (dappertutto), macrà o larga (lontano).",
+      "Gli avverbi di quantità, di affermazione e negazione e gli avverbi interrogativi ed esclamativi non rientrano in questa lezione e vengono trattati insieme a congiunzioni e interiezioni."
+    ],
+    "vocabulary": [
+      {
+        "parola_griko": "antama",
+        "parola_italiano": "insieme"
+      },
+      {
+        "parola_griko": "siga siga",
+        "parola_italiano": "piano piano"
+      },
+      {
+        "parola_griko": "krifà",
+        "parola_italiano": "di nascosto"
+      },
+      {
+        "parola_griko": "fanerà",
+        "parola_italiano": "apertamente"
+      },
+      {
+        "parola_griko": "olamià",
+        "parola_italiano": "tutto a un tratto"
+      },
+      {
+        "parola_griko": "kalà",
+        "parola_italiano": "bene"
+      },
+      {
+        "parola_griko": "ascimà",
+        "parola_italiano": "male"
+      },
+      {
+        "parola_griko": "itu",
+        "parola_italiano": "così"
+      },
+      {
+        "parola_griko": "pos",
+        "parola_italiano": "come"
+      },
+      {
+        "parola_griko": "etù",
+        "parola_italiano": "qui"
+      },
+      {
+        "parola_griko": "ecì",
+        "parola_italiano": "lì"
+      },
+      {
+        "parola_griko": "embrò",
+        "parola_italiano": "avanti, davanti"
+      },
+      {
+        "parola_griko": "ampì",
+        "parola_italiano": "dietro"
+      },
+      {
+        "parola_griko": "apanu",
+        "parola_italiano": "sopra"
+      },
+      {
+        "parola_griko": "akau",
+        "parola_italiano": "sotto"
+      },
+      {
+        "parola_griko": "ammesa",
+        "parola_italiano": "in mezzo"
+      },
+      {
+        "parola_griko": "pukanè",
+        "parola_italiano": "dappertutto"
+      },
+      {
+        "parola_griko": "ecessu",
+        "parola_italiano": "lì dentro"
+      },
+      {
+        "parola_griko": "etossu",
+        "parola_italiano": "qui dentro"
+      },
+      {
+        "parola_griko": "essu",
+        "parola_italiano": "dentro, a casa"
+      },
+      {
+        "parola_griko": "ozzu",
+        "parola_italiano": "fuori, in campagna"
+      },
+      {
+        "parola_griko": "macrà",
+        "parola_italiano": "lontano"
+      },
+      {
+        "parola_griko": "kuccia",
+        "parola_italiano": "vicino"
+      },
+      {
+        "parola_griko": "larga",
+        "parola_italiano": "lontano"
+      },
+      {
+        "parola_griko": "etumbrò",
+        "parola_italiano": "qui davanti, qui fuori"
+      },
+      {
+        "parola_griko": "ecimbrò",
+        "parola_italiano": "lì davanti, lì fuori"
+      },
+      {
+        "parola_griko": "sortea",
+        "parola_italiano": "diritto, da quella parte"
+      },
+      {
+        "parola_griko": "ecipisu",
+        "parola_italiano": "là dietro"
+      },
+      {
+        "parola_griko": "pu",
+        "parola_italiano": "dove"
+      },
+      {
+        "parola_griko": "apupù",
+        "parola_italiano": "da dove"
+      },
+      {
+        "parola_griko": "attù ce addhà",
+        "parola_italiano": "di qua e di là"
+      },
+      {
+        "parola_griko": "agrà",
+        "parola_italiano": "rasente"
+      },
+      {
+        "parola_griko": "ettè",
+        "parola_italiano": "ieri"
+      },
+      {
+        "parola_griko": "protettè",
+        "parola_italiano": "avantieri"
+      },
+      {
+        "parola_griko": "panta",
+        "parola_italiano": "sempre"
+      },
+      {
+        "parola_griko": "arte / artena",
+        "parola_italiano": "adesso"
+      },
+      {
+        "parola_griko": "protinà",
+        "parola_italiano": "prima"
+      },
+      {
+        "parola_griko": "attinìtta",
+        "parola_italiano": "stanotte"
+      },
+      {
+        "parola_griko": "attivrài",
+        "parola_italiano": "stasera"
+      },
+      {
+        "parola_griko": "attiporna",
+        "parola_italiano": "stamattina"
+      },
+      {
+        "parola_griko": "porna",
+        "parola_italiano": "mattina"
+      },
+      {
+        "parola_griko": "presta",
+        "parola_italiano": "presto"
+      },
+      {
+        "parola_griko": "tarda",
+        "parola_italiano": "tardi"
+      },
+      {
+        "parola_griko": "simeri",
+        "parola_italiano": "oggi"
+      },
+      {
+        "parola_griko": "avri",
+        "parola_italiano": "domani"
+      },
+      {
+        "parola_griko": "metavrì",
+        "parola_italiano": "dopodomani"
+      },
+      {
+        "parola_griko": "tote",
+        "parola_italiano": "allora"
+      },
+      {
+        "parola_griko": "pale / mapale",
+        "parola_italiano": "di nuovo"
+      },
+      {
+        "parola_griko": "feto",
+        "parola_italiano": "quest'anno"
+      },
+      {
+        "parola_griko": "fetoportè",
+        "parola_italiano": "l'anno venturo"
+      },
+      {
+        "parola_griko": "pertsi",
+        "parola_italiano": "l'anno scorso"
+      },
+      {
+        "parola_griko": "propertsi",
+        "parola_italiano": "due anni fa"
+      },
+      {
+        "parola_griko": "pote",
+        "parola_italiano": "quando"
+      },
+      {
+        "parola_griko": "sitari",
+        "parola_italiano": "grano"
+      },
+      {
+        "parola_griko": "macheri",
+        "parola_italiano": "coltello"
+      },
+      {
+        "parola_griko": "kanno",
+        "parola_italiano": "camino, focolare"
+      }
+    ]
+  },
+  {
+    "order": 17,
+    "video_id": "AeljpaGekrk",
+    "rules": [
+      "tipoti cambia significato secondo il tipo di frase: nelle frasi negative vale 'niente' (en echo tipoti na su doko), nelle frasi positive o interrogative vale 'qualcosa' (echi tipoti na mu dosi?).",
+      "plion significa 'più' e conserva la -n davanti a vocale o consonante dolce, mentre la perde davanti alle altre consonanti.",
+      "isa isa significa 'pari pari' e anche 'appena in tempo', secondo il contesto.",
+      "L'espressione tin alìzia (letteralmente 'la verità') si usa nel senso di 'davvero, veramente', con il verbo 'dire' sottinteso; è la stessa costruzione del dialetto salentino ('la verità, io ho fatto questo').",
+      "propria accompagna la negazione e la rafforza: en ennasteni propria = non serve affatto, non serve del tutto.",
+      "Le interiezioni più comuni sono òimena (povero me), na (ecco), fotìa fotìa (aiuto, letteralmente 'fuoco fuoco'), kalòs irtes/irtate (benvenuto/benvenuti).",
+      "mara si costruisce con la forma tonica del pronome e significa 'peggio per': mara cemena (peggio per me), mara cesena (peggio per te), mara cecino (peggio per lui).",
+      "magàri è indeclinabile, si usa con il pronome enclitico e significa 'beato': magàri-mu (beato me), magàri-su (beato te), magàri-tu (beato lui).",
+      "Spesso in griko l'infinito sostantivato sostituisce il nome: to fai significa 'il mangiare' e quindi 'il cibo'.",
+      "piri introduce il secondo termine di paragone ('che'): kagliò mialò piri plutu = meglio cervello che ricchezza; quando piri è seguito da na assume invece il valore di 'anziché, invece di'.",
+      "La -n finale di parole come ton, min, san cade davanti a consonante sorda e viene segnata con l'apostrofo.",
+      "Quando due vocali di parole contigue si fondono si ha la crasi: su t'ipa deriva da su + to + ipa.",
+      "Le preposizioni si distinguono in semplici e articolate come in italiano; apù (da) si apostrofa in ap' davanti a parola che comincia per vocale.",
+      "Nel genitivo femminile singolare al posto dell'articolo tis si usa spesso atti: t'argalìo ene atti mana-mu = il telaio è di mia madre.",
+      "La preposizione se/is introduce anche il complemento di materia: to dachtilìdi ene se chrusò = questo anello è d'oro."
+    ],
+    "vocabulary": [
+      {
+        "parola_griko": "tipoti",
+        "parola_italiano": "niente; qualcosa"
+      },
+      {
+        "parola_griko": "plion",
+        "parola_italiano": "più"
+      },
+      {
+        "parola_griko": "poddhì",
+        "parola_italiano": "molto"
+      },
+      {
+        "parola_griko": "oligo",
+        "parola_italiano": "poco"
+      },
+      {
+        "parola_griko": "nasprì",
+        "parola_italiano": "un po'"
+      },
+      {
+        "parola_griko": "posso",
+        "parola_italiano": "tanto, parecchio"
+      },
+      {
+        "parola_griko": "kaitosso",
+        "parola_italiano": "ogni tanto"
+      },
+      {
+        "parola_griko": "plon oligo",
+        "parola_italiano": "meno"
+      },
+      {
+        "parola_griko": "isa isa",
+        "parola_italiano": "pari pari, appena in tempo"
+      },
+      {
+        "parola_griko": "umme",
+        "parola_italiano": "sì"
+      },
+      {
+        "parola_griko": "degnà",
+        "parola_italiano": "no"
+      },
+      {
+        "parola_griko": "en",
+        "parola_italiano": "non, non c'è"
+      },
+      {
+        "parola_griko": "ghiatì",
+        "parola_italiano": "perché"
+      },
+      {
+        "parola_griko": "pote",
+        "parola_italiano": "quando"
+      },
+      {
+        "parola_griko": "alìzia",
+        "parola_italiano": "verità"
+      },
+      {
+        "parola_griko": "propria",
+        "parola_italiano": "affatto, del tutto"
+      },
+      {
+        "parola_griko": "òimena",
+        "parola_italiano": "povero me"
+      },
+      {
+        "parola_griko": "mara cemena",
+        "parola_italiano": "peggio per me"
+      },
+      {
+        "parola_griko": "na",
+        "parola_italiano": "ecco"
+      },
+      {
+        "parola_griko": "fotìa",
+        "parola_italiano": "fuoco (fotìa fotìa = aiuto)"
+      },
+      {
+        "parola_griko": "magàri-mu",
+        "parola_italiano": "beato me"
+      },
+      {
+        "parola_griko": "kalòs irtes",
+        "parola_italiano": "benvenuto"
+      },
+      {
+        "parola_griko": "ce",
+        "parola_italiano": "e"
+      },
+      {
+        "parola_griko": "mide",
+        "parola_italiano": "né"
+      },
+      {
+        "parola_griko": "ma",
+        "parola_italiano": "ma"
+      },
+      {
+        "parola_griko": "mo tuto",
+        "parola_italiano": "con tutto ciò"
+      },
+      {
+        "parola_griko": "ka",
+        "parola_italiano": "che"
+      },
+      {
+        "parola_griko": "an",
+        "parola_italiano": "se"
+      },
+      {
+        "parola_griko": "piri",
+        "parola_italiano": "che (secondo termine di paragone); anziché"
+      },
+      {
+        "parola_griko": "kagliò",
+        "parola_italiano": "meglio"
+      },
+      {
+        "parola_griko": "san",
+        "parola_italiano": "come"
+      },
+      {
+        "parola_griko": "mai",
+        "parola_italiano": "affinché, finché"
+      },
+      {
+        "parola_griko": "sape",
+        "parola_italiano": "come se"
+      },
+      {
+        "parola_griko": "apù",
+        "parola_italiano": "da"
+      },
+      {
+        "parola_griko": "me",
+        "parola_italiano": "con"
+      },
+      {
+        "parola_griko": "atti",
+        "parola_italiano": "della"
+      },
+      {
+        "parola_griko": "fai",
+        "parola_italiano": "cibo, il mangiare"
+      },
+      {
+        "parola_griko": "mialò",
+        "parola_italiano": "cervello"
+      },
+      {
+        "parola_griko": "plutu",
+        "parola_italiano": "ricchezza"
+      },
+      {
+        "parola_griko": "argalìo",
+        "parola_italiano": "telaio"
+      },
+      {
+        "parola_griko": "kupeta",
+        "parola_italiano": "coperta"
+      },
+      {
+        "parola_griko": "dachtilìdi",
+        "parola_italiano": "anello"
+      },
+      {
+        "parola_griko": "chrusò",
+        "parola_italiano": "oro"
+      },
+      {
+        "parola_griko": "praino",
+        "parola_italiano": "carro"
+      },
+      {
+        "parola_griko": "krisari",
+        "parola_italiano": "orzo"
+      },
+      {
+        "parola_griko": "sciddho",
+        "parola_italiano": "cane"
+      },
+      {
+        "parola_griko": "reda",
+        "parola_italiano": "capretta"
+      }
+    ]
+  },
+  {
+    "order": 18,
+    "video_id": "FT0UHEjkuh4",
+    "rules": [
+      "Il verbo griko ha tre forme: attiva, quando il soggetto compie l'azione; passiva, quando il soggetto la subisce; medio-passiva, che corrisponde alla forma riflessiva italiana.",
+      "La desinenza è la parte mobile del verbo e indica persona e numero, mentre il tema (o radice) è la parte fissa che non cambia.",
+      "La forma attiva ha desinenza -o (denno = io lego), la forma medio-passiva ha desinenza -ome (dennome = io mi lego).",
+      "La forma passiva si costruisce con il verbo essere più il participio passato (ime demeno), ma per indicare che il soggetto subisce davvero l'azione è preferibile usare erkome ('vengo') più il participio: erkome demeno = vengo legato da un altro; ime demeno indica piuttosto lo stato di chi è già legato.",
+      "La forma passiva è poco usata in griko: di solito si preferisce volgere la frase all'attivo.",
+      "Quasi tutti i verbi possono avere sia la forma attiva sia la medio-passiva, ma alcuni verbi come fenome (sembro), erkome (vengo), ghenome (divento) e forume (ho paura) hanno solo la desinenza medio-passiva pur conservando significato attivo.",
+      "I verbi si dividono in transitivi, quando l'azione passa direttamente su un complemento oggetto, e intransitivi, quando questo non è possibile.",
+      "Alcuni verbi, come meno (aspetto/mi fermo), feo (corro/tolgo) e ghirizo (torno/restituisco), possono essere usati sia transitivamente sia intransitivamente e cambiano significato di conseguenza.",
+      "I tempi del verbo griko si formano da due temi diversi: il tema del presente e il tema dell'aoristo.",
+      "L'aoristo corrisponde al passato remoto italiano, ma si usa anche per il passato prossimo, perché il griko non distingue fra passato recente e passato remoto; il suo nome deriva dall'alfa privativo più il verbo orizo (delimitare) e significa 'indefinito'.",
+      "Il tema dell'aoristo attivo si forma aggiungendo una -s- al tema del presente (den- diventa des-), quello medio-passivo aggiungendo -st- o, in alcuni verbi, la sola -t- (den- diventa dest-, oppure dith-).",
+      "Dal tema del presente si formano il presente attivo e medio-passivo, il participio presente in -onta (denonta = legando, con valore temporale) e l'imperfetto attivo e medio-passivo.",
+      "Dal tema dell'aoristo si formano l'aoristo, il futuro, l'imperativo, il participio aoristo in -onta e l'infinito.",
+      "Il participio presente in -onta ha valore temporale ('mentre lego'), mentre il participio aoristo ha valore ipotetico ('se avessi legato').",
+      "In griko non esiste un futuro vero e proprio: si ricorre alla perifrasi con enna (enna deso = legherò, letteralmente 'devo legare').",
+      "L'infinito si usa soltanto dopo il verbo sozo (potere): en sozo desi = non posso legare.",
+      "L'aumento è una vocale premessa al verbo nei tempi passati: i verbi che cominciano per consonante possono averlo (edenna) oppure no (filò fa filia), mentre i verbi che cominciano per vocale non lo prendono mai (afinno fa afika); nella forma medio-passiva l'aumento quasi sempre non si fa sentire."
+    ],
+    "vocabulary": [
+      {
+        "parola_griko": "denno",
+        "parola_italiano": "io lego"
+      },
+      {
+        "parola_griko": "dennome",
+        "parola_italiano": "io mi lego"
+      },
+      {
+        "parola_griko": "edesa",
+        "parola_italiano": "io legai"
+      },
+      {
+        "parola_griko": "edenna",
+        "parola_italiano": "io legavo"
+      },
+      {
+        "parola_griko": "enna deso",
+        "parola_italiano": "io legherò"
+      },
+      {
+        "parola_griko": "desi",
+        "parola_italiano": "legare"
+      },
+      {
+        "parola_griko": "denonta",
+        "parola_italiano": "legando"
+      },
+      {
+        "parola_griko": "demeno",
+        "parola_italiano": "legato"
+      },
+      {
+        "parola_griko": "destimo",
+        "parola_italiano": "io mi legai"
+      },
+      {
+        "parola_griko": "ime",
+        "parola_italiano": "io sono"
+      },
+      {
+        "parola_griko": "erkome",
+        "parola_italiano": "io vengo"
+      },
+      {
+        "parola_griko": "fenome",
+        "parola_italiano": "io sembro"
+      },
+      {
+        "parola_griko": "ghenome",
+        "parola_italiano": "io divento"
+      },
+      {
+        "parola_griko": "forume",
+        "parola_italiano": "io ho paura"
+      },
+      {
+        "parola_griko": "meno",
+        "parola_italiano": "aspetto, mi fermo"
+      },
+      {
+        "parola_griko": "feo",
+        "parola_italiano": "corro; tolgo"
+      },
+      {
+        "parola_griko": "ghirizo",
+        "parola_italiano": "torno; restituisco"
+      },
+      {
+        "parola_griko": "sozo",
+        "parola_italiano": "posso"
+      },
+      {
+        "parola_griko": "kofto",
+        "parola_italiano": "io taglio"
+      },
+      {
+        "parola_griko": "filò",
+        "parola_italiano": "io bacio"
+      },
+      {
+        "parola_griko": "serno",
+        "parola_italiano": "io tiro"
+      },
+      {
+        "parola_griko": "afinno",
+        "parola_italiano": "io lascio"
+      },
+      {
+        "parola_griko": "orizo",
+        "parola_italiano": "delimitare"
+      },
+      {
+        "parola_griko": "damali",
+        "parola_italiano": "bue, giovenca"
+      },
+      {
+        "parola_griko": "macheria",
+        "parola_italiano": "coltelli"
+      },
+      {
+        "parola_griko": "skarpe",
+        "parola_italiano": "scarpe"
+      },
+      {
+        "parola_griko": "eklisìa",
+        "parola_italiano": "chiesa"
+      },
+      {
+        "parola_griko": "mesi",
+        "parola_italiano": "piazza"
+      }
+    ]
+  },
+  {
+    "order": 19,
+    "video_id": "Hq86yBr9T1Y",
+    "rules": [
+      "Il verbo 'echo' (avere) ha nell'indicativo quattro tempi: presente, imperfetto (che coincide con l'aoristo), perfetto e piuccheperfetto; gli ultimi due sono tempi composti e corrispondono al passato prossimo e al trapassato italiani.",
+      "Presente indicativo di 'echo': echo, echi, echi, echome, echete, echune; l'imperfetto/aoristo fa icha, iche, iche, ichamo, ichato, ichan.",
+      "Il perfetto di 'echo' si forma con il presente dell'ausiliare più il participio passato 'avuta', che però è un italianismo: è preferibile ricorrere all'aoristo e dire 'icha' invece di 'echo avuta'.",
+      "Il piuccheperfetto si forma con l'imperfetto 'icha' più il participio 'echonta' e traduce sia 'avevo avuto' sia 'abbia avuto'.",
+      "Il congiuntivo si forma premettendo alle forme dell'indicativo la congiunzione finale 'na'; l'incontro fra 'na' e la vocale iniziale del verbo provoca la caduta di quest'ultima, fenomeno detto aferesi (na + echo = na 'cho).",
+      "Il congiuntivo presente ha lo stesso tema del presente indicativo, mentre il congiuntivo imperfetto ha lo stesso tema dell'aoristo.",
+      "Il griko non possiede un condizionale proprio: al suo posto si usa l'imperfetto indicativo, esattamente come nell'italiano popolare si dice 'io preferivo' invece di 'io preferirei'.",
+      "L'imperativo di 'echo' ha una forma per la seconda persona singolare e una per la plurale e ricorre in espressioni idiomatiche come 'tieni a mente', letteralmente 'abbi a mente'.",
+      "Il participio presente di 'echo' è 'echonta' (avendo) e può assumere valore ipotetico, equivalendo a 'se avessi'.",
+      "L'infinito in griko non si usa liberamente: compare soltanto dopo il verbo 'sozo' (potere), come in 'ivò sozo echi' = io posso avere.",
+      "Il congiuntivo del verbo 'ime' (essere) ha le stesse forme dell'indicativo precedute da 'na': na ime (che io sia), na imone (che io fossi), na ime stameno (che io sia stato), na imone stameno (che io fossi stato).",
+      "Anche per 'ime' il condizionale è reso con l'imperfetto indicativo: 'imone' vale insieme 'ero', 'fossi' e 'sarei'.",
+      "Il verbo 'ime' non ha participi propri: prende in prestito quelli del verbo 'steo' (stare), cioè 'stonta' (stando, con valore anche ipotetico) e 'stameno' (stato).",
+      "Il participio passato 'stameno' è un aggettivo verbale e si accorda con il nome: stameno al maschile, stameni al femminile, stameno al neutro.",
+      "L'infinito di 'ime' sopravvive nella forma arcaica ereditata dal greco classico usata dopo 'sozo': 'sozi esti' significa 'può essere, è possibile'.",
+      "La congiunzione 'an' (se) rende ipotetico il verbo che segue, esattamente come il 'se' italiano: an imone... = se fossi..."
+    ],
+    "vocabulary": [
+      {
+        "parola_griko": "echo",
+        "parola_italiano": "io ho"
+      },
+      {
+        "parola_griko": "echi",
+        "parola_italiano": "tu hai / egli ha"
+      },
+      {
+        "parola_griko": "echome",
+        "parola_italiano": "noi abbiamo"
+      },
+      {
+        "parola_griko": "echete",
+        "parola_italiano": "voi avete"
+      },
+      {
+        "parola_griko": "echune",
+        "parola_italiano": "essi hanno"
+      },
+      {
+        "parola_griko": "icha",
+        "parola_italiano": "io avevo / io ebbi"
+      },
+      {
+        "parola_griko": "ichamo",
+        "parola_italiano": "noi avevamo / noi avemmo"
+      },
+      {
+        "parola_griko": "echonta",
+        "parola_italiano": "avendo (participio)"
+      },
+      {
+        "parola_griko": "na 'cho",
+        "parola_italiano": "che io abbia"
+      },
+      {
+        "parola_griko": "ime",
+        "parola_italiano": "io sono"
+      },
+      {
+        "parola_griko": "imone",
+        "parola_italiano": "io ero / io fossi / io sarei"
+      },
+      {
+        "parola_griko": "ine",
+        "parola_italiano": "è / essere"
+      },
+      {
+        "parola_griko": "stonta",
+        "parola_italiano": "stando"
+      },
+      {
+        "parola_griko": "stameno",
+        "parola_italiano": "stato"
+      },
+      {
+        "parola_griko": "sozi esti",
+        "parola_italiano": "può essere, è possibile"
+      },
+      {
+        "parola_griko": "sozo",
+        "parola_italiano": "io posso"
+      },
+      {
+        "parola_griko": "an",
+        "parola_italiano": "se"
+      },
+      {
+        "parola_griko": "na",
+        "parola_italiano": "che (congiunzione finale)"
+      },
+      {
+        "parola_griko": "avri",
+        "parola_italiano": "domani"
+      },
+      {
+        "parola_griko": "sìmmeri",
+        "parola_italiano": "oggi"
+      },
+      {
+        "parola_griko": "ettè",
+        "parola_italiano": "ieri"
+      },
+      {
+        "parola_griko": "tipoti",
+        "parola_italiano": "niente"
+      },
+      {
+        "parola_griko": "sordu",
+        "parola_italiano": "soldi"
+      },
+      {
+        "parola_griko": "mài",
+        "parola_italiano": "pane"
+      },
+      {
+        "parola_griko": "skola",
+        "parola_italiano": "scuola"
+      },
+      {
+        "parola_griko": "gratti",
+        "parola_italiano": "letto"
+      },
+      {
+        "parola_griko": "plusio",
+        "parola_italiano": "ricco"
+      },
+      {
+        "parola_griko": "protino",
+        "parola_italiano": "primo"
+      },
+      {
+        "parola_griko": "pratò",
+        "parola_italiano": "cammino"
+      },
+      {
+        "parola_griko": "skarpari",
+        "parola_italiano": "calzolaio"
+      }
+    ]
+  },
+  {
+    "order": 20,
+    "video_id": "Yn3TuShAGEs",
+    "rules": [
+      "I verbi regolari griki si dividono in due coniugazioni: alla prima appartengono i verbi parossitoni (accento sulla penultima sillaba) con la prima persona del presente in -o nell'attivo e in -ome nel medio-passivo; alla seconda i verbi ossitoni (accento sull'ultima sillaba) con prima persona in -ò e medio-passivo in -ìome.",
+      "Modello della prima coniugazione è 'denno' (lego): attivo denno, denni, denni; medio-passivo dennome, dennese, dennete.",
+      "La forma medio-passiva del griko corrisponde alla forma riflessiva italiana.",
+      "La seconda coniugazione comprende due tipi: 'agapò' (agapò, agapài, agapà) e 'torò' (torò, torì, torì), che differiscono solo nelle tre persone singolari dell'attivo, perché nel medio-passivo le desinenze sono identiche (-ìome, -ìese, -ìete).",
+      "A differenza dell'italiano, che elenca tutti i tempi di ciascun modo, la coniugazione griko elenca tutti i modi di ciascun tempo: per coniugare un verbo basta quindi conoscere il tema del presente, il tema dell'aoristo e il participio passato.",
+      "Dal tema del presente si formano il presente indicativo, l'imperfetto, il participio presente in -onta (gerundio) e il perfetto, composto da 'echo' più il participio passato in -meno.",
+      "Il participio passato in -meno è un vero aggettivo verbale a tre uscite e si accorda con il nome (dedemeno maschile, dedemeni femminile, dedemeno neutro).",
+      "Dal tema dell'aoristo si formano l'aoristo, il futuro, il congiuntivo aoristo, il piuccheperfetto congiuntivo, l'imperativo, il participio aoristo e l'infinito.",
+      "Il presente indicativo può esprimere anche il futuro ('avri denno' = domani legherò); accanto ad esso esiste il futuro perifrastico 'enna' + congiuntivo aoristo (enna deso), formato dal verbo essere troncato in 'en più la congiunzione finale 'na', e significa letteralmente 'è da legare, devo legare'.",
+      "L'imperfetto indicativo traduce l'imperfetto italiano, ma anche il condizionale presente e, se preceduto dalla congiunzione 'an', il congiuntivo imperfetto (an edenna = se io legassi).",
+      "Il perfetto indicativo (echo dedemeno) traduce sia il passato prossimo sia il congiuntivo passato italiano.",
+      "L'aoristo (edesa) indica un'azione compiuta a tempo indefinito e traduce sia il passato remoto sia il passato prossimo italiano; il griko preferisce l'aoristo anche per le azioni recenti.",
+      "Il congiuntivo aoristo è sempre preceduto dalla congiunzione 'na' con valore finale e traduce sia il congiuntivo presente sia il congiuntivo imperfetto italiano; il griko preferisce la costruzione esplicita, per cui 'voglio legare' diventa 'telo na deso' (voglio che io leghi).",
+      "Il piuccheperfetto congiuntivo (icha desonta) traduce sia il congiuntivo trapassato sia il condizionale passato italiano; al suo posto si può usare il solo participio aoristo, che conserva il valore ipotetico.",
+      "L'imperativo aoristo fa 'dese' alla seconda persona singolare e 'desete' alla seconda plurale.",
+      "L'infinito aoristo (desi) si usa soltanto dopo il verbo 'sozo' (potere)."
+    ],
+    "vocabulary": [
+      {
+        "parola_griko": "denno",
+        "parola_italiano": "io lego"
+      },
+      {
+        "parola_griko": "denni",
+        "parola_italiano": "tu leghi / egli lega"
+      },
+      {
+        "parola_griko": "dennome",
+        "parola_italiano": "io mi lego"
+      },
+      {
+        "parola_griko": "edenna",
+        "parola_italiano": "io legavo / io legherei"
+      },
+      {
+        "parola_griko": "dennonta",
+        "parola_italiano": "legando"
+      },
+      {
+        "parola_griko": "dedemeno",
+        "parola_italiano": "legato"
+      },
+      {
+        "parola_griko": "echo dedemeno",
+        "parola_italiano": "ho legato"
+      },
+      {
+        "parola_griko": "edesa",
+        "parola_italiano": "legai / ho legato"
+      },
+      {
+        "parola_griko": "enna deso",
+        "parola_italiano": "legherò / devo legare"
+      },
+      {
+        "parola_griko": "na deso",
+        "parola_italiano": "che io leghi / che io legassi"
+      },
+      {
+        "parola_griko": "icha desonta",
+        "parola_italiano": "avessi legato"
+      },
+      {
+        "parola_griko": "desonta",
+        "parola_italiano": "legando / se avesse legato"
+      },
+      {
+        "parola_griko": "dese",
+        "parola_italiano": "lega (tu)"
+      },
+      {
+        "parola_griko": "desete",
+        "parola_italiano": "legate (voi)"
+      },
+      {
+        "parola_griko": "desi",
+        "parola_italiano": "legare"
+      },
+      {
+        "parola_griko": "agapò",
+        "parola_italiano": "io amo"
+      },
+      {
+        "parola_griko": "agapài",
+        "parola_italiano": "tu ami"
+      },
+      {
+        "parola_griko": "agapà",
+        "parola_italiano": "egli ama"
+      },
+      {
+        "parola_griko": "agapìome",
+        "parola_italiano": "io sono amato / mi amo"
+      },
+      {
+        "parola_griko": "torò",
+        "parola_italiano": "io vedo, guardo"
+      },
+      {
+        "parola_griko": "kanno",
+        "parola_italiano": "io faccio"
+      },
+      {
+        "parola_griko": "ekanne",
+        "parola_italiano": "faresti / faceva"
+      },
+      {
+        "parola_griko": "sozo",
+        "parola_italiano": "io posso"
+      },
+      {
+        "parola_griko": "avri",
+        "parola_italiano": "domani"
+      },
+      {
+        "parola_griko": "fortìa",
+        "parola_italiano": "fascine"
+      },
+      {
+        "parola_griko": "skala",
+        "parola_italiano": "scala"
+      },
+      {
+        "parola_griko": "kalò prama",
+        "parola_italiano": "una cosa buona"
+      },
+      {
+        "parola_griko": "vùi",
+        "parola_italiano": "bue"
+      },
+      {
+        "parola_griko": "spameno",
+        "parola_italiano": "spezzato"
+      },
+      {
+        "parola_griko": "manokkia",
+        "parola_italiano": "covoni"
+      },
+      {
+        "parola_griko": "ampari",
+        "parola_italiano": "cavallo"
+      },
+      {
+        "parola_griko": "traìno",
+        "parola_italiano": "carro"
+      },
+      {
+        "parola_griko": "ciuccio",
+        "parola_italiano": "asino"
+      },
+      {
+        "parola_griko": "pesonta",
+        "parola_italiano": "caduto (participio aoristo di cadere)"
+      }
+    ]
+  },
+  {
+    "order": 21,
+    "video_id": "vmIJbyURFWE",
+    "rules": [
+      "Nella prima coniugazione l'attivo ha alle tre persone singolari del presente le desinenze -o, -i, -i (denno, denni, denni), mentre il medio-passivo ha -ome, -ese, -ete (dennome, dennese, dennete).",
+      "La forma medio-passiva si traduce in italiano con la forma riflessiva.",
+      "Molti verbi possiedono sia la forma attiva sia quella medio-passiva: vrisko (trovo) / vriskome (mi trovo), hanno (perdo) / hannome (mi perdo).",
+      "Alcuni verbi hanno solo la forma attiva (pao = vado, peto = cado), altri hanno solo la forma medio-passiva pur avendo significato attivo, cioè sono deponenti: fenome (sembro), erkome (vengo), foriome (ho paura).",
+      "La forma passiva vera e propria è poco usata in griko: si preferisce volgere la frase all'attivo, dicendo 'il contadino lega il cavallo' invece di 'il cavallo è legato dal contadino'.",
+      "Quando serve, il passivo si costruisce con il verbo 'ime' più il participio passato (ime dedemeno = sono legato), oppure con 'erkome' (erkome dedemeno = vengo legato), ma entrambe le costruzioni sono rare.",
+      "Anche il perfetto medio-passivo è poco usato: al posto del passato prossimo si preferisce l'aoristo (destimo = mi legai, invece di 'echo destì').",
+      "Dal tema dell'aoristo medio-passivo si formano l'aoristo (destimo, destisti, destì), il futuro (enna destò), il congiuntivo aoristo (na destò), il piuccheperfetto congiuntivo (icha destonta), l'imperativo (destu, destesta), il participio (destonta) e l'infinito (destì).",
+      "Il participio aoristo medio-passivo in -stonta ha sempre valore ipotetico: 'destonta' significa 'legandosi', cioè 'se si fosse legato'.",
+      "Il participio passato può avere anche valore passivo e si comporta come un aggettivo a tre uscite (dedemeno, dedemeni, dedemeno).",
+      "Nella seconda coniugazione medio-passiva le desinenze delle tre persone singolari sono -ìome, -ìese, -ìete (agapìome, agapìese, agapìete), diverse da quelle della prima coniugazione (-ome, -ese, -ete).",
+      "Il secondo gruppo della seconda coniugazione (torò, torì, torì) si distingue da 'agapò' soltanto nelle tre persone singolari del presente attivo, perché il medio-passivo (toriome, toriese, toriete) è identico.",
+      "L'imperfetto della seconda coniugazione (agapiga) traduce l'imperfetto italiano, ma anche il condizionale presente (amerei) e, preceduto da 'na' o 'an', il congiuntivo imperfetto (an agapiga = se amassi).",
+      "Il perfetto 'echo agapimeno' traduce sia il passato prossimo indicativo (ho amato) sia il congiuntivo passato italiano (che abbia amato).",
+      "Il congiuntivo aoristo traduce sia il congiuntivo presente sia il congiuntivo imperfetto italiano: la stessa forma vale per 'voglio che ci amiamo' e 'vorrei che ci amassimo'.",
+      "Il participio passato si accorda in genere con il nome a cui si riferisce: 'agapimeni ghineka' (moglie amata) ha la desinenza femminile perché 'ghineka' è femminile.",
+      "'Torò' deriva dall'antico 'theorò' (da cui l'italiano 'teoria') e significa soprattutto badare, osservare, stare attento, cioè vedere con gli occhi della mente, mentre l'altro verbo del vedere indica il vedere con gli organi della vista."
+    ],
+    "vocabulary": [
+      {
+        "parola_griko": "dennome",
+        "parola_italiano": "io mi lego"
+      },
+      {
+        "parola_griko": "dennese",
+        "parola_italiano": "tu ti leghi"
+      },
+      {
+        "parola_griko": "dennete",
+        "parola_italiano": "egli si lega"
+      },
+      {
+        "parola_griko": "edennamo",
+        "parola_italiano": "io mi legavo"
+      },
+      {
+        "parola_griko": "destimo",
+        "parola_italiano": "io mi legai"
+      },
+      {
+        "parola_griko": "enna destò",
+        "parola_italiano": "devo legarmi"
+      },
+      {
+        "parola_griko": "na destò",
+        "parola_italiano": "che io mi leghi"
+      },
+      {
+        "parola_griko": "destu",
+        "parola_italiano": "legati (tu)"
+      },
+      {
+        "parola_griko": "destesta",
+        "parola_italiano": "legatevi (voi)"
+      },
+      {
+        "parola_griko": "destonta",
+        "parola_italiano": "legandosi / se si fosse legato"
+      },
+      {
+        "parola_griko": "destì",
+        "parola_italiano": "legarsi"
+      },
+      {
+        "parola_griko": "ime dedemeno",
+        "parola_italiano": "io sono legato"
+      },
+      {
+        "parola_griko": "imone dedemeno",
+        "parola_italiano": "io ero legato"
+      },
+      {
+        "parola_griko": "erkome",
+        "parola_italiano": "io vengo"
+      },
+      {
+        "parola_griko": "vrisko",
+        "parola_italiano": "io trovo"
+      },
+      {
+        "parola_griko": "vriskome",
+        "parola_italiano": "io mi trovo"
+      },
+      {
+        "parola_griko": "hanno",
+        "parola_italiano": "io perdo"
+      },
+      {
+        "parola_griko": "hannome",
+        "parola_italiano": "io mi perdo"
+      },
+      {
+        "parola_griko": "pao",
+        "parola_italiano": "io vado"
+      },
+      {
+        "parola_griko": "peto",
+        "parola_italiano": "io cado"
+      },
+      {
+        "parola_griko": "fenome",
+        "parola_italiano": "io sembro"
+      },
+      {
+        "parola_griko": "foriome",
+        "parola_italiano": "io ho paura"
+      },
+      {
+        "parola_griko": "agapò",
+        "parola_italiano": "io amo"
+      },
+      {
+        "parola_griko": "agapà",
+        "parola_italiano": "egli ama"
+      },
+      {
+        "parola_griko": "agapiga",
+        "parola_italiano": "io amavo / io amerei"
+      },
+      {
+        "parola_griko": "agaponta",
+        "parola_italiano": "amando"
+      },
+      {
+        "parola_griko": "agapimeno",
+        "parola_italiano": "amato"
+      },
+      {
+        "parola_griko": "agapisa",
+        "parola_italiano": "io amai"
+      },
+      {
+        "parola_griko": "enna agapiso",
+        "parola_italiano": "io amerò"
+      },
+      {
+        "parola_griko": "agapìstume sta",
+        "parola_italiano": "che ci amiamo / che ci amassimo"
+      },
+      {
+        "parola_griko": "toriomesta",
+        "parola_italiano": "ci vediamo"
+      },
+      {
+        "parola_griko": "torisi",
+        "parola_italiano": "vedere"
+      },
+      {
+        "parola_griko": "kiatera",
+        "parola_italiano": "ragazza"
+      },
+      {
+        "parola_griko": "ghineka",
+        "parola_italiano": "donna, moglie"
+      },
+      {
+        "parola_griko": "kronu",
+        "parola_italiano": "anni"
+      }
+    ]
+  },
+  {
+    "order": 22,
+    "video_id": "miHqjGYBB5o",
+    "rules": [
+      "L'imperativo è il modo del comando e si usa sia per ordinare di compiere un'azione sia per vietarla: in quest'ultimo caso si parla di imperativo negativo.",
+      "In griko l'imperativo è chiamato anche imperativo aoristo, perché si forma sempre dal tema dell'aoristo: dall'aoristo 'agapisa' si ricava il tema 'agapis-' e quindi 'agàpiso' e 'agapìsete'.",
+      "Un primo gruppo di verbi sposta l'accento sulla terzultima sillaba (diventando proparossitoni) e prende la desinenza -so alla seconda persona singolare, talvolta -o; questa desinenza deriva dal greco antico dorico -son.",
+      "Alla seconda persona plurale la desinenza corrispondente è -sete (anìzo / anìsete, kràtiso / kratìsete).",
+      "Un secondo gruppo di verbi forma l'imperativo con la desinenza -a al singolare e -ate al plurale: ela / elate (vieni, venite), emba / embate (entra, entrate).",
+      "Alcuni verbi hanno l'imperativo irregolare: afinno fa afi / afite, feo fa fie / fiete, pao fa amo / amate, il verbo del vedere fa de / dete.",
+      "L'imperativo negativo non ha forme proprie: si ottiene premettendo la particella 'mi' (o 'na mi', di natura finale) al congiuntivo aoristo, che così assume valore di comando: 'na mi' nìzi cini porta' = non aprire quella porta.",
+      "Nella forma medio-passiva l'imperativo ha la desinenza -u alla seconda persona singolare e -esta alla seconda plurale: armàstu (sposati) / armastèsta (sposatevi).",
+      "Anche nel medio-passivo il negativo si forma con 'na mi' o più semplicemente 'mi' davanti al congiuntivo aoristo."
+    ],
+    "vocabulary": [
+      {
+        "parola_griko": "agapò",
+        "parola_italiano": "io amo"
+      },
+      {
+        "parola_griko": "agàpiso",
+        "parola_italiano": "ama (tu)"
+      },
+      {
+        "parola_griko": "agapìsete",
+        "parola_italiano": "amate (voi)"
+      },
+      {
+        "parola_griko": "anàtto",
+        "parola_italiano": "io accendo"
+      },
+      {
+        "parola_griko": "anìo",
+        "parola_italiano": "io apro"
+      },
+      {
+        "parola_griko": "arotò",
+        "parola_italiano": "io domando"
+      },
+      {
+        "parola_griko": "danizo",
+        "parola_italiano": "io presto, do in prestito"
+      },
+      {
+        "parola_griko": "fonazo",
+        "parola_italiano": "io chiamo"
+      },
+      {
+        "parola_griko": "katìome",
+        "parola_italiano": "io mi siedo"
+      },
+      {
+        "parola_griko": "jelò",
+        "parola_italiano": "io rido"
+      },
+      {
+        "parola_griko": "jirizo",
+        "parola_italiano": "io torno, giro"
+      },
+      {
+        "parola_griko": "kanonò",
+        "parola_italiano": "io guardo, osservo"
+      },
+      {
+        "parola_griko": "kratò",
+        "parola_italiano": "io tengo, trattengo"
+      },
+      {
+        "parola_griko": "liparièo",
+        "parola_italiano": "io ingrasso"
+      },
+      {
+        "parola_griko": "mairèo",
+        "parola_italiano": "io cucino"
+      },
+      {
+        "parola_griko": "meletò",
+        "parola_italiano": "io leggo"
+      },
+      {
+        "parola_griko": "merazo",
+        "parola_italiano": "io divido"
+      },
+      {
+        "parola_griko": "ferno",
+        "parola_italiano": "io porto (qua)"
+      },
+      {
+        "parola_griko": "kuo",
+        "parola_italiano": "io sento, ascolto"
+      },
+      {
+        "parola_griko": "perno",
+        "parola_italiano": "io porto (via), prendo"
+      },
+      {
+        "parola_griko": "peto",
+        "parola_italiano": "io cado"
+      },
+      {
+        "parola_griko": "pianno",
+        "parola_italiano": "io prendo"
+      },
+      {
+        "parola_griko": "pinno",
+        "parola_italiano": "io bevo"
+      },
+      {
+        "parola_griko": "sfazo",
+        "parola_italiano": "io uccido"
+      },
+      {
+        "parola_griko": "spanno",
+        "parola_italiano": "io rompo"
+      },
+      {
+        "parola_griko": "smigo",
+        "parola_italiano": "io mescolo"
+      },
+      {
+        "parola_griko": "sbenno",
+        "parola_italiano": "io spengo"
+      },
+      {
+        "parola_griko": "troo",
+        "parola_italiano": "io mangio"
+      },
+      {
+        "parola_griko": "vaddo",
+        "parola_italiano": "io metto"
+      },
+      {
+        "parola_griko": "vrisko",
+        "parola_italiano": "io trovo"
+      },
+      {
+        "parola_griko": "hanno",
+        "parola_italiano": "io perdo"
+      },
+      {
+        "parola_griko": "apsofò",
+        "parola_italiano": "io muoio, crepo (detto di animali)"
+      },
+      {
+        "parola_griko": "erkome",
+        "parola_italiano": "io vengo"
+      },
+      {
+        "parola_griko": "ela / elate",
+        "parola_italiano": "vieni / venite"
+      },
+      {
+        "parola_griko": "mbenno",
+        "parola_italiano": "io entro"
+      },
+      {
+        "parola_griko": "emba / embate",
+        "parola_italiano": "entra / entrate"
+      },
+      {
+        "parola_griko": "afinno",
+        "parola_italiano": "io lascio"
+      },
+      {
+        "parola_griko": "afi / afite",
+        "parola_italiano": "lascia / lasciate"
+      },
+      {
+        "parola_griko": "feo",
+        "parola_italiano": "io corro, fuggo"
+      },
+      {
+        "parola_griko": "fie / fiete",
+        "parola_italiano": "corri / correte"
+      },
+      {
+        "parola_griko": "amo / amate",
+        "parola_italiano": "va' / andate"
+      },
+      {
+        "parola_griko": "de / dete",
+        "parola_italiano": "vedi / vedete"
+      },
+      {
+        "parola_griko": "armàzome",
+        "parola_italiano": "io mi sposo"
+      },
+      {
+        "parola_griko": "armàstu",
+        "parola_italiano": "sposati (tu)"
+      },
+      {
+        "parola_griko": "aplònnome",
+        "parola_italiano": "io mi corico"
+      },
+      {
+        "parola_griko": "ksevdìnome",
+        "parola_italiano": "io mi spoglio"
+      },
+      {
+        "parola_griko": "jennìome",
+        "parola_italiano": "io nasco"
+      },
+      {
+        "parola_griko": "kanonìome",
+        "parola_italiano": "io mi guardo"
+      },
+      {
+        "parola_griko": "kratìome",
+        "parola_italiano": "io mi tengo"
+      },
+      {
+        "parola_griko": "klinnome",
+        "parola_italiano": "io mi chiudo"
+      },
+      {
+        "parola_griko": "vrèchome",
+        "parola_italiano": "io mi bagno"
+      },
+      {
+        "parola_griko": "kaìome",
+        "parola_italiano": "io brucio"
+      },
+      {
+        "parola_griko": "ngìzome",
+        "parola_italiano": "io mi tocco"
+      },
+      {
+        "parola_griko": "agonìome",
+        "parola_italiano": "io mi affretto"
+      },
+      {
+        "parola_griko": "rizònome",
+        "parola_italiano": "io mi arrabbio"
+      },
+      {
+        "parola_griko": "skorìzome",
+        "parola_italiano": "io mi separo"
+      }
+    ]
+  },
+  {
+    "order": 23,
+    "video_id": "z0DtNawBktc",
+    "rules": [
+      "In griko esistono tre participi: il participio presente, il participio aoristo e il participio perfetto.",
+      "Il participio presente si forma dal tema del presente con la desinenza -onta (torò dà toronta = vedendo) e corrisponde al gerundio italiano, soprattutto con valore temporale ('mentre vedevo').",
+      "Il participio aoristo si forma dal tema dell'aoristo: in -onta per la forma attiva (torisonta) e in -stonta per la forma medio-passiva (toristonta).",
+      "Il participio aoristo ha sempre valore ipotetico: torisonta significa 'se avessi visto', toristonta significa 'se mi fossi visto'.",
+      "Il participio perfetto si forma dal tema dell'aoristo medio-passivo perdendo il suffisso -sti- tipico di quell'aoristo: da toristi si ha torimeno e non 'toristimeno'.",
+      "Il participio perfetto si comporta come un vero aggettivo, con tre uscite (maschile, femminile e neutro), e per questo alcuni grammatici lo chiamano aggettivo verbale; si accorda con il nome cui si riferisce.",
+      "Dal participio perfetto deriva una forma avverbiale invariabile in -mena che accompagna il verbo 'echo' nelle forme composte del perfetto e del piuccheperfetto, le quali traducono rispettivamente il passato prossimo e il trapassato italiano.",
+      "Il participio aoristo entra anche nelle forme composte del piuccheperfetto congiuntivo (iche toristonta), che traduce sia il congiuntivo trapassato sia il condizionale passato italiano.",
+      "Nelle frasi ipotetiche si può omettere l'ausiliare e usare il solo participio aoristo, che da solo esprime la condizione: 'toristonta so jali' = se si fosse visto allo specchio.",
+      "Il participio aoristo è irregolare quando è irregolare l'aoristo del verbo: afinno / afika dà afikonta, erkome / irta dà irtonta, troo / efaa dà faonta, vaddo / evala dà valonta, trecho / edrama dà dramonta."
+    ],
+    "vocabulary": [
+      {
+        "parola_griko": "toronta",
+        "parola_italiano": "vedendo, mentre vedevo"
+      },
+      {
+        "parola_griko": "torisonta",
+        "parola_italiano": "se avessi visto"
+      },
+      {
+        "parola_griko": "toristonta",
+        "parola_italiano": "vedendosi, se si fosse visto"
+      },
+      {
+        "parola_griko": "torimeno",
+        "parola_italiano": "visto"
+      },
+      {
+        "parola_griko": "echo torimena",
+        "parola_italiano": "ho visto"
+      },
+      {
+        "parola_griko": "afinno",
+        "parola_italiano": "io lascio"
+      },
+      {
+        "parola_griko": "afinnonta",
+        "parola_italiano": "lasciando"
+      },
+      {
+        "parola_griko": "afikonta",
+        "parola_italiano": "avendo lasciato"
+      },
+      {
+        "parola_griko": "dionta",
+        "parola_italiano": "dando"
+      },
+      {
+        "parola_griko": "dokonta",
+        "parola_italiano": "avendo dato"
+      },
+      {
+        "parola_griko": "erkonta",
+        "parola_italiano": "venendo"
+      },
+      {
+        "parola_griko": "irtonta",
+        "parola_italiano": "essendo venuto"
+      },
+      {
+        "parola_griko": "troonta",
+        "parola_italiano": "mangiando"
+      },
+      {
+        "parola_griko": "faonta",
+        "parola_italiano": "se avessi mangiato"
+      },
+      {
+        "parola_griko": "feonta",
+        "parola_italiano": "fuggendo, di corsa"
+      },
+      {
+        "parola_griko": "fionta",
+        "parola_italiano": "se fosse fuggito"
+      },
+      {
+        "parola_griko": "menonta",
+        "parola_italiano": "aspettando"
+      },
+      {
+        "parola_griko": "minonta",
+        "parola_italiano": "avendo aspettato"
+      },
+      {
+        "parola_griko": "leonta",
+        "parola_italiano": "dicendo"
+      },
+      {
+        "parola_griko": "trekonta",
+        "parola_italiano": "correndo"
+      },
+      {
+        "parola_griko": "dramonta",
+        "parola_italiano": "avendo corso"
+      },
+      {
+        "parola_griko": "vaddonta",
+        "parola_italiano": "mettendo"
+      },
+      {
+        "parola_griko": "valonta",
+        "parola_italiano": "se avesse messo"
+      },
+      {
+        "parola_griko": "chalazi",
+        "parola_italiano": "grandine"
+      },
+      {
+        "parola_griko": "fotìa",
+        "parola_italiano": "fuoco"
+      },
+      {
+        "parola_griko": "jali",
+        "parola_italiano": "specchio"
+      },
+      {
+        "parola_griko": "agapimeni",
+        "parola_italiano": "amata"
+      },
+      {
+        "parola_griko": "kiatera",
+        "parola_italiano": "ragazza"
+      },
+      {
+        "parola_griko": "alàti",
+        "parola_italiano": "sale"
+      },
+      {
+        "parola_griko": "chorafi",
+        "parola_italiano": "campo"
+      },
+      {
+        "parola_griko": "gratti",
+        "parola_italiano": "letto"
+      },
+      {
+        "parola_griko": "kilìa",
+        "parola_italiano": "pancia"
+      }
+    ]
+  },
+  {
+    "order": 24,
+    "video_id": "hTNUF3tSu8E",
+    "rules": [
+      "I verbi irregolari sono quelli che non seguono le regole generali nella formazione dei tempi, ma presentano anomalie sia nel tema sia nella desinenza.",
+      "Per usare correttamente un verbo irregolare occorre memorizzarne quattro forme: il presente, l'imperfetto, l'aoristo e il participio passato.",
+      "Nella maggior parte degli irregolari l'anomalia riguarda soprattutto l'aoristo, che ha un tema completamente diverso da quello del presente (leo dice ipa, troo dice efaa, erkome dice irta, kanno dice ekama).",
+      "Anche il participio passato si forma dal tema anomalo dell'aoristo, mantenendo però la regolare desinenza in -meno (afimeno, artomeno, faomeno, pomeno, kamomeno).",
+      "Alcuni irregolari presentano alternanza consonantica tra presente e aoristo, come evjenno (esco) che fa evguika, oppure plenno (lavo) che fa eplina e participio limeno.",
+      "Due verbi apparentemente sinonimi si distinguono per direzione del movimento: 'ferno' significa portare qua, mentre 'perno' significa portare là, portare via.",
+      "I verbi impersonali si usano soltanto alla terza persona singolare ed esprimono in genere fenomeni atmosferici o condizioni del tempo: vrechi (piove), chionizi (nevica), astrei (lampeggia), skotignazi (fa buio).",
+      "Esistono anche verbi impersonali che indicano il passaggio delle stagioni: kalojerazi (inizia l'estate), scimonìazi (inizia l'inverno).",
+      "Per esprimere caldo e freddo si usano locuzioni impersonali con il verbo kanno: kanni kama (fa caldo), kanni friddo (fa freddo).",
+      "Sono impersonali anche le espressioni di sensazione, necessità e possibilità: ho fame, ho freddo, bisogna che, conviene che, è possibile, devo."
+    ],
+    "vocabulary": [
+      {
+        "parola_griko": "afinno",
+        "parola_italiano": "io lascio"
+      },
+      {
+        "parola_griko": "afika",
+        "parola_italiano": "io lasciai"
+      },
+      {
+        "parola_griko": "afimeno",
+        "parola_italiano": "lasciato"
+      },
+      {
+        "parola_griko": "pao",
+        "parola_italiano": "io vado"
+      },
+      {
+        "parola_griko": "erkome",
+        "parola_italiano": "io vengo"
+      },
+      {
+        "parola_griko": "irta",
+        "parola_italiano": "io venni"
+      },
+      {
+        "parola_griko": "artomeno",
+        "parola_italiano": "venuto"
+      },
+      {
+        "parola_griko": "troo",
+        "parola_italiano": "io mangio"
+      },
+      {
+        "parola_griko": "efaa",
+        "parola_italiano": "io mangiai"
+      },
+      {
+        "parola_griko": "faomeno",
+        "parola_italiano": "mangiato"
+      },
+      {
+        "parola_griko": "leo",
+        "parola_italiano": "io dico"
+      },
+      {
+        "parola_griko": "ipa",
+        "parola_italiano": "io dissi"
+      },
+      {
+        "parola_griko": "pomeno",
+        "parola_italiano": "detto"
+      },
+      {
+        "parola_griko": "ammelo",
+        "parola_italiano": "io butto"
+      },
+      {
+        "parola_griko": "anevenno",
+        "parola_italiano": "io salgo"
+      },
+      {
+        "parola_griko": "apethenno",
+        "parola_italiano": "io muoio"
+      },
+      {
+        "parola_griko": "kèo",
+        "parola_italiano": "io brucio"
+      },
+      {
+        "parola_griko": "dio",
+        "parola_italiano": "io do"
+      },
+      {
+        "parola_griko": "fenome",
+        "parola_italiano": "io sembro"
+      },
+      {
+        "parola_griko": "feo",
+        "parola_italiano": "io fuggo, tolgo"
+      },
+      {
+        "parola_griko": "ferno",
+        "parola_italiano": "io porto (qua)"
+      },
+      {
+        "parola_griko": "evjenno",
+        "parola_italiano": "io esco"
+      },
+      {
+        "parola_griko": "jènome",
+        "parola_italiano": "io divento, maturo"
+      },
+      {
+        "parola_griko": "kanno",
+        "parola_italiano": "io faccio"
+      },
+      {
+        "parola_griko": "ekama",
+        "parola_italiano": "io feci"
+      },
+      {
+        "parola_griko": "kamomeno",
+        "parola_italiano": "fatto"
+      },
+      {
+        "parola_griko": "katìome",
+        "parola_italiano": "io mi siedo"
+      },
+      {
+        "parola_griko": "kathèrno",
+        "parola_italiano": "io pulisco, sbuccio"
+      },
+      {
+        "parola_griko": "kleo",
+        "parola_italiano": "io piango"
+      },
+      {
+        "parola_griko": "kuo",
+        "parola_italiano": "io ascolto, sento"
+      },
+      {
+        "parola_griko": "mathenno",
+        "parola_italiano": "io imparo, insegno"
+      },
+      {
+        "parola_griko": "mbenno",
+        "parola_italiano": "io entro"
+      },
+      {
+        "parola_griko": "pezo",
+        "parola_italiano": "io gioco"
+      },
+      {
+        "parola_griko": "perno",
+        "parola_italiano": "io porto (via)"
+      },
+      {
+        "parola_griko": "peto",
+        "parola_italiano": "io cado"
+      },
+      {
+        "parola_griko": "plenno",
+        "parola_italiano": "io lavo"
+      },
+      {
+        "parola_griko": "limeno",
+        "parola_italiano": "lavato"
+      },
+      {
+        "parola_griko": "sfazo",
+        "parola_italiano": "io uccido"
+      },
+      {
+        "parola_griko": "sirno",
+        "parola_italiano": "io tiro, trascino"
+      },
+      {
+        "parola_griko": "sperno",
+        "parola_italiano": "io semino"
+      },
+      {
+        "parola_griko": "telo",
+        "parola_italiano": "io voglio"
+      },
+      {
+        "parola_griko": "torò",
+        "parola_italiano": "io vedo, considero"
+      },
+      {
+        "parola_griko": "trecho",
+        "parola_italiano": "io corro, inseguo"
+      },
+      {
+        "parola_griko": "vaddo",
+        "parola_italiano": "io metto, infilo"
+      },
+      {
+        "parola_griko": "vrisko",
+        "parola_italiano": "io trovo"
+      },
+      {
+        "parola_griko": "chèrome",
+        "parola_italiano": "io sono contento"
+      },
+      {
+        "parola_griko": "astrei",
+        "parola_italiano": "lampeggia"
+      },
+      {
+        "parola_griko": "skotignazi",
+        "parola_italiano": "fa buio"
+      },
+      {
+        "parola_griko": "ksemeronni",
+        "parola_italiano": "albeggia"
+      },
+      {
+        "parola_griko": "vrechi",
+        "parola_italiano": "piove"
+      },
+      {
+        "parola_griko": "chionizi",
+        "parola_italiano": "nevica"
+      },
+      {
+        "parola_griko": "kalojerazi",
+        "parola_italiano": "inizia l'estate"
+      },
+      {
+        "parola_griko": "scimonìazi",
+        "parola_italiano": "inizia l'inverno"
+      },
+      {
+        "parola_griko": "kanni kama",
+        "parola_italiano": "fa caldo"
+      },
+      {
+        "parola_griko": "kanni friddo",
+        "parola_italiano": "fa freddo"
+      },
+      {
+        "parola_griko": "ngizi na",
+        "parola_italiano": "bisogna che"
+      },
+      {
+        "parola_griko": "prepi na",
+        "parola_italiano": "conviene che, bisogna che"
+      },
+      {
+        "parola_griko": "sozi esti",
+        "parola_italiano": "è possibile"
+      },
+      {
+        "parola_griko": "enna",
+        "parola_italiano": "devo, bisogna che"
+      }
+    ]
+  }
+]
