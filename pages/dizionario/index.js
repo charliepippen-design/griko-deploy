@@ -3,7 +3,7 @@ import { useRouter } from "next/router";
 import Link from "next/link";
 import Layout from "../../components/Layout";
 import { supabase } from "../../lib/supabase";
-import carmineData from "../../public/data/carmine_greco_lessons.json";
+import carmineData from "../../data/carmine_greco_lessons.json";
 
 // Global client-side in-memory cache to prevent re-fetching on every internal navigation
 let memoryCache = null;
@@ -323,7 +323,7 @@ export default function Dizionario() {
         l.title.toLowerCase().includes(q) ||
         l.summary.toLowerCase().includes(q) ||
         (l.proverb && l.proverb.toLowerCase().includes(q)) ||
-        l.transcript.toLowerCase().includes(q);
+        (l.transcript && l.transcript.toLowerCase().includes(q));
       return matchCat && matchSearch;
     });
   }, [carmineLessons, carmineCategory, carmineSearch]);

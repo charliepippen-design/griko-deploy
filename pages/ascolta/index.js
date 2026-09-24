@@ -1,11 +1,8 @@
-import { useState } from "react";
 import Link from "next/link";
 import Layout from "../../components/Layout";
-import carmineData from "../../public/data/carmine_greco_lessons.json";
+import carmineData from "../../data/carmine_greco_lessons.json";
 
 export default function AscoltaPage() {
-  const [openTranscript, setOpenTranscript] = useState(null);
-
   // Filtra i 4 componimenti poetici e musicali di Carmine Greco
   const poetryWorks = carmineData.lessons.filter((l) => l.is_poetry);
   const grammarCount = carmineData.lessons.filter((l) => !l.is_poetry).length;
@@ -31,8 +28,6 @@ export default function AscoltaPage() {
       <section className="ascolta-grid-area" style={{ marginTop: "36px" }}>
         <div className="ascolta-cards-grid">
           {poetryWorks.map((item) => {
-            const isOpen = openTranscript === item.video_id;
-
             return (
               <article key={item.video_id} className="ascolta-card">
                 <div className="ascolta-card-media">
@@ -63,15 +58,6 @@ export default function AscoltaPage() {
                   )}
 
                   <div className="ascolta-actions-row">
-                    <button
-                      type="button"
-                      className="ascolta-transcript-toggle"
-                      onClick={() => setOpenTranscript(isOpen ? null : item.video_id)}
-                      aria-expanded={isOpen}
-                    >
-                      {isOpen ? "▲ Nascondi trascrizione" : "▼ Leggi testo e trascrizione"}
-                    </button>
-
                     <a
                       href={item.youtube_url}
                       target="_blank"
@@ -81,18 +67,6 @@ export default function AscoltaPage() {
                       Guarda su YouTube ↗
                     </a>
                   </div>
-
-                  {isOpen && (
-                    <div className="ascolta-transcript-body">
-                      <div className="transcript-scroll-area">
-                        {item.transcript.split("\n").map((line, idx) => (
-                          <p key={idx} className="transcript-line">
-                            {line}
-                          </p>
-                        ))}
-                      </div>
-                    </div>
-                  )}
                 </div>
               </article>
             );

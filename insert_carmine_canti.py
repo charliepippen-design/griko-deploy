@@ -2,7 +2,7 @@
 """
 Inserisce in Supabase (tabella public.testi_liberi) i 4 commenti video di
 Carmine Greco ai canti tradizionali (Kalinifta, Klama, Aremu Rindinedda-mu,
-Agapi-mu Fidela Protinì), presi da public/data/carmine_greco_lessons.json.
+Agapi-mu Fidela Protinì), presi da data/carmine_greco_lessons_full.json.
 
 IMPORTANTE: questo NON è testo tradizionale di pubblico dominio come il resto
 di testi_liberi — è la trascrizione della spiegazione parlata (in italiano)
@@ -40,7 +40,7 @@ def slugify(video_id: str) -> str:
 
 
 def main():
-    with open("public/data/carmine_greco_lessons.json", encoding="utf-8") as f:
+    with open("data/carmine_greco_lessons_full.json", encoding="utf-8") as f:
         data = json.load(f)
 
     poesie = [l for l in data["lessons"] if l.get("is_poetry")]
