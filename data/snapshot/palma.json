@@ -1306,424 +1306,54 @@
   ],
   "lexemes": [
     {
-      "id": 1112,
-      "parola_griko": "abisso",
-      "parola_italiano": "abisso/voragine"
+      "id": 685,
+      "parola_griko": "orrios",
+      "parola_italiano": "bello"
     },
     {
-      "id": 987,
-      "parola_griko": "achero",
-      "parola_italiano": "paglia"
+      "id": 686,
+      "parola_griko": "pachos",
+      "parola_italiano": "pingue/grasso"
     },
     {
-      "id": 1068,
-      "parola_griko": "achilo",
-      "parola_italiano": "chiodo"
+      "id": 687,
+      "parola_griko": "paleos",
+      "parola_italiano": "vecchio/antico"
     },
     {
-      "id": 1179,
-      "parola_griko": "acquasale",
-      "parola_italiano": "pane bagnato e condito"
+      "id": 688,
+      "parola_griko": "plateo",
+      "parola_italiano": "largo"
     },
     {
-      "id": 1366,
-      "parola_griko": "acrisia",
-      "parola_italiano": "chiesa"
+      "id": 689,
+      "parola_griko": "plusios",
+      "parola_italiano": "ricco"
     },
     {
-      "id": 1178,
-      "parola_griko": "acuchi",
-      "parola_italiano": "ago grosso"
+      "id": 690,
+      "parola_griko": "pornitos",
+      "parola_italiano": "mattiniero"
     },
     {
-      "id": 1361,
-      "parola_griko": "addo",
-      "parola_italiano": "altro"
+      "id": 691,
+      "parola_griko": "polemos",
+      "parola_italiano": "laborioso/gran lavoratore"
     },
     {
-      "id": 1246,
-      "parola_griko": "aderfecia",
-      "parola_italiano": "sorellina"
+      "id": 692,
+      "parola_griko": "promos",
+      "parola_italiano": "primaticcio"
     },
     {
-      "id": 1268,
-      "parola_griko": "aderfi",
-      "parola_italiano": "sorella"
+      "id": 693,
+      "parola_griko": "scersos",
+      "parola_italiano": "incolto/arido"
     },
     {
-      "id": 988,
-      "parola_griko": "adiko",
-      "parola_italiano": "ingiustizia"
-    },
-    {
-      "id": 736,
-      "parola_griko": "adinatos",
-      "parola_italiano": "privo di forze/debole"
-    },
-    {
-      "id": 802,
-      "parola_griko": "afelasò",
-      "parola_italiano": "inutile"
-    },
-    {
-      "id": 1228,
-      "parola_griko": "afentia",
-      "parola_italiano": "autorità/signoria"
-    },
-    {
-      "id": 1019,
-      "parola_griko": "afidi",
-      "parola_italiano": "serpe"
-    },
-    {
-      "id": 939,
-      "parola_griko": "afimo",
-      "parola_italiano": "fiato/respiro"
-    },
-    {
-      "id": 967,
-      "parola_griko": "afo",
-      "parola_italiano": "pisello secco"
-    },
-    {
-      "id": 1165,
-      "parola_griko": "aforchio",
-      "parola_italiano": "tana"
-    },
-    {
-      "id": 1346,
-      "parola_griko": "agapao",
-      "parola_italiano": "amo"
-    },
-    {
-      "id": 1292,
-      "parola_griko": "agapi",
-      "parola_italiano": "amore"
-    },
-    {
-      "id": 803,
-      "parola_griko": "agapitò",
-      "parola_italiano": "amato/caro/prediletto"
-    },
-    {
-      "id": 1263,
-      "parola_griko": "agelada",
-      "parola_italiano": "mucca"
-    },
-    {
-      "id": 1082,
-      "parola_griko": "agguito",
-      "parola_italiano": "gomito"
-    },
-    {
-      "id": 1028,
-      "parola_griko": "agiasma",
-      "parola_italiano": "acquasanta"
-    },
-    {
-      "id": 804,
-      "parola_griko": "agrikò",
-      "parola_italiano": "rustico/selvatico/agreste"
-    },
-    {
-      "id": 1113,
-      "parola_griko": "agrio",
-      "parola_italiano": "olivo selvatico/oleastro"
-    },
-    {
-      "id": 941,
-      "parola_griko": "agro",
-      "parola_italiano": "bagnato/umido"
-    },
-    {
-      "id": 1295,
-      "parola_griko": "akrisi",
-      "parola_italiano": "chiesa"
-    },
-    {
-      "id": 1290,
-      "parola_griko": "alacati",
-      "parola_italiano": "conocchia"
-    },
-    {
-      "id": 1023,
-      "parola_griko": "alai",
-      "parola_italiano": "aia"
-    },
-    {
-      "id": 1076,
-      "parola_griko": "alài",
-      "parola_italiano": "olio"
-    },
-    {
-      "id": 1027,
-      "parola_griko": "alaio",
-      "parola_italiano": "olivo"
-    },
-    {
-      "id": 1224,
-      "parola_griko": "alatra",
-      "parola_italiano": "aratura"
-    },
-    {
-      "id": 1114,
-      "parola_griko": "alatro",
-      "parola_italiano": "aratro"
-    },
-    {
-      "id": 1273,
-      "parola_griko": "alesia",
-      "parola_italiano": "verità/il vero"
-    },
-    {
-      "id": 721,
-      "parola_griko": "alisios",
-      "parola_italiano": "vero/veritiero/sincero"
-    },
-    {
-      "id": 1156,
-      "parola_griko": "alò",
-      "parola_italiano": "lepre"
-    },
-    {
-      "id": 1278,
-      "parola_griko": "alocaria",
-      "parola_italiano": "allegrezza/gioia/contentezza"
-    },
-    {
-      "id": 737,
-      "parola_griko": "alocaros",
-      "parola_italiano": "allegro/felice/contento"
-    },
-    {
-      "id": 1109,
-      "parola_griko": "alonari",
-      "parola_italiano": "luglio"
-    },
-    {
-      "id": 1253,
-      "parola_griko": "alupuna",
-      "parola_italiano": "volpe"
-    },
-    {
-      "id": 1171,
-      "parola_griko": "ambrachio",
-      "parola_italiano": "tettoia/riparo dal sole"
-    },
-    {
-      "id": 942,
-      "parola_griko": "ambro",
-      "parola_italiano": "davanti/parte anteriore"
-    },
-    {
-      "id": 1203,
-      "parola_griko": "ambugghia",
-      "parola_italiano": "bolla/foruncolo"
-    },
-    {
-      "id": 738,
-      "parola_griko": "ametros",
-      "parola_italiano": "smisurato/innumerevole"
-    },
-    {
-      "id": 1345,
-      "parola_griko": "amilia",
-      "parola_italiano": "favella/discorso"
-    },
-    {
-      "id": 1225,
-      "parola_griko": "ampa",
-      "parola_italiano": "spinta"
-    },
-    {
-      "id": 1352,
-      "parola_griko": "ampari",
-      "parola_italiano": "cavallo"
-    },
-    {
-      "id": 1024,
-      "parola_griko": "ampeli",
-      "parola_italiano": "vite"
-    },
-    {
-      "id": 992,
-      "parola_griko": "ampì",
-      "parola_italiano": "parte posteriore"
-    },
-    {
-      "id": 807,
-      "parola_griko": "ampisinò",
-      "parola_italiano": "ultimo/estremo"
-    },
-    {
-      "id": 824,
-      "parola_griko": "ampoma",
-      "parola_italiano": "spinta"
-    },
-    {
-      "id": 1226,
-      "parola_griko": "anapodia",
-      "parola_italiano": "irrequietezza dei bambini"
-    },
-    {
-      "id": 739,
-      "parola_griko": "anapoli",
-      "parola_italiano": "rovescio/inverso/contrario"
-    },
-    {
-      "id": 740,
-      "parola_griko": "anazeros",
-      "parola_italiano": "imbranato/incapace/ignorante"
-    },
-    {
-      "id": 1101,
-      "parola_griko": "andra",
-      "parola_italiano": "marito"
-    },
-    {
-      "id": 1173,
-      "parola_griko": "andra",
-      "parola_italiano": "marito/uomo"
-    },
-    {
-      "id": 1243,
-      "parola_griko": "anemi",
-      "parola_italiano": "arcolaio"
-    },
-    {
-      "id": 1115,
-      "parola_griko": "anemo",
-      "parola_italiano": "vento"
-    },
-    {
-      "id": 742,
-      "parola_griko": "anemos",
-      "parola_italiano": "debole"
-    },
-    {
-      "id": 1310,
-      "parola_griko": "anemos",
-      "parola_italiano": "vento"
-    },
-    {
-      "id": 741,
-      "parola_griko": "anepautos",
-      "parola_italiano": "irrequieto"
-    },
-    {
-      "id": 1327,
-      "parola_griko": "anis",
-      "parola_italiano": "di una/a una (gen.-dat. f.)"
-    },
-    {
-      "id": 808,
-      "parola_griko": "anitò",
-      "parola_italiano": "aperto/spalancato"
-    },
-    {
-      "id": 745,
-      "parola_griko": "anoitos",
-      "parola_italiano": "stupido/che non comprende"
-    },
-    {
-      "id": 1093,
-      "parola_griko": "anto",
-      "parola_italiano": "striscia di terreno lavorata"
-    },
-    {
-      "id": 716,
-      "parola_griko": "antropiaris",
-      "parola_italiano": "pudico/che si vergogna"
-    },
-    {
-      "id": 821,
-      "parola_griko": "antropiaro",
-      "parola_italiano": "pudico/che si vergogna"
-    },
-    {
-      "id": 1116,
-      "parola_griko": "antropo",
-      "parola_italiano": "uomo"
-    },
-    {
-      "id": 1326,
-      "parola_griko": "anu",
-      "parola_italiano": "di un/a un (gen.-dat. m./neutro)"
-    },
-    {
-      "id": 720,
-      "parola_griko": "aos",
-      "parola_italiano": "santo"
-    },
-    {
-      "id": 943,
-      "parola_griko": "apalo",
-      "parola_italiano": "molle/madido"
-    },
-    {
-      "id": 809,
-      "parola_griko": "apalò",
-      "parola_italiano": "molle/madido"
-    },
-    {
-      "id": 1283,
-      "parola_griko": "apidea",
-      "parola_italiano": "pero"
-    },
-    {
-      "id": 1020,
-      "parola_griko": "apidi",
-      "parola_italiano": "pera"
-    },
-    {
-      "id": 1293,
-      "parola_griko": "apu",
-      "parola_italiano": "da"
-    },
-    {
-      "id": 877,
-      "parola_griko": "apunai",
-      "parola_italiano": "carbonaia piccola"
-    },
-    {
-      "id": 910,
-      "parola_griko": "arbari",
-      "parola_italiano": "aiuola rialzata"
-    },
-    {
-      "id": 746,
-      "parola_griko": "arbos",
-      "parola_italiano": "acerbo/immaturo"
-    },
-    {
-      "id": 735,
-      "parola_griko": "arceros",
-      "parola_italiano": "vuoto/vacante"
-    },
-    {
-      "id": 1021,
-      "parola_griko": "ardari",
-      "parola_italiano": "crosta lattea"
-    },
-    {
-      "id": 722,
-      "parola_griko": "areos",
-      "parola_italiano": "rado/raro"
-    },
-    {
-      "id": 968,
-      "parola_griko": "argalio",
-      "parola_italiano": "telaio"
-    },
-    {
-      "id": 993,
-      "parola_griko": "arnì",
-      "parola_italiano": "agnello"
-    },
-    {
-      "id": 1227,
-      "parola_griko": "arpa",
-      "parola_italiano": "arpia/mostro"
+      "id": 694,
+      "parola_griko": "sideros",
+      "parola_italiano": "di ferro/ferroso"
     },
     {
       "id": 695,
@@ -1731,184 +1361,19 @@
       "parola_italiano": "diritto/dritto/destro"
     },
     {
-      "id": 1204,
-      "parola_griko": "aruggia",
-      "parola_italiano": "vivaio/semenzaio"
+      "id": 696,
+      "parola_griko": "termidigno",
+      "parola_italiano": "focoso/testa calda"
     },
     {
-      "id": 911,
-      "parola_griko": "arzuli",
-      "parola_italiano": "orciolo/brocca di terracotta"
+      "id": 697,
+      "parola_griko": "termi",
+      "parola_italiano": "tiepido/calduccio"
     },
     {
-      "id": 1199,
-      "parola_griko": "ascla",
-      "parola_italiano": "pezzo di tronco"
-    },
-    {
-      "id": 1157,
-      "parola_griko": "ascò",
-      "parola_italiano": "otre di pelle"
-    },
-    {
-      "id": 920,
-      "parola_griko": "ascromata",
-      "parola_italiano": "mucchio di schegge di legno"
-    },
-    {
-      "id": 723,
-      "parola_griko": "asimos",
-      "parola_italiano": "argenteo/d'argento"
-    },
-    {
-      "id": 743,
-      "parola_griko": "askimos",
-      "parola_italiano": "brutto/sgraziato"
-    },
-    {
-      "id": 747,
-      "parola_griko": "aspros",
-      "parola_italiano": "bianco/candido"
-    },
-    {
-      "id": 1022,
-      "parola_griko": "asteri",
-      "parola_italiano": "stella"
-    },
-    {
-      "id": 1354,
-      "parola_griko": "astrapi",
-      "parola_italiano": "lampo"
-    },
-    {
-      "id": 1176,
-      "parola_griko": "asurari",
-      "parola_italiano": "usuraio"
-    },
-    {
-      "id": 909,
-      "parola_griko": "atari",
-      "parola_italiano": "altare"
-    },
-    {
-      "id": 1363,
-      "parola_griko": "atera",
-      "parola_italiano": "resta di spiga"
-    },
-    {
-      "id": 1291,
-      "parola_griko": "avli",
-      "parola_italiano": "corte/cortile"
-    },
-    {
-      "id": 940,
-      "parola_griko": "avuo",
-      "parola_italiano": "uovo"
-    },
-    {
-      "id": 814,
-      "parola_griko": "azilò",
-      "parola_italiano": "alto"
-    },
-    {
-      "id": 744,
-      "parola_griko": "azimos",
-      "parola_italiano": "pane non lievitato/azzimo"
-    },
-    {
-      "id": 858,
-      "parola_griko": "azzemero",
-      "parola_italiano": "alba/aurora"
-    },
-    {
-      "id": 1125,
-      "parola_griko": "bombo",
-      "parola_italiano": "moscone/grossa vespa"
-    },
-    {
-      "id": 1347,
-      "parola_griko": "brady",
-      "parola_italiano": "sera"
-    },
-    {
-      "id": 753,
-      "parola_griko": "brastos",
-      "parola_italiano": "bollente"
-    },
-    {
-      "id": 754,
-      "parola_griko": "bromeros",
-      "parola_italiano": "puzzolente/maleodorante"
-    },
-    {
-      "id": 836,
-      "parola_griko": "bromò",
-      "parola_italiano": "fetido"
-    },
-    {
-      "id": 842,
-      "parola_griko": "bui",
-      "parola_italiano": "bue"
-    },
-    {
-      "id": 1100,
-      "parola_griko": "burro",
-      "parola_italiano": "capriccio/vezzo"
-    },
-    {
-      "id": 912,
-      "parola_griko": "cacanili",
-      "parola_italiano": "ultimo nato di una nidiata"
-    },
-    {
-      "id": 947,
-      "parola_griko": "caco",
-      "parola_italiano": "male/malvagità/malanno"
-    },
-    {
-      "id": 845,
-      "parola_griko": "cafì",
-      "parola_italiano": "crusca d'orzo"
-    },
-    {
-      "id": 1010,
-      "parola_griko": "calami",
-      "parola_italiano": "canna"
-    },
-    {
-      "id": 884,
-      "parola_griko": "calangi",
-      "parola_italiano": "frittura natalizia"
-    },
-    {
-      "id": 1250,
-      "parola_griko": "caletta",
-      "parola_italiano": "bellina/carina"
-    },
-    {
-      "id": 1367,
-      "parola_griko": "calimera",
-      "parola_italiano": "buongiorno"
-    },
-    {
-      "id": 1368,
-      "parola_griko": "calispera",
-      "parola_italiano": "buonasera"
-    },
-    {
-      "id": 948,
-      "parola_griko": "calo",
-      "parola_italiano": "bene"
-    },
-    {
-      "id": 1069,
-      "parola_griko": "cama",
-      "parola_italiano": "caldo"
-    },
-    {
-      "id": 1182,
-      "parola_griko": "camula",
-      "parola_italiano": "nebbia/foschia"
+      "id": 698,
+      "parola_griko": "hurmos",
+      "parola_italiano": "maturo"
     },
     {
       "id": 699,
@@ -1916,134 +1381,9 @@
       "parola_italiano": "nebbioso/offuscato"
     },
     {
-      "id": 1175,
-      "parola_griko": "canaria",
-      "parola_italiano": "venditore di verdure/millantatore"
-    },
-    {
-      "id": 1120,
-      "parola_griko": "cantaro",
-      "parola_italiano": "vaso da notte"
-    },
-    {
-      "id": 1144,
-      "parola_griko": "canzo",
-      "parola_italiano": "cerchio del setaccio"
-    },
-    {
-      "id": 1162,
-      "parola_griko": "capnò",
-      "parola_italiano": "fumo"
-    },
-    {
-      "id": 1257,
-      "parola_griko": "carassa",
-      "parola_italiano": "fessura/fenditura"
-    },
-    {
-      "id": 1280,
-      "parola_griko": "cardia",
-      "parola_italiano": "cuore"
-    },
-    {
-      "id": 1011,
-      "parola_griko": "caridi",
-      "parola_italiano": "noce"
-    },
-    {
-      "id": 1297,
-      "parola_griko": "carti",
-      "parola_italiano": "carta/foglio"
-    },
-    {
-      "id": 921,
-      "parola_griko": "casarmata",
-      "parola_italiano": "scarti della pulizia delle verdure"
-    },
-    {
-      "id": 1229,
-      "parola_griko": "catadicasia",
-      "parola_italiano": "condanna"
-    },
-    {
-      "id": 949,
-      "parola_griko": "catalimo",
-      "parola_italiano": "distruzione/dissoluzione"
-    },
-    {
       "id": 700,
       "parola_griko": "cataros",
       "parola_italiano": "bestemmiatore"
-    },
-    {
-      "id": 1344,
-      "parola_griko": "catera",
-      "parola_italiano": "figlia/ragazza"
-    },
-    {
-      "id": 1009,
-      "parola_griko": "cattari",
-      "parola_italiano": "caldaia"
-    },
-    {
-      "id": 1249,
-      "parola_griko": "cefalaci",
-      "parola_italiano": "testolina"
-    },
-    {
-      "id": 1269,
-      "parola_griko": "cefali",
-      "parola_italiano": "testa/capo/mente"
-    },
-    {
-      "id": 969,
-      "parola_griko": "ceilo",
-      "parola_italiano": "labbro"
-    },
-    {
-      "id": 1274,
-      "parola_griko": "celona",
-      "parola_italiano": "testuggine/tartaruga"
-    },
-    {
-      "id": 1247,
-      "parola_griko": "celonaci",
-      "parola_italiano": "piccola tartaruga"
-    },
-    {
-      "id": 711,
-      "parola_griko": "cerameos",
-      "parola_italiano": "delle tegole"
-    },
-    {
-      "id": 1014,
-      "parola_griko": "cerami",
-      "parola_italiano": "tegola"
-    },
-    {
-      "id": 1015,
-      "parola_griko": "cerasi",
-      "parola_italiano": "ciliegia"
-    },
-    {
-      "id": 1070,
-      "parola_griko": "ceri",
-      "parola_italiano": "cera/candela"
-    },
-    {
-      "id": 1359,
-      "parola_griko": "cero",
-      "parola_italiano": "tempo opportuno"
-    },
-    {
-      "id": 1248,
-      "parola_griko": "cerulaci",
-      "parola_italiano": "manina"
-    },
-    {
-      "id": 1289,
-      "parola_griko": "chara",
-      "parola_italiano": "gioia/allegrezza"
     },
     {
       "id": 701,
@@ -2056,54 +1396,49 @@
       "parola_italiano": "piccolino/piccoletto"
     },
     {
-      "id": 1254,
-      "parola_griko": "chera",
-      "parola_italiano": "mano"
+      "id": 703,
+      "parola_griko": "cuffios",
+      "parola_italiano": "vuoto/sciocco"
     },
     {
-      "id": 1158,
-      "parola_griko": "chierò",
-      "parola_italiano": "tempo opportuno"
+      "id": 704,
+      "parola_griko": "lippus",
+      "parola_italiano": "unto/viscido"
     },
     {
-      "id": 1065,
-      "parola_griko": "chili",
-      "parola_italiano": "labbro"
+      "id": 705,
+      "parola_griko": "malligno",
+      "parola_italiano": "peloso/villoso"
     },
     {
-      "id": 1172,
-      "parola_griko": "chinipò",
-      "parola_italiano": "costoso/caro"
+      "id": 706,
+      "parola_griko": "macario",
+      "parola_italiano": "beato/felice"
     },
     {
-      "id": 1016,
-      "parola_griko": "chioni",
-      "parola_italiano": "neve"
+      "id": 707,
+      "parola_griko": "macreos",
+      "parola_italiano": "lungo/alto"
     },
     {
-      "id": 1141,
-      "parola_griko": "chipo",
-      "parola_italiano": "giardino/orto"
+      "id": 708,
+      "parola_griko": "marmaros",
+      "parola_italiano": "marmoreo/di marmo"
     },
     {
-      "id": 1054,
-      "parola_griko": "chiretima",
-      "parola_italiano": "saluto"
+      "id": 709,
+      "parola_griko": "mineos",
+      "parola_italiano": "di un mese"
     },
     {
-      "id": 1080,
-      "parola_griko": "chiro",
-      "parola_italiano": "vedovo"
+      "id": 710,
+      "parola_griko": "neos",
+      "parola_italiano": "nuovo/recente"
     },
     {
-      "id": 811,
-      "parola_griko": "chlorò",
-      "parola_italiano": "verde/acerbo"
-    },
-    {
-      "id": 1055,
-      "parola_griko": "choma",
-      "parola_italiano": "terra"
+      "id": 711,
+      "parola_griko": "cerameos",
+      "parola_italiano": "delle tegole"
     },
     {
       "id": 712,
@@ -2111,34 +1446,89 @@
       "parola_italiano": "di un anno"
     },
     {
-      "id": 818,
-      "parola_griko": "cinùrio",
-      "parola_italiano": "nuovo/recente"
-    },
-    {
       "id": 713,
       "parola_griko": "cinurios",
       "parola_italiano": "recente/nuovo"
     },
     {
-      "id": 1209,
-      "parola_griko": "cioccia",
-      "parola_italiano": "piccola/bambina"
+      "id": 714,
+      "parola_griko": "domanos",
+      "parola_italiano": "generoso/caritatevole"
     },
     {
-      "id": 1328,
-      "parola_griko": "cipo",
-      "parola_italiano": "giardino/orto"
+      "id": 715,
+      "parola_griko": "dorsos",
+      "parola_italiano": "destro"
     },
     {
-      "id": 1017,
-      "parola_griko": "citoni",
-      "parola_italiano": "mela cotogna"
+      "id": 716,
+      "parola_griko": "antropiaris",
+      "parola_italiano": "pudico/che si vergogna"
     },
     {
-      "id": 816,
-      "parola_griko": "citrinò",
-      "parola_italiano": "verdastro"
+      "id": 717,
+      "parola_griko": "fariziaris",
+      "parola_italiano": "timoroso/timido"
+    },
+    {
+      "id": 718,
+      "parola_griko": "tirus",
+      "parola_italiano": "pieno di pidocchi"
+    },
+    {
+      "id": 719,
+      "parola_griko": "glice",
+      "parola_italiano": "dolce"
+    },
+    {
+      "id": 720,
+      "parola_griko": "aos",
+      "parola_italiano": "santo"
+    },
+    {
+      "id": 721,
+      "parola_griko": "alisios",
+      "parola_italiano": "vero/veritiero/sincero"
+    },
+    {
+      "id": 722,
+      "parola_griko": "areos",
+      "parola_italiano": "rado/raro"
+    },
+    {
+      "id": 723,
+      "parola_griko": "asimos",
+      "parola_italiano": "argenteo/d'argento"
+    },
+    {
+      "id": 724,
+      "parola_griko": "imisos",
+      "parola_italiano": "mezzo/metà"
+    },
+    {
+      "id": 725,
+      "parola_griko": "minariko",
+      "parola_italiano": "di un mese"
+    },
+    {
+      "id": 726,
+      "parola_griko": "opsimos",
+      "parola_italiano": "tardivo/tardo"
+    },
+    {
+      "id": 727,
+      "parola_griko": "salenos",
+      "parola_italiano": "giallo pallido"
+    },
+    {
+      "id": 728,
+      "parola_griko": "scimonariko",
+      "parola_italiano": "invernale/d'inverno"
+    },
+    {
+      "id": 729,
+      "parola_griko": "serocaros",
+      "parola_italiano": "sgraziato/senza grazia"
     },
     {
       "id": 730,
@@ -2146,9 +1536,739 @@
       "parola_italiano": "verdastro/verde oliva"
     },
     {
-      "id": 1331,
-      "parola_griko": "clama",
-      "parola_italiano": "pianto"
+      "id": 731,
+      "parola_griko": "cucibile",
+      "parola_italiano": "di facile cottura"
+    },
+    {
+      "id": 732,
+      "parola_griko": "culimos",
+      "parola_italiano": "colmo/strapieno"
+    },
+    {
+      "id": 733,
+      "parola_griko": "discolos",
+      "parola_italiano": "discolo/difficile/fastidioso"
+    },
+    {
+      "id": 734,
+      "parola_griko": "edimi",
+      "parola_italiano": "incinta/gravida"
+    },
+    {
+      "id": 735,
+      "parola_griko": "arceros",
+      "parola_italiano": "vuoto/vacante"
+    },
+    {
+      "id": 736,
+      "parola_griko": "adinatos",
+      "parola_italiano": "privo di forze/debole"
+    },
+    {
+      "id": 737,
+      "parola_griko": "alocaros",
+      "parola_italiano": "allegro/felice/contento"
+    },
+    {
+      "id": 738,
+      "parola_griko": "ametros",
+      "parola_italiano": "smisurato/innumerevole"
+    },
+    {
+      "id": 739,
+      "parola_griko": "anapoli",
+      "parola_italiano": "rovescio/inverso/contrario"
+    },
+    {
+      "id": 740,
+      "parola_griko": "anazeros",
+      "parola_italiano": "imbranato/incapace/ignorante"
+    },
+    {
+      "id": 741,
+      "parola_griko": "anepautos",
+      "parola_italiano": "irrequieto"
+    },
+    {
+      "id": 742,
+      "parola_griko": "anemos",
+      "parola_italiano": "debole"
+    },
+    {
+      "id": 743,
+      "parola_griko": "askimos",
+      "parola_italiano": "brutto/sgraziato"
+    },
+    {
+      "id": 744,
+      "parola_griko": "azimos",
+      "parola_italiano": "pane non lievitato/azzimo"
+    },
+    {
+      "id": 745,
+      "parola_griko": "anoitos",
+      "parola_italiano": "stupido/che non comprende"
+    },
+    {
+      "id": 746,
+      "parola_griko": "arbos",
+      "parola_italiano": "acerbo/immaturo"
+    },
+    {
+      "id": 747,
+      "parola_griko": "aspros",
+      "parola_italiano": "bianco/candido"
+    },
+    {
+      "id": 748,
+      "parola_griko": "mavros",
+      "parola_italiano": "nero/scuro"
+    },
+    {
+      "id": 749,
+      "parola_griko": "senos",
+      "parola_italiano": "straniero/forestiero/estraneo"
+    },
+    {
+      "id": 750,
+      "parola_griko": "termos",
+      "parola_italiano": "caldo"
+    },
+    {
+      "id": 751,
+      "parola_griko": "triferos",
+      "parola_italiano": "tenero/morbido/molle"
+    },
+    {
+      "id": 752,
+      "parola_griko": "tromeros",
+      "parola_italiano": "terrificante/terribile"
+    },
+    {
+      "id": 753,
+      "parola_griko": "brastos",
+      "parola_italiano": "bollente"
+    },
+    {
+      "id": 754,
+      "parola_griko": "bromeros",
+      "parola_italiano": "puzzolente/maleodorante"
+    },
+    {
+      "id": 755,
+      "parola_griko": "secleros",
+      "parola_italiano": "duro/coriaceo"
+    },
+    {
+      "id": 756,
+      "parola_griko": "serizeros",
+      "parola_italiano": "secco/asciutto/arido"
+    },
+    {
+      "id": 757,
+      "parola_griko": "sinos",
+      "parola_italiano": "acido"
+    },
+    {
+      "id": 758,
+      "parola_griko": "zontos",
+      "parola_italiano": "rozzo/grossolano"
+    },
+    {
+      "id": 759,
+      "parola_griko": "scotinò",
+      "parola_italiano": "scuro/oscuro/buio"
+    },
+    {
+      "id": 760,
+      "parola_griko": "spittò",
+      "parola_italiano": "scintillante/sfavillante/brillante"
+    },
+    {
+      "id": 761,
+      "parola_griko": "sporicò",
+      "parola_italiano": "pieno di semi"
+    },
+    {
+      "id": 762,
+      "parola_griko": "stittò",
+      "parola_italiano": "stretto"
+    },
+    {
+      "id": 763,
+      "parola_griko": "stannò",
+      "parola_italiano": "asciutto/asciugato"
+    },
+    {
+      "id": 764,
+      "parola_griko": "stenò",
+      "parola_italiano": "stretto"
+    },
+    {
+      "id": 765,
+      "parola_griko": "stranghilò",
+      "parola_italiano": "enorme/altissimo"
+    },
+    {
+      "id": 766,
+      "parola_griko": "stravò",
+      "parola_italiano": "storto/incurvato"
+    },
+    {
+      "id": 767,
+      "parola_griko": "spastrikò",
+      "parola_italiano": "pulito/terso"
+    },
+    {
+      "id": 768,
+      "parola_griko": "spinò",
+      "parola_italiano": "spesso/fitto/doppio"
+    },
+    {
+      "id": 769,
+      "parola_griko": "prikò",
+      "parola_italiano": "amaro"
+    },
+    {
+      "id": 770,
+      "parola_griko": "protinò",
+      "parola_italiano": "primo"
+    },
+    {
+      "id": 771,
+      "parola_griko": "psacnò",
+      "parola_italiano": "magro/morbido"
+    },
+    {
+      "id": 772,
+      "parola_griko": "psicrò",
+      "parola_italiano": "freddo/gelido"
+    },
+    {
+      "id": 773,
+      "parola_griko": "ftexò",
+      "parola_italiano": "povero/mendicante"
+    },
+    {
+      "id": 774,
+      "parola_griko": "purmistò",
+      "parola_italiano": "bollente/scottante"
+    },
+    {
+      "id": 775,
+      "parola_griko": "rodinò",
+      "parola_italiano": "rosso"
+    },
+    {
+      "id": 776,
+      "parola_griko": "lafrò",
+      "parola_italiano": "leggero/lieve/agile"
+    },
+    {
+      "id": 777,
+      "parola_griko": "lamperò",
+      "parola_italiano": "lucente"
+    },
+    {
+      "id": 778,
+      "parola_griko": "leftò",
+      "parola_italiano": "sottile/magro/fine"
+    },
+    {
+      "id": 779,
+      "parola_griko": "liparò",
+      "parola_italiano": "grasso/obeso"
+    },
+    {
+      "id": 780,
+      "parola_griko": "lisarò",
+      "parola_italiano": "pietroso/sassoso/roccioso"
+    },
+    {
+      "id": 781,
+      "parola_griko": "maddarò",
+      "parola_italiano": "lanoso/peloso"
+    },
+    {
+      "id": 782,
+      "parola_griko": "manachò",
+      "parola_italiano": "solo/unico"
+    },
+    {
+      "id": 783,
+      "parola_griko": "metaxotò",
+      "parola_italiano": "serico/di seta"
+    },
+    {
+      "id": 784,
+      "parola_griko": "miristikò",
+      "parola_italiano": "odoroso/profumato"
+    },
+    {
+      "id": 785,
+      "parola_griko": "miristò",
+      "parola_italiano": "odoroso"
+    },
+    {
+      "id": 786,
+      "parola_griko": "monò",
+      "parola_italiano": "singolo/semplice"
+    },
+    {
+      "id": 787,
+      "parola_griko": "negò",
+      "parola_italiano": "magro"
+    },
+    {
+      "id": 788,
+      "parola_griko": "nistikò",
+      "parola_italiano": "digiuno"
+    },
+    {
+      "id": 789,
+      "parola_griko": "danikò",
+      "parola_italiano": "prestato/preso in prestito/altrui"
+    },
+    {
+      "id": 790,
+      "parola_griko": "diplò",
+      "parola_italiano": "doppio"
+    },
+    {
+      "id": 791,
+      "parola_griko": "droserò",
+      "parola_italiano": "rugiadoso/umido"
+    },
+    {
+      "id": 792,
+      "parola_griko": "diastikò",
+      "parola_italiano": "utile/necessario"
+    },
+    {
+      "id": 793,
+      "parola_griko": "fanerò",
+      "parola_italiano": "evidente/appariscente"
+    },
+    {
+      "id": 794,
+      "parola_griko": "fiddarò",
+      "parola_italiano": "ricco di foglie/frondoso"
+    },
+    {
+      "id": 795,
+      "parola_griko": "fonarò",
+      "parola_italiano": "rumoroso/che parla a voce alta"
+    },
+    {
+      "id": 796,
+      "parola_griko": "gghielò",
+      "parola_italiano": "sorridente/allegro"
+    },
+    {
+      "id": 797,
+      "parola_griko": "gghielastò",
+      "parola_italiano": "ridente/ridicolo/deriso"
+    },
+    {
+      "id": 798,
+      "parola_griko": "jumnò",
+      "parola_italiano": "nudo"
+    },
+    {
+      "id": 799,
+      "parola_griko": "kalò",
+      "parola_italiano": "buono"
+    },
+    {
+      "id": 800,
+      "parola_griko": "kakò",
+      "parola_italiano": "malvagio/cattivo"
+    },
+    {
+      "id": 801,
+      "parola_griko": "kinipò",
+      "parola_italiano": "costoso/caro"
+    },
+    {
+      "id": 802,
+      "parola_griko": "afelasò",
+      "parola_italiano": "inutile"
+    },
+    {
+      "id": 803,
+      "parola_griko": "agapitò",
+      "parola_italiano": "amato/caro/prediletto"
+    },
+    {
+      "id": 804,
+      "parola_griko": "agrikò",
+      "parola_italiano": "rustico/selvatico/agreste"
+    },
+    {
+      "id": 805,
+      "parola_griko": "igrò",
+      "parola_italiano": "bagnato/umido"
+    },
+    {
+      "id": 806,
+      "parola_griko": "omò",
+      "parola_italiano": "crudo/non cotto"
+    },
+    {
+      "id": 807,
+      "parola_griko": "ampisinò",
+      "parola_italiano": "ultimo/estremo"
+    },
+    {
+      "id": 808,
+      "parola_griko": "anitò",
+      "parola_italiano": "aperto/spalancato"
+    },
+    {
+      "id": 809,
+      "parola_griko": "apalò",
+      "parola_italiano": "molle/madido"
+    },
+    {
+      "id": 810,
+      "parola_griko": "ipsilò",
+      "parola_italiano": "alto"
+    },
+    {
+      "id": 811,
+      "parola_griko": "chlorò",
+      "parola_italiano": "verde/acerbo"
+    },
+    {
+      "id": 812,
+      "parola_griko": "kondrò",
+      "parola_italiano": "grosso"
+    },
+    {
+      "id": 813,
+      "parola_griko": "oriò",
+      "parola_italiano": "bello"
+    },
+    {
+      "id": 814,
+      "parola_griko": "azilò",
+      "parola_italiano": "alto"
+    },
+    {
+      "id": 815,
+      "parola_griko": "mavrò",
+      "parola_italiano": "nero"
+    },
+    {
+      "id": 816,
+      "parola_griko": "citrinò",
+      "parola_italiano": "verdastro"
+    },
+    {
+      "id": 817,
+      "parola_griko": "glicèo",
+      "parola_italiano": "dolce"
+    },
+    {
+      "id": 818,
+      "parola_griko": "cinùrio",
+      "parola_italiano": "nuovo/recente"
+    },
+    {
+      "id": 819,
+      "parola_griko": "crusafègno",
+      "parola_italiano": "aureo/fatto d'oro"
+    },
+    {
+      "id": 820,
+      "parola_griko": "crusameno",
+      "parola_italiano": "dorato/ricoperto d'oro"
+    },
+    {
+      "id": 821,
+      "parola_griko": "antropiaro",
+      "parola_italiano": "pudico/che si vergogna"
+    },
+    {
+      "id": 822,
+      "parola_griko": "polemao",
+      "parola_italiano": "laborioso/gran lavoratore"
+    },
+    {
+      "id": 823,
+      "parola_griko": "pornò",
+      "parola_italiano": "mattiniero"
+    },
+    {
+      "id": 824,
+      "parola_griko": "ampoma",
+      "parola_italiano": "spinta"
+    },
+    {
+      "id": 825,
+      "parola_griko": "creta",
+      "parola_italiano": "argilla"
+    },
+    {
+      "id": 826,
+      "parola_griko": "idrota",
+      "parola_italiano": "sudore"
+    },
+    {
+      "id": 827,
+      "parola_griko": "macara",
+      "parola_italiano": "strega"
+    },
+    {
+      "id": 828,
+      "parola_griko": "magaria",
+      "parola_italiano": "stregoneria"
+    },
+    {
+      "id": 829,
+      "parola_griko": "mascìa",
+      "parola_italiano": "magia/incantesimo"
+    },
+    {
+      "id": 830,
+      "parola_griko": "miscìmera",
+      "parola_italiano": "mezzogiorno"
+    },
+    {
+      "id": 831,
+      "parola_griko": "pesma",
+      "parola_italiano": "caduta"
+    },
+    {
+      "id": 832,
+      "parola_griko": "pupusha",
+      "parola_italiano": "upupa"
+    },
+    {
+      "id": 833,
+      "parola_griko": "ramma",
+      "parola_italiano": "cucitura"
+    },
+    {
+      "id": 834,
+      "parola_griko": "saracostì",
+      "parola_italiano": "quaresima"
+    },
+    {
+      "id": 835,
+      "parola_griko": "teò",
+      "parola_italiano": "Dio"
+    },
+    {
+      "id": 836,
+      "parola_griko": "bromò",
+      "parola_italiano": "fetido"
+    },
+    {
+      "id": 837,
+      "parola_griko": "crauno",
+      "parola_italiano": "carbone"
+    },
+    {
+      "id": 838,
+      "parola_griko": "paladi",
+      "parola_italiano": "palazzo"
+    },
+    {
+      "id": 839,
+      "parola_griko": "sublì",
+      "parola_italiano": "lesina"
+    },
+    {
+      "id": 840,
+      "parola_griko": "thermò",
+      "parola_italiano": "caldo"
+    },
+    {
+      "id": 841,
+      "parola_griko": "trifiddi",
+      "parola_italiano": "trifoglio"
+    },
+    {
+      "id": 842,
+      "parola_griko": "bui",
+      "parola_italiano": "bue"
+    },
+    {
+      "id": 843,
+      "parola_griko": "cocchiarèa",
+      "parola_italiano": "coppia di friselle/puccia"
+    },
+    {
+      "id": 844,
+      "parola_griko": "decadìa",
+      "parola_italiano": "decima parte"
+    },
+    {
+      "id": 845,
+      "parola_griko": "cafì",
+      "parola_italiano": "crusca d'orzo"
+    },
+    {
+      "id": 846,
+      "parola_griko": "protimisì",
+      "parola_italiano": "arroganza/prepotenza"
+    },
+    {
+      "id": 847,
+      "parola_griko": "sicra",
+      "parola_italiano": "gelata notturna/ghiaccio"
+    },
+    {
+      "id": 848,
+      "parola_griko": "tesi",
+      "parola_italiano": "colpa"
+    },
+    {
+      "id": 849,
+      "parola_griko": "spara",
+      "parola_italiano": "specie di salvia"
+    },
+    {
+      "id": 850,
+      "parola_griko": "glitona",
+      "parola_italiano": "vicino/vicinato"
+    },
+    {
+      "id": 851,
+      "parola_griko": "cuccovìo",
+      "parola_italiano": "maschio della civetta"
+    },
+    {
+      "id": 852,
+      "parola_griko": "milissùna",
+      "parola_italiano": "fuco"
+    },
+    {
+      "id": 853,
+      "parola_griko": "rucco",
+      "parola_italiano": "colombo/piccione"
+    },
+    {
+      "id": 854,
+      "parola_griko": "ditti",
+      "parola_italiano": "rete per uccelli"
+    },
+    {
+      "id": 855,
+      "parola_griko": "nema",
+      "parola_italiano": "filo"
+    },
+    {
+      "id": 856,
+      "parola_griko": "panìri",
+      "parola_italiano": "fiera/sagra"
+    },
+    {
+      "id": 857,
+      "parola_griko": "parabossolo",
+      "parola_italiano": "granturco/mais"
+    },
+    {
+      "id": 858,
+      "parola_griko": "azzemero",
+      "parola_italiano": "alba/aurora"
+    },
+    {
+      "id": 859,
+      "parola_griko": "serama",
+      "parola_italiano": "vomito"
+    },
+    {
+      "id": 860,
+      "parola_griko": "zinùtti",
+      "parola_italiano": "aceto"
+    },
+    {
+      "id": 861,
+      "parola_griko": "zonari",
+      "parola_italiano": "cintola"
+    },
+    {
+      "id": 862,
+      "parola_griko": "maddi",
+      "parola_italiano": "capello/pelo/lana"
+    },
+    {
+      "id": 863,
+      "parola_griko": "matì",
+      "parola_italiano": "camicia"
+    },
+    {
+      "id": 864,
+      "parola_griko": "morolò",
+      "parola_italiano": "canto/lamento funebre"
+    },
+    {
+      "id": 865,
+      "parola_griko": "mustài",
+      "parola_italiano": "baffi"
+    },
+    {
+      "id": 866,
+      "parola_griko": "peristeri",
+      "parola_italiano": "colomba/piccione"
+    },
+    {
+      "id": 867,
+      "parola_griko": "pezzali",
+      "parola_italiano": "sedile di pietra o legno"
+    },
+    {
+      "id": 868,
+      "parola_griko": "piccio",
+      "parola_italiano": "uccello"
+    },
+    {
+      "id": 869,
+      "parola_griko": "pittarai",
+      "parola_italiano": "panino di orzo per bambini"
+    },
+    {
+      "id": 870,
+      "parola_griko": "pramazzi",
+      "parola_italiano": "cosetta trascurabile"
+    },
+    {
+      "id": 871,
+      "parola_griko": "ftecheddhi",
+      "parola_italiano": "poveretto/mendicante"
+    },
+    {
+      "id": 872,
+      "parola_griko": "pugghì",
+      "parola_italiano": "pollo/animale giovane"
+    },
+    {
+      "id": 873,
+      "parola_griko": "stamnì",
+      "parola_italiano": "orciolo/brocca di terracotta"
+    },
+    {
+      "id": 874,
+      "parola_griko": "telimata",
+      "parola_italiano": "cose desiderate/occorrente"
+    },
+    {
+      "id": 875,
+      "parola_griko": "tiàni",
+      "parola_italiano": "teglia di rame/padella"
+    },
+    {
+      "id": 876,
+      "parola_griko": "truddhi",
+      "parola_italiano": "mucchio di pietre"
+    },
+    {
+      "id": 877,
+      "parola_griko": "apunai",
+      "parola_italiano": "carbonaia piccola"
     },
     {
       "id": 878,
@@ -2161,214 +2281,34 @@
       "parola_italiano": "ramo"
     },
     {
-      "id": 1083,
-      "parola_griko": "cleftì",
-      "parola_italiano": "ladro"
+      "id": 880,
+      "parola_griko": "magro",
+      "parola_italiano": "nero"
     },
     {
-      "id": 977,
-      "parola_griko": "clidio",
-      "parola_italiano": "uovo fecondato"
+      "id": 881,
+      "parola_griko": "halo",
+      "parola_italiano": "sale"
     },
     {
-      "id": 944,
-      "parola_griko": "cloro",
-      "parola_italiano": "parte verde del ramo"
+      "id": 882,
+      "parola_griko": "dermazzi",
+      "parola_italiano": "cuoio"
     },
     {
-      "id": 1358,
-      "parola_griko": "cnida",
-      "parola_italiano": "ortica"
+      "id": 883,
+      "parola_griko": "frea",
+      "parola_italiano": "pozzo"
     },
     {
-      "id": 843,
-      "parola_griko": "cocchiarèa",
-      "parola_italiano": "coppia di friselle/puccia"
-    },
-    {
-      "id": 978,
-      "parola_griko": "cocco",
-      "parola_italiano": "acino/chicco"
-    },
-    {
-      "id": 1145,
-      "parola_griko": "colombo",
-      "parola_italiano": "nodo/legame"
-    },
-    {
-      "id": 945,
-      "parola_griko": "condro",
-      "parola_italiano": "grosso/stupido"
-    },
-    {
-      "id": 1084,
-      "parola_griko": "copanari",
-      "parola_italiano": "picchiatore"
+      "id": 884,
+      "parola_griko": "calangi",
+      "parola_italiano": "frittura natalizia"
     },
     {
       "id": 885,
       "parola_griko": "copano",
       "parola_italiano": "randello"
-    },
-    {
-      "id": 979,
-      "parola_griko": "copro",
-      "parola_italiano": "letame/sporcizia"
-    },
-    {
-      "id": 1184,
-      "parola_griko": "copula",
-      "parola_italiano": "sfera di pietra/boccia"
-    },
-    {
-      "id": 1185,
-      "parola_griko": "copuledda",
-      "parola_italiano": "polpetta di pane in brodo"
-    },
-    {
-      "id": 970,
-      "parola_griko": "corio",
-      "parola_italiano": "villaggio/paese"
-    },
-    {
-      "id": 971,
-      "parola_griko": "corto",
-      "parola_italiano": "erba/foraggio"
-    },
-    {
-      "id": 1319,
-      "parola_griko": "corto",
-      "parola_italiano": "erba/foraggio/fieno"
-    },
-    {
-      "id": 1146,
-      "parola_griko": "cosmo",
-      "parola_italiano": "mondo/universo"
-    },
-    {
-      "id": 1338,
-      "parola_griko": "cosmo",
-      "parola_italiano": "mondo"
-    },
-    {
-      "id": 1071,
-      "parola_griko": "crasi",
-      "parola_italiano": "vino"
-    },
-    {
-      "id": 837,
-      "parola_griko": "crauno",
-      "parola_italiano": "carbone"
-    },
-    {
-      "id": 825,
-      "parola_griko": "creta",
-      "parola_italiano": "argilla"
-    },
-    {
-      "id": 950,
-      "parola_griko": "crifo",
-      "parola_italiano": "nascosto/segreto"
-    },
-    {
-      "id": 1147,
-      "parola_griko": "crino",
-      "parola_italiano": "giglio"
-    },
-    {
-      "id": 1169,
-      "parola_griko": "crio",
-      "parola_italiano": "montone/ariete"
-    },
-    {
-      "id": 1163,
-      "parola_griko": "cristianò",
-      "parola_italiano": "uomo cristiano/uomo"
-    },
-    {
-      "id": 952,
-      "parola_griko": "croco",
-      "parola_italiano": "tuorlo dell'uovo"
-    },
-    {
-      "id": 919,
-      "parola_griko": "crombolo",
-      "parola_italiano": "corbezzolo/mora di rovo"
-    },
-    {
-      "id": 1013,
-      "parola_griko": "crommidi",
-      "parola_italiano": "cipolla"
-    },
-    {
-      "id": 1140,
-      "parola_griko": "crono",
-      "parola_italiano": "anno"
-    },
-    {
-      "id": 819,
-      "parola_griko": "crusafègno",
-      "parola_italiano": "aureo/fatto d'oro"
-    },
-    {
-      "id": 1012,
-      "parola_griko": "crusafi",
-      "parola_italiano": "oro"
-    },
-    {
-      "id": 820,
-      "parola_griko": "crusameno",
-      "parola_italiano": "dorato/ricoperto d'oro"
-    },
-    {
-      "id": 951,
-      "parola_griko": "ctino",
-      "parola_italiano": "bestia/animale d'allevamento"
-    },
-    {
-      "id": 1095,
-      "parola_griko": "cucco",
-      "parola_italiano": "focaccia di farina d'orzo"
-    },
-    {
-      "id": 851,
-      "parola_griko": "cuccovìo",
-      "parola_italiano": "maschio della civetta"
-    },
-    {
-      "id": 731,
-      "parola_griko": "cucibile",
-      "parola_italiano": "di facile cottura"
-    },
-    {
-      "id": 1221,
-      "parola_griko": "cucuvascia",
-      "parola_italiano": "civetta"
-    },
-    {
-      "id": 703,
-      "parola_griko": "cuffios",
-      "parola_italiano": "vuoto/sciocco"
-    },
-    {
-      "id": 732,
-      "parola_griko": "culimos",
-      "parola_italiano": "colmo/strapieno"
-    },
-    {
-      "id": 913,
-      "parola_griko": "culumi",
-      "parola_italiano": "mucchio"
-    },
-    {
-      "id": 1259,
-      "parola_griko": "culura",
-      "parola_italiano": "ciambella/dolce pasquale"
-    },
-    {
-      "id": 1270,
-      "parola_griko": "curiaci",
-      "parola_italiano": "domenica"
     },
     {
       "id": 886,
@@ -2381,414 +2321,54 @@
       "parola_italiano": "oliera"
     },
     {
-      "id": 1265,
-      "parola_griko": "dacca",
-      "parola_italiano": "morso"
+      "id": 888,
+      "parola_griko": "rebatto",
+      "parola_italiano": "rumore/frastuono"
     },
     {
-      "id": 1258,
-      "parola_griko": "damalida",
-      "parola_italiano": "vitella/giovenca"
+      "id": 889,
+      "parola_griko": "recco",
+      "parola_italiano": "maiale/porco"
     },
     {
-      "id": 789,
-      "parola_griko": "danikò",
-      "parola_italiano": "prestato/preso in prestito/altrui"
+      "id": 890,
+      "parola_griko": "roggio",
+      "parola_italiano": "bastone per mescolare il latte cagliato"
     },
     {
-      "id": 1078,
-      "parola_griko": "daso",
-      "parola_italiano": "bosco"
+      "id": 891,
+      "parola_griko": "sambo",
+      "parola_italiano": "sabato"
     },
     {
-      "id": 989,
-      "parola_griko": "dattilo",
-      "parola_italiano": "dito"
+      "id": 892,
+      "parola_griko": "saracinico",
+      "parola_italiano": "anguria/cocomero"
     },
     {
-      "id": 844,
-      "parola_griko": "decadìa",
-      "parola_italiano": "decima parte"
+      "id": 893,
+      "parola_griko": "stacchi",
+      "parola_italiano": "pietra del gioco delle stacche"
     },
     {
-      "id": 1057,
-      "parola_griko": "derma",
-      "parola_italiano": "pelle"
+      "id": 894,
+      "parola_griko": "tavari",
+      "parola_italiano": "otre"
     },
     {
-      "id": 882,
-      "parola_griko": "dermazzi",
-      "parola_italiano": "cuoio"
+      "id": 895,
+      "parola_griko": "tristelli",
+      "parola_italiano": "cavalletto di ferro"
     },
     {
-      "id": 792,
-      "parola_griko": "diastikò",
-      "parola_italiano": "utile/necessario"
+      "id": 896,
+      "parola_griko": "tumeno",
+      "parola_italiano": "tomolo (misura)"
     },
     {
-      "id": 1117,
-      "parola_griko": "diavolo",
-      "parola_italiano": "diavolo"
-    },
-    {
-      "id": 1170,
-      "parola_griko": "dio",
-      "parola_italiano": "zio"
-    },
-    {
-      "id": 790,
-      "parola_griko": "diplò",
-      "parola_italiano": "doppio"
-    },
-    {
-      "id": 733,
-      "parola_griko": "discolos",
-      "parola_italiano": "discolo/difficile/fastidioso"
-    },
-    {
-      "id": 854,
-      "parola_griko": "ditti",
-      "parola_italiano": "rete per uccelli"
-    },
-    {
-      "id": 714,
-      "parola_griko": "domanos",
-      "parola_italiano": "generoso/caritatevole"
-    },
-    {
-      "id": 1018,
-      "parola_griko": "donti",
-      "parola_italiano": "dente"
-    },
-    {
-      "id": 715,
-      "parola_griko": "dorsos",
-      "parola_italiano": "destro"
-    },
-    {
-      "id": 972,
-      "parola_griko": "dricheo",
-      "parola_italiano": "giusto/ragione"
-    },
-    {
-      "id": 791,
-      "parola_griko": "droserò",
-      "parola_italiano": "rugiadoso/umido"
-    },
-    {
-      "id": 1279,
-      "parola_griko": "drosia",
-      "parola_italiano": "rugiada"
-    },
-    {
-      "id": 1304,
-      "parola_griko": "e",
-      "parola_italiano": "le (nom. f. pl.)"
-    },
-    {
-      "id": 734,
-      "parola_griko": "edimi",
-      "parola_italiano": "incinta/gravida"
-    },
-    {
-      "id": 1323,
-      "parola_griko": "ena",
-      "parola_italiano": "uno (m./neutro)"
-    },
-    {
-      "id": 1339,
-      "parola_griko": "endino",
-      "parola_italiano": "vesto"
-    },
-    {
-      "id": 1207,
-      "parola_griko": "esterna",
-      "parola_italiano": "cisterna"
-    },
-    {
-      "id": 1349,
-      "parola_griko": "evrisko",
-      "parola_italiano": "trovo/incontro"
-    },
-    {
-      "id": 793,
-      "parola_griko": "fanerò",
-      "parola_italiano": "evidente/appariscente"
-    },
-    {
-      "id": 946,
-      "parola_griko": "fano",
-      "parola_italiano": "apparenza/esteriorità"
-    },
-    {
-      "id": 1159,
-      "parola_griko": "fanò",
-      "parola_italiano": "apparenza/pubblicità"
-    },
-    {
-      "id": 717,
-      "parola_griko": "fariziaris",
-      "parola_italiano": "timoroso/timido"
-    },
-    {
-      "id": 914,
-      "parola_griko": "favaruli",
-      "parola_italiano": "tonchio (parassita delle fave)"
-    },
-    {
-      "id": 973,
-      "parola_griko": "fengo",
-      "parola_italiano": "luna"
-    },
-    {
-      "id": 1340,
-      "parola_griko": "feo",
-      "parola_italiano": "vado via/fuggo"
-    },
-    {
-      "id": 794,
-      "parola_griko": "fiddarò",
-      "parola_italiano": "ricco di foglie/frondoso"
-    },
-    {
-      "id": 1267,
-      "parola_griko": "filima",
-      "parola_italiano": "bacio"
-    },
-    {
-      "id": 974,
-      "parola_griko": "filo",
-      "parola_italiano": "foglia/petalo"
-    },
-    {
-      "id": 1362,
-      "parola_griko": "filo",
-      "parola_italiano": "foglia"
-    },
-    {
-      "id": 1041,
-      "parola_griko": "fisima",
-      "parola_italiano": "gonfiore"
-    },
-    {
-      "id": 1160,
-      "parola_griko": "fò",
-      "parola_italiano": "luce"
-    },
-    {
-      "id": 795,
-      "parola_griko": "fonarò",
-      "parola_italiano": "rumoroso/che parla a voce alta"
-    },
-    {
-      "id": 1329,
-      "parola_griko": "foni",
-      "parola_italiano": "voce/grido"
-    },
-    {
-      "id": 1266,
-      "parola_griko": "forada",
-      "parola_italiano": "cavalla/giumenta"
-    },
-    {
-      "id": 1298,
-      "parola_griko": "fori",
-      "parola_italiano": "paese/villaggio"
-    },
-    {
-      "id": 915,
-      "parola_griko": "fossi",
-      "parola_italiano": "fossa/granaio sotterraneo"
-    },
-    {
-      "id": 883,
-      "parola_griko": "frea",
-      "parola_italiano": "pozzo"
-    },
-    {
-      "id": 1181,
-      "parola_griko": "frisa",
-      "parola_italiano": "frisella"
-    },
-    {
-      "id": 1365,
-      "parola_griko": "frizza",
-      "parola_italiano": "radice"
-    },
-    {
-      "id": 871,
-      "parola_griko": "ftecheddhi",
-      "parola_italiano": "poveretto/mendicante"
-    },
-    {
-      "id": 773,
-      "parola_griko": "ftexò",
-      "parola_italiano": "povero/mendicante"
-    },
-    {
-      "id": 1220,
-      "parola_griko": "fusca",
-      "parola_italiano": "pula"
-    },
-    {
-      "id": 1081,
-      "parola_griko": "fustiano",
-      "parola_italiano": "gonna"
-    },
-    {
-      "id": 916,
-      "parola_griko": "gaduri",
-      "parola_italiano": "somaro/asino"
-    },
-    {
-      "id": 1029,
-      "parola_griko": "gala",
-      "parola_italiano": "latte"
-    },
-    {
-      "id": 1096,
-      "parola_griko": "galani",
-      "parola_italiano": "massaro/pastore"
-    },
-    {
-      "id": 1118,
-      "parola_griko": "garofalo",
-      "parola_italiano": "garofano"
-    },
-    {
-      "id": 797,
-      "parola_griko": "gghielastò",
-      "parola_italiano": "ridente/ridicolo/deriso"
-    },
-    {
-      "id": 796,
-      "parola_griko": "gghielò",
-      "parola_italiano": "sorridente/allegro"
-    },
-    {
-      "id": 719,
-      "parola_griko": "glice",
-      "parola_italiano": "dolce"
-    },
-    {
-      "id": 1337,
-      "parola_griko": "gliceo",
-      "parola_italiano": "dolce"
-    },
-    {
-      "id": 817,
-      "parola_griko": "glicèo",
-      "parola_italiano": "dolce"
-    },
-    {
-      "id": 975,
-      "parola_griko": "glico",
-      "parola_italiano": "dolce"
-    },
-    {
-      "id": 850,
-      "parola_griko": "glitona",
-      "parola_italiano": "vicino/vicinato"
-    },
-    {
-      "id": 1335,
-      "parola_griko": "glossa",
-      "parola_italiano": "lingua"
-    },
-    {
-      "id": 990,
-      "parola_griko": "gonato",
-      "parola_italiano": "ginocchio"
-    },
-    {
-      "id": 1341,
-      "parola_griko": "grafo",
-      "parola_italiano": "scrivo"
-    },
-    {
-      "id": 1161,
-      "parola_griko": "grambò",
-      "parola_italiano": "genero"
-    },
-    {
-      "id": 1052,
-      "parola_griko": "gramma",
-      "parola_italiano": "lettera"
-    },
-    {
-      "id": 1206,
-      "parola_griko": "granza",
-      "parola_italiano": "frisella di farina grossa d'orzo"
-    },
-    {
-      "id": 1276,
-      "parola_griko": "grasta",
-      "parola_italiano": "vaso"
-    },
-    {
-      "id": 1205,
-      "parola_griko": "grifa",
-      "parola_italiano": "sansa delle olive"
-    },
-    {
-      "id": 1143,
-      "parola_griko": "grotto",
-      "parola_italiano": "manciata/pugno"
-    },
-    {
-      "id": 1210,
-      "parola_griko": "gruppo",
-      "parola_italiano": "cripta/grotta"
-    },
-    {
-      "id": 917,
-      "parola_griko": "guruni",
-      "parola_italiano": "grugno/muso/maiale"
-    },
-    {
-      "id": 881,
-      "parola_griko": "halo",
-      "parola_italiano": "sale"
-    },
-    {
-      "id": 698,
-      "parola_griko": "hurmos",
-      "parola_italiano": "maturo"
-    },
-    {
-      "id": 1303,
-      "parola_griko": "i",
-      "parola_italiano": "gli (nom. m. pl.)"
-    },
-    {
-      "id": 1313,
-      "parola_griko": "i",
-      "parola_italiano": "la (nom. f. sing.)"
-    },
-    {
-      "id": 826,
-      "parola_griko": "idrota",
-      "parola_italiano": "sudore"
-    },
-    {
-      "id": 1030,
-      "parola_griko": "iema",
-      "parola_italiano": "sangue"
-    },
-    {
-      "id": 976,
-      "parola_griko": "ieno",
-      "parola_italiano": "parto/figliata"
-    },
-    {
-      "id": 918,
-      "parola_griko": "iermito",
-      "parola_italiano": "fascio di spighe"
-    },
-    {
-      "id": 805,
-      "parola_griko": "igrò",
-      "parola_italiano": "bagnato/umido"
+      "id": 897,
+      "parola_griko": "turnisi",
+      "parola_italiano": "soldo/moneta"
     },
     {
       "id": 898,
@@ -2796,14 +2376,24 @@
       "parola_italiano": "imbuto"
     },
     {
-      "id": 1342,
-      "parola_griko": "imera",
-      "parola_italiano": "giorno"
+      "id": 899,
+      "parola_griko": "maccaluri",
+      "parola_italiano": "fazzoletto"
     },
     {
-      "id": 724,
-      "parola_griko": "imisos",
-      "parola_italiano": "mezzo/metà"
+      "id": 900,
+      "parola_griko": "mansanemi",
+      "parola_italiano": "luogo soleggiato al riparo dal vento"
+    },
+    {
+      "id": 901,
+      "parola_griko": "mantili",
+      "parola_italiano": "grembiale"
+    },
+    {
+      "id": 902,
+      "parola_griko": "miuli",
+      "parola_italiano": "bicchiere"
     },
     {
       "id": 903,
@@ -2811,59 +2401,764 @@
       "parola_italiano": "uncino"
     },
     {
-      "id": 1343,
-      "parola_griko": "ipno",
-      "parola_italiano": "sonno/sogno"
+      "id": 904,
+      "parola_griko": "ninni",
+      "parola_italiano": "bambino"
     },
     {
-      "id": 810,
-      "parola_griko": "ipsilò",
-      "parola_italiano": "alto"
+      "id": 905,
+      "parola_griko": "nastudi",
+      "parola_italiano": "bottone"
     },
     {
-      "id": 1119,
-      "parola_griko": "ipuno",
-      "parola_italiano": "sonno/sogno"
+      "id": 906,
+      "parola_griko": "pasca",
+      "parola_italiano": "Pasqua"
     },
     {
-      "id": 1058,
-      "parola_griko": "jennima",
-      "parola_italiano": "creatura"
+      "id": 907,
+      "parola_griko": "pilacci",
+      "parola_italiano": "vasca per il mosto"
     },
     {
-      "id": 798,
-      "parola_griko": "jumnò",
-      "parola_italiano": "nudo"
+      "id": 908,
+      "parola_griko": "pipituri",
+      "parola_italiano": "pannocchia"
     },
     {
-      "id": 1208,
-      "parola_griko": "jurnata",
-      "parola_italiano": "giornata lavorativa"
+      "id": 909,
+      "parola_griko": "atari",
+      "parola_italiano": "altare"
     },
     {
-      "id": 1059,
-      "parola_griko": "kakalima",
-      "parola_italiano": "aborto"
+      "id": 910,
+      "parola_griko": "arbari",
+      "parola_italiano": "aiuola rialzata"
     },
     {
-      "id": 800,
-      "parola_griko": "kakò",
-      "parola_italiano": "malvagio/cattivo"
+      "id": 911,
+      "parola_griko": "arzuli",
+      "parola_italiano": "orciolo/brocca di terracotta"
     },
     {
-      "id": 799,
-      "parola_griko": "kalò",
-      "parola_italiano": "buono"
+      "id": 912,
+      "parola_griko": "cacanili",
+      "parola_italiano": "ultimo nato di una nidiata"
     },
     {
-      "id": 1060,
-      "parola_griko": "katurima",
-      "parola_italiano": "pianto"
+      "id": 913,
+      "parola_griko": "culumi",
+      "parola_italiano": "mucchio"
     },
     {
-      "id": 801,
-      "parola_griko": "kinipò",
-      "parola_italiano": "costoso/caro"
+      "id": 914,
+      "parola_griko": "favaruli",
+      "parola_italiano": "tonchio (parassita delle fave)"
+    },
+    {
+      "id": 915,
+      "parola_griko": "fossi",
+      "parola_italiano": "fossa/granaio sotterraneo"
+    },
+    {
+      "id": 916,
+      "parola_griko": "gaduri",
+      "parola_italiano": "somaro/asino"
+    },
+    {
+      "id": 917,
+      "parola_griko": "guruni",
+      "parola_italiano": "grugno/muso/maiale"
+    },
+    {
+      "id": 918,
+      "parola_griko": "iermito",
+      "parola_italiano": "fascio di spighe"
+    },
+    {
+      "id": 919,
+      "parola_griko": "crombolo",
+      "parola_italiano": "corbezzolo/mora di rovo"
+    },
+    {
+      "id": 920,
+      "parola_griko": "ascromata",
+      "parola_italiano": "mucchio di schegge di legno"
+    },
+    {
+      "id": 921,
+      "parola_griko": "casarmata",
+      "parola_italiano": "scarti della pulizia delle verdure"
+    },
+    {
+      "id": 922,
+      "parola_griko": "masimata",
+      "parola_italiano": "cose da imparare/ammaestramenti"
+    },
+    {
+      "id": 923,
+      "parola_griko": "minomata",
+      "parola_italiano": "rimanenze/avanzi/residui"
+    },
+    {
+      "id": 924,
+      "parola_griko": "potimata",
+      "parola_italiano": "piante da fiore/ortaggi"
+    },
+    {
+      "id": 925,
+      "parola_griko": "spermata",
+      "parola_italiano": "seminagioni"
+    },
+    {
+      "id": 926,
+      "parola_griko": "tiflomata",
+      "parola_italiano": "talpa"
+    },
+    {
+      "id": 927,
+      "parola_griko": "sera",
+      "parola_italiano": "luoghi forestieri"
+    },
+    {
+      "id": 928,
+      "parola_griko": "miulo",
+      "parola_italiano": "midollo/cervello"
+    },
+    {
+      "id": 929,
+      "parola_griko": "nnero",
+      "parola_italiano": "acqua/pioggia"
+    },
+    {
+      "id": 930,
+      "parola_griko": "neuro",
+      "parola_italiano": "parte magra della carne"
+    },
+    {
+      "id": 931,
+      "parola_griko": "patremo",
+      "parola_italiano": "padre nostro"
+    },
+    {
+      "id": 932,
+      "parola_griko": "pleuro",
+      "parola_italiano": "fianco"
+    },
+    {
+      "id": 933,
+      "parola_griko": "porno",
+      "parola_italiano": "mattino"
+    },
+    {
+      "id": 934,
+      "parola_griko": "picro",
+      "parola_italiano": "amaro/amarezza"
+    },
+    {
+      "id": 935,
+      "parola_griko": "steno",
+      "parola_italiano": "piccone"
+    },
+    {
+      "id": 936,
+      "parola_griko": "stomaco",
+      "parola_italiano": "stomaco"
+    },
+    {
+      "id": 937,
+      "parola_griko": "stravo",
+      "parola_italiano": "torto"
+    },
+    {
+      "id": 938,
+      "parola_griko": "vasilico",
+      "parola_italiano": "basilico"
+    },
+    {
+      "id": 939,
+      "parola_griko": "afimo",
+      "parola_italiano": "fiato/respiro"
+    },
+    {
+      "id": 940,
+      "parola_griko": "avuo",
+      "parola_italiano": "uovo"
+    },
+    {
+      "id": 941,
+      "parola_griko": "agro",
+      "parola_italiano": "bagnato/umido"
+    },
+    {
+      "id": 942,
+      "parola_griko": "ambro",
+      "parola_italiano": "davanti/parte anteriore"
+    },
+    {
+      "id": 943,
+      "parola_griko": "apalo",
+      "parola_italiano": "molle/madido"
+    },
+    {
+      "id": 944,
+      "parola_griko": "cloro",
+      "parola_italiano": "parte verde del ramo"
+    },
+    {
+      "id": 945,
+      "parola_griko": "condro",
+      "parola_italiano": "grosso/stupido"
+    },
+    {
+      "id": 946,
+      "parola_griko": "fano",
+      "parola_italiano": "apparenza/esteriorità"
+    },
+    {
+      "id": 947,
+      "parola_griko": "caco",
+      "parola_italiano": "male/malvagità/malanno"
+    },
+    {
+      "id": 948,
+      "parola_griko": "calo",
+      "parola_italiano": "bene"
+    },
+    {
+      "id": 949,
+      "parola_griko": "catalimo",
+      "parola_italiano": "distruzione/dissoluzione"
+    },
+    {
+      "id": 950,
+      "parola_griko": "crifo",
+      "parola_italiano": "nascosto/segreto"
+    },
+    {
+      "id": 951,
+      "parola_griko": "ctino",
+      "parola_italiano": "bestia/animale d'allevamento"
+    },
+    {
+      "id": 952,
+      "parola_griko": "croco",
+      "parola_italiano": "tuorlo dell'uovo"
+    },
+    {
+      "id": 953,
+      "parola_griko": "lipo",
+      "parola_italiano": "grasso"
+    },
+    {
+      "id": 954,
+      "parola_griko": "malacro",
+      "parola_italiano": "finocchio"
+    },
+    {
+      "id": 955,
+      "parola_griko": "mariato",
+      "parola_italiano": "cibo cotto/cucinato"
+    },
+    {
+      "id": 956,
+      "parola_griko": "mero",
+      "parola_italiano": "lato/parte"
+    },
+    {
+      "id": 957,
+      "parola_griko": "metro",
+      "parola_italiano": "misura"
+    },
+    {
+      "id": 958,
+      "parola_griko": "milo",
+      "parola_italiano": "mela"
+    },
+    {
+      "id": 959,
+      "parola_griko": "rodo",
+      "parola_italiano": "rosa"
+    },
+    {
+      "id": 960,
+      "parola_griko": "rufo",
+      "parola_italiano": "roba/panno/averi"
+    },
+    {
+      "id": 961,
+      "parola_griko": "scino",
+      "parola_italiano": "lentischio"
+    },
+    {
+      "id": 962,
+      "parola_griko": "scordo",
+      "parola_italiano": "aglio"
+    },
+    {
+      "id": 963,
+      "parola_griko": "steo",
+      "parola_italiano": "osso"
+    },
+    {
+      "id": 964,
+      "parola_griko": "teros",
+      "parola_italiano": "mietitura/mese di giugno"
+    },
+    {
+      "id": 965,
+      "parola_griko": "trifillo",
+      "parola_italiano": "trifoglio"
+    },
+    {
+      "id": 966,
+      "parola_griko": "silo",
+      "parola_italiano": "legno"
+    },
+    {
+      "id": 967,
+      "parola_griko": "afo",
+      "parola_italiano": "pisello secco"
+    },
+    {
+      "id": 968,
+      "parola_griko": "argalio",
+      "parola_italiano": "telaio"
+    },
+    {
+      "id": 969,
+      "parola_griko": "ceilo",
+      "parola_italiano": "labbro"
+    },
+    {
+      "id": 970,
+      "parola_griko": "corio",
+      "parola_italiano": "villaggio/paese"
+    },
+    {
+      "id": 971,
+      "parola_griko": "corto",
+      "parola_italiano": "erba/foraggio"
+    },
+    {
+      "id": 972,
+      "parola_griko": "dricheo",
+      "parola_italiano": "giusto/ragione"
+    },
+    {
+      "id": 973,
+      "parola_griko": "fengo",
+      "parola_italiano": "luna"
+    },
+    {
+      "id": 974,
+      "parola_griko": "filo",
+      "parola_italiano": "foglia/petalo"
+    },
+    {
+      "id": 975,
+      "parola_griko": "glico",
+      "parola_italiano": "dolce"
+    },
+    {
+      "id": 976,
+      "parola_griko": "ieno",
+      "parola_italiano": "parto/figliata"
+    },
+    {
+      "id": 977,
+      "parola_griko": "clidio",
+      "parola_italiano": "uovo fecondato"
+    },
+    {
+      "id": 978,
+      "parola_griko": "cocco",
+      "parola_italiano": "acino/chicco"
+    },
+    {
+      "id": 979,
+      "parola_griko": "copro",
+      "parola_italiano": "letame/sporcizia"
+    },
+    {
+      "id": 980,
+      "parola_griko": "licaci",
+      "parola_italiano": "lupacchiotto"
+    },
+    {
+      "id": 981,
+      "parola_griko": "maratho",
+      "parola_italiano": "finocchio"
+    },
+    {
+      "id": 982,
+      "parola_griko": "maro",
+      "parola_italiano": "marmo"
+    },
+    {
+      "id": 983,
+      "parola_griko": "petrosino",
+      "parola_italiano": "prezzemolo"
+    },
+    {
+      "id": 984,
+      "parola_griko": "nefo",
+      "parola_italiano": "nuvola"
+    },
+    {
+      "id": 985,
+      "parola_griko": "sikamino",
+      "parola_italiano": "gelso"
+    },
+    {
+      "id": 986,
+      "parola_griko": "sidero",
+      "parola_italiano": "ferro"
+    },
+    {
+      "id": 987,
+      "parola_griko": "achero",
+      "parola_italiano": "paglia"
+    },
+    {
+      "id": 988,
+      "parola_griko": "adiko",
+      "parola_italiano": "ingiustizia"
+    },
+    {
+      "id": 989,
+      "parola_griko": "dattilo",
+      "parola_italiano": "dito"
+    },
+    {
+      "id": 990,
+      "parola_griko": "gonato",
+      "parola_italiano": "ginocchio"
+    },
+    {
+      "id": 991,
+      "parola_griko": "kokkalo",
+      "parola_italiano": "osso"
+    },
+    {
+      "id": 992,
+      "parola_griko": "ampì",
+      "parola_italiano": "parte posteriore"
+    },
+    {
+      "id": 993,
+      "parola_griko": "arnì",
+      "parola_italiano": "agnello"
+    },
+    {
+      "id": 994,
+      "parola_griko": "kucì",
+      "parola_italiano": "fava"
+    },
+    {
+      "id": 995,
+      "parola_griko": "vizì",
+      "parola_italiano": "mammella"
+    },
+    {
+      "id": 996,
+      "parola_griko": "tiani",
+      "parola_italiano": "padella"
+    },
+    {
+      "id": 997,
+      "parola_griko": "trapani",
+      "parola_italiano": "falce"
+    },
+    {
+      "id": 998,
+      "parola_griko": "vambaci",
+      "parola_italiano": "cotone"
+    },
+    {
+      "id": 999,
+      "parola_griko": "rodani",
+      "parola_italiano": "trama del telaio"
+    },
+    {
+      "id": 1000,
+      "parola_griko": "rufi",
+      "parola_italiano": "grappolo"
+    },
+    {
+      "id": 1001,
+      "parola_griko": "roidi",
+      "parola_italiano": "melagrana"
+    },
+    {
+      "id": 1002,
+      "parola_griko": "previti",
+      "parola_italiano": "cece"
+    },
+    {
+      "id": 1003,
+      "parola_griko": "stafili",
+      "parola_italiano": "uva"
+    },
+    {
+      "id": 1004,
+      "parola_griko": "linari",
+      "parola_italiano": "lino"
+    },
+    {
+      "id": 1005,
+      "parola_griko": "lisari",
+      "parola_italiano": "sasso"
+    },
+    {
+      "id": 1006,
+      "parola_griko": "livani",
+      "parola_italiano": "incenso"
+    },
+    {
+      "id": 1007,
+      "parola_griko": "meli",
+      "parola_italiano": "miele"
+    },
+    {
+      "id": 1008,
+      "parola_griko": "piperi",
+      "parola_italiano": "pepe"
+    },
+    {
+      "id": 1009,
+      "parola_griko": "cattari",
+      "parola_italiano": "caldaia"
+    },
+    {
+      "id": 1010,
+      "parola_griko": "calami",
+      "parola_italiano": "canna"
+    },
+    {
+      "id": 1011,
+      "parola_griko": "caridi",
+      "parola_italiano": "noce"
+    },
+    {
+      "id": 1012,
+      "parola_griko": "crusafi",
+      "parola_italiano": "oro"
+    },
+    {
+      "id": 1013,
+      "parola_griko": "crommidi",
+      "parola_italiano": "cipolla"
+    },
+    {
+      "id": 1014,
+      "parola_griko": "cerami",
+      "parola_italiano": "tegola"
+    },
+    {
+      "id": 1015,
+      "parola_griko": "cerasi",
+      "parola_italiano": "ciliegia"
+    },
+    {
+      "id": 1016,
+      "parola_griko": "chioni",
+      "parola_italiano": "neve"
+    },
+    {
+      "id": 1017,
+      "parola_griko": "citoni",
+      "parola_italiano": "mela cotogna"
+    },
+    {
+      "id": 1018,
+      "parola_griko": "donti",
+      "parola_italiano": "dente"
+    },
+    {
+      "id": 1019,
+      "parola_griko": "afidi",
+      "parola_italiano": "serpe"
+    },
+    {
+      "id": 1020,
+      "parola_griko": "apidi",
+      "parola_italiano": "pera"
+    },
+    {
+      "id": 1021,
+      "parola_griko": "ardari",
+      "parola_italiano": "crosta lattea"
+    },
+    {
+      "id": 1022,
+      "parola_griko": "asteri",
+      "parola_italiano": "stella"
+    },
+    {
+      "id": 1023,
+      "parola_griko": "alai",
+      "parola_italiano": "aia"
+    },
+    {
+      "id": 1024,
+      "parola_griko": "ampeli",
+      "parola_italiano": "vite"
+    },
+    {
+      "id": 1025,
+      "parola_griko": "pedai",
+      "parola_italiano": "bambino"
+    },
+    {
+      "id": 1026,
+      "parola_griko": "matai",
+      "parola_italiano": "occhio"
+    },
+    {
+      "id": 1027,
+      "parola_griko": "alaio",
+      "parola_italiano": "olivo"
+    },
+    {
+      "id": 1028,
+      "parola_griko": "agiasma",
+      "parola_italiano": "acquasanta"
+    },
+    {
+      "id": 1029,
+      "parola_griko": "gala",
+      "parola_italiano": "latte"
+    },
+    {
+      "id": 1030,
+      "parola_griko": "iema",
+      "parola_italiano": "sangue"
+    },
+    {
+      "id": 1031,
+      "parola_griko": "krea",
+      "parola_italiano": "carne"
+    },
+    {
+      "id": 1032,
+      "parola_griko": "noma",
+      "parola_italiano": "corno"
+    },
+    {
+      "id": 1033,
+      "parola_griko": "psema",
+      "parola_italiano": "bugia"
+    },
+    {
+      "id": 1034,
+      "parola_griko": "stoma",
+      "parola_italiano": "ferro temperato"
+    },
+    {
+      "id": 1035,
+      "parola_griko": "tama",
+      "parola_italiano": "voto"
+    },
+    {
+      "id": 1036,
+      "parola_griko": "meletima",
+      "parola_italiano": "lettura"
+    },
+    {
+      "id": 1037,
+      "parola_griko": "mirisma",
+      "parola_italiano": "profumo"
+    },
+    {
+      "id": 1038,
+      "parola_griko": "nima",
+      "parola_italiano": "tomba"
+    },
+    {
+      "id": 1039,
+      "parola_griko": "noima",
+      "parola_italiano": "intelligenza"
+    },
+    {
+      "id": 1040,
+      "parola_griko": "pramma",
+      "parola_italiano": "pane plasmato"
+    },
+    {
+      "id": 1041,
+      "parola_griko": "fisima",
+      "parola_italiano": "gonfiore"
+    },
+    {
+      "id": 1042,
+      "parola_griko": "rocanima",
+      "parola_italiano": "cartilagine"
+    },
+    {
+      "id": 1043,
+      "parola_griko": "schisma",
+      "parola_italiano": "squarcio"
+    },
+    {
+      "id": 1044,
+      "parola_griko": "selima",
+      "parola_italiano": "volontà"
+    },
+    {
+      "id": 1045,
+      "parola_griko": "vamma",
+      "parola_italiano": "tintura"
+    },
+    {
+      "id": 1046,
+      "parola_griko": "vattisma",
+      "parola_italiano": "battesimo"
+    },
+    {
+      "id": 1047,
+      "parola_griko": "vascama",
+      "parola_italiano": "malocchio"
+    },
+    {
+      "id": 1048,
+      "parola_griko": "vlemma",
+      "parola_italiano": "sguardo"
+    },
+    {
+      "id": 1049,
+      "parola_griko": "vlojisma",
+      "parola_italiano": "benedizione"
+    },
+    {
+      "id": 1050,
+      "parola_griko": "singorima",
+      "parola_italiano": "perdono"
+    },
+    {
+      "id": 1051,
+      "parola_griko": "strema",
+      "parola_italiano": "lampo"
+    },
+    {
+      "id": 1052,
+      "parola_griko": "gramma",
+      "parola_italiano": "lettera"
+    },
+    {
+      "id": 1053,
+      "parola_griko": "prama",
+      "parola_italiano": "cosa"
+    },
+    {
+      "id": 1054,
+      "parola_griko": "chiretima",
+      "parola_italiano": "saluto"
+    },
+    {
+      "id": 1055,
+      "parola_griko": "choma",
+      "parola_italiano": "terra"
     },
     {
       "id": 1056,
@@ -2871,9 +3166,24 @@
       "parola_italiano": "comunione"
     },
     {
-      "id": 1318,
-      "parola_griko": "kirà",
-      "parola_italiano": "vedova"
+      "id": 1057,
+      "parola_griko": "derma",
+      "parola_italiano": "pelle"
+    },
+    {
+      "id": 1058,
+      "parola_griko": "jennima",
+      "parola_italiano": "creatura"
+    },
+    {
+      "id": 1059,
+      "parola_griko": "kakalima",
+      "parola_italiano": "aborto"
+    },
+    {
+      "id": 1060,
+      "parola_griko": "katurima",
+      "parola_italiano": "pianto"
     },
     {
       "id": 1061,
@@ -2891,349 +3201,14 @@
       "parola_italiano": "recinto"
     },
     {
-      "id": 991,
-      "parola_griko": "kokkalo",
-      "parola_italiano": "osso"
-    },
-    {
       "id": 1064,
       "parola_griko": "komma",
       "parola_italiano": "pezzo"
     },
     {
-      "id": 812,
-      "parola_griko": "kondrò",
-      "parola_italiano": "grosso"
-    },
-    {
-      "id": 1031,
-      "parola_griko": "krea",
-      "parola_italiano": "carne"
-    },
-    {
-      "id": 994,
-      "parola_griko": "kucì",
-      "parola_italiano": "fava"
-    },
-    {
-      "id": 1148,
-      "parola_griko": "laco",
-      "parola_italiano": "pozzanghera/palude/stagno"
-    },
-    {
-      "id": 1186,
-      "parola_griko": "lacunetta",
-      "parola_italiano": "nuca"
-    },
-    {
-      "id": 776,
-      "parola_griko": "lafrò",
-      "parola_italiano": "leggero/lieve/agile"
-    },
-    {
-      "id": 1336,
-      "parola_griko": "lagò",
-      "parola_italiano": "lepre"
-    },
-    {
-      "id": 1281,
-      "parola_griko": "lamia",
-      "parola_italiano": "terrazza"
-    },
-    {
-      "id": 1230,
-      "parola_griko": "lampa",
-      "parola_italiano": "fiammata/vampa"
-    },
-    {
-      "id": 1177,
-      "parola_griko": "lampasciuna",
-      "parola_italiano": "lampascione"
-    },
-    {
-      "id": 777,
-      "parola_griko": "lamperò",
-      "parola_italiano": "lucente"
-    },
-    {
-      "id": 1231,
-      "parola_griko": "langa",
-      "parola_italiano": "breccia in un muro"
-    },
-    {
-      "id": 1187,
-      "parola_griko": "lapistra",
-      "parola_italiano": "ramolaccio/rafano"
-    },
-    {
-      "id": 1188,
-      "parola_griko": "latula",
-      "parola_italiano": "rucola a foglia larga"
-    },
-    {
-      "id": 778,
-      "parola_griko": "leftò",
-      "parola_italiano": "sottile/magro/fine"
-    },
-    {
-      "id": 1350,
-      "parola_griko": "leo",
-      "parola_italiano": "dico"
-    },
-    {
-      "id": 980,
-      "parola_griko": "licaci",
-      "parola_italiano": "lupacchiotto"
-    },
-    {
-      "id": 1149,
-      "parola_griko": "licno",
-      "parola_italiano": "lucerna/lume"
-    },
-    {
-      "id": 1155,
-      "parola_griko": "lico",
-      "parola_italiano": "lupo"
-    },
-    {
-      "id": 1174,
-      "parola_griko": "limbuna",
-      "parola_italiano": "grande bacinella per il bucato"
-    },
-    {
-      "id": 1004,
-      "parola_griko": "linari",
-      "parola_italiano": "lino"
-    },
-    {
-      "id": 779,
-      "parola_griko": "liparò",
-      "parola_italiano": "grasso/obeso"
-    },
-    {
-      "id": 953,
-      "parola_griko": "lipo",
-      "parola_italiano": "grasso"
-    },
-    {
-      "id": 1085,
-      "parola_griko": "lippo",
-      "parola_italiano": "grasso"
-    },
-    {
-      "id": 704,
-      "parola_griko": "lippus",
-      "parola_italiano": "unto/viscido"
-    },
-    {
-      "id": 1005,
-      "parola_griko": "lisari",
-      "parola_italiano": "sasso"
-    },
-    {
-      "id": 1299,
-      "parola_griko": "lisari",
-      "parola_italiano": "pietra/sasso"
-    },
-    {
-      "id": 780,
-      "parola_griko": "lisarò",
-      "parola_italiano": "pietroso/sassoso/roccioso"
-    },
-    {
-      "id": 1006,
-      "parola_griko": "livani",
-      "parola_italiano": "incenso"
-    },
-    {
-      "id": 1211,
-      "parola_griko": "lumera",
-      "parola_italiano": "fiamma/luce"
-    },
-    {
-      "id": 1189,
-      "parola_griko": "lumia",
-      "parola_italiano": "limone"
-    },
-    {
-      "id": 1294,
-      "parola_griko": "ma",
-      "parola_italiano": "con"
-    },
-    {
-      "id": 827,
-      "parola_griko": "macara",
-      "parola_italiano": "strega"
-    },
-    {
-      "id": 706,
-      "parola_griko": "macario",
-      "parola_italiano": "beato/felice"
-    },
-    {
-      "id": 899,
-      "parola_griko": "maccaluri",
-      "parola_italiano": "fazzoletto"
-    },
-    {
-      "id": 1097,
-      "parola_griko": "macio",
-      "parola_italiano": "persona mascherata"
-    },
-    {
-      "id": 707,
-      "parola_griko": "macreos",
-      "parola_italiano": "lungo/alto"
-    },
-    {
-      "id": 781,
-      "parola_griko": "maddarò",
-      "parola_italiano": "lanoso/peloso"
-    },
-    {
-      "id": 862,
-      "parola_griko": "maddi",
-      "parola_italiano": "capello/pelo/lana"
-    },
-    {
-      "id": 828,
-      "parola_griko": "magaria",
-      "parola_italiano": "stregoneria"
-    },
-    {
-      "id": 1232,
-      "parola_griko": "magaria",
-      "parola_italiano": "stregoneria/fattura"
-    },
-    {
-      "id": 880,
-      "parola_griko": "magro",
-      "parola_italiano": "nero"
-    },
-    {
-      "id": 954,
-      "parola_griko": "malacro",
-      "parola_italiano": "finocchio"
-    },
-    {
-      "id": 705,
-      "parola_griko": "malligno",
-      "parola_italiano": "peloso/villoso"
-    },
-    {
-      "id": 1320,
-      "parola_griko": "manà",
-      "parola_italiano": "madre"
-    },
-    {
-      "id": 782,
-      "parola_griko": "manachò",
-      "parola_italiano": "solo/unico"
-    },
-    {
-      "id": 1121,
-      "parola_griko": "mandalo",
-      "parola_italiano": "catenaccio/chiavistello"
-    },
-    {
-      "id": 1138,
-      "parola_griko": "mandato",
-      "parola_italiano": "rovo"
-    },
-    {
-      "id": 1277,
-      "parola_griko": "mandra",
-      "parola_italiano": "recinto/ovile"
-    },
-    {
-      "id": 900,
-      "parola_griko": "mansanemi",
-      "parola_italiano": "luogo soleggiato al riparo dal vento"
-    },
-    {
-      "id": 901,
-      "parola_griko": "mantili",
-      "parola_italiano": "grembiale"
-    },
-    {
-      "id": 981,
-      "parola_griko": "maratho",
-      "parola_italiano": "finocchio"
-    },
-    {
-      "id": 955,
-      "parola_griko": "mariato",
-      "parola_italiano": "cibo cotto/cucinato"
-    },
-    {
-      "id": 708,
-      "parola_griko": "marmaros",
-      "parola_italiano": "marmoreo/di marmo"
-    },
-    {
-      "id": 982,
-      "parola_griko": "maro",
-      "parola_italiano": "marmo"
-    },
-    {
-      "id": 1296,
-      "parola_griko": "martia",
-      "parola_italiano": "peccato"
-    },
-    {
-      "id": 1122,
-      "parola_griko": "marturo",
-      "parola_italiano": "martire"
-    },
-    {
-      "id": 1110,
-      "parola_griko": "mascia",
-      "parola_italiano": "maestro/artigiano"
-    },
-    {
-      "id": 829,
-      "parola_griko": "mascìa",
-      "parola_italiano": "magia/incantesimo"
-    },
-    {
-      "id": 922,
-      "parola_griko": "masimata",
-      "parola_italiano": "cose da imparare/ammaestramenti"
-    },
-    {
-      "id": 1026,
-      "parola_griko": "matai",
-      "parola_italiano": "occhio"
-    },
-    {
-      "id": 863,
-      "parola_griko": "matì",
-      "parola_italiano": "camicia"
-    },
-    {
-      "id": 815,
-      "parola_griko": "mavrò",
-      "parola_italiano": "nero"
-    },
-    {
-      "id": 748,
-      "parola_griko": "mavros",
-      "parola_italiano": "nero/scuro"
-    },
-    {
-      "id": 1036,
-      "parola_griko": "meletima",
-      "parola_italiano": "lettura"
-    },
-    {
-      "id": 1007,
-      "parola_griko": "meli",
-      "parola_italiano": "miele"
-    },
-    {
-      "id": 1190,
-      "parola_griko": "mella",
-      "parola_italiano": "mela"
+      "id": 1065,
+      "parola_griko": "chili",
+      "parola_italiano": "labbro"
     },
     {
       "id": 1066,
@@ -3241,1264 +3216,29 @@
       "parola_italiano": "lato"
     },
     {
-      "id": 956,
-      "parola_griko": "mero",
-      "parola_italiano": "lato/parte"
-    },
-    {
-      "id": 1200,
-      "parola_griko": "merula",
-      "parola_italiano": "merla"
-    },
-    {
-      "id": 783,
-      "parola_griko": "metaxotò",
-      "parola_italiano": "serico/di seta"
-    },
-    {
-      "id": 957,
-      "parola_griko": "metro",
-      "parola_italiano": "misura"
-    },
-    {
-      "id": 1324,
-      "parola_griko": "mia",
-      "parola_italiano": "una (f. nom.)"
-    },
-    {
-      "id": 1325,
-      "parola_griko": "mian",
-      "parola_italiano": "una (f. acc.)"
-    },
-    {
-      "id": 1166,
-      "parola_griko": "miciìlio",
-      "parola_italiano": "capo dei frantoiani/nocchiero"
-    },
-    {
-      "id": 1284,
-      "parola_griko": "milea",
-      "parola_italiano": "melo"
-    },
-    {
-      "id": 852,
-      "parola_griko": "milissùna",
-      "parola_italiano": "fuco"
-    },
-    {
-      "id": 958,
-      "parola_griko": "milo",
-      "parola_italiano": "mela"
-    },
-    {
-      "id": 1150,
-      "parola_griko": "milo",
-      "parola_italiano": "mola/macina/mulino"
-    },
-    {
-      "id": 1351,
-      "parola_griko": "milo",
-      "parola_italiano": "spengo"
-    },
-    {
-      "id": 1107,
-      "parola_griko": "mina",
-      "parola_italiano": "mese"
-    },
-    {
-      "id": 725,
-      "parola_griko": "minariko",
-      "parola_italiano": "di un mese"
-    },
-    {
-      "id": 709,
-      "parola_griko": "mineos",
-      "parola_italiano": "di un mese"
-    },
-    {
-      "id": 923,
-      "parola_griko": "minomata",
-      "parola_italiano": "rimanenze/avanzi/residui"
-    },
-    {
-      "id": 1288,
-      "parola_griko": "mira",
-      "parola_italiano": "parte/porzione"
-    },
-    {
-      "id": 1037,
-      "parola_griko": "mirisma",
-      "parola_italiano": "profumo"
-    },
-    {
-      "id": 784,
-      "parola_griko": "miristikò",
-      "parola_italiano": "odoroso/profumato"
-    },
-    {
-      "id": 785,
-      "parola_griko": "miristò",
-      "parola_italiano": "odoroso"
-    },
-    {
-      "id": 830,
-      "parola_griko": "miscìmera",
-      "parola_italiano": "mezzogiorno"
-    },
-    {
-      "id": 1151,
-      "parola_griko": "mito",
-      "parola_italiano": "filo/ordito"
-    },
-    {
-      "id": 902,
-      "parola_griko": "miuli",
-      "parola_italiano": "bicchiere"
-    },
-    {
-      "id": 928,
-      "parola_griko": "miulo",
-      "parola_italiano": "midollo/cervello"
-    },
-    {
-      "id": 1251,
-      "parola_griko": "monachedda",
-      "parola_italiano": "monachella"
-    },
-    {
-      "id": 786,
-      "parola_griko": "monò",
-      "parola_italiano": "singolo/semplice"
-    },
-    {
-      "id": 864,
-      "parola_griko": "morolò",
-      "parola_italiano": "canto/lamento funebre"
-    },
-    {
-      "id": 865,
-      "parola_griko": "mustài",
-      "parola_italiano": "baffi"
-    },
-    {
-      "id": 1322,
-      "parola_griko": "na",
-      "parola_italiano": "un/uno (m./neutro)"
-    },
-    {
-      "id": 905,
-      "parola_griko": "nastudi",
-      "parola_italiano": "bottone"
-    },
-    {
-      "id": 984,
-      "parola_griko": "nefo",
-      "parola_italiano": "nuvola"
-    },
-    {
-      "id": 787,
-      "parola_griko": "negò",
-      "parola_italiano": "magro"
-    },
-    {
-      "id": 855,
-      "parola_griko": "nema",
-      "parola_italiano": "filo"
-    },
-    {
-      "id": 1275,
-      "parola_griko": "nemera",
-      "parola_italiano": "giorno"
-    },
-    {
-      "id": 710,
-      "parola_griko": "neos",
-      "parola_italiano": "nuovo/recente"
-    },
-    {
-      "id": 930,
-      "parola_griko": "neuro",
-      "parola_italiano": "parte magra della carne"
-    },
-    {
-      "id": 1255,
-      "parola_griko": "nifta",
-      "parola_italiano": "notte"
-    },
-    {
-      "id": 1038,
-      "parola_griko": "nima",
-      "parola_italiano": "tomba"
-    },
-    {
-      "id": 904,
-      "parola_griko": "ninni",
-      "parola_italiano": "bambino"
-    },
-    {
-      "id": 788,
-      "parola_griko": "nistikò",
-      "parola_italiano": "digiuno"
-    },
-    {
-      "id": 1167,
-      "parola_griko": "nistio",
-      "parola_italiano": "digiuno"
-    },
-    {
-      "id": 929,
-      "parola_griko": "nnero",
-      "parola_italiano": "acqua/pioggia"
-    },
-    {
-      "id": 1039,
-      "parola_griko": "noima",
-      "parola_italiano": "intelligenza"
-    },
-    {
-      "id": 1032,
-      "parola_griko": "noma",
-      "parola_italiano": "corno"
-    },
-    {
-      "id": 1153,
-      "parola_griko": "nosto",
-      "parola_italiano": "retrogusto sgradevole"
-    },
-    {
-      "id": 1154,
-      "parola_griko": "noto",
-      "parola_italiano": "vento di scirocco"
-    },
-    {
-      "id": 1312,
-      "parola_griko": "o",
-      "parola_italiano": "il (nom. m. sing.)"
-    },
-    {
-      "id": 1309,
-      "parola_griko": "olo",
-      "parola_italiano": "tutto/intero"
-    },
-    {
-      "id": 1152,
-      "parola_griko": "omo",
-      "parola_italiano": "spalla"
-    },
-    {
-      "id": 806,
-      "parola_griko": "omò",
-      "parola_italiano": "crudo/non cotto"
-    },
-    {
-      "id": 726,
-      "parola_griko": "opsimos",
-      "parola_italiano": "tardivo/tardo"
-    },
-    {
-      "id": 1330,
-      "parola_griko": "ora",
-      "parola_italiano": "volta/tempo"
-    },
-    {
-      "id": 813,
-      "parola_griko": "oriò",
-      "parola_italiano": "bello"
-    },
-    {
-      "id": 1332,
-      "parola_griko": "orne",
-      "parola_italiano": "gallina"
-    },
-    {
-      "id": 685,
-      "parola_griko": "orrios",
-      "parola_italiano": "bello"
-    },
-    {
-      "id": 686,
-      "parola_griko": "pachos",
-      "parola_italiano": "pingue/grasso"
-    },
-    {
-      "id": 1094,
-      "parola_griko": "pago",
-      "parola_italiano": "ghiaccio"
-    },
-    {
-      "id": 1127,
-      "parola_griko": "pago",
-      "parola_italiano": "gelo/brina"
-    },
-    {
-      "id": 838,
-      "parola_griko": "paladi",
-      "parola_italiano": "palazzo"
-    },
-    {
-      "id": 1126,
-      "parola_griko": "palanco",
-      "parola_italiano": "leva di ferro/grande punteruolo"
-    },
-    {
-      "id": 687,
-      "parola_griko": "paleos",
-      "parola_italiano": "vecchio/antico"
-    },
-    {
-      "id": 856,
-      "parola_griko": "panìri",
-      "parola_italiano": "fiera/sagra"
-    },
-    {
-      "id": 1102,
-      "parola_griko": "papa",
-      "parola_italiano": "prete/padre"
-    },
-    {
-      "id": 1128,
-      "parola_griko": "pappo",
-      "parola_italiano": "nonno"
-    },
-    {
-      "id": 857,
-      "parola_griko": "parabossolo",
-      "parola_italiano": "granturco/mais"
-    },
-    {
-      "id": 1086,
-      "parola_griko": "paraiso",
-      "parola_italiano": "paradiso"
-    },
-    {
-      "id": 1233,
-      "parola_griko": "paratomia",
-      "parola_italiano": "pasto offerto ai familiari di un defunto"
-    },
-    {
-      "id": 1216,
-      "parola_griko": "parrata",
-      "parola_italiano": "scrofa/suina"
-    },
-    {
-      "id": 906,
-      "parola_griko": "pasca",
-      "parola_italiano": "Pasqua"
-    },
-    {
-      "id": 1212,
-      "parola_griko": "passiuna",
-      "parola_italiano": "passione"
-    },
-    {
-      "id": 1103,
-      "parola_griko": "patera",
-      "parola_italiano": "prete/sacerdote"
-    },
-    {
-      "id": 1129,
-      "parola_griko": "pato",
-      "parola_italiano": "via battuta/passaggio"
-    },
-    {
-      "id": 931,
-      "parola_griko": "patremo",
-      "parola_italiano": "padre nostro"
-    },
-    {
-      "id": 1348,
-      "parola_griko": "pedaci",
-      "parola_italiano": "bambino"
-    },
-    {
-      "id": 1025,
-      "parola_griko": "pedai",
-      "parola_italiano": "bambino"
-    },
-    {
-      "id": 1075,
-      "parola_griko": "pedì",
-      "parola_italiano": "bambino"
-    },
-    {
-      "id": 1191,
-      "parola_griko": "pentima",
-      "parola_italiano": "grosso masso/rupe"
-    },
-    {
-      "id": 866,
-      "parola_griko": "peristeri",
-      "parola_italiano": "colomba/piccione"
-    },
-    {
-      "id": 1357,
-      "parola_griko": "persico",
-      "parola_italiano": "pesca"
-    },
-    {
-      "id": 831,
-      "parola_griko": "pesma",
-      "parola_italiano": "caduta"
-    },
-    {
-      "id": 983,
-      "parola_griko": "petrosino",
-      "parola_italiano": "prezzemolo"
-    },
-    {
-      "id": 1271,
-      "parola_griko": "petti",
-      "parola_italiano": "giovedì"
-    },
-    {
-      "id": 867,
-      "parola_griko": "pezzali",
-      "parola_italiano": "sedile di pietra o legno"
-    },
-    {
-      "id": 868,
-      "parola_griko": "piccio",
-      "parola_italiano": "uccello"
-    },
-    {
-      "id": 934,
-      "parola_griko": "picro",
-      "parola_italiano": "amaro/amarezza"
-    },
-    {
-      "id": 907,
-      "parola_griko": "pilacci",
-      "parola_italiano": "vasca per il mosto"
-    },
-    {
-      "id": 1192,
-      "parola_griko": "piotta",
-      "parola_italiano": "brodo di cottura"
-    },
-    {
-      "id": 1008,
-      "parola_griko": "piperi",
-      "parola_italiano": "pepe"
-    },
-    {
-      "id": 908,
-      "parola_griko": "pipituri",
-      "parola_italiano": "pannocchia"
-    },
-    {
-      "id": 1234,
-      "parola_griko": "pira",
-      "parola_italiano": "fuoco/calore"
-    },
-    {
-      "id": 869,
-      "parola_griko": "pittarai",
-      "parola_italiano": "panino di orzo per bambini"
-    },
-    {
-      "id": 1256,
-      "parola_griko": "placa",
-      "parola_italiano": "chianca/lastra di pietra"
-    },
-    {
-      "id": 688,
-      "parola_griko": "plateo",
-      "parola_italiano": "largo"
-    },
-    {
-      "id": 932,
-      "parola_griko": "pleuro",
-      "parola_italiano": "fianco"
-    },
-    {
-      "id": 689,
-      "parola_griko": "plusios",
-      "parola_italiano": "ricco"
-    },
-    {
-      "id": 1104,
-      "parola_griko": "poda",
-      "parola_italiano": "piede"
-    },
-    {
-      "id": 1300,
-      "parola_griko": "podi",
-      "parola_italiano": "piede"
-    },
-    {
-      "id": 822,
-      "parola_griko": "polemao",
-      "parola_italiano": "laborioso/gran lavoratore"
-    },
-    {
-      "id": 691,
-      "parola_griko": "polemos",
-      "parola_italiano": "laborioso/gran lavoratore"
-    },
-    {
-      "id": 1087,
-      "parola_griko": "pono",
-      "parola_italiano": "dolore"
-    },
-    {
-      "id": 1301,
-      "parola_griko": "pono",
-      "parola_italiano": "dolore/pena"
-    },
-    {
-      "id": 1164,
-      "parola_griko": "ponticò",
-      "parola_italiano": "topo"
-    },
-    {
-      "id": 690,
-      "parola_griko": "pornitos",
-      "parola_italiano": "mattiniero"
-    },
-    {
-      "id": 933,
-      "parola_griko": "porno",
-      "parola_italiano": "mattino"
-    },
-    {
-      "id": 823,
-      "parola_griko": "pornò",
-      "parola_italiano": "mattiniero"
-    },
-    {
-      "id": 1130,
-      "parola_griko": "poro",
-      "parola_italiano": "entrata/varco"
-    },
-    {
-      "id": 924,
-      "parola_griko": "potimata",
-      "parola_italiano": "piante da fiore/ortaggi"
-    },
-    {
-      "id": 1053,
-      "parola_griko": "prama",
-      "parola_italiano": "cosa"
-    },
-    {
-      "id": 870,
-      "parola_griko": "pramazzi",
-      "parola_italiano": "cosetta trascurabile"
-    },
-    {
-      "id": 1040,
-      "parola_griko": "pramma",
-      "parola_italiano": "pane plasmato"
-    },
-    {
-      "id": 1311,
-      "parola_griko": "pratina",
-      "parola_italiano": "pecora"
-    },
-    {
-      "id": 1002,
-      "parola_griko": "previti",
-      "parola_italiano": "cece"
-    },
-    {
-      "id": 769,
-      "parola_griko": "prikò",
-      "parola_italiano": "amaro"
-    },
-    {
-      "id": 1264,
-      "parola_griko": "prima",
-      "parola_italiano": "imbiancatura/pittura"
-    },
-    {
-      "id": 692,
-      "parola_griko": "promos",
-      "parola_italiano": "primaticcio"
-    },
-    {
-      "id": 846,
-      "parola_griko": "protimisì",
-      "parola_italiano": "arroganza/prepotenza"
-    },
-    {
-      "id": 770,
-      "parola_griko": "protinò",
-      "parola_italiano": "primo"
-    },
-    {
-      "id": 771,
-      "parola_griko": "psacnò",
-      "parola_italiano": "magro/morbido"
-    },
-    {
-      "id": 1033,
-      "parola_griko": "psema",
-      "parola_italiano": "bugia"
-    },
-    {
-      "id": 1302,
-      "parola_griko": "psichì",
-      "parola_italiano": "anima"
-    },
-    {
-      "id": 772,
-      "parola_griko": "psicrò",
-      "parola_italiano": "freddo/gelido"
-    },
-    {
-      "id": 1282,
-      "parola_griko": "ptochia",
-      "parola_italiano": "povertà"
-    },
-    {
-      "id": 872,
-      "parola_griko": "pugghì",
-      "parola_italiano": "pollo/animale giovane"
-    },
-    {
-      "id": 1213,
-      "parola_griko": "pungia",
-      "parola_italiano": "tasca/taschina"
-    },
-    {
-      "id": 832,
-      "parola_griko": "pupusha",
-      "parola_italiano": "upupa"
-    },
-    {
-      "id": 1214,
-      "parola_griko": "purgula",
-      "parola_italiano": "polvere"
-    },
-    {
-      "id": 774,
-      "parola_griko": "purmistò",
-      "parola_italiano": "bollente/scottante"
-    },
-    {
-      "id": 1106,
-      "parola_griko": "rajona",
-      "parola_italiano": "braccio"
-    },
-    {
-      "id": 833,
-      "parola_griko": "ramma",
-      "parola_italiano": "cucitura"
-    },
-    {
-      "id": 1222,
-      "parola_griko": "rapa",
-      "parola_italiano": "parte inferiore del tronco"
-    },
-    {
-      "id": 888,
-      "parola_griko": "rebatto",
-      "parola_italiano": "rumore/frastuono"
-    },
-    {
-      "id": 1215,
-      "parola_griko": "reccia",
-      "parola_italiano": "frisa d'orzo e grano"
-    },
-    {
-      "id": 889,
-      "parola_griko": "recco",
-      "parola_italiano": "maiale/porco"
-    },
-    {
-      "id": 1042,
-      "parola_griko": "rocanima",
-      "parola_italiano": "cartilagine"
-    },
-    {
-      "id": 999,
-      "parola_griko": "rodani",
-      "parola_italiano": "trama del telaio"
-    },
-    {
-      "id": 1285,
-      "parola_griko": "rodea",
-      "parola_italiano": "rosaio/cespuglio di rose"
-    },
-    {
-      "id": 775,
-      "parola_griko": "rodinò",
-      "parola_italiano": "rosso"
-    },
-    {
-      "id": 959,
-      "parola_griko": "rodo",
-      "parola_italiano": "rosa"
-    },
-    {
-      "id": 890,
-      "parola_griko": "roggio",
-      "parola_italiano": "bastone per mescolare il latte cagliato"
-    },
-    {
-      "id": 1001,
-      "parola_griko": "roidi",
-      "parola_italiano": "melagrana"
-    },
-    {
-      "id": 853,
-      "parola_griko": "rucco",
-      "parola_italiano": "colombo/piccione"
-    },
-    {
-      "id": 1000,
-      "parola_griko": "rufi",
-      "parola_italiano": "grappolo"
-    },
-    {
-      "id": 960,
-      "parola_griko": "rufo",
-      "parola_italiano": "roba/panno/averi"
-    },
-    {
-      "id": 1131,
-      "parola_griko": "sacco",
-      "parola_italiano": "sacco"
-    },
-    {
-      "id": 1235,
-      "parola_griko": "saccuna",
-      "parola_italiano": "pagliericcio/materassino"
-    },
-    {
-      "id": 727,
-      "parola_griko": "salenos",
-      "parola_italiano": "giallo pallido"
-    },
-    {
-      "id": 1180,
-      "parola_griko": "salicurda",
-      "parola_italiano": "pane cotto in acqua con verdure"
-    },
-    {
-      "id": 1260,
-      "parola_griko": "salitedda",
-      "parola_italiano": "pipistrello"
-    },
-    {
-      "id": 891,
-      "parola_griko": "sambo",
-      "parola_italiano": "sabato"
-    },
-    {
-      "id": 892,
-      "parola_griko": "saracinico",
-      "parola_italiano": "anguria/cocomero"
-    },
-    {
-      "id": 834,
-      "parola_griko": "saracostì",
-      "parola_italiano": "quaresima"
-    },
-    {
-      "id": 1244,
-      "parola_griko": "sarcosti",
-      "parola_italiano": "quaresima"
-    },
-    {
-      "id": 1195,
-      "parola_griko": "scasini",
-      "parola_italiano": "pigrizia"
-    },
-    {
-      "id": 693,
-      "parola_griko": "scersos",
-      "parola_italiano": "incolto/arido"
-    },
-    {
-      "id": 1043,
-      "parola_griko": "schisma",
-      "parola_italiano": "squarcio"
-    },
-    {
-      "id": 1168,
-      "parola_griko": "sciaddio",
-      "parola_italiano": "cappello"
-    },
-    {
-      "id": 1333,
-      "parola_griko": "sciddo",
-      "parola_italiano": "cane"
-    },
-    {
-      "id": 1105,
-      "parola_griko": "scimona",
-      "parola_italiano": "inverno"
-    },
-    {
-      "id": 728,
-      "parola_griko": "scimonariko",
-      "parola_italiano": "invernale/d'inverno"
-    },
-    {
-      "id": 961,
-      "parola_griko": "scino",
-      "parola_italiano": "lentischio"
-    },
-    {
-      "id": 1262,
-      "parola_griko": "scordalida",
-      "parola_italiano": "aglio selvatico"
-    },
-    {
-      "id": 962,
-      "parola_griko": "scordo",
-      "parola_italiano": "aglio"
-    },
-    {
-      "id": 1238,
-      "parola_griko": "scotinia",
-      "parola_italiano": "oscurità/tenebra"
-    },
-    {
-      "id": 759,
-      "parola_griko": "scotinò",
-      "parola_italiano": "scuro/oscuro/buio"
-    },
-    {
-      "id": 755,
-      "parola_griko": "secleros",
-      "parola_italiano": "duro/coriaceo"
-    },
-    {
-      "id": 1044,
-      "parola_griko": "selima",
-      "parola_italiano": "volontà"
-    },
-    {
-      "id": 1088,
-      "parola_griko": "semmatàri",
-      "parola_italiano": "bugiardo"
-    },
-    {
-      "id": 749,
-      "parola_griko": "senos",
-      "parola_italiano": "straniero/forestiero/estraneo"
-    },
-    {
-      "id": 927,
-      "parola_griko": "sera",
-      "parola_italiano": "luoghi forestieri"
-    },
-    {
-      "id": 859,
-      "parola_griko": "serama",
-      "parola_italiano": "vomito"
-    },
-    {
-      "id": 756,
-      "parola_griko": "serizeros",
-      "parola_italiano": "secco/asciutto/arido"
-    },
-    {
-      "id": 729,
-      "parola_griko": "serocaros",
-      "parola_italiano": "sgraziato/senza grazia"
-    },
-    {
-      "id": 1123,
-      "parola_griko": "sfondilo",
-      "parola_italiano": "collo"
-    },
-    {
-      "id": 1236,
-      "parola_griko": "sicalinda",
-      "parola_italiano": "pianta di fico d'india"
-    },
-    {
-      "id": 1356,
-      "parola_griko": "sichea",
-      "parola_italiano": "albero di fico"
-    },
-    {
-      "id": 1073,
-      "parola_griko": "sico",
-      "parola_italiano": "fico"
-    },
-    {
-      "id": 1355,
-      "parola_griko": "sico",
-      "parola_italiano": "fico (frutto)"
-    },
-    {
-      "id": 847,
-      "parola_griko": "sicra",
-      "parola_italiano": "gelata notturna/ghiaccio"
-    },
-    {
-      "id": 986,
-      "parola_griko": "sidero",
-      "parola_italiano": "ferro"
-    },
-    {
-      "id": 694,
-      "parola_griko": "sideros",
-      "parola_italiano": "di ferro/ferroso"
-    },
-    {
-      "id": 985,
-      "parola_griko": "sikamino",
-      "parola_italiano": "gelso"
-    },
-    {
-      "id": 966,
-      "parola_griko": "silo",
-      "parola_italiano": "legno"
-    },
-    {
-      "id": 1193,
-      "parola_griko": "silogatta",
-      "parola_italiano": "trappola per topi"
-    },
-    {
-      "id": 1334,
-      "parola_griko": "simeri",
-      "parola_italiano": "oggi"
-    },
-    {
-      "id": 1353,
-      "parola_griko": "sinari",
-      "parola_italiano": "zappa"
-    },
-    {
-      "id": 1050,
-      "parola_griko": "singorima",
-      "parola_italiano": "perdono"
-    },
-    {
-      "id": 757,
-      "parola_griko": "sinos",
-      "parola_italiano": "acido"
-    },
-    {
-      "id": 1089,
-      "parola_griko": "sio",
-      "parola_italiano": "pulce"
-    },
-    {
-      "id": 1237,
-      "parola_griko": "sirma",
-      "parola_italiano": "tiro/l'atto del tirare"
-    },
-    {
-      "id": 1241,
-      "parola_griko": "sìtsira",
-      "parola_italiano": "zia"
-    },
-    {
-      "id": 1242,
-      "parola_griko": "smirna",
-      "parola_italiano": "sedano selvatico"
-    },
-    {
-      "id": 1074,
-      "parola_griko": "soma",
-      "parola_italiano": "corpo"
-    },
-    {
-      "id": 1077,
-      "parola_griko": "somì",
-      "parola_italiano": "pane"
-    },
-    {
-      "id": 849,
-      "parola_griko": "spara",
-      "parola_italiano": "specie di salvia"
-    },
-    {
-      "id": 767,
-      "parola_griko": "spastrikò",
-      "parola_italiano": "pulito/terso"
-    },
-    {
-      "id": 1218,
-      "parola_griko": "specchia",
-      "parola_italiano": "mucchio di pietre/punto d'osservazione"
-    },
-    {
-      "id": 925,
-      "parola_griko": "spermata",
-      "parola_italiano": "seminagioni"
-    },
-    {
-      "id": 1132,
-      "parola_griko": "spero",
-      "parola_italiano": "seme"
-    },
-    {
-      "id": 1223,
-      "parola_griko": "spina",
-      "parola_italiano": "cuneo/zeppa"
-    },
-    {
-      "id": 768,
-      "parola_griko": "spinò",
-      "parola_italiano": "spesso/fitto/doppio"
-    },
-    {
-      "id": 1321,
-      "parola_griko": "spiti",
-      "parola_italiano": "casa"
-    },
-    {
-      "id": 760,
-      "parola_griko": "spittò",
-      "parola_italiano": "scintillante/sfavillante/brillante"
-    },
-    {
-      "id": 761,
-      "parola_griko": "sporicò",
-      "parola_italiano": "pieno di semi"
-    },
-    {
-      "id": 893,
-      "parola_griko": "stacchi",
-      "parola_italiano": "pietra del gioco delle stacche"
-    },
-    {
-      "id": 1261,
-      "parola_griko": "stafida",
-      "parola_italiano": "uva passa/uvetta"
-    },
-    {
-      "id": 1003,
-      "parola_griko": "stafili",
-      "parola_italiano": "uva"
-    },
-    {
-      "id": 873,
-      "parola_griko": "stamnì",
-      "parola_italiano": "orciolo/brocca di terracotta"
-    },
-    {
-      "id": 1198,
-      "parola_griko": "stanciula",
-      "parola_italiano": "gheppio"
-    },
-    {
-      "id": 763,
-      "parola_griko": "stannò",
-      "parola_italiano": "asciutto/asciugato"
-    },
-    {
-      "id": 1239,
-      "parola_griko": "stavricola",
-      "parola_italiano": "lucertola"
-    },
-    {
-      "id": 1090,
-      "parola_griko": "stavrò",
-      "parola_italiano": "croce"
-    },
-    {
-      "id": 935,
-      "parola_griko": "steno",
-      "parola_italiano": "piccone"
-    },
-    {
-      "id": 764,
-      "parola_griko": "stenò",
-      "parola_italiano": "stretto"
-    },
-    {
-      "id": 963,
-      "parola_griko": "steo",
-      "parola_italiano": "osso"
-    },
-    {
-      "id": 762,
-      "parola_griko": "stittò",
-      "parola_italiano": "stretto"
-    },
-    {
-      "id": 1034,
-      "parola_griko": "stoma",
-      "parola_italiano": "ferro temperato"
-    },
-    {
-      "id": 936,
-      "parola_griko": "stomaco",
-      "parola_italiano": "stomaco"
-    },
-    {
-      "id": 1217,
-      "parola_griko": "strada",
-      "parola_italiano": "strada"
-    },
-    {
-      "id": 765,
-      "parola_griko": "stranghilò",
-      "parola_italiano": "enorme/altissimo"
-    },
-    {
-      "id": 1133,
-      "parola_griko": "straso",
-      "parola_italiano": "porro/brufolo duro"
-    },
-    {
-      "id": 937,
-      "parola_griko": "stravo",
-      "parola_italiano": "torto"
-    },
-    {
-      "id": 766,
-      "parola_griko": "stravò",
-      "parola_italiano": "storto/incurvato"
-    },
-    {
-      "id": 1051,
-      "parola_griko": "strema",
-      "parola_italiano": "lampo"
-    },
-    {
-      "id": 1194,
-      "parola_griko": "striara",
-      "parola_italiano": "strega"
-    },
-    {
-      "id": 1134,
-      "parola_griko": "strigno",
-      "parola_italiano": "capriccio"
-    },
-    {
-      "id": 1240,
-      "parola_griko": "strolechia",
-      "parola_italiano": "rimprovero/straparlare"
-    },
-    {
-      "id": 839,
-      "parola_griko": "sublì",
-      "parola_italiano": "lesina"
-    },
-    {
-      "id": 1286,
-      "parola_griko": "suchea",
-      "parola_italiano": "fico (albero)"
-    },
-    {
-      "id": 1287,
-      "parola_griko": "sulinea",
-      "parola_italiano": "ferro di cavallo/staffa"
-    },
-    {
-      "id": 1305,
-      "parola_griko": "ta",
-      "parola_italiano": "i/le (neutro pl.)"
-    },
-    {
-      "id": 1201,
-      "parola_griko": "tabla",
-      "parola_italiano": "tavola/asse di legno"
-    },
-    {
-      "id": 1035,
-      "parola_griko": "tama",
-      "parola_italiano": "voto"
-    },
-    {
-      "id": 1124,
-      "parola_griko": "tanato",
-      "parola_italiano": "morte"
-    },
-    {
-      "id": 1111,
-      "parola_griko": "tata",
-      "parola_italiano": "papà/nonno"
-    },
-    {
-      "id": 894,
-      "parola_griko": "tavari",
-      "parola_italiano": "otre"
-    },
-    {
-      "id": 874,
-      "parola_griko": "telimata",
-      "parola_italiano": "cose desiderate/occorrente"
-    },
-    {
-      "id": 1245,
-      "parola_griko": "tenni",
-      "parola_italiano": "arte/mestiere/abilità"
-    },
-    {
-      "id": 835,
-      "parola_griko": "teò",
-      "parola_italiano": "Dio"
-    },
-    {
       "id": 1067,
       "parola_griko": "teri",
       "parola_italiano": "mietitura"
     },
     {
-      "id": 1108,
-      "parola_griko": "terinari",
-      "parola_italiano": "giugno"
+      "id": 1068,
+      "parola_griko": "achilo",
+      "parola_italiano": "chiodo"
     },
     {
-      "id": 697,
-      "parola_griko": "termi",
-      "parola_italiano": "tiepido/calduccio"
-    },
-    {
-      "id": 696,
-      "parola_griko": "termidigno",
-      "parola_italiano": "focoso/testa calda"
-    },
-    {
-      "id": 750,
-      "parola_griko": "termos",
+      "id": 1069,
+      "parola_griko": "cama",
       "parola_italiano": "caldo"
     },
     {
-      "id": 964,
-      "parola_griko": "teros",
-      "parola_italiano": "mietitura/mese di giugno"
+      "id": 1070,
+      "parola_griko": "ceri",
+      "parola_italiano": "cera/candela"
     },
     {
-      "id": 1307,
-      "parola_griko": "tes",
-      "parola_italiano": "le (acc. f. pl.)"
-    },
-    {
-      "id": 848,
-      "parola_griko": "tesi",
-      "parola_italiano": "colpa"
-    },
-    {
-      "id": 840,
-      "parola_griko": "thermò",
-      "parola_italiano": "caldo"
-    },
-    {
-      "id": 996,
-      "parola_griko": "tiani",
-      "parola_italiano": "padella"
-    },
-    {
-      "id": 875,
-      "parola_griko": "tiàni",
-      "parola_italiano": "teglia di rame/padella"
-    },
-    {
-      "id": 1135,
-      "parola_griko": "tico",
-      "parola_italiano": "muro/parete"
-    },
-    {
-      "id": 1196,
-      "parola_griko": "tiedra",
-      "parola_italiano": "teglia"
-    },
-    {
-      "id": 926,
-      "parola_griko": "tiflomata",
-      "parola_italiano": "talpa"
+      "id": 1071,
+      "parola_griko": "crasi",
+      "parola_italiano": "vino"
     },
     {
       "id": 1072,
@@ -4506,34 +3246,319 @@
       "parola_italiano": "formaggio"
     },
     {
-      "id": 1142,
-      "parola_griko": "tiro",
-      "parola_italiano": "pidocchio"
+      "id": 1073,
+      "parola_griko": "sico",
+      "parola_italiano": "fico"
     },
     {
-      "id": 718,
-      "parola_griko": "tirus",
-      "parola_italiano": "pieno di pidocchi"
+      "id": 1074,
+      "parola_griko": "soma",
+      "parola_italiano": "corpo"
     },
     {
-      "id": 1316,
-      "parola_griko": "tis",
-      "parola_italiano": "della/alla (gen.-dat. f.)"
+      "id": 1075,
+      "parola_griko": "pedì",
+      "parola_italiano": "bambino"
     },
     {
-      "id": 1314,
-      "parola_griko": "to",
-      "parola_italiano": "il/lo (neutro sing.)"
+      "id": 1076,
+      "parola_griko": "alài",
+      "parola_italiano": "olio"
     },
     {
-      "id": 1308,
-      "parola_griko": "ton",
-      "parola_italiano": "dei/ai (gen.-dat. pl.)"
+      "id": 1077,
+      "parola_griko": "somì",
+      "parola_italiano": "pane"
     },
     {
-      "id": 1317,
-      "parola_griko": "ton",
-      "parola_italiano": "il (acc. m. sing.)"
+      "id": 1078,
+      "parola_griko": "daso",
+      "parola_italiano": "bosco"
+    },
+    {
+      "id": 1079,
+      "parola_griko": "uranisco",
+      "parola_italiano": "palato"
+    },
+    {
+      "id": 1080,
+      "parola_griko": "chiro",
+      "parola_italiano": "vedovo"
+    },
+    {
+      "id": 1081,
+      "parola_griko": "fustiano",
+      "parola_italiano": "gonna"
+    },
+    {
+      "id": 1082,
+      "parola_griko": "agguito",
+      "parola_italiano": "gomito"
+    },
+    {
+      "id": 1083,
+      "parola_griko": "cleftì",
+      "parola_italiano": "ladro"
+    },
+    {
+      "id": 1084,
+      "parola_griko": "copanari",
+      "parola_italiano": "picchiatore"
+    },
+    {
+      "id": 1085,
+      "parola_griko": "lippo",
+      "parola_italiano": "grasso"
+    },
+    {
+      "id": 1086,
+      "parola_griko": "paraiso",
+      "parola_italiano": "paradiso"
+    },
+    {
+      "id": 1087,
+      "parola_griko": "pono",
+      "parola_italiano": "dolore"
+    },
+    {
+      "id": 1088,
+      "parola_griko": "semmatàri",
+      "parola_italiano": "bugiardo"
+    },
+    {
+      "id": 1089,
+      "parola_griko": "sio",
+      "parola_italiano": "pulce"
+    },
+    {
+      "id": 1090,
+      "parola_griko": "stavrò",
+      "parola_italiano": "croce"
+    },
+    {
+      "id": 1091,
+      "parola_griko": "trio",
+      "parola_italiano": "vendemmia"
+    },
+    {
+      "id": 1092,
+      "parola_griko": "zio",
+      "parola_italiano": "giogo"
+    },
+    {
+      "id": 1093,
+      "parola_griko": "anto",
+      "parola_italiano": "striscia di terreno lavorata"
+    },
+    {
+      "id": 1094,
+      "parola_griko": "pago",
+      "parola_italiano": "ghiaccio"
+    },
+    {
+      "id": 1095,
+      "parola_griko": "cucco",
+      "parola_italiano": "focaccia di farina d'orzo"
+    },
+    {
+      "id": 1096,
+      "parola_griko": "galani",
+      "parola_italiano": "massaro/pastore"
+    },
+    {
+      "id": 1097,
+      "parola_griko": "macio",
+      "parola_italiano": "persona mascherata"
+    },
+    {
+      "id": 1098,
+      "parola_griko": "trapilo",
+      "parola_italiano": "frantoio"
+    },
+    {
+      "id": 1099,
+      "parola_griko": "tufo",
+      "parola_italiano": "conci di pietra calcarea"
+    },
+    {
+      "id": 1100,
+      "parola_griko": "burro",
+      "parola_italiano": "capriccio/vezzo"
+    },
+    {
+      "id": 1101,
+      "parola_griko": "andra",
+      "parola_italiano": "marito"
+    },
+    {
+      "id": 1102,
+      "parola_griko": "papa",
+      "parola_italiano": "prete/padre"
+    },
+    {
+      "id": 1103,
+      "parola_griko": "patera",
+      "parola_italiano": "prete/sacerdote"
+    },
+    {
+      "id": 1104,
+      "parola_griko": "poda",
+      "parola_italiano": "piede"
+    },
+    {
+      "id": 1105,
+      "parola_griko": "scimona",
+      "parola_italiano": "inverno"
+    },
+    {
+      "id": 1106,
+      "parola_griko": "rajona",
+      "parola_italiano": "braccio"
+    },
+    {
+      "id": 1107,
+      "parola_griko": "mina",
+      "parola_italiano": "mese"
+    },
+    {
+      "id": 1108,
+      "parola_griko": "terinari",
+      "parola_italiano": "giugno"
+    },
+    {
+      "id": 1109,
+      "parola_griko": "alonari",
+      "parola_italiano": "luglio"
+    },
+    {
+      "id": 1110,
+      "parola_griko": "mascia",
+      "parola_italiano": "maestro/artigiano"
+    },
+    {
+      "id": 1111,
+      "parola_griko": "tata",
+      "parola_italiano": "papà/nonno"
+    },
+    {
+      "id": 1112,
+      "parola_griko": "abisso",
+      "parola_italiano": "abisso/voragine"
+    },
+    {
+      "id": 1113,
+      "parola_griko": "agrio",
+      "parola_italiano": "olivo selvatico/oleastro"
+    },
+    {
+      "id": 1114,
+      "parola_griko": "alatro",
+      "parola_italiano": "aratro"
+    },
+    {
+      "id": 1115,
+      "parola_griko": "anemo",
+      "parola_italiano": "vento"
+    },
+    {
+      "id": 1116,
+      "parola_griko": "antropo",
+      "parola_italiano": "uomo"
+    },
+    {
+      "id": 1117,
+      "parola_griko": "diavolo",
+      "parola_italiano": "diavolo"
+    },
+    {
+      "id": 1118,
+      "parola_griko": "garofalo",
+      "parola_italiano": "garofano"
+    },
+    {
+      "id": 1119,
+      "parola_griko": "ipuno",
+      "parola_italiano": "sonno/sogno"
+    },
+    {
+      "id": 1120,
+      "parola_griko": "cantaro",
+      "parola_italiano": "vaso da notte"
+    },
+    {
+      "id": 1121,
+      "parola_griko": "mandalo",
+      "parola_italiano": "catenaccio/chiavistello"
+    },
+    {
+      "id": 1122,
+      "parola_griko": "marturo",
+      "parola_italiano": "martire"
+    },
+    {
+      "id": 1123,
+      "parola_griko": "sfondilo",
+      "parola_italiano": "collo"
+    },
+    {
+      "id": 1124,
+      "parola_griko": "tanato",
+      "parola_italiano": "morte"
+    },
+    {
+      "id": 1125,
+      "parola_griko": "bombo",
+      "parola_italiano": "moscone/grossa vespa"
+    },
+    {
+      "id": 1126,
+      "parola_griko": "palanco",
+      "parola_italiano": "leva di ferro/grande punteruolo"
+    },
+    {
+      "id": 1127,
+      "parola_griko": "pago",
+      "parola_italiano": "gelo/brina"
+    },
+    {
+      "id": 1128,
+      "parola_griko": "pappo",
+      "parola_italiano": "nonno"
+    },
+    {
+      "id": 1129,
+      "parola_griko": "pato",
+      "parola_italiano": "via battuta/passaggio"
+    },
+    {
+      "id": 1130,
+      "parola_griko": "poro",
+      "parola_italiano": "entrata/varco"
+    },
+    {
+      "id": 1131,
+      "parola_griko": "sacco",
+      "parola_italiano": "sacco"
+    },
+    {
+      "id": 1132,
+      "parola_griko": "spero",
+      "parola_italiano": "seme"
+    },
+    {
+      "id": 1133,
+      "parola_griko": "straso",
+      "parola_italiano": "porro/brufolo duro"
+    },
+    {
+      "id": 1134,
+      "parola_griko": "strigno",
+      "parola_italiano": "capriccio"
+    },
+    {
+      "id": 1135,
+      "parola_griko": "tico",
+      "parola_italiano": "muro/parete"
     },
     {
       "id": 1136,
@@ -4546,139 +3571,9 @@
       "parola_italiano": "porca (striscia di terra tra due solchi)"
     },
     {
-      "id": 997,
-      "parola_griko": "trapani",
-      "parola_italiano": "falce"
-    },
-    {
-      "id": 1098,
-      "parola_griko": "trapilo",
-      "parola_italiano": "frantoio"
-    },
-    {
-      "id": 751,
-      "parola_griko": "triferos",
-      "parola_italiano": "tenero/morbido/molle"
-    },
-    {
-      "id": 841,
-      "parola_griko": "trifiddi",
-      "parola_italiano": "trifoglio"
-    },
-    {
-      "id": 965,
-      "parola_griko": "trifillo",
-      "parola_italiano": "trifoglio"
-    },
-    {
-      "id": 1091,
-      "parola_griko": "trio",
-      "parola_italiano": "vendemmia"
-    },
-    {
-      "id": 1252,
-      "parola_griko": "tripedda",
-      "parola_italiano": "buchetto"
-    },
-    {
-      "id": 895,
-      "parola_griko": "tristelli",
-      "parola_italiano": "cavalletto di ferro"
-    },
-    {
-      "id": 752,
-      "parola_griko": "tromeros",
-      "parola_italiano": "terrificante/terribile"
-    },
-    {
-      "id": 876,
-      "parola_griko": "truddhi",
-      "parola_italiano": "mucchio di pietre"
-    },
-    {
-      "id": 1315,
-      "parola_griko": "tu",
-      "parola_italiano": "del/al (gen.-dat. m./neutro)"
-    },
-    {
-      "id": 1099,
-      "parola_griko": "tufo",
-      "parola_italiano": "conci di pietra calcarea"
-    },
-    {
-      "id": 896,
-      "parola_griko": "tumeno",
-      "parola_italiano": "tomolo (misura)"
-    },
-    {
-      "id": 897,
-      "parola_griko": "turnisi",
-      "parola_italiano": "soldo/moneta"
-    },
-    {
-      "id": 1219,
-      "parola_griko": "turri",
-      "parola_italiano": "torre"
-    },
-    {
-      "id": 1306,
-      "parola_griko": "tus",
-      "parola_italiano": "i (acc. m. pl.)"
-    },
-    {
-      "id": 1079,
-      "parola_griko": "uranisco",
-      "parola_italiano": "palato"
-    },
-    {
-      "id": 998,
-      "parola_griko": "vambaci",
-      "parola_italiano": "cotone"
-    },
-    {
-      "id": 1045,
-      "parola_griko": "vamma",
-      "parola_italiano": "tintura"
-    },
-    {
-      "id": 1047,
-      "parola_griko": "vascama",
-      "parola_italiano": "malocchio"
-    },
-    {
-      "id": 938,
-      "parola_griko": "vasilico",
-      "parola_italiano": "basilico"
-    },
-    {
-      "id": 1046,
-      "parola_griko": "vattisma",
-      "parola_italiano": "battesimo"
-    },
-    {
-      "id": 1360,
-      "parola_griko": "velani",
-      "parola_italiano": "ghianda"
-    },
-    {
-      "id": 1202,
-      "parola_griko": "viannova",
-      "parola_italiano": "strada nuova"
-    },
-    {
-      "id": 995,
-      "parola_griko": "vizì",
-      "parola_italiano": "mammella"
-    },
-    {
-      "id": 1048,
-      "parola_griko": "vlemma",
-      "parola_italiano": "sguardo"
-    },
-    {
-      "id": 1049,
-      "parola_griko": "vlojisma",
-      "parola_italiano": "benedizione"
+      "id": 1138,
+      "parola_griko": "mandato",
+      "parola_italiano": "rovo"
     },
     {
       "id": 1139,
@@ -4686,14 +3581,289 @@
       "parola_italiano": "terra argillosa"
     },
     {
+      "id": 1140,
+      "parola_griko": "crono",
+      "parola_italiano": "anno"
+    },
+    {
+      "id": 1141,
+      "parola_griko": "chipo",
+      "parola_italiano": "giardino/orto"
+    },
+    {
+      "id": 1142,
+      "parola_griko": "tiro",
+      "parola_italiano": "pidocchio"
+    },
+    {
+      "id": 1143,
+      "parola_griko": "grotto",
+      "parola_italiano": "manciata/pugno"
+    },
+    {
+      "id": 1144,
+      "parola_griko": "canzo",
+      "parola_italiano": "cerchio del setaccio"
+    },
+    {
+      "id": 1145,
+      "parola_griko": "colombo",
+      "parola_italiano": "nodo/legame"
+    },
+    {
+      "id": 1146,
+      "parola_griko": "cosmo",
+      "parola_italiano": "mondo/universo"
+    },
+    {
+      "id": 1147,
+      "parola_griko": "crino",
+      "parola_italiano": "giglio"
+    },
+    {
+      "id": 1148,
+      "parola_griko": "laco",
+      "parola_italiano": "pozzanghera/palude/stagno"
+    },
+    {
+      "id": 1149,
+      "parola_griko": "licno",
+      "parola_italiano": "lucerna/lume"
+    },
+    {
+      "id": 1150,
+      "parola_griko": "milo",
+      "parola_italiano": "mola/macina/mulino"
+    },
+    {
+      "id": 1151,
+      "parola_griko": "mito",
+      "parola_italiano": "filo/ordito"
+    },
+    {
+      "id": 1152,
+      "parola_griko": "omo",
+      "parola_italiano": "spalla"
+    },
+    {
+      "id": 1153,
+      "parola_griko": "nosto",
+      "parola_italiano": "retrogusto sgradevole"
+    },
+    {
+      "id": 1154,
+      "parola_griko": "noto",
+      "parola_italiano": "vento di scirocco"
+    },
+    {
+      "id": 1155,
+      "parola_griko": "lico",
+      "parola_italiano": "lupo"
+    },
+    {
+      "id": 1156,
+      "parola_griko": "alò",
+      "parola_italiano": "lepre"
+    },
+    {
+      "id": 1157,
+      "parola_griko": "ascò",
+      "parola_italiano": "otre di pelle"
+    },
+    {
+      "id": 1158,
+      "parola_griko": "chierò",
+      "parola_italiano": "tempo opportuno"
+    },
+    {
+      "id": 1159,
+      "parola_griko": "fanò",
+      "parola_italiano": "apparenza/pubblicità"
+    },
+    {
+      "id": 1160,
+      "parola_griko": "fò",
+      "parola_italiano": "luce"
+    },
+    {
+      "id": 1161,
+      "parola_griko": "grambò",
+      "parola_italiano": "genero"
+    },
+    {
+      "id": 1162,
+      "parola_griko": "capnò",
+      "parola_italiano": "fumo"
+    },
+    {
+      "id": 1163,
+      "parola_griko": "cristianò",
+      "parola_italiano": "uomo cristiano/uomo"
+    },
+    {
+      "id": 1164,
+      "parola_griko": "ponticò",
+      "parola_italiano": "topo"
+    },
+    {
+      "id": 1165,
+      "parola_griko": "aforchio",
+      "parola_italiano": "tana"
+    },
+    {
+      "id": 1166,
+      "parola_griko": "miciìlio",
+      "parola_italiano": "capo dei frantoiani/nocchiero"
+    },
+    {
+      "id": 1167,
+      "parola_griko": "nistio",
+      "parola_italiano": "digiuno"
+    },
+    {
+      "id": 1168,
+      "parola_griko": "sciaddio",
+      "parola_italiano": "cappello"
+    },
+    {
+      "id": 1169,
+      "parola_griko": "crio",
+      "parola_italiano": "montone/ariete"
+    },
+    {
+      "id": 1170,
+      "parola_griko": "dio",
+      "parola_italiano": "zio"
+    },
+    {
+      "id": 1171,
+      "parola_griko": "ambrachio",
+      "parola_italiano": "tettoia/riparo dal sole"
+    },
+    {
+      "id": 1172,
+      "parola_griko": "chinipò",
+      "parola_italiano": "costoso/caro"
+    },
+    {
+      "id": 1173,
+      "parola_griko": "andra",
+      "parola_italiano": "marito/uomo"
+    },
+    {
+      "id": 1174,
+      "parola_griko": "limbuna",
+      "parola_italiano": "grande bacinella per il bucato"
+    },
+    {
+      "id": 1175,
+      "parola_griko": "canaria",
+      "parola_italiano": "venditore di verdure/millantatore"
+    },
+    {
+      "id": 1176,
+      "parola_griko": "asurari",
+      "parola_italiano": "usuraio"
+    },
+    {
+      "id": 1177,
+      "parola_griko": "lampasciuna",
+      "parola_italiano": "lampascione"
+    },
+    {
+      "id": 1178,
+      "parola_griko": "acuchi",
+      "parola_italiano": "ago grosso"
+    },
+    {
+      "id": 1179,
+      "parola_griko": "acquasale",
+      "parola_italiano": "pane bagnato e condito"
+    },
+    {
+      "id": 1180,
+      "parola_griko": "salicurda",
+      "parola_italiano": "pane cotto in acqua con verdure"
+    },
+    {
+      "id": 1181,
+      "parola_griko": "frisa",
+      "parola_italiano": "frisella"
+    },
+    {
+      "id": 1182,
+      "parola_griko": "camula",
+      "parola_italiano": "nebbia/foschia"
+    },
+    {
       "id": 1183,
       "parola_griko": "volumi",
       "parola_italiano": "mucchio"
     },
     {
-      "id": 1364,
-      "parola_griko": "xilo",
-      "parola_italiano": "legno"
+      "id": 1184,
+      "parola_griko": "copula",
+      "parola_italiano": "sfera di pietra/boccia"
+    },
+    {
+      "id": 1185,
+      "parola_griko": "copuledda",
+      "parola_italiano": "polpetta di pane in brodo"
+    },
+    {
+      "id": 1186,
+      "parola_griko": "lacunetta",
+      "parola_italiano": "nuca"
+    },
+    {
+      "id": 1187,
+      "parola_griko": "lapistra",
+      "parola_italiano": "ramolaccio/rafano"
+    },
+    {
+      "id": 1188,
+      "parola_griko": "latula",
+      "parola_italiano": "rucola a foglia larga"
+    },
+    {
+      "id": 1189,
+      "parola_griko": "lumia",
+      "parola_italiano": "limone"
+    },
+    {
+      "id": 1190,
+      "parola_griko": "mella",
+      "parola_italiano": "mela"
+    },
+    {
+      "id": 1191,
+      "parola_griko": "pentima",
+      "parola_italiano": "grosso masso/rupe"
+    },
+    {
+      "id": 1192,
+      "parola_griko": "piotta",
+      "parola_italiano": "brodo di cottura"
+    },
+    {
+      "id": 1193,
+      "parola_griko": "silogatta",
+      "parola_italiano": "trappola per topi"
+    },
+    {
+      "id": 1194,
+      "parola_griko": "striara",
+      "parola_italiano": "strega"
+    },
+    {
+      "id": 1195,
+      "parola_griko": "scasini",
+      "parola_italiano": "pigrizia"
+    },
+    {
+      "id": 1196,
+      "parola_griko": "tiedra",
+      "parola_italiano": "teglia"
     },
     {
       "id": 1197,
@@ -4701,14 +3871,374 @@
       "parola_italiano": "fioritura"
     },
     {
-      "id": 860,
-      "parola_griko": "zinùtti",
-      "parola_italiano": "aceto"
+      "id": 1198,
+      "parola_griko": "stanciula",
+      "parola_italiano": "gheppio"
     },
     {
-      "id": 1092,
-      "parola_griko": "zio",
-      "parola_italiano": "giogo"
+      "id": 1199,
+      "parola_griko": "ascla",
+      "parola_italiano": "pezzo di tronco"
+    },
+    {
+      "id": 1200,
+      "parola_griko": "merula",
+      "parola_italiano": "merla"
+    },
+    {
+      "id": 1201,
+      "parola_griko": "tabla",
+      "parola_italiano": "tavola/asse di legno"
+    },
+    {
+      "id": 1202,
+      "parola_griko": "viannova",
+      "parola_italiano": "strada nuova"
+    },
+    {
+      "id": 1203,
+      "parola_griko": "ambugghia",
+      "parola_italiano": "bolla/foruncolo"
+    },
+    {
+      "id": 1204,
+      "parola_griko": "aruggia",
+      "parola_italiano": "vivaio/semenzaio"
+    },
+    {
+      "id": 1205,
+      "parola_griko": "grifa",
+      "parola_italiano": "sansa delle olive"
+    },
+    {
+      "id": 1206,
+      "parola_griko": "granza",
+      "parola_italiano": "frisella di farina grossa d'orzo"
+    },
+    {
+      "id": 1207,
+      "parola_griko": "esterna",
+      "parola_italiano": "cisterna"
+    },
+    {
+      "id": 1208,
+      "parola_griko": "jurnata",
+      "parola_italiano": "giornata lavorativa"
+    },
+    {
+      "id": 1209,
+      "parola_griko": "cioccia",
+      "parola_italiano": "piccola/bambina"
+    },
+    {
+      "id": 1210,
+      "parola_griko": "gruppo",
+      "parola_italiano": "cripta/grotta"
+    },
+    {
+      "id": 1211,
+      "parola_griko": "lumera",
+      "parola_italiano": "fiamma/luce"
+    },
+    {
+      "id": 1212,
+      "parola_griko": "passiuna",
+      "parola_italiano": "passione"
+    },
+    {
+      "id": 1213,
+      "parola_griko": "pungia",
+      "parola_italiano": "tasca/taschina"
+    },
+    {
+      "id": 1214,
+      "parola_griko": "purgula",
+      "parola_italiano": "polvere"
+    },
+    {
+      "id": 1215,
+      "parola_griko": "reccia",
+      "parola_italiano": "frisa d'orzo e grano"
+    },
+    {
+      "id": 1216,
+      "parola_griko": "parrata",
+      "parola_italiano": "scrofa/suina"
+    },
+    {
+      "id": 1217,
+      "parola_griko": "strada",
+      "parola_italiano": "strada"
+    },
+    {
+      "id": 1218,
+      "parola_griko": "specchia",
+      "parola_italiano": "mucchio di pietre/punto d'osservazione"
+    },
+    {
+      "id": 1219,
+      "parola_griko": "turri",
+      "parola_italiano": "torre"
+    },
+    {
+      "id": 1220,
+      "parola_griko": "fusca",
+      "parola_italiano": "pula"
+    },
+    {
+      "id": 1221,
+      "parola_griko": "cucuvascia",
+      "parola_italiano": "civetta"
+    },
+    {
+      "id": 1222,
+      "parola_griko": "rapa",
+      "parola_italiano": "parte inferiore del tronco"
+    },
+    {
+      "id": 1223,
+      "parola_griko": "spina",
+      "parola_italiano": "cuneo/zeppa"
+    },
+    {
+      "id": 1224,
+      "parola_griko": "alatra",
+      "parola_italiano": "aratura"
+    },
+    {
+      "id": 1225,
+      "parola_griko": "ampa",
+      "parola_italiano": "spinta"
+    },
+    {
+      "id": 1226,
+      "parola_griko": "anapodia",
+      "parola_italiano": "irrequietezza dei bambini"
+    },
+    {
+      "id": 1227,
+      "parola_griko": "arpa",
+      "parola_italiano": "arpia/mostro"
+    },
+    {
+      "id": 1228,
+      "parola_griko": "afentia",
+      "parola_italiano": "autorità/signoria"
+    },
+    {
+      "id": 1229,
+      "parola_griko": "catadicasia",
+      "parola_italiano": "condanna"
+    },
+    {
+      "id": 1230,
+      "parola_griko": "lampa",
+      "parola_italiano": "fiammata/vampa"
+    },
+    {
+      "id": 1231,
+      "parola_griko": "langa",
+      "parola_italiano": "breccia in un muro"
+    },
+    {
+      "id": 1232,
+      "parola_griko": "magaria",
+      "parola_italiano": "stregoneria/fattura"
+    },
+    {
+      "id": 1233,
+      "parola_griko": "paratomia",
+      "parola_italiano": "pasto offerto ai familiari di un defunto"
+    },
+    {
+      "id": 1234,
+      "parola_griko": "pira",
+      "parola_italiano": "fuoco/calore"
+    },
+    {
+      "id": 1235,
+      "parola_griko": "saccuna",
+      "parola_italiano": "pagliericcio/materassino"
+    },
+    {
+      "id": 1236,
+      "parola_griko": "sicalinda",
+      "parola_italiano": "pianta di fico d'india"
+    },
+    {
+      "id": 1237,
+      "parola_griko": "sirma",
+      "parola_italiano": "tiro/l'atto del tirare"
+    },
+    {
+      "id": 1238,
+      "parola_griko": "scotinia",
+      "parola_italiano": "oscurità/tenebra"
+    },
+    {
+      "id": 1239,
+      "parola_griko": "stavricola",
+      "parola_italiano": "lucertola"
+    },
+    {
+      "id": 1240,
+      "parola_griko": "strolechia",
+      "parola_italiano": "rimprovero/straparlare"
+    },
+    {
+      "id": 1241,
+      "parola_griko": "sìtsira",
+      "parola_italiano": "zia"
+    },
+    {
+      "id": 1242,
+      "parola_griko": "smirna",
+      "parola_italiano": "sedano selvatico"
+    },
+    {
+      "id": 1243,
+      "parola_griko": "anemi",
+      "parola_italiano": "arcolaio"
+    },
+    {
+      "id": 1244,
+      "parola_griko": "sarcosti",
+      "parola_italiano": "quaresima"
+    },
+    {
+      "id": 1245,
+      "parola_griko": "tenni",
+      "parola_italiano": "arte/mestiere/abilità"
+    },
+    {
+      "id": 1246,
+      "parola_griko": "aderfecia",
+      "parola_italiano": "sorellina"
+    },
+    {
+      "id": 1247,
+      "parola_griko": "celonaci",
+      "parola_italiano": "piccola tartaruga"
+    },
+    {
+      "id": 1248,
+      "parola_griko": "cerulaci",
+      "parola_italiano": "manina"
+    },
+    {
+      "id": 1249,
+      "parola_griko": "cefalaci",
+      "parola_italiano": "testolina"
+    },
+    {
+      "id": 1250,
+      "parola_griko": "caletta",
+      "parola_italiano": "bellina/carina"
+    },
+    {
+      "id": 1251,
+      "parola_griko": "monachedda",
+      "parola_italiano": "monachella"
+    },
+    {
+      "id": 1252,
+      "parola_griko": "tripedda",
+      "parola_italiano": "buchetto"
+    },
+    {
+      "id": 1253,
+      "parola_griko": "alupuna",
+      "parola_italiano": "volpe"
+    },
+    {
+      "id": 1254,
+      "parola_griko": "chera",
+      "parola_italiano": "mano"
+    },
+    {
+      "id": 1255,
+      "parola_griko": "nifta",
+      "parola_italiano": "notte"
+    },
+    {
+      "id": 1256,
+      "parola_griko": "placa",
+      "parola_italiano": "chianca/lastra di pietra"
+    },
+    {
+      "id": 1257,
+      "parola_griko": "carassa",
+      "parola_italiano": "fessura/fenditura"
+    },
+    {
+      "id": 1258,
+      "parola_griko": "damalida",
+      "parola_italiano": "vitella/giovenca"
+    },
+    {
+      "id": 1259,
+      "parola_griko": "culura",
+      "parola_italiano": "ciambella/dolce pasquale"
+    },
+    {
+      "id": 1260,
+      "parola_griko": "salitedda",
+      "parola_italiano": "pipistrello"
+    },
+    {
+      "id": 1261,
+      "parola_griko": "stafida",
+      "parola_italiano": "uva passa/uvetta"
+    },
+    {
+      "id": 1262,
+      "parola_griko": "scordalida",
+      "parola_italiano": "aglio selvatico"
+    },
+    {
+      "id": 1263,
+      "parola_griko": "agelada",
+      "parola_italiano": "mucca"
+    },
+    {
+      "id": 1264,
+      "parola_griko": "prima",
+      "parola_italiano": "imbiancatura/pittura"
+    },
+    {
+      "id": 1265,
+      "parola_griko": "dacca",
+      "parola_italiano": "morso"
+    },
+    {
+      "id": 1266,
+      "parola_griko": "forada",
+      "parola_italiano": "cavalla/giumenta"
+    },
+    {
+      "id": 1267,
+      "parola_griko": "filima",
+      "parola_italiano": "bacio"
+    },
+    {
+      "id": 1268,
+      "parola_griko": "aderfi",
+      "parola_italiano": "sorella"
+    },
+    {
+      "id": 1269,
+      "parola_griko": "cefali",
+      "parola_italiano": "testa/capo/mente"
+    },
+    {
+      "id": 1270,
+      "parola_griko": "curiaci",
+      "parola_italiano": "domenica"
+    },
+    {
+      "id": 1271,
+      "parola_griko": "petti",
+      "parola_italiano": "giovedì"
     },
     {
       "id": 1272,
@@ -4716,14 +4246,484 @@
       "parola_italiano": "vita"
     },
     {
-      "id": 861,
-      "parola_griko": "zonari",
-      "parola_italiano": "cintola"
+      "id": 1273,
+      "parola_griko": "alesia",
+      "parola_italiano": "verità/il vero"
     },
     {
-      "id": 758,
-      "parola_griko": "zontos",
-      "parola_italiano": "rozzo/grossolano"
+      "id": 1274,
+      "parola_griko": "celona",
+      "parola_italiano": "testuggine/tartaruga"
+    },
+    {
+      "id": 1275,
+      "parola_griko": "nemera",
+      "parola_italiano": "giorno"
+    },
+    {
+      "id": 1276,
+      "parola_griko": "grasta",
+      "parola_italiano": "vaso"
+    },
+    {
+      "id": 1277,
+      "parola_griko": "mandra",
+      "parola_italiano": "recinto/ovile"
+    },
+    {
+      "id": 1278,
+      "parola_griko": "alocaria",
+      "parola_italiano": "allegrezza/gioia/contentezza"
+    },
+    {
+      "id": 1279,
+      "parola_griko": "drosia",
+      "parola_italiano": "rugiada"
+    },
+    {
+      "id": 1280,
+      "parola_griko": "cardia",
+      "parola_italiano": "cuore"
+    },
+    {
+      "id": 1281,
+      "parola_griko": "lamia",
+      "parola_italiano": "terrazza"
+    },
+    {
+      "id": 1282,
+      "parola_griko": "ptochia",
+      "parola_italiano": "povertà"
+    },
+    {
+      "id": 1283,
+      "parola_griko": "apidea",
+      "parola_italiano": "pero"
+    },
+    {
+      "id": 1284,
+      "parola_griko": "milea",
+      "parola_italiano": "melo"
+    },
+    {
+      "id": 1285,
+      "parola_griko": "rodea",
+      "parola_italiano": "rosaio/cespuglio di rose"
+    },
+    {
+      "id": 1286,
+      "parola_griko": "suchea",
+      "parola_italiano": "fico (albero)"
+    },
+    {
+      "id": 1287,
+      "parola_griko": "sulinea",
+      "parola_italiano": "ferro di cavallo/staffa"
+    },
+    {
+      "id": 1288,
+      "parola_griko": "mira",
+      "parola_italiano": "parte/porzione"
+    },
+    {
+      "id": 1289,
+      "parola_griko": "chara",
+      "parola_italiano": "gioia/allegrezza"
+    },
+    {
+      "id": 1290,
+      "parola_griko": "alacati",
+      "parola_italiano": "conocchia"
+    },
+    {
+      "id": 1291,
+      "parola_griko": "avli",
+      "parola_italiano": "corte/cortile"
+    },
+    {
+      "id": 1292,
+      "parola_griko": "agapi",
+      "parola_italiano": "amore"
+    },
+    {
+      "id": 1293,
+      "parola_griko": "apu",
+      "parola_italiano": "da"
+    },
+    {
+      "id": 1294,
+      "parola_griko": "ma",
+      "parola_italiano": "con"
+    },
+    {
+      "id": 1295,
+      "parola_griko": "akrisi",
+      "parola_italiano": "chiesa"
+    },
+    {
+      "id": 1296,
+      "parola_griko": "martia",
+      "parola_italiano": "peccato"
+    },
+    {
+      "id": 1297,
+      "parola_griko": "carti",
+      "parola_italiano": "carta/foglio"
+    },
+    {
+      "id": 1298,
+      "parola_griko": "fori",
+      "parola_italiano": "paese/villaggio"
+    },
+    {
+      "id": 1299,
+      "parola_griko": "lisari",
+      "parola_italiano": "pietra/sasso"
+    },
+    {
+      "id": 1300,
+      "parola_griko": "podi",
+      "parola_italiano": "piede"
+    },
+    {
+      "id": 1301,
+      "parola_griko": "pono",
+      "parola_italiano": "dolore/pena"
+    },
+    {
+      "id": 1302,
+      "parola_griko": "psichì",
+      "parola_italiano": "anima"
+    },
+    {
+      "id": 1303,
+      "parola_griko": "i",
+      "parola_italiano": "gli (nom. m. pl.)"
+    },
+    {
+      "id": 1304,
+      "parola_griko": "e",
+      "parola_italiano": "le (nom. f. pl.)"
+    },
+    {
+      "id": 1305,
+      "parola_griko": "ta",
+      "parola_italiano": "i/le (neutro pl.)"
+    },
+    {
+      "id": 1306,
+      "parola_griko": "tus",
+      "parola_italiano": "i (acc. m. pl.)"
+    },
+    {
+      "id": 1307,
+      "parola_griko": "tes",
+      "parola_italiano": "le (acc. f. pl.)"
+    },
+    {
+      "id": 1308,
+      "parola_griko": "ton",
+      "parola_italiano": "dei/ai (gen.-dat. pl.)"
+    },
+    {
+      "id": 1309,
+      "parola_griko": "olo",
+      "parola_italiano": "tutto/intero"
+    },
+    {
+      "id": 1310,
+      "parola_griko": "anemos",
+      "parola_italiano": "vento"
+    },
+    {
+      "id": 1311,
+      "parola_griko": "pratina",
+      "parola_italiano": "pecora"
+    },
+    {
+      "id": 1312,
+      "parola_griko": "o",
+      "parola_italiano": "il (nom. m. sing.)"
+    },
+    {
+      "id": 1313,
+      "parola_griko": "i",
+      "parola_italiano": "la (nom. f. sing.)"
+    },
+    {
+      "id": 1314,
+      "parola_griko": "to",
+      "parola_italiano": "il/lo (neutro sing.)"
+    },
+    {
+      "id": 1315,
+      "parola_griko": "tu",
+      "parola_italiano": "del/al (gen.-dat. m./neutro)"
+    },
+    {
+      "id": 1316,
+      "parola_griko": "tis",
+      "parola_italiano": "della/alla (gen.-dat. f.)"
+    },
+    {
+      "id": 1317,
+      "parola_griko": "ton",
+      "parola_italiano": "il (acc. m. sing.)"
+    },
+    {
+      "id": 1318,
+      "parola_griko": "kirà",
+      "parola_italiano": "vedova"
+    },
+    {
+      "id": 1319,
+      "parola_griko": "corto",
+      "parola_italiano": "erba/foraggio/fieno"
+    },
+    {
+      "id": 1320,
+      "parola_griko": "manà",
+      "parola_italiano": "madre"
+    },
+    {
+      "id": 1321,
+      "parola_griko": "spiti",
+      "parola_italiano": "casa"
+    },
+    {
+      "id": 1322,
+      "parola_griko": "na",
+      "parola_italiano": "un/uno (m./neutro)"
+    },
+    {
+      "id": 1323,
+      "parola_griko": "ena",
+      "parola_italiano": "uno (m./neutro)"
+    },
+    {
+      "id": 1324,
+      "parola_griko": "mia",
+      "parola_italiano": "una (f. nom.)"
+    },
+    {
+      "id": 1325,
+      "parola_griko": "mian",
+      "parola_italiano": "una (f. acc.)"
+    },
+    {
+      "id": 1326,
+      "parola_griko": "anu",
+      "parola_italiano": "di un/a un (gen.-dat. m./neutro)"
+    },
+    {
+      "id": 1327,
+      "parola_griko": "anis",
+      "parola_italiano": "di una/a una (gen.-dat. f.)"
+    },
+    {
+      "id": 1328,
+      "parola_griko": "cipo",
+      "parola_italiano": "giardino/orto"
+    },
+    {
+      "id": 1329,
+      "parola_griko": "foni",
+      "parola_italiano": "voce/grido"
+    },
+    {
+      "id": 1330,
+      "parola_griko": "ora",
+      "parola_italiano": "volta/tempo"
+    },
+    {
+      "id": 1331,
+      "parola_griko": "clama",
+      "parola_italiano": "pianto"
+    },
+    {
+      "id": 1332,
+      "parola_griko": "orne",
+      "parola_italiano": "gallina"
+    },
+    {
+      "id": 1333,
+      "parola_griko": "sciddo",
+      "parola_italiano": "cane"
+    },
+    {
+      "id": 1334,
+      "parola_griko": "simeri",
+      "parola_italiano": "oggi"
+    },
+    {
+      "id": 1335,
+      "parola_griko": "glossa",
+      "parola_italiano": "lingua"
+    },
+    {
+      "id": 1336,
+      "parola_griko": "lagò",
+      "parola_italiano": "lepre"
+    },
+    {
+      "id": 1337,
+      "parola_griko": "gliceo",
+      "parola_italiano": "dolce"
+    },
+    {
+      "id": 1338,
+      "parola_griko": "cosmo",
+      "parola_italiano": "mondo"
+    },
+    {
+      "id": 1339,
+      "parola_griko": "endino",
+      "parola_italiano": "vesto"
+    },
+    {
+      "id": 1340,
+      "parola_griko": "feo",
+      "parola_italiano": "vado via/fuggo"
+    },
+    {
+      "id": 1341,
+      "parola_griko": "grafo",
+      "parola_italiano": "scrivo"
+    },
+    {
+      "id": 1342,
+      "parola_griko": "imera",
+      "parola_italiano": "giorno"
+    },
+    {
+      "id": 1343,
+      "parola_griko": "ipno",
+      "parola_italiano": "sonno/sogno"
+    },
+    {
+      "id": 1344,
+      "parola_griko": "catera",
+      "parola_italiano": "figlia/ragazza"
+    },
+    {
+      "id": 1345,
+      "parola_griko": "amilia",
+      "parola_italiano": "favella/discorso"
+    },
+    {
+      "id": 1346,
+      "parola_griko": "agapao",
+      "parola_italiano": "amo"
+    },
+    {
+      "id": 1347,
+      "parola_griko": "brady",
+      "parola_italiano": "sera"
+    },
+    {
+      "id": 1348,
+      "parola_griko": "pedaci",
+      "parola_italiano": "bambino"
+    },
+    {
+      "id": 1349,
+      "parola_griko": "evrisko",
+      "parola_italiano": "trovo/incontro"
+    },
+    {
+      "id": 1350,
+      "parola_griko": "leo",
+      "parola_italiano": "dico"
+    },
+    {
+      "id": 1351,
+      "parola_griko": "milo",
+      "parola_italiano": "spengo"
+    },
+    {
+      "id": 1352,
+      "parola_griko": "ampari",
+      "parola_italiano": "cavallo"
+    },
+    {
+      "id": 1353,
+      "parola_griko": "sinari",
+      "parola_italiano": "zappa"
+    },
+    {
+      "id": 1354,
+      "parola_griko": "astrapi",
+      "parola_italiano": "lampo"
+    },
+    {
+      "id": 1355,
+      "parola_griko": "sico",
+      "parola_italiano": "fico (frutto)"
+    },
+    {
+      "id": 1356,
+      "parola_griko": "sichea",
+      "parola_italiano": "albero di fico"
+    },
+    {
+      "id": 1357,
+      "parola_griko": "persico",
+      "parola_italiano": "pesca"
+    },
+    {
+      "id": 1358,
+      "parola_griko": "cnida",
+      "parola_italiano": "ortica"
+    },
+    {
+      "id": 1359,
+      "parola_griko": "cero",
+      "parola_italiano": "tempo opportuno"
+    },
+    {
+      "id": 1360,
+      "parola_griko": "velani",
+      "parola_italiano": "ghianda"
+    },
+    {
+      "id": 1361,
+      "parola_griko": "addo",
+      "parola_italiano": "altro"
+    },
+    {
+      "id": 1362,
+      "parola_griko": "filo",
+      "parola_italiano": "foglia"
+    },
+    {
+      "id": 1363,
+      "parola_griko": "atera",
+      "parola_italiano": "resta di spiga"
+    },
+    {
+      "id": 1364,
+      "parola_griko": "xilo",
+      "parola_italiano": "legno"
+    },
+    {
+      "id": 1365,
+      "parola_griko": "frizza",
+      "parola_italiano": "radice"
+    },
+    {
+      "id": 1366,
+      "parola_griko": "acrisia",
+      "parola_italiano": "chiesa"
+    },
+    {
+      "id": 1367,
+      "parola_griko": "calimera",
+      "parola_italiano": "buongiorno"
+    },
+    {
+      "id": 1368,
+      "parola_griko": "calispera",
+      "parola_italiano": "buonasera"
     }
   ],
   "occurrences": [

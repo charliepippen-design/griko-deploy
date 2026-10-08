@@ -1,4 +1,270 @@
 {
+  "lessons": [
+    {
+      "id": 1,
+      "video_id": "WlpRcf-8zmo",
+      "titolo": "L'alfabeto",
+      "categoria": "fonetica",
+      "categoria_label": "Fonetica & Alfabeto",
+      "durata": "09:10",
+      "sommario": "Introduzione al sistema di scrittura del griko: adattamento dell'alfabeto italiano ai suoni propri della lingua salentina.",
+      "proverbio": null,
+      "youtube_url": "https://www.youtube.com/watch?v=WlpRcf-8zmo"
+    },
+    {
+      "id": 2,
+      "video_id": "sifVb8H8EvM",
+      "titolo": "L'articolo determinativo singolare",
+      "categoria": "nomi",
+      "categoria_label": "Morfologia Nominale",
+      "durata": "21:28",
+      "sommario": "L'articolo determinativo singolare nei tre generi e nei casi logici (soggetto, specificazione, termine, oggetto).",
+      "proverbio": null,
+      "youtube_url": "https://www.youtube.com/watch?v=sifVb8H8EvM"
+    },
+    {
+      "id": 3,
+      "video_id": "e2LjR6CoOG0",
+      "titolo": "L'articolo determinativo plurale",
+      "categoria": "nomi",
+      "categoria_label": "Morfologia Nominale",
+      "durata": "10:16",
+      "sommario": "L'articolo determinativo plurale nei tre generi, con il metodo di imparare le regole a partire da frasi di esempio.",
+      "proverbio": null,
+      "youtube_url": "https://www.youtube.com/watch?v=e2LjR6CoOG0"
+    },
+    {
+      "id": 4,
+      "video_id": "DSEasnZnTkE",
+      "titolo": "Il nome (parte prima)",
+      "categoria": "nomi",
+      "categoria_label": "Morfologia Nominale",
+      "durata": "19:26",
+      "sommario": "Prima parte sul nome: i tre generi, le desinenze del nominativo singolare secondo l'accento, i nomi maschili in -o.",
+      "proverbio": null,
+      "youtube_url": "https://www.youtube.com/watch?v=DSEasnZnTkE"
+    },
+    {
+      "id": 5,
+      "video_id": "GuHQfb3lJs4",
+      "titolo": "Il nome (parte seconda)",
+      "categoria": "nomi",
+      "categoria_label": "Morfologia Nominale",
+      "durata": "09:39",
+      "sommario": "Seconda parte sul nome: nomi maschili in -i (mestieri, mesi) e primi nomi femminili in -a.",
+      "proverbio": null,
+      "youtube_url": "https://www.youtube.com/watch?v=GuHQfb3lJs4"
+    },
+    {
+      "id": 6,
+      "video_id": "yUnPN_rN2aE",
+      "titolo": "Il nome (parte terza)",
+      "categoria": "nomi",
+      "categoria_label": "Morfologia Nominale",
+      "durata": "13:32",
+      "sommario": "Terza parte sul nome: nomi femminili in -i e nomi neutri in -o.",
+      "proverbio": null,
+      "youtube_url": "https://www.youtube.com/watch?v=yUnPN_rN2aE"
+    },
+    {
+      "id": 7,
+      "video_id": "lFkRMXvJMzA",
+      "titolo": "Il nome (ultima parte)",
+      "categoria": "nomi",
+      "categoria_label": "Morfologia Nominale",
+      "durata": "11:38",
+      "sommario": "Ultima parte sul nome: nomi neutri in -i e in -a, e criteri pratici per riconoscere il genere di un nome.",
+      "proverbio": null,
+      "youtube_url": "https://www.youtube.com/watch?v=lFkRMXvJMzA"
+    },
+    {
+      "id": 8,
+      "video_id": "EX3WDyF42R0",
+      "titolo": "L'aggettivo qualificativo",
+      "categoria": "aggettivi",
+      "categoria_label": "Aggettivo Qualificativo",
+      "durata": "32:14",
+      "sommario": "L'aggettivo qualificativo: i quattro gruppi di desinenze, l'accordo col nome e le forme irregolari o diminutive.",
+      "proverbio": null,
+      "youtube_url": "https://www.youtube.com/watch?v=EX3WDyF42R0"
+    },
+    {
+      "id": 9,
+      "video_id": "eXAcJxO-beQ",
+      "titolo": "I gradi dell'aggettivo",
+      "categoria": "aggettivi",
+      "categoria_label": "Aggettivo Qualificativo",
+      "durata": "17:07",
+      "sommario": "I gradi dell'aggettivo: comparativo di maggioranza, minoranza e uguaglianza, superlativo relativo e assoluto.",
+      "proverbio": null,
+      "youtube_url": "https://www.youtube.com/watch?v=eXAcJxO-beQ"
+    },
+    {
+      "id": 10,
+      "video_id": "-cIgt2pDVKo",
+      "titolo": "Aggettivi e pronomi possessivi",
+      "categoria": "pronomi_numerali",
+      "categoria_label": "Pronomi e Aggettivi Determinativi",
+      "durata": "22:35",
+      "sommario": "Aggettivi e pronomi possessivi: forme atone e toniche, e la distinzione fra possessore maschile e femminile di terza persona.",
+      "proverbio": null,
+      "youtube_url": "https://www.youtube.com/watch?v=-cIgt2pDVKo"
+    },
+    {
+      "id": 11,
+      "video_id": "NWsqcHqbUPk",
+      "titolo": "Aggettivi e pronomi dimostrativi",
+      "categoria": "pronomi_numerali",
+      "categoria_label": "Pronomi e Aggettivi Determinativi",
+      "durata": "26:46",
+      "sommario": "Aggettivi e pronomi dimostrativi di vicinanza e lontananza, con le particelle rafforzative.",
+      "proverbio": null,
+      "youtube_url": "https://www.youtube.com/watch?v=NWsqcHqbUPk"
+    },
+    {
+      "id": 12,
+      "video_id": "wzTot2RZznQ",
+      "titolo": "Aggettivi e pronomi indefiniti",
+      "categoria": "pronomi_numerali",
+      "categoria_label": "Pronomi e Aggettivi Determinativi",
+      "durata": "19:21",
+      "sommario": "Aggettivi e pronomi indefiniti, il cui significato cambia fra frasi affermative e negative.",
+      "proverbio": null,
+      "youtube_url": "https://www.youtube.com/watch?v=wzTot2RZznQ"
+    },
+    {
+      "id": 13,
+      "video_id": "fs2z_en6mIw",
+      "titolo": "I numerali",
+      "categoria": "pronomi_numerali",
+      "categoria_label": "Numerali",
+      "durata": "25:07",
+      "sommario": "I numerali cardinali, ordinali, moltiplicativi, collettivi e distributivi, e il loro uso per ore, date e percentuali.",
+      "proverbio": null,
+      "youtube_url": "https://www.youtube.com/watch?v=fs2z_en6mIw"
+    },
+    {
+      "id": 14,
+      "video_id": "fOZxkr35OAs",
+      "titolo": "I pronomi personali",
+      "categoria": "pronomi_numerali",
+      "categoria_label": "Pronomi Personali",
+      "durata": "26:55",
+      "sommario": "I pronomi personali nelle tre persone, forme toniche e atone, con la distinzione fra possessore/agente maschile e femminile.",
+      "proverbio": null,
+      "youtube_url": "https://www.youtube.com/watch?v=fOZxkr35OAs"
+    },
+    {
+      "id": 15,
+      "video_id": "TBmX4e6y9og",
+      "titolo": "Pronomi interrogativi ed esclamativi",
+      "categoria": "pronomi_numerali",
+      "categoria_label": "Pronomi Interrogativi, Esclamativi e Relativi",
+      "durata": "13:04",
+      "sommario": "I pronomi e aggettivi interrogativi, esclamativi e relativi.",
+      "proverbio": null,
+      "youtube_url": "https://www.youtube.com/watch?v=TBmX4e6y9og"
+    },
+    {
+      "id": 16,
+      "video_id": "_nQhT5XUggI",
+      "titolo": "Gli avverbi",
+      "categoria": "invariabili",
+      "categoria_label": "Avverbi",
+      "durata": "23:02",
+      "sommario": "Gli avverbi di modo, luogo e tempo piu' comuni, con frasi di esempio per memorizzarli.",
+      "proverbio": null,
+      "youtube_url": "https://www.youtube.com/watch?v=_nQhT5XUggI"
+    },
+    {
+      "id": 17,
+      "video_id": "AeljpaGekrk",
+      "titolo": "Altri avverbi, interiezioni, congiunzioni, preposizioni",
+      "categoria": "invariabili",
+      "categoria_label": "Avverbi, Congiunzioni e Interiezioni",
+      "durata": "19:54",
+      "sommario": "Altri avverbi (quantita', affermazione, negazione), le interiezioni, le congiunzioni e le preposizioni.",
+      "proverbio": null,
+      "youtube_url": "https://www.youtube.com/watch?v=AeljpaGekrk"
+    },
+    {
+      "id": 18,
+      "video_id": "FT0UHEjkuh4",
+      "titolo": "Il verbo (prima parte)",
+      "categoria": "verbi",
+      "categoria_label": "Il Verbo",
+      "durata": "21:06",
+      "sommario": "Prima parte sul verbo: forma attiva, medio-passiva e passiva, transitivita', tema del presente e dell'aoristo, l'aumento.",
+      "proverbio": null,
+      "youtube_url": "https://www.youtube.com/watch?v=FT0UHEjkuh4"
+    },
+    {
+      "id": 19,
+      "video_id": "Hq86yBr9T1Y",
+      "titolo": "I verbi ausiliari",
+      "categoria": "verbi",
+      "categoria_label": "Verbi Ausiliari",
+      "durata": "15:55",
+      "sommario": "I verbi ausiliari 'essere' e 'avere' in tutti i modi e tempi, incluso il condizionale espresso con l'imperfetto.",
+      "proverbio": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Hq86yBr9T1Y"
+    },
+    {
+      "id": 20,
+      "video_id": "Yn3TuShAGEs",
+      "titolo": "Il verbo (parte seconda)",
+      "categoria": "verbi",
+      "categoria_label": "Il Verbo - Coniugazioni",
+      "durata": "17:08",
+      "sommario": "Seconda parte sul verbo: le due coniugazioni regolari e la coniugazione completa della forma attiva.",
+      "proverbio": null,
+      "youtube_url": "https://www.youtube.com/watch?v=Yn3TuShAGEs"
+    },
+    {
+      "id": 21,
+      "video_id": "vmIJbyURFWE",
+      "titolo": "Il verbo (terza parte)",
+      "categoria": "verbi",
+      "categoria_label": "Il Verbo - Forma Medio-Passiva",
+      "durata": "19:17",
+      "sommario": "Terza parte sul verbo: la forma medio-passiva della prima e seconda coniugazione, e la forma passiva vera e propria.",
+      "proverbio": null,
+      "youtube_url": "https://www.youtube.com/watch?v=vmIJbyURFWE"
+    },
+    {
+      "id": 22,
+      "video_id": "miHqjGYBB5o",
+      "titolo": "Il modo imperativo",
+      "categoria": "verbi",
+      "categoria_label": "Modo Imperativo",
+      "durata": "11:47",
+      "sommario": "Il modo imperativo, forma attiva e medio-passiva, e la costruzione dell'imperativo negativo.",
+      "proverbio": null,
+      "youtube_url": "https://www.youtube.com/watch?v=miHqjGYBB5o"
+    },
+    {
+      "id": 23,
+      "video_id": "z0DtNawBktc",
+      "titolo": "Il participio",
+      "categoria": "verbi",
+      "categoria_label": "Participio",
+      "durata": "10:17",
+      "sommario": "Il participio presente, aoristo e perfetto, e il loro uso nei tempi composti e nelle costruzioni ipotetiche.",
+      "proverbio": null,
+      "youtube_url": "https://www.youtube.com/watch?v=z0DtNawBktc"
+    },
+    {
+      "id": 24,
+      "video_id": "hTNUF3tSu8E",
+      "titolo": "Verbi irregolari e impersonali",
+      "categoria": "verbi",
+      "categoria_label": "Verbi Irregolari e Impersonali",
+      "durata": "11:12",
+      "sommario": "I verbi irregolari e le espressioni impersonali (fenomeni atmosferici e sensazioni fisiche), a conclusione del corso di grammatica.",
+      "proverbio": null,
+      "youtube_url": "https://www.youtube.com/watch?v=hTNUF3tSu8E"
+    }
+  ],
   "rules": [
     {
       "id": 69,
@@ -1418,774 +1684,9 @@
   ],
   "lexemes": [
     {
-      "id": 227,
-      "parola_griko": "acheri",
-      "parola_italiano": "vuoto"
-    },
-    {
-      "id": 327,
-      "parola_griko": "addho",
-      "parola_italiano": "altro (diverso)"
-    },
-    {
-      "id": 328,
-      "parola_griko": "addhona",
-      "parola_italiano": "un altro ancora, un altro in piu"
-    },
-    {
-      "id": 178,
-      "parola_griko": "adelfì",
-      "parola_italiano": "sorella"
-    },
-    {
-      "id": 271,
-      "parola_griko": "adelfò",
-      "parola_italiano": "fratello"
-    },
-    {
-      "id": 662,
-      "parola_griko": "afi / afite",
-      "parola_italiano": "lascia / lasciate"
-    },
-    {
-      "id": 709,
-      "parola_griko": "afika",
-      "parola_italiano": "io lasciai"
-    },
-    {
-      "id": 687,
-      "parola_griko": "afikonta",
-      "parola_italiano": "avendo lasciato"
-    },
-    {
-      "id": 710,
-      "parola_griko": "afimeno",
-      "parola_italiano": "lasciato"
-    },
-    {
-      "id": 543,
-      "parola_griko": "afinno",
-      "parola_italiano": "io lascio"
-    },
-    {
-      "id": 686,
-      "parola_griko": "afinnonta",
-      "parola_italiano": "lasciando"
-    },
-    {
-      "id": 588,
-      "parola_griko": "agapà",
-      "parola_italiano": "egli ama"
-    },
-    {
-      "id": 587,
-      "parola_griko": "agapài",
-      "parola_italiano": "tu ami"
-    },
-    {
-      "id": 125,
-      "parola_griko": "agàpi",
-      "parola_italiano": "amore"
-    },
-    {
-      "id": 620,
-      "parola_griko": "agapiga",
-      "parola_italiano": "io amavo / io amerei"
-    },
-    {
-      "id": 706,
-      "parola_griko": "agapimeni",
-      "parola_italiano": "amata"
-    },
-    {
-      "id": 622,
-      "parola_griko": "agapimeno",
-      "parola_italiano": "amato"
-    },
-    {
-      "id": 589,
-      "parola_griko": "agapìome",
-      "parola_italiano": "io sono amato / mi amo"
-    },
-    {
-      "id": 623,
-      "parola_griko": "agapisa",
-      "parola_italiano": "io amai"
-    },
-    {
-      "id": 632,
-      "parola_griko": "agapìsete",
-      "parola_italiano": "amate (voi)"
-    },
-    {
-      "id": 631,
-      "parola_griko": "agàpiso",
-      "parola_italiano": "ama (tu)"
-    },
-    {
-      "id": 625,
-      "parola_griko": "agapìstume sta",
-      "parola_italiano": "che ci amiamo / che ci amassimo"
-    },
-    {
-      "id": 78,
-      "parola_griko": "agapò",
-      "parola_italiano": "io amo"
-    },
-    {
-      "id": 621,
-      "parola_griko": "agaponta",
-      "parola_italiano": "amando"
-    },
-    {
-      "id": 129,
-      "parola_griko": "aghera",
-      "parola_italiano": "cielo"
-    },
-    {
-      "id": 154,
-      "parola_griko": "aglisìa",
-      "parola_italiano": "chiesa"
-    },
-    {
-      "id": 188,
-      "parola_griko": "agò",
-      "parola_italiano": "uovo"
-    },
-    {
-      "id": 678,
-      "parola_griko": "agonìome",
-      "parola_italiano": "io mi affretto"
-    },
-    {
-      "id": 457,
-      "parola_griko": "agrà",
-      "parola_italiano": "rasente"
-    },
-    {
-      "id": 155,
-      "parola_griko": "ajelàda",
-      "parola_italiano": "mucca"
-    },
-    {
-      "id": 360,
-      "parola_griko": "akatò",
-      "parola_italiano": "cento"
-    },
-    {
-      "id": 440,
-      "parola_griko": "akau",
-      "parola_italiano": "sotto"
-    },
-    {
-      "id": 707,
-      "parola_griko": "alàti",
-      "parola_italiano": "sale"
-    },
-    {
-      "id": 243,
-      "parola_griko": "alevri",
-      "parola_italiano": "farina"
-    },
-    {
-      "id": 247,
-      "parola_griko": "alìo",
-      "parola_italiano": "poco, meno"
-    },
-    {
-      "id": 326,
-      "parola_griko": "alìo",
-      "parola_italiano": "poco"
-    },
-    {
-      "id": 153,
-      "parola_griko": "alipuna",
-      "parola_italiano": "volpe"
-    },
-    {
-      "id": 491,
-      "parola_griko": "alìzia",
-      "parola_italiano": "verità"
-    },
-    {
-      "id": 198,
-      "parola_griko": "alòni",
-      "parola_italiano": "aia"
-    },
-    {
-      "id": 244,
-      "parola_griko": "amari",
-      "parola_italiano": "carro"
-    },
-    {
-      "id": 133,
-      "parola_griko": "amartìa",
-      "parola_italiano": "peccato"
-    },
-    {
-      "id": 201,
-      "parola_griko": "ammadi",
-      "parola_italiano": "occhio"
-    },
-    {
-      "id": 718,
-      "parola_griko": "ammelo",
-      "parola_italiano": "io butto"
-    },
-    {
-      "id": 441,
-      "parola_griko": "ammesa",
-      "parola_italiano": "in mezzo"
-    },
-    {
-      "id": 665,
-      "parola_griko": "amo / amate",
-      "parola_italiano": "va' / andate"
-    },
-    {
-      "id": 274,
-      "parola_griko": "ampari",
-      "parola_italiano": "cavallo"
-    },
-    {
-      "id": 209,
-      "parola_griko": "ampeli",
-      "parola_italiano": "vigna"
-    },
-    {
-      "id": 438,
-      "parola_griko": "ampì",
-      "parola_italiano": "dietro"
-    },
-    {
-      "id": 504,
-      "parola_griko": "an",
-      "parola_italiano": "se"
-    },
-    {
-      "id": 633,
-      "parola_griko": "anàtto",
-      "parola_italiano": "io accendo"
-    },
-    {
-      "id": 77,
-      "parola_griko": "andra",
-      "parola_italiano": "marito"
-    },
-    {
-      "id": 172,
-      "parola_griko": "anemi",
-      "parola_italiano": "arcolaio"
-    },
-    {
-      "id": 109,
-      "parola_griko": "ànemo",
-      "parola_italiano": "vento"
-    },
-    {
-      "id": 719,
-      "parola_griko": "anevenno",
-      "parola_italiano": "io salgo"
-    },
-    {
-      "id": 196,
-      "parola_griko": "anichi",
-      "parola_italiano": "unghia"
-    },
-    {
-      "id": 634,
-      "parola_griko": "anìo",
-      "parola_italiano": "io apro"
-    },
-    {
-      "id": 426,
-      "parola_griko": "antama",
-      "parola_italiano": "insieme"
-    },
-    {
-      "id": 108,
-      "parola_griko": "àntrepo",
-      "parola_italiano": "uomo"
-    },
-    {
-      "id": 240,
-      "parola_griko": "antropo",
-      "parola_italiano": "uomo"
-    },
-    {
-      "id": 439,
-      "parola_griko": "apanu",
-      "parola_italiano": "sopra"
-    },
-    {
-      "id": 95,
-      "parola_griko": "apethamenu",
-      "parola_italiano": "defunti"
-    },
-    {
-      "id": 720,
-      "parola_griko": "apethenno",
-      "parola_italiano": "io muoio"
-    },
-    {
-      "id": 669,
-      "parola_griko": "aplònnome",
-      "parola_italiano": "io mi corico"
-    },
-    {
-      "id": 140,
-      "parola_griko": "Aprili",
-      "parola_italiano": "aprile"
-    },
-    {
-      "id": 228,
-      "parola_griko": "apsilo",
-      "parola_italiano": "alto"
-    },
-    {
-      "id": 252,
-      "parola_griko": "apsilò",
-      "parola_italiano": "alto"
-    },
-    {
-      "id": 658,
-      "parola_griko": "apsofò",
-      "parola_italiano": "io muoio, crepo (detto di animali)"
-    },
-    {
-      "id": 509,
-      "parola_griko": "apù",
-      "parola_italiano": "da"
-    },
-    {
-      "id": 455,
-      "parola_griko": "apupù",
-      "parola_italiano": "da dove"
-    },
-    {
-      "id": 236,
-      "parola_griko": "argalio",
-      "parola_italiano": "telaio"
-    },
-    {
-      "id": 102,
-      "parola_griko": "argalìo",
-      "parola_italiano": "telaio"
-    },
-    {
-      "id": 97,
-      "parola_griko": "argulo",
-      "parola_italiano": "albero"
-    },
-    {
-      "id": 668,
-      "parola_griko": "armàstu",
-      "parola_italiano": "sposati (tu)"
-    },
-    {
-      "id": 667,
-      "parola_griko": "armàzome",
-      "parola_italiano": "io mi sposo"
-    },
-    {
-      "id": 294,
-      "parola_griko": "arnaci",
-      "parola_italiano": "agnellino"
-    },
-    {
-      "id": 202,
-      "parola_griko": "arni",
-      "parola_italiano": "agnello"
-    },
-    {
-      "id": 89,
-      "parola_griko": "arnì",
-      "parola_italiano": "agnello"
-    },
-    {
-      "id": 635,
-      "parola_griko": "arotò",
-      "parola_italiano": "io domando"
-    },
-    {
-      "id": 461,
-      "parola_griko": "arte / artena",
-      "parola_italiano": "adesso"
-    },
-    {
-      "id": 712,
-      "parola_griko": "artomeno",
-      "parola_italiano": "venuto"
-    },
-    {
-      "id": 432,
-      "parola_griko": "ascimà",
-      "parola_italiano": "male"
-    },
-    {
-      "id": 306,
-      "parola_griko": "asimegno",
-      "parola_italiano": "argenteo, d'argento"
-    },
-    {
-      "id": 221,
-      "parola_griko": "aspro",
-      "parola_italiano": "bianco"
-    },
-    {
-      "id": 242,
-      "parola_griko": "astachi",
-      "parola_italiano": "spiga"
-    },
-    {
-      "id": 200,
-      "parola_griko": "asteri",
-      "parola_italiano": "stella"
-    },
-    {
-      "id": 304,
-      "parola_griko": "astico",
-      "parola_italiano": "pavimento"
-    },
-    {
-      "id": 743,
-      "parola_griko": "astrei",
-      "parola_italiano": "lampeggia"
-    },
-    {
-      "id": 212,
-      "parola_griko": "astrema",
-      "parola_italiano": "lampo, fulmine"
-    },
-    {
-      "id": 197,
-      "parola_griko": "atì",
-      "parola_italiano": "orecchio"
-    },
-    {
-      "id": 94,
-      "parola_griko": "attechì",
-      "parola_italiano": "poveri"
-    },
-    {
-      "id": 231,
-      "parola_griko": "attechò",
-      "parola_italiano": "povero"
-    },
-    {
-      "id": 232,
-      "parola_griko": "attechudi",
-      "parola_italiano": "poveretto"
-    },
-    {
-      "id": 511,
-      "parola_griko": "atti",
-      "parola_italiano": "della"
-    },
-    {
-      "id": 463,
-      "parola_griko": "attinìtta",
-      "parola_italiano": "stanotte"
-    },
-    {
-      "id": 465,
-      "parola_griko": "attiporna",
-      "parola_italiano": "stamattina"
-    },
-    {
-      "id": 464,
-      "parola_griko": "attivrài",
-      "parola_italiano": "stasera"
-    },
-    {
-      "id": 456,
-      "parola_griko": "attù ce addhà",
-      "parola_italiano": "di qua e di là"
-    },
-    {
-      "id": 166,
-      "parola_griko": "avgà",
-      "parola_italiano": "uova"
-    },
-    {
-      "id": 179,
-      "parola_griko": "avlì",
-      "parola_italiano": "corte, cortile"
-    },
-    {
-      "id": 469,
-      "parola_griko": "avri",
-      "parola_italiano": "domani"
-    },
-    {
-      "id": 137,
-      "parola_griko": "barbieri",
-      "parola_italiano": "barbiere"
-    },
-    {
-      "id": 251,
-      "parola_griko": "ca",
-      "parola_italiano": "che, di (secondo termine di paragone)"
-    },
-    {
-      "id": 192,
-      "parola_griko": "cacò",
-      "parola_italiano": "il male"
-    },
-    {
-      "id": 262,
-      "parola_griko": "cacò",
-      "parola_italiano": "cattivo"
-    },
-    {
-      "id": 145,
-      "parola_griko": "caffè",
-      "parola_italiano": "caffè"
-    },
-    {
-      "id": 265,
-      "parola_griko": "caglio",
-      "parola_italiano": "migliore, meglio"
-    },
-    {
-      "id": 132,
-      "parola_griko": "calascione",
-      "parola_italiano": "antico strumento musicale; (figurato) uomo alto e sciocco"
-    },
-    {
-      "id": 191,
-      "parola_griko": "calò",
-      "parola_italiano": "il bene"
-    },
-    {
-      "id": 263,
-      "parola_griko": "calò",
-      "parola_italiano": "buono"
-    },
-    {
-      "id": 314,
-      "parola_griko": "calò",
-      "parola_italiano": "buono, bravo"
-    },
-    {
-      "id": 60,
-      "parola_griko": "calocheri",
-      "parola_italiano": "estate"
-    },
-    {
-      "id": 235,
-      "parola_griko": "cambara",
-      "parola_italiano": "stanza, camera"
-    },
-    {
-      "id": 98,
-      "parola_griko": "càmbara",
-      "parola_italiano": "stanza"
-    },
-    {
-      "id": 319,
-      "parola_griko": "camia",
-      "parola_italiano": "nessuna; qualche, qualcuna"
-    },
-    {
-      "id": 146,
-      "parola_griko": "canapè",
-      "parola_italiano": "divano"
-    },
-    {
-      "id": 318,
-      "parola_griko": "canè",
-      "parola_italiano": "nessuno; qualche, qualcuno"
-    },
-    {
-      "id": 320,
-      "parola_griko": "canena",
-      "parola_italiano": "nessuno (neutro); qualcuno"
-    },
-    {
-      "id": 167,
-      "parola_griko": "cànnavi",
-      "parola_italiano": "canapa"
-    },
-    {
-      "id": 118,
-      "parola_griko": "cannò",
-      "parola_italiano": "fumo"
-    },
-    {
-      "id": 111,
-      "parola_griko": "càntaro",
-      "parola_italiano": "vaso da notte"
-    },
-    {
-      "id": 131,
-      "parola_griko": "cantuna",
-      "parola_italiano": "camino, angolo del focolare"
-    },
-    {
-      "id": 61,
-      "parola_griko": "cardìa",
-      "parola_italiano": "cuore"
-    },
-    {
-      "id": 168,
-      "parola_griko": "cari",
-      "parola_italiano": "grazia, favore"
-    },
-    {
-      "id": 499,
-      "parola_griko": "ce",
-      "parola_italiano": "e"
-    },
-    {
       "id": 56,
       "parola_griko": "cefali",
       "parola_italiano": "testa"
-    },
-    {
-      "id": 169,
-      "parola_griko": "cefàli",
-      "parola_italiano": "testa"
-    },
-    {
-      "id": 364,
-      "parola_griko": "centinaro",
-      "parola_italiano": "centinaio"
-    },
-    {
-      "id": 185,
-      "parola_griko": "cèrato",
-      "parola_italiano": "corno"
-    },
-    {
-      "id": 208,
-      "parola_griko": "ceri",
-      "parola_italiano": "cero"
-    },
-    {
-      "id": 120,
-      "parola_griko": "cerò",
-      "parola_italiano": "tempo"
-    },
-    {
-      "id": 703,
-      "parola_griko": "chalazi",
-      "parola_italiano": "grandine"
-    },
-    {
-      "id": 156,
-      "parola_griko": "charà",
-      "parola_italiano": "gioia"
-    },
-    {
-      "id": 268,
-      "parola_griko": "chera",
-      "parola_italiano": "mano"
-    },
-    {
-      "id": 742,
-      "parola_griko": "chèrome",
-      "parola_italiano": "io sono contento"
-    },
-    {
-      "id": 63,
-      "parola_griko": "chiatera",
-      "parola_italiano": "ragazza"
-    },
-    {
-      "id": 158,
-      "parola_griko": "chiatèra",
-      "parola_italiano": "ragazza, figlia"
-    },
-    {
-      "id": 361,
-      "parola_griko": "chiglia",
-      "parola_italiano": "mille"
-    },
-    {
-      "id": 190,
-      "parola_griko": "chili",
-      "parola_italiano": "labbro"
-    },
-    {
-      "id": 362,
-      "parola_griko": "chiliada",
-      "parola_italiano": "migliaio"
-    },
-    {
-      "id": 65,
-      "parola_griko": "chilie",
-      "parola_italiano": "mille"
-    },
-    {
-      "id": 64,
-      "parola_griko": "chioni",
-      "parola_italiano": "neve"
-    },
-    {
-      "id": 747,
-      "parola_griko": "chionizi",
-      "parola_italiano": "nevica"
-    },
-    {
-      "id": 264,
-      "parola_griko": "chiro",
-      "parola_italiano": "peggiore, peggio"
-    },
-    {
-      "id": 96,
-      "parola_griko": "chiru",
-      "parola_italiano": "maiali"
-    },
-    {
-      "id": 162,
-      "parola_griko": "chora",
-      "parola_italiano": "paese"
-    },
-    {
-      "id": 273,
-      "parola_griko": "chorafi",
-      "parola_italiano": "campo, fondo"
-    },
-    {
-      "id": 299,
-      "parola_griko": "chorafi",
-      "parola_italiano": "campo"
-    },
-    {
-      "id": 66,
-      "parola_griko": "chorevo",
-      "parola_italiano": "io ballo"
-    },
-    {
-      "id": 307,
-      "parola_griko": "chrisafegno",
-      "parola_italiano": "aureo, d'oro"
-    },
-    {
-      "id": 67,
-      "parola_griko": "Christò",
-      "parola_italiano": "Cristo"
-    },
-    {
-      "id": 278,
-      "parola_griko": "chrono",
-      "parola_italiano": "anno"
-    },
-    {
-      "id": 517,
-      "parola_griko": "chrusò",
-      "parola_italiano": "oro"
-    },
-    {
-      "id": 289,
-      "parola_griko": "ci",
-      "parola_italiano": "li (particella rafforzativa, da ecì)"
-    },
-    {
-      "id": 287,
-      "parola_griko": "cino",
-      "parola_italiano": "quello, colui (pronome)"
     },
     {
       "id": 57,
@@ -2193,14 +1694,9 @@
       "parola_italiano": "nuovo"
     },
     {
-      "id": 286,
-      "parola_griko": "cisso",
-      "parola_italiano": "quello (aggettivo)"
-    },
-    {
-      "id": 276,
-      "parola_griko": "cista",
-      "parola_italiano": "cesta"
+      "id": 58,
+      "parola_griko": "icì",
+      "parola_italiano": "lì"
     },
     {
       "id": 59,
@@ -2208,59 +1704,14 @@
       "parola_italiano": "giallo"
     },
     {
-      "id": 297,
-      "parola_griko": "citta",
-      "parola_italiano": "zitto, zitti"
+      "id": 60,
+      "parola_griko": "calocheri",
+      "parola_italiano": "estate"
     },
     {
-      "id": 600,
-      "parola_griko": "ciuccio",
-      "parola_italiano": "asino"
-    },
-    {
-      "id": 141,
-      "parola_griko": "ciuri",
-      "parola_italiano": "padre"
-    },
-    {
-      "id": 293,
-      "parola_griko": "ciuriacì",
-      "parola_italiano": "domenica"
-    },
-    {
-      "id": 177,
-      "parola_griko": "Ciuriacì",
-      "parola_italiano": "domenica"
-    },
-    {
-      "id": 316,
-      "parola_griko": "clefti",
-      "parola_italiano": "ruba (dal proverbio: cino pu clefti)"
-    },
-    {
-      "id": 275,
-      "parola_griko": "clidì",
-      "parola_italiano": "chiave"
-    },
-    {
-      "id": 239,
-      "parola_griko": "coccalo",
-      "parola_italiano": "testa, cranio"
-    },
-    {
-      "id": 277,
-      "parola_griko": "coccalo",
-      "parola_italiano": "cranio, testa"
-    },
-    {
-      "id": 259,
-      "parola_griko": "cofini",
-      "parola_italiano": "paniere"
-    },
-    {
-      "id": 103,
-      "parola_griko": "cofìni",
-      "parola_italiano": "paniere"
+      "id": 61,
+      "parola_griko": "cardìa",
+      "parola_italiano": "cuore"
     },
     {
       "id": 62,
@@ -2268,929 +1719,29 @@
       "parola_italiano": "io taglio"
     },
     {
-      "id": 258,
-      "parola_griko": "coli",
-      "parola_italiano": "fiele, bile"
+      "id": 63,
+      "parola_griko": "chiatera",
+      "parola_italiano": "ragazza"
     },
     {
-      "id": 83,
-      "parola_griko": "condà",
-      "parola_italiano": "corti"
+      "id": 64,
+      "parola_griko": "chioni",
+      "parola_italiano": "neve"
     },
     {
-      "id": 253,
-      "parola_griko": "condò",
-      "parola_italiano": "basso"
+      "id": 65,
+      "parola_griko": "chilie",
+      "parola_italiano": "mille"
     },
     {
-      "id": 113,
-      "parola_griko": "cosmo",
-      "parola_italiano": "mondo"
+      "id": 66,
+      "parola_griko": "chorevo",
+      "parola_italiano": "io ballo"
     },
     {
-      "id": 238,
-      "parola_griko": "cratti",
-      "parola_italiano": "letto"
-    },
-    {
-      "id": 295,
-      "parola_griko": "cristiano",
-      "parola_italiano": "persona"
-    },
-    {
-      "id": 279,
-      "parola_griko": "cucuvascia",
-      "parola_italiano": "civetta"
-    },
-    {
-      "id": 159,
-      "parola_griko": "cucuvàscia",
-      "parola_italiano": "civetta"
-    },
-    {
-      "id": 516,
-      "parola_griko": "dachtilìdi",
-      "parola_italiano": "anello"
-    },
-    {
-      "id": 545,
-      "parola_griko": "damali",
-      "parola_italiano": "bue, giovenca"
-    },
-    {
-      "id": 636,
-      "parola_griko": "danizo",
-      "parola_italiano": "io presto, do in prestito"
-    },
-    {
-      "id": 407,
-      "parola_griko": "dascalo",
-      "parola_italiano": "maestro"
-    },
-    {
-      "id": 267,
-      "parola_griko": "dattilo",
-      "parola_italiano": "dito"
-    },
-    {
-      "id": 182,
-      "parola_griko": "dàttilo",
-      "parola_italiano": "dito"
-    },
-    {
-      "id": 666,
-      "parola_griko": "de / dete",
-      "parola_italiano": "vedi / vedete"
-    },
-    {
-      "id": 578,
-      "parola_griko": "dedemeno",
-      "parola_italiano": "legato"
-    },
-    {
-      "id": 368,
-      "parola_griko": "deftera",
-      "parola_italiano": "lunedì (secondo giorno)"
-    },
-    {
-      "id": 488,
-      "parola_griko": "degnà",
-      "parola_italiano": "no"
-    },
-    {
-      "id": 347,
-      "parola_griko": "deka",
-      "parola_italiano": "dieci"
-    },
-    {
-      "id": 351,
-      "parola_griko": "dekatessera",
-      "parola_italiano": "quattordici"
-    },
-    {
-      "id": 350,
-      "parola_griko": "dekatria",
-      "parola_italiano": "tredici"
-    },
-    {
-      "id": 529,
-      "parola_griko": "demeno",
-      "parola_italiano": "legato"
-    },
-    {
-      "id": 602,
-      "parola_griko": "dennese",
-      "parola_italiano": "tu ti leghi"
-    },
-    {
-      "id": 603,
-      "parola_griko": "dennete",
-      "parola_italiano": "egli si lega"
-    },
-    {
-      "id": 575,
-      "parola_griko": "denni",
-      "parola_italiano": "tu leghi / egli lega"
-    },
-    {
-      "id": 522,
-      "parola_griko": "denno",
-      "parola_italiano": "io lego"
-    },
-    {
-      "id": 523,
-      "parola_griko": "dennome",
-      "parola_italiano": "io mi lego"
-    },
-    {
-      "id": 577,
-      "parola_griko": "dennonta",
-      "parola_italiano": "legando"
-    },
-    {
-      "id": 528,
-      "parola_griko": "denonta",
-      "parola_italiano": "legando"
-    },
-    {
-      "id": 215,
-      "parola_griko": "derma",
-      "parola_italiano": "pelle"
-    },
-    {
-      "id": 585,
-      "parola_griko": "dese",
-      "parola_italiano": "lega (tu)"
-    },
-    {
-      "id": 586,
-      "parola_griko": "desete",
-      "parola_italiano": "legate (voi)"
-    },
-    {
-      "id": 527,
-      "parola_griko": "desi",
-      "parola_italiano": "legare"
-    },
-    {
-      "id": 584,
-      "parola_griko": "desonta",
-      "parola_italiano": "legando / se avesse legato"
-    },
-    {
-      "id": 608,
-      "parola_griko": "destesta",
-      "parola_italiano": "legatevi (voi)"
-    },
-    {
-      "id": 610,
-      "parola_griko": "destì",
-      "parola_italiano": "legarsi"
-    },
-    {
-      "id": 530,
-      "parola_griko": "destimo",
-      "parola_italiano": "io mi legai"
-    },
-    {
-      "id": 609,
-      "parola_griko": "destonta",
-      "parola_italiano": "legandosi / se si fosse legato"
-    },
-    {
-      "id": 607,
-      "parola_griko": "destu",
-      "parola_italiano": "legati (tu)"
-    },
-    {
-      "id": 282,
-      "parola_griko": "dico-mu",
-      "parola_italiano": "mio (forma tonica)"
-    },
-    {
-      "id": 722,
-      "parola_griko": "dio",
-      "parola_italiano": "io do"
-    },
-    {
-      "id": 688,
-      "parola_griko": "dionta",
-      "parola_italiano": "dando"
-    },
-    {
-      "id": 366,
-      "parola_griko": "diplò",
-      "parola_italiano": "doppio"
-    },
-    {
-      "id": 349,
-      "parola_griko": "dodeka",
-      "parola_italiano": "dodici"
-    },
-    {
-      "id": 689,
-      "parola_griko": "dokonta",
-      "parola_italiano": "avendo dato"
-    },
-    {
-      "id": 700,
-      "parola_griko": "dramonta",
-      "parola_italiano": "avendo corso"
-    },
-    {
-      "id": 342,
-      "parola_griko": "dyo",
-      "parola_italiano": "due"
-    },
-    {
-      "id": 418,
-      "parola_griko": "ebdomada",
-      "parola_italiano": "settimana"
-    },
-    {
-      "id": 357,
-      "parola_griko": "ebdominta",
-      "parola_italiano": "settanta"
-    },
-    {
-      "id": 333,
-      "parola_griko": "ecclisia",
-      "parola_italiano": "chiesa"
-    },
-    {
-      "id": 443,
-      "parola_griko": "ecessu",
-      "parola_italiano": "lì dentro"
-    },
-    {
-      "id": 552,
-      "parola_griko": "echete",
-      "parola_italiano": "voi avete"
-    },
-    {
-      "id": 550,
-      "parola_griko": "echi",
-      "parola_italiano": "tu hai / egli ha"
-    },
-    {
-      "id": 549,
-      "parola_griko": "echo",
-      "parola_italiano": "io ho"
-    },
-    {
-      "id": 579,
-      "parola_griko": "echo dedemeno",
-      "parola_italiano": "ho legato"
-    },
-    {
-      "id": 685,
-      "parola_griko": "echo torimena",
-      "parola_italiano": "ho visto"
-    },
-    {
-      "id": 551,
-      "parola_griko": "echome",
-      "parola_italiano": "noi abbiamo"
-    },
-    {
-      "id": 556,
-      "parola_griko": "echonta",
-      "parola_italiano": "avendo (participio)"
-    },
-    {
-      "id": 553,
-      "parola_griko": "echune",
-      "parola_italiano": "essi hanno"
-    },
-    {
-      "id": 436,
-      "parola_griko": "ecì",
-      "parola_italiano": "lì"
-    },
-    {
-      "id": 451,
-      "parola_griko": "ecimbrò",
-      "parola_italiano": "lì davanti, lì fuori"
-    },
-    {
-      "id": 393,
-      "parola_griko": "ecini",
-      "parola_italiano": "ella, lei, quella"
-    },
-    {
-      "id": 394,
-      "parola_griko": "ecini / ecina",
-      "parola_italiano": "essi, esse, quelli, quelle"
-    },
-    {
-      "id": 392,
-      "parola_griko": "ecino",
-      "parola_italiano": "egli, lui, quello"
-    },
-    {
-      "id": 453,
-      "parola_griko": "ecipisu",
-      "parola_italiano": "là dietro"
-    },
-    {
-      "id": 525,
-      "parola_griko": "edenna",
-      "parola_italiano": "io legavo"
-    },
-    {
-      "id": 576,
-      "parola_griko": "edenna",
-      "parola_italiano": "io legavo / io legherei"
-    },
-    {
-      "id": 604,
-      "parola_griko": "edennamo",
-      "parola_italiano": "io mi legavo"
-    },
-    {
-      "id": 524,
-      "parola_griko": "edesa",
-      "parola_italiano": "io legai"
-    },
-    {
-      "id": 580,
-      "parola_griko": "edesa",
-      "parola_italiano": "legai / ho legato"
-    },
-    {
-      "id": 713,
-      "parola_griko": "efaa",
-      "parola_italiano": "io mangiai"
-    },
-    {
-      "id": 346,
-      "parola_griko": "eftà",
-      "parola_italiano": "sette"
-    },
-    {
-      "id": 378,
-      "parola_griko": "egò",
-      "parola_italiano": "io"
-    },
-    {
-      "id": 726,
-      "parola_griko": "ekama",
-      "parola_italiano": "io feci"
-    },
-    {
-      "id": 592,
-      "parola_griko": "ekanne",
-      "parola_italiano": "faresti / faceva"
-    },
-    {
-      "id": 548,
-      "parola_griko": "eklisìa",
-      "parola_italiano": "chiesa"
-    },
-    {
-      "id": 356,
-      "parola_griko": "eksinta",
-      "parola_italiano": "sessanta"
-    },
-    {
-      "id": 659,
-      "parola_griko": "ela / elate",
-      "parola_italiano": "vieni / venite"
-    },
-    {
-      "id": 310,
-      "parola_griko": "elie",
-      "parola_italiano": "olive"
-    },
-    {
-      "id": 419,
-      "parola_griko": "elies",
-      "parola_italiano": "olive"
-    },
-    {
-      "id": 381,
-      "parola_griko": "emà",
-      "parola_italiano": "noi, a noi, di noi"
-    },
-    {
-      "id": 661,
-      "parola_griko": "emba / embate",
-      "parola_italiano": "entra / entrate"
-    },
-    {
-      "id": 437,
-      "parola_griko": "embrò",
-      "parola_italiano": "avanti, davanti"
-    },
-    {
-      "id": 380,
-      "parola_griko": "emena",
-      "parola_italiano": "me, di me, a me"
-    },
-    {
-      "id": 379,
-      "parola_griko": "emì",
-      "parola_italiano": "noi"
-    },
-    {
-      "id": 489,
-      "parola_griko": "en",
-      "parola_italiano": "non, non c'è"
-    },
-    {
-      "id": 317,
-      "parola_griko": "ena / mia",
-      "parola_italiano": "uno, un tale, una tale"
-    },
-    {
-      "id": 341,
-      "parola_griko": "ena / mia",
-      "parola_italiano": "uno / una"
-    },
-    {
-      "id": 376,
-      "parola_griko": "ena ena",
-      "parola_italiano": "a uno a uno"
-    },
-    {
-      "id": 377,
-      "parola_griko": "ena ti forà",
-      "parola_italiano": "uno alla volta"
-    },
-    {
-      "id": 755,
-      "parola_griko": "enna",
-      "parola_italiano": "devo, bisogna che"
-    },
-    {
-      "id": 624,
-      "parola_griko": "enna agapiso",
-      "parola_italiano": "io amerò"
-    },
-    {
-      "id": 526,
-      "parola_griko": "enna deso",
-      "parola_italiano": "io legherò"
-    },
-    {
-      "id": 581,
-      "parola_griko": "enna deso",
-      "parola_italiano": "legherò / devo legare"
-    },
-    {
-      "id": 605,
-      "parola_griko": "enna destò",
-      "parola_italiano": "devo legarmi"
-    },
-    {
-      "id": 359,
-      "parola_griko": "enneninta",
-      "parola_italiano": "novanta"
-    },
-    {
-      "id": 348,
-      "parola_griko": "enteka",
-      "parola_italiano": "undici"
-    },
-    {
-      "id": 532,
-      "parola_griko": "erkome",
-      "parola_italiano": "io vengo"
-    },
-    {
-      "id": 690,
-      "parola_griko": "erkonta",
-      "parola_italiano": "venendo"
-    },
-    {
-      "id": 388,
-      "parola_griko": "esà",
-      "parola_italiano": "voi, di voi, a voi"
-    },
-    {
-      "id": 387,
-      "parola_griko": "esena",
-      "parola_italiano": "te, di te, a te"
-    },
-    {
-      "id": 386,
-      "parola_griko": "esì",
-      "parola_italiano": "voi"
-    },
-    {
-      "id": 445,
-      "parola_griko": "essu",
-      "parola_italiano": "dentro, a casa"
-    },
-    {
-      "id": 385,
-      "parola_griko": "esù",
-      "parola_italiano": "tu"
-    },
-    {
-      "id": 444,
-      "parola_griko": "etossu",
-      "parola_italiano": "qui dentro"
-    },
-    {
-      "id": 458,
-      "parola_griko": "ettè",
-      "parola_italiano": "ieri"
-    },
-    {
-      "id": 435,
-      "parola_griko": "etù",
-      "parola_italiano": "qui"
-    },
-    {
-      "id": 450,
-      "parola_griko": "etumbrò",
-      "parola_italiano": "qui davanti, qui fuori"
-    },
-    {
-      "id": 724,
-      "parola_griko": "evjenno",
-      "parola_italiano": "io esco"
-    },
-    {
-      "id": 512,
-      "parola_griko": "fai",
-      "parola_italiano": "cibo, il mangiare"
-    },
-    {
-      "id": 429,
-      "parola_griko": "fanerà",
-      "parola_italiano": "apertamente"
-    },
-    {
-      "id": 714,
-      "parola_griko": "faomeno",
-      "parola_italiano": "mangiato"
-    },
-    {
-      "id": 693,
-      "parola_griko": "faonta",
-      "parola_italiano": "se avessi mangiato"
-    },
-    {
-      "id": 114,
-      "parola_griko": "fengo",
-      "parola_italiano": "luna"
-    },
-    {
-      "id": 533,
-      "parola_griko": "fenome",
-      "parola_italiano": "io sembro"
-    },
-    {
-      "id": 537,
-      "parola_griko": "feo",
-      "parola_italiano": "corro; tolgo"
-    },
-    {
-      "id": 663,
-      "parola_griko": "feo",
-      "parola_italiano": "io corro, fuggo"
-    },
-    {
-      "id": 723,
-      "parola_griko": "feo",
-      "parola_italiano": "io fuggo, tolgo"
-    },
-    {
-      "id": 694,
-      "parola_griko": "feonta",
-      "parola_italiano": "fuggendo, di corsa"
-    },
-    {
-      "id": 149,
-      "parola_griko": "fèrni",
-      "parola_italiano": "porta (egli porta)"
-    },
-    {
-      "id": 647,
-      "parola_griko": "ferno",
-      "parola_italiano": "io porto (qua)"
-    },
-    {
-      "id": 473,
-      "parola_griko": "feto",
-      "parola_italiano": "quest'anno"
-    },
-    {
-      "id": 474,
-      "parola_griko": "fetoportè",
-      "parola_italiano": "l'anno venturo"
-    },
-    {
-      "id": 107,
-      "parola_griko": "fiddha",
-      "parola_italiano": "foglie"
-    },
-    {
-      "id": 664,
-      "parola_griko": "fie / fiete",
-      "parola_italiano": "corri / correte"
-    },
-    {
-      "id": 541,
-      "parola_griko": "filò",
-      "parola_italiano": "io bacio"
-    },
-    {
-      "id": 695,
-      "parola_griko": "fionta",
-      "parola_italiano": "se fosse fuggito"
-    },
-    {
-      "id": 139,
-      "parola_griko": "Flevari",
-      "parola_italiano": "febbraio"
-    },
-    {
-      "id": 637,
-      "parola_griko": "fonazo",
-      "parola_italiano": "io chiamo"
-    },
-    {
-      "id": 174,
-      "parola_griko": "foni",
-      "parola_italiano": "voce, grido"
-    },
-    {
-      "id": 337,
-      "parola_griko": "forà",
-      "parola_italiano": "volta"
-    },
-    {
-      "id": 619,
-      "parola_griko": "foriome",
-      "parola_italiano": "io ho paura"
-    },
-    {
-      "id": 211,
-      "parola_griko": "forti",
-      "parola_italiano": "fascina"
-    },
-    {
-      "id": 593,
-      "parola_griko": "fortìa",
-      "parola_italiano": "fascine"
-    },
-    {
-      "id": 266,
-      "parola_griko": "fortomeno",
-      "parola_italiano": "carico"
-    },
-    {
-      "id": 535,
-      "parola_griko": "forume",
-      "parola_italiano": "io ho paura"
-    },
-    {
-      "id": 115,
-      "parola_griko": "fos",
-      "parola_italiano": "luce"
-    },
-    {
-      "id": 496,
-      "parola_griko": "fotìa",
-      "parola_italiano": "fuoco (fotìa fotìa = aiuto)"
-    },
-    {
-      "id": 704,
-      "parola_griko": "fotìa",
-      "parola_italiano": "fuoco"
-    },
-    {
-      "id": 303,
-      "parola_griko": "franza",
-      "parola_italiano": "fronda"
-    },
-    {
-      "id": 313,
-      "parola_griko": "frontì",
-      "parola_italiano": "fulmine, saetta"
-    },
-    {
-      "id": 135,
-      "parola_griko": "furnari",
-      "parola_italiano": "fornaio"
-    },
-    {
-      "id": 298,
-      "parola_griko": "furno",
-      "parola_italiano": "forno"
-    },
-    {
-      "id": 218,
-      "parola_griko": "gala",
-      "parola_italiano": "latte"
-    },
-    {
-      "id": 283,
-      "parola_griko": "gamba",
-      "parola_italiano": "gamba (nell'esempio: ha una gamba rotta)"
-    },
-    {
-      "id": 110,
-      "parola_griko": "gàmbaro",
-      "parola_italiano": "gambero"
-    },
-    {
-      "id": 122,
-      "parola_griko": "gambrò",
-      "parola_italiano": "genero"
-    },
-    {
-      "id": 534,
-      "parola_griko": "ghenome",
-      "parola_italiano": "io divento"
-    },
-    {
-      "id": 490,
-      "parola_griko": "ghiatì",
-      "parola_italiano": "perché"
-    },
-    {
-      "id": 629,
-      "parola_griko": "ghineka",
-      "parola_italiano": "donna, moglie"
-    },
-    {
-      "id": 79,
-      "parola_griko": "ghinèka",
-      "parola_italiano": "moglie, donna"
-    },
-    {
-      "id": 157,
-      "parola_griko": "ghinèka",
-      "parola_italiano": "donna, moglie"
-    },
-    {
-      "id": 538,
-      "parola_griko": "ghirizo",
-      "parola_italiano": "torno; restituisco"
-    },
-    {
-      "id": 73,
-      "parola_griko": "giacco",
-      "parola_italiano": "giacca"
-    },
-    {
-      "id": 237,
-      "parola_griko": "gineca",
-      "parola_italiano": "donna"
-    },
-    {
-      "id": 272,
-      "parola_griko": "gineca",
-      "parola_italiano": "moglie, donna"
-    },
-    {
-      "id": 311,
-      "parola_griko": "gitonissa",
-      "parola_italiano": "vicina di casa"
-    },
-    {
-      "id": 256,
-      "parola_griko": "glicea",
-      "parola_italiano": "dolce (femminile)"
-    },
-    {
-      "id": 92,
-      "parola_griko": "glicèa",
-      "parola_italiano": "dolci"
-    },
-    {
-      "id": 223,
-      "parola_griko": "glicì",
-      "parola_italiano": "dolce"
-    },
-    {
-      "id": 260,
-      "parola_griko": "gomao",
-      "parola_italiano": "pieno"
-    },
-    {
-      "id": 104,
-      "parola_griko": "gomàta",
-      "parola_italiano": "pieni"
-    },
-    {
-      "id": 183,
-      "parola_griko": "gònato",
-      "parola_italiano": "ginocchio"
-    },
-    {
-      "id": 213,
-      "parola_griko": "gramma",
-      "parola_italiano": "lettera"
-    },
-    {
-      "id": 570,
-      "parola_griko": "gratti",
-      "parola_italiano": "letto"
-    },
-    {
-      "id": 615,
-      "parola_griko": "hanno",
-      "parola_italiano": "io perdo"
-    },
-    {
-      "id": 616,
-      "parola_griko": "hannome",
-      "parola_italiano": "io mi perdo"
-    },
-    {
-      "id": 554,
-      "parola_griko": "icha",
-      "parola_italiano": "io avevo / io ebbi"
-    },
-    {
-      "id": 583,
-      "parola_griko": "icha desonta",
-      "parola_italiano": "avessi legato"
-    },
-    {
-      "id": 555,
-      "parola_griko": "ichamo",
-      "parola_italiano": "noi avevamo / noi avemmo"
-    },
-    {
-      "id": 58,
-      "parola_griko": "icì",
-      "parola_italiano": "lì"
-    },
-    {
-      "id": 151,
-      "parola_griko": "idrota",
-      "parola_italiano": "sudore"
-    },
-    {
-      "id": 352,
-      "parola_griko": "ikosi",
-      "parola_italiano": "venti"
-    },
-    {
-      "id": 531,
-      "parola_griko": "ime",
-      "parola_italiano": "io sono"
-    },
-    {
-      "id": 611,
-      "parola_griko": "ime dedemeno",
-      "parola_italiano": "io sono legato"
-    },
-    {
-      "id": 86,
-      "parola_griko": "imera",
-      "parola_italiano": "giorno"
-    },
-    {
-      "id": 558,
-      "parola_griko": "imone",
-      "parola_italiano": "io ero / io fossi / io sarei"
-    },
-    {
-      "id": 612,
-      "parola_griko": "imone dedemeno",
-      "parola_italiano": "io ero legato"
-    },
-    {
-      "id": 559,
-      "parola_griko": "ine",
-      "parola_italiano": "è / essere"
-    },
-    {
-      "id": 716,
-      "parola_griko": "ipa",
-      "parola_italiano": "io dissi"
-    },
-    {
-      "id": 711,
-      "parola_griko": "irta",
-      "parola_italiano": "io venni"
-    },
-    {
-      "id": 691,
-      "parola_griko": "irtonta",
-      "parola_italiano": "essendo venuto"
-    },
-    {
-      "id": 486,
-      "parola_griko": "isa isa",
-      "parola_italiano": "pari pari, appena in tempo"
-    },
-    {
-      "id": 433,
-      "parola_griko": "itu",
-      "parola_italiano": "così"
-    },
-    {
-      "id": 705,
-      "parola_griko": "jali",
-      "parola_italiano": "specchio"
+      "id": 67,
+      "parola_griko": "Christò",
+      "parola_italiano": "Cristo"
     },
     {
       "id": 68,
@@ -3198,1584 +1749,9 @@
       "parola_italiano": "perché"
     },
     {
-      "id": 193,
-      "parola_griko": "jèlio",
-      "parola_italiano": "riso, risata"
-    },
-    {
-      "id": 639,
-      "parola_griko": "jelò",
-      "parola_italiano": "io rido"
-    },
-    {
-      "id": 216,
-      "parola_griko": "jema",
-      "parola_italiano": "sangue"
-    },
-    {
-      "id": 671,
-      "parola_griko": "jennìome",
-      "parola_italiano": "io nasco"
-    },
-    {
-      "id": 725,
-      "parola_griko": "jènome",
-      "parola_italiano": "io divento, maturo"
-    },
-    {
-      "id": 640,
-      "parola_griko": "jirizo",
-      "parola_italiano": "io torno, giro"
-    },
-    {
-      "id": 80,
-      "parola_griko": "jìtona",
-      "parola_italiano": "vicino di casa"
-    },
-    {
-      "id": 416,
-      "parola_griko": "ka",
-      "parola_italiano": "che, il quale"
-    },
-    {
-      "id": 503,
-      "parola_griko": "ka",
-      "parola_italiano": "che"
-    },
-    {
-      "id": 506,
-      "parola_griko": "kagliò",
-      "parola_italiano": "meglio"
-    },
-    {
-      "id": 676,
-      "parola_griko": "kaìome",
-      "parola_italiano": "io brucio"
-    },
-    {
-      "id": 484,
-      "parola_griko": "kaitosso",
-      "parola_italiano": "ogni tanto"
-    },
-    {
-      "id": 431,
-      "parola_griko": "kalà",
-      "parola_italiano": "bene"
-    },
-    {
-      "id": 420,
-      "parola_griko": "kalò",
-      "parola_italiano": "buono"
-    },
-    {
-      "id": 595,
-      "parola_griko": "kalò prama",
-      "parola_italiano": "una cosa buona"
-    },
-    {
-      "id": 748,
-      "parola_griko": "kalojerazi",
-      "parola_italiano": "inizia l'estate"
-    },
-    {
-      "id": 498,
-      "parola_griko": "kalòs irtes",
-      "parola_italiano": "benvenuto"
-    },
-    {
-      "id": 727,
-      "parola_griko": "kamomeno",
-      "parola_italiano": "fatto"
-    },
-    {
-      "id": 751,
-      "parola_griko": "kanni friddo",
-      "parola_italiano": "fa freddo"
-    },
-    {
-      "id": 750,
-      "parola_griko": "kanni kama",
-      "parola_italiano": "fa caldo"
-    },
-    {
-      "id": 479,
-      "parola_griko": "kanno",
-      "parola_italiano": "camino, focolare"
-    },
-    {
-      "id": 591,
-      "parola_griko": "kanno",
-      "parola_italiano": "io faccio"
-    },
-    {
-      "id": 672,
-      "parola_griko": "kanonìome",
-      "parola_italiano": "io mi guardo"
-    },
-    {
-      "id": 641,
-      "parola_griko": "kanonò",
-      "parola_italiano": "io guardo, osservo"
-    },
-    {
-      "id": 728,
-      "parola_griko": "kathèrno",
-      "parola_italiano": "io pulisco, sbuccio"
-    },
-    {
-      "id": 638,
-      "parola_griko": "katìome",
-      "parola_italiano": "io mi siedo"
-    },
-    {
-      "id": 721,
-      "parola_griko": "kèo",
-      "parola_italiano": "io brucio"
-    },
-    {
-      "id": 628,
-      "parola_griko": "kiatera",
-      "parola_italiano": "ragazza"
-    },
-    {
-      "id": 708,
-      "parola_griko": "kilìa",
-      "parola_italiano": "pancia"
-    },
-    {
-      "id": 729,
-      "parola_griko": "kleo",
-      "parola_italiano": "io piango"
-    },
-    {
-      "id": 674,
-      "parola_griko": "klinnome",
-      "parola_italiano": "io mi chiudo"
-    },
-    {
-      "id": 203,
-      "parola_griko": "kodari",
-      "parola_italiano": "albero di olivo"
-    },
-    {
-      "id": 540,
-      "parola_griko": "kofto",
-      "parola_italiano": "io taglio"
-    },
-    {
-      "id": 404,
-      "parola_griko": "krasì",
-      "parola_italiano": "vino"
-    },
-    {
-      "id": 673,
-      "parola_griko": "kratìome",
-      "parola_italiano": "io mi tengo"
-    },
-    {
-      "id": 642,
-      "parola_griko": "kratò",
-      "parola_italiano": "io tengo, trattengo"
-    },
-    {
-      "id": 219,
-      "parola_griko": "krea",
-      "parola_italiano": "carne (al plurale kreata: parti del corpo, carnagione)"
-    },
-    {
-      "id": 402,
-      "parola_griko": "krea",
-      "parola_italiano": "carne"
-    },
-    {
-      "id": 428,
-      "parola_griko": "krifà",
-      "parola_italiano": "di nascosto"
-    },
-    {
-      "id": 519,
-      "parola_griko": "krisari",
-      "parola_italiano": "orzo"
-    },
-    {
-      "id": 630,
-      "parola_griko": "kronu",
-      "parola_italiano": "anni"
-    },
-    {
-      "id": 745,
-      "parola_griko": "ksemeronni",
-      "parola_italiano": "albeggia"
-    },
-    {
-      "id": 670,
-      "parola_griko": "ksevdìnome",
-      "parola_italiano": "io mi spoglio"
-    },
-    {
-      "id": 448,
-      "parola_griko": "kuccia",
-      "parola_italiano": "vicino"
-    },
-    {
-      "id": 648,
-      "parola_griko": "kuo",
-      "parola_italiano": "io sento, ascolto"
-    },
-    {
-      "id": 730,
-      "parola_griko": "kuo",
-      "parola_italiano": "io ascolto, sento"
-    },
-    {
-      "id": 515,
-      "parola_griko": "kupeta",
-      "parola_italiano": "coperta"
-    },
-    {
-      "id": 206,
-      "parola_griko": "kurti",
-      "parola_italiano": "cascina"
-    },
-    {
-      "id": 84,
-      "parola_griko": "làchana",
-      "parola_italiano": "verdura"
-    },
-    {
-      "id": 117,
-      "parola_griko": "lagò",
-      "parola_italiano": "lepre"
-    },
-    {
-      "id": 449,
-      "parola_griko": "larga",
-      "parola_italiano": "lontano"
-    },
-    {
-      "id": 715,
-      "parola_griko": "leo",
-      "parola_italiano": "io dico"
-    },
-    {
-      "id": 698,
-      "parola_griko": "leonta",
-      "parola_italiano": "dicendo"
-    },
-    {
-      "id": 88,
-      "parola_griko": "liko",
-      "parola_italiano": "lupo"
-    },
-    {
-      "id": 735,
-      "parola_griko": "limeno",
-      "parola_italiano": "lavato"
-    },
-    {
-      "id": 643,
-      "parola_griko": "liparièo",
-      "parola_italiano": "io ingrasso"
-    },
-    {
-      "id": 165,
-      "parola_griko": "litrìa",
-      "parola_italiano": "messa"
-    },
-    {
-      "id": 207,
-      "parola_griko": "luri",
-      "parola_italiano": "cinghia"
-    },
-    {
-      "id": 501,
-      "parola_griko": "ma",
-      "parola_italiano": "ma"
-    },
-    {
-      "id": 478,
-      "parola_griko": "macheri",
-      "parola_italiano": "coltello"
-    },
-    {
-      "id": 105,
-      "parola_griko": "machèri",
-      "parola_italiano": "coltello"
-    },
-    {
-      "id": 546,
-      "parola_griko": "macheria",
-      "parola_italiano": "coltelli"
-    },
-    {
-      "id": 447,
-      "parola_griko": "macrà",
-      "parola_italiano": "lontano"
-    },
-    {
-      "id": 226,
-      "parola_griko": "macreo",
-      "parola_italiano": "lungo"
-    },
-    {
-      "id": 300,
-      "parola_griko": "maddhia",
-      "parola_italiano": "capelli"
-    },
-    {
-      "id": 82,
-      "parola_griko": "maddhìa",
-      "parola_italiano": "capelli"
-    },
-    {
-      "id": 497,
-      "parola_griko": "magàri-mu",
-      "parola_italiano": "beato me"
-    },
-    {
-      "id": 124,
-      "parola_griko": "magirèo",
-      "parola_italiano": "io cucino"
-    },
-    {
-      "id": 507,
-      "parola_griko": "mai",
-      "parola_italiano": "affinché, finché"
-    },
-    {
-      "id": 568,
-      "parola_griko": "mài",
-      "parola_italiano": "pane"
-    },
-    {
-      "id": 134,
-      "parola_griko": "maio",
-      "parola_italiano": "maggio"
-    },
-    {
-      "id": 644,
-      "parola_griko": "mairèo",
-      "parola_italiano": "io cucino"
-    },
-    {
-      "id": 101,
-      "parola_griko": "makrà",
-      "parola_italiano": "lunghi"
-    },
-    {
-      "id": 421,
-      "parola_griko": "mali",
-      "parola_italiano": "grande"
-    },
-    {
-      "id": 234,
-      "parola_griko": "malo / mea",
-      "parola_italiano": "grande"
-    },
-    {
-      "id": 270,
-      "parola_griko": "mana",
-      "parola_italiano": "madre, mamma"
-    },
-    {
-      "id": 335,
-      "parola_griko": "mana",
-      "parola_italiano": "mamma"
-    },
-    {
-      "id": 598,
-      "parola_griko": "manokkia",
-      "parola_italiano": "covoni"
-    },
-    {
-      "id": 494,
-      "parola_griko": "mara cemena",
-      "parola_italiano": "peggio per me"
-    },
-    {
-      "id": 384,
-      "parola_griko": "mas",
-      "parola_italiano": "ci, a noi; nostro"
-    },
-    {
-      "id": 142,
-      "parola_griko": "massari",
-      "parola_italiano": "massaro, fattore"
-    },
-    {
-      "id": 425,
-      "parola_griko": "matara",
-      "parola_italiano": "bugiarda"
-    },
-    {
-      "id": 731,
-      "parola_griko": "mathenno",
-      "parola_italiano": "io imparo, insegno"
-    },
-    {
-      "id": 375,
-      "parola_griko": "matia",
-      "parola_italiano": "occhi"
-    },
-    {
-      "id": 164,
-      "parola_griko": "matrìa",
-      "parola_italiano": "matrigna"
-    },
-    {
-      "id": 74,
-      "parola_griko": "mavro",
-      "parola_italiano": "nero"
-    },
-    {
-      "id": 660,
-      "parola_griko": "mbenno",
-      "parola_italiano": "io entro"
-    },
-    {
-      "id": 383,
-      "parola_griko": "me",
-      "parola_italiano": "mi (complemento oggetto)"
-    },
-    {
-      "id": 510,
-      "parola_griko": "me",
-      "parola_italiano": "con"
-    },
-    {
-      "id": 408,
-      "parola_griko": "mea",
-      "parola_italiano": "grande"
-    },
-    {
-      "id": 645,
-      "parola_griko": "meletò",
-      "parola_italiano": "io leggo"
-    },
-    {
-      "id": 257,
-      "parola_griko": "meli",
-      "parola_italiano": "miele"
-    },
-    {
-      "id": 536,
-      "parola_griko": "meno",
-      "parola_italiano": "aspetto, mi fermo"
-    },
-    {
-      "id": 696,
-      "parola_griko": "menonta",
-      "parola_italiano": "aspettando"
-    },
-    {
-      "id": 372,
-      "parola_griko": "mera",
-      "parola_italiano": "giorno"
-    },
-    {
-      "id": 646,
-      "parola_griko": "merazo",
-      "parola_italiano": "io divido"
-    },
-    {
-      "id": 194,
-      "parola_griko": "mèro",
-      "parola_italiano": "parte"
-    },
-    {
-      "id": 334,
-      "parola_griko": "mesi",
-      "parola_italiano": "piazza"
-    },
-    {
-      "id": 470,
-      "parola_griko": "metavrì",
-      "parola_italiano": "dopodomani"
-    },
-    {
-      "id": 513,
-      "parola_griko": "mialò",
-      "parola_italiano": "cervello"
-    },
-    {
-      "id": 261,
-      "parola_griko": "micrò",
-      "parola_italiano": "piccolo"
-    },
-    {
-      "id": 500,
-      "parola_griko": "mide",
-      "parola_italiano": "né"
-    },
-    {
-      "id": 100,
-      "parola_griko": "mikrè",
-      "parola_italiano": "piccole"
-    },
-    {
-      "id": 338,
-      "parola_griko": "milò",
-      "parola_italiano": "parlare"
-    },
-    {
-      "id": 126,
-      "parola_griko": "mina",
-      "parola_italiano": "mese"
-    },
-    {
-      "id": 697,
-      "parola_griko": "minonta",
-      "parola_italiano": "avendo aspettato"
-    },
-    {
-      "id": 373,
-      "parola_griko": "misò",
-      "parola_italiano": "metà, mezzo"
-    },
-    {
-      "id": 502,
-      "parola_griko": "mo tuto",
-      "parola_italiano": "con tutto ciò"
-    },
-    {
-      "id": 365,
-      "parola_griko": "monaxò",
-      "parola_italiano": "solo, soltanto"
-    },
-    {
-      "id": 382,
-      "parola_griko": "mu",
-      "parola_italiano": "mi, a me; mio"
-    },
-    {
-      "id": 136,
-      "parola_griko": "mulinari",
-      "parola_italiano": "mugnaio"
-    },
-    {
-      "id": 495,
-      "parola_griko": "na",
-      "parola_italiano": "ecco"
-    },
-    {
-      "id": 564,
-      "parola_griko": "na",
-      "parola_italiano": "che (congiunzione finale)"
-    },
-    {
-      "id": 557,
-      "parola_griko": "na 'cho",
-      "parola_italiano": "che io abbia"
-    },
-    {
-      "id": 582,
-      "parola_griko": "na deso",
-      "parola_italiano": "che io leghi / che io legassi"
-    },
-    {
-      "id": 606,
-      "parola_griko": "na destò",
-      "parola_italiano": "che io mi leghi"
-    },
-    {
-      "id": 483,
-      "parola_griko": "nasprì",
-      "parola_italiano": "un po'"
-    },
-    {
-      "id": 148,
-      "parola_griko": "nerò",
-      "parola_italiano": "acqua"
-    },
-    {
-      "id": 752,
-      "parola_griko": "ngizi na",
-      "parola_italiano": "bisogna che"
-    },
-    {
-      "id": 677,
-      "parola_griko": "ngìzome",
-      "parola_italiano": "io mi tocco"
-    },
-    {
-      "id": 181,
-      "parola_griko": "nifi",
-      "parola_italiano": "nuora"
-    },
-    {
-      "id": 160,
-      "parola_griko": "nifta",
-      "parola_italiano": "notte"
-    },
-    {
-      "id": 358,
-      "parola_griko": "ogdonta",
-      "parola_italiano": "ottanta"
-    },
-    {
-      "id": 493,
-      "parola_griko": "òimena",
-      "parola_italiano": "povero me"
-    },
-    {
-      "id": 430,
-      "parola_griko": "olamià",
-      "parola_italiano": "tutto a un tratto"
-    },
-    {
-      "id": 482,
-      "parola_griko": "oligo",
-      "parola_italiano": "poco"
-    },
-    {
-      "id": 325,
-      "parola_griko": "olo",
-      "parola_italiano": "tutto"
-    },
-    {
-      "id": 291,
-      "parola_griko": "ora",
-      "parola_italiano": "ora"
-    },
-    {
-      "id": 544,
-      "parola_griko": "orizo",
-      "parola_italiano": "delimitare"
-    },
-    {
-      "id": 150,
-      "parola_griko": "ornita",
-      "parola_italiano": "gallina"
-    },
-    {
-      "id": 255,
-      "parola_griko": "orrio",
-      "parola_italiano": "bello"
-    },
-    {
-      "id": 446,
-      "parola_griko": "ozzu",
-      "parola_italiano": "fuori, in campagna"
-    },
-    {
-      "id": 229,
-      "parola_griko": "pacheo",
-      "parola_italiano": "grosso"
-    },
-    {
-      "id": 422,
-      "parola_griko": "pachì",
-      "parola_italiano": "grosso"
-    },
-    {
-      "id": 472,
-      "parola_griko": "pale / mapale",
-      "parola_italiano": "di nuovo"
-    },
-    {
-      "id": 222,
-      "parola_griko": "paleo",
-      "parola_italiano": "vecchio"
-    },
-    {
-      "id": 85,
-      "parola_griko": "paniri",
-      "parola_italiano": "fiera"
-    },
-    {
-      "id": 460,
-      "parola_griko": "panta",
-      "parola_italiano": "sempre"
-    },
-    {
-      "id": 617,
-      "parola_griko": "pao",
-      "parola_italiano": "io vado"
-    },
-    {
-      "id": 93,
-      "parola_griko": "pappi",
-      "parola_italiano": "nonni"
-    },
-    {
-      "id": 72,
-      "parola_griko": "pappo",
-      "parola_italiano": "nonno"
-    },
-    {
-      "id": 180,
-      "parola_griko": "Parasceì",
-      "parola_italiano": "venerdì"
-    },
-    {
-      "id": 323,
-      "parola_griko": "passo",
-      "parola_italiano": "ogni, ciascuno"
-    },
-    {
-      "id": 324,
-      "parola_griko": "passo-ena",
-      "parola_italiano": "ciascuno, ognuno"
-    },
-    {
-      "id": 127,
-      "parola_griko": "patera",
-      "parola_italiano": "prete, padre"
-    },
-    {
-      "id": 400,
-      "parola_griko": "pedàci",
-      "parola_italiano": "ragazza, figlia"
-    },
-    {
-      "id": 87,
-      "parola_griko": "pedì",
-      "parola_italiano": "figlio, ragazzo"
-    },
-    {
-      "id": 204,
-      "parola_griko": "pedì",
-      "parola_italiano": "ragazzo, figlio"
-    },
-    {
-      "id": 245,
-      "parola_griko": "pedì",
-      "parola_italiano": "ragazzo"
-    },
-    {
-      "id": 315,
-      "parola_griko": "pedia",
-      "parola_italiano": "ragazzi, bambini, figli"
-    },
-    {
-      "id": 336,
-      "parola_griko": "pedia",
-      "parola_italiano": "figli, ragazzi"
-    },
-    {
-      "id": 91,
-      "parola_griko": "pedìa",
-      "parola_italiano": "ragazzi"
-    },
-    {
-      "id": 371,
-      "parola_griko": "pefti",
-      "parola_italiano": "giovedì (quinto giorno)"
-    },
-    {
-      "id": 171,
-      "parola_griko": "Pefti",
-      "parola_italiano": "giovedì"
-    },
-    {
-      "id": 355,
-      "parola_griko": "peninta",
-      "parola_italiano": "cinquanta"
-    },
-    {
-      "id": 345,
-      "parola_griko": "pente",
-      "parola_italiano": "cinque"
-    },
-    {
-      "id": 649,
-      "parola_griko": "perno",
-      "parola_italiano": "io porto (via), prendo"
-    },
-    {
-      "id": 733,
-      "parola_griko": "perno",
-      "parola_italiano": "io porto (via)"
-    },
-    {
-      "id": 475,
-      "parola_griko": "pertsi",
-      "parola_italiano": "l'anno scorso"
-    },
-    {
-      "id": 601,
-      "parola_griko": "pesonta",
-      "parola_italiano": "caduto (participio aoristo di cadere)"
-    },
-    {
-      "id": 618,
-      "parola_griko": "peto",
-      "parola_italiano": "io cado"
-    },
-    {
-      "id": 119,
-      "parola_griko": "petterò",
-      "parola_italiano": "suocero"
-    },
-    {
-      "id": 732,
-      "parola_griko": "pezo",
-      "parola_italiano": "io gioco"
-    },
-    {
-      "id": 650,
-      "parola_griko": "pianno",
-      "parola_italiano": "io prendo"
-    },
-    {
-      "id": 651,
-      "parola_griko": "pinno",
-      "parola_italiano": "io bevo"
-    },
-    {
-      "id": 505,
-      "parola_griko": "piri",
-      "parola_italiano": "che (secondo termine di paragone); anziché"
-    },
-    {
-      "id": 147,
-      "parola_griko": "pìtera",
-      "parola_italiano": "crusca"
-    },
-    {
-      "id": 130,
-      "parola_griko": "plaona",
-      "parola_italiano": "lenzuolo"
-    },
-    {
-      "id": 734,
-      "parola_griko": "plenno",
-      "parola_italiano": "io lavo"
-    },
-    {
-      "id": 414,
-      "parola_griko": "plio",
-      "parola_italiano": "quale"
-    },
-    {
-      "id": 481,
-      "parola_griko": "plion",
-      "parola_italiano": "più"
-    },
-    {
-      "id": 246,
-      "parola_griko": "plon / plo",
-      "parola_italiano": "piu"
-    },
-    {
-      "id": 485,
-      "parola_griko": "plon oligo",
-      "parola_italiano": "meno"
-    },
-    {
-      "id": 571,
-      "parola_griko": "plusio",
-      "parola_italiano": "ricco"
-    },
-    {
-      "id": 254,
-      "parola_griko": "plusìo",
-      "parola_italiano": "ricco"
-    },
-    {
-      "id": 514,
-      "parola_griko": "plutu",
-      "parola_italiano": "ricchezza"
-    },
-    {
-      "id": 233,
-      "parola_griko": "poddhì",
-      "parola_italiano": "molto"
-    },
-    {
-      "id": 717,
-      "parola_griko": "pomeno",
-      "parola_italiano": "detto"
-    },
-    {
-      "id": 116,
-      "parola_griko": "pono",
-      "parola_italiano": "dolore"
-    },
-    {
-      "id": 466,
-      "parola_griko": "porna",
-      "parola_italiano": "mattina"
-    },
-    {
-      "id": 434,
-      "parola_griko": "pos",
-      "parola_italiano": "come"
-    },
-    {
-      "id": 248,
-      "parola_griko": "posso",
-      "parola_italiano": "tanto, quanto"
-    },
-    {
-      "id": 321,
-      "parola_griko": "posso",
-      "parola_italiano": "tanto, parecchio"
-    },
-    {
-      "id": 413,
-      "parola_griko": "posso",
-      "parola_italiano": "quanto, quanta"
-    },
-    {
-      "id": 477,
-      "parola_griko": "pote",
-      "parola_italiano": "quando"
-    },
-    {
-      "id": 401,
-      "parola_griko": "potiri",
-      "parola_italiano": "bicchiere"
-    },
-    {
-      "id": 518,
-      "parola_griko": "praino",
-      "parola_italiano": "carro"
-    },
-    {
-      "id": 305,
-      "parola_griko": "prama",
-      "parola_italiano": "cosa"
-    },
-    {
-      "id": 161,
-      "parola_griko": "pràtina",
-      "parola_italiano": "pecora"
-    },
-    {
-      "id": 573,
-      "parola_griko": "pratò",
-      "parola_italiano": "cammino"
-    },
-    {
-      "id": 753,
-      "parola_griko": "prepi na",
-      "parola_italiano": "conviene che, bisogna che"
-    },
-    {
-      "id": 467,
-      "parola_griko": "presta",
-      "parola_italiano": "presto"
-    },
-    {
-      "id": 269,
-      "parola_griko": "profeta",
-      "parola_italiano": "stupido (nell'espressione o plo profeta = il piu stupido)"
-    },
-    {
-      "id": 476,
-      "parola_griko": "propertsi",
-      "parola_italiano": "due anni fa"
-    },
-    {
-      "id": 492,
-      "parola_griko": "propria",
-      "parola_italiano": "affatto, del tutto"
-    },
-    {
-      "id": 296,
-      "parola_griko": "prosopo",
-      "parola_italiano": "viso"
-    },
-    {
-      "id": 459,
-      "parola_griko": "protettè",
-      "parola_italiano": "avantieri"
-    },
-    {
-      "id": 462,
-      "parola_griko": "protinà",
-      "parola_italiano": "prima"
-    },
-    {
-      "id": 572,
-      "parola_griko": "protino",
-      "parola_italiano": "primo"
-    },
-    {
-      "id": 367,
-      "parola_griko": "protinò",
-      "parola_italiano": "primo"
-    },
-    {
-      "id": 186,
-      "parola_griko": "pròvato",
-      "parola_italiano": "pecora"
-    },
-    {
-      "id": 199,
-      "parola_griko": "psari",
-      "parola_italiano": "pesce"
-    },
-    {
-      "id": 230,
-      "parola_griko": "pseftari",
-      "parola_italiano": "bugiardo"
-    },
-    {
-      "id": 217,
-      "parola_griko": "psema",
-      "parola_italiano": "bugia"
-    },
-    {
-      "id": 175,
-      "parola_griko": "psichì",
-      "parola_italiano": "anima"
-    },
-    {
-      "id": 340,
-      "parola_griko": "psiddha",
-      "parola_italiano": "pulce"
-    },
-    {
-      "id": 81,
-      "parola_griko": "psilì",
-      "parola_italiano": "alta"
-    },
-    {
-      "id": 415,
-      "parola_griko": "pu",
-      "parola_italiano": "che, il quale; dove"
-    },
-    {
-      "id": 454,
-      "parola_griko": "pu",
-      "parola_italiano": "dove"
-    },
-    {
-      "id": 442,
-      "parola_griko": "pukanè",
-      "parola_italiano": "dappertutto"
-    },
-    {
-      "id": 322,
-      "parola_griko": "quai",
-      "parola_italiano": "certo, un tale, alcuni"
-    },
-    {
-      "id": 521,
-      "parola_griko": "reda",
-      "parola_italiano": "capretta"
-    },
-    {
-      "id": 679,
-      "parola_griko": "rizònome",
-      "parola_italiano": "io mi arrabbio"
-    },
-    {
-      "id": 241,
-      "parola_griko": "ròdi",
-      "parola_italiano": "melograno"
-    },
-    {
-      "id": 195,
-      "parola_griko": "rodinì",
-      "parola_italiano": "rossa, rosata"
-    },
-    {
-      "id": 308,
-      "parola_griko": "rologi",
-      "parola_italiano": "orologio"
-    },
-    {
-      "id": 417,
-      "parola_griko": "rolòi",
-      "parola_italiano": "orologio"
-    },
-    {
-      "id": 189,
-      "parola_griko": "ruco",
-      "parola_italiano": "roba, averi (al plurale: vestiti)"
-    },
-    {
-      "id": 290,
-      "parola_griko": "sacco",
-      "parola_italiano": "sacco"
-    },
-    {
-      "id": 374,
-      "parola_griko": "sakko",
-      "parola_italiano": "sacco"
-    },
-    {
-      "id": 249,
-      "parola_griko": "san",
-      "parola_italiano": "come"
-    },
-    {
-      "id": 508,
-      "parola_griko": "sape",
-      "parola_italiano": "come se"
-    },
-    {
-      "id": 354,
-      "parola_griko": "saranta",
-      "parola_italiano": "quaranta"
-    },
-    {
-      "id": 391,
-      "parola_griko": "sas",
-      "parola_italiano": "vi, a voi; vostro"
-    },
-    {
-      "id": 655,
-      "parola_griko": "sbenno",
-      "parola_italiano": "io spengo"
-    },
-    {
-      "id": 76,
-      "parola_griko": "scarpari",
-      "parola_italiano": "calzolaio"
-    },
-    {
-      "id": 312,
-      "parola_griko": "scarso",
-      "parola_italiano": "pantalone"
-    },
-    {
-      "id": 138,
-      "parola_griko": "Scennari",
-      "parola_italiano": "gennaio"
-    },
-    {
-      "id": 520,
-      "parola_griko": "sciddho",
-      "parola_italiano": "cane"
-    },
-    {
-      "id": 749,
-      "parola_griko": "scimonìazi",
-      "parola_italiano": "inizia l'inverno"
-    },
-    {
-      "id": 309,
-      "parola_griko": "scoccola",
-      "parola_italiano": "sberla"
-    },
-    {
-      "id": 390,
-      "parola_griko": "se",
-      "parola_italiano": "ti (complemento oggetto)"
-    },
-    {
-      "id": 292,
-      "parola_griko": "seggia",
-      "parola_italiano": "sedia"
-    },
-    {
-      "id": 542,
-      "parola_griko": "serno",
-      "parola_italiano": "io tiro"
-    },
-    {
-      "id": 652,
-      "parola_griko": "sfazo",
-      "parola_italiano": "io uccido"
-    },
-    {
-      "id": 187,
-      "parola_griko": "sico",
-      "parola_italiano": "fico (frutto)"
-    },
-    {
-      "id": 184,
-      "parola_griko": "sìdero",
-      "parola_italiano": "ferro (al plurale: attrezzi)"
-    },
-    {
-      "id": 427,
-      "parola_griko": "siga siga",
-      "parola_italiano": "piano piano"
-    },
-    {
-      "id": 106,
-      "parola_griko": "silo",
-      "parola_italiano": "legno"
-    },
-    {
-      "id": 123,
-      "parola_griko": "simeri",
-      "parola_italiano": "oggi"
-    },
-    {
-      "id": 565,
-      "parola_griko": "sìmmeri",
-      "parola_italiano": "oggi"
-    },
-    {
-      "id": 736,
-      "parola_griko": "sirno",
-      "parola_italiano": "io tiro, trascino"
-    },
-    {
-      "id": 403,
-      "parola_griko": "sitari",
-      "parola_italiano": "grano"
-    },
-    {
-      "id": 594,
-      "parola_griko": "skala",
-      "parola_italiano": "scala"
-    },
-    {
-      "id": 205,
-      "parola_griko": "skanni",
-      "parola_italiano": "sgabello"
-    },
-    {
-      "id": 574,
-      "parola_griko": "skarpari",
-      "parola_italiano": "calzolaio"
-    },
-    {
-      "id": 547,
-      "parola_griko": "skarpe",
-      "parola_italiano": "scarpe"
-    },
-    {
-      "id": 569,
-      "parola_griko": "skola",
-      "parola_italiano": "scuola"
-    },
-    {
-      "id": 680,
-      "parola_griko": "skorìzome",
-      "parola_italiano": "io mi separo"
-    },
-    {
-      "id": 744,
-      "parola_griko": "skotignazi",
-      "parola_italiano": "fa buio"
-    },
-    {
-      "id": 654,
-      "parola_griko": "smigo",
-      "parola_italiano": "io mescolo"
-    },
-    {
-      "id": 214,
-      "parola_griko": "soma",
-      "parola_italiano": "corpo"
-    },
-    {
-      "id": 220,
-      "parola_griko": "somata",
-      "parola_italiano": "le parti del corpo"
-    },
-    {
-      "id": 75,
-      "parola_griko": "sordo",
-      "parola_italiano": "soldo, denaro"
-    },
-    {
-      "id": 567,
-      "parola_griko": "sordu",
-      "parola_italiano": "soldi"
-    },
-    {
-      "id": 452,
-      "parola_griko": "sortea",
-      "parola_italiano": "diritto, da quella parte"
-    },
-    {
-      "id": 562,
-      "parola_griko": "sozi esti",
-      "parola_italiano": "può essere, è possibile"
-    },
-    {
-      "id": 754,
-      "parola_griko": "sozi esti",
-      "parola_italiano": "è possibile"
-    },
-    {
-      "id": 539,
-      "parola_griko": "sozo",
-      "parola_italiano": "posso"
-    },
-    {
-      "id": 563,
-      "parola_griko": "sozo",
-      "parola_italiano": "io posso"
-    },
-    {
-      "id": 597,
-      "parola_griko": "spameno",
-      "parola_italiano": "spezzato"
-    },
-    {
-      "id": 653,
-      "parola_griko": "spanno",
-      "parola_italiano": "io rompo"
-    },
-    {
-      "id": 423,
-      "parola_griko": "sperno",
-      "parola_italiano": "semino"
-    },
-    {
-      "id": 737,
-      "parola_griko": "sperno",
-      "parola_italiano": "io semino"
-    },
-    {
-      "id": 99,
-      "parola_griko": "spiti",
-      "parola_italiano": "casa"
-    },
-    {
-      "id": 170,
-      "parola_griko": "stàchti",
-      "parola_italiano": "cenere"
-    },
-    {
-      "id": 210,
-      "parola_griko": "stafìli",
-      "parola_italiano": "uva"
-    },
-    {
-      "id": 561,
-      "parola_griko": "stameno",
-      "parola_italiano": "stato"
-    },
-    {
-      "id": 332,
-      "parola_griko": "stati",
-      "parola_italiano": "cenere"
-    },
-    {
-      "id": 121,
-      "parola_griko": "stavrò",
-      "parola_italiano": "croce"
-    },
-    {
-      "id": 224,
-      "parola_griko": "steri / stereo",
-      "parola_italiano": "duro"
-    },
-    {
-      "id": 560,
-      "parola_griko": "stonta",
-      "parola_italiano": "stando"
-    },
-    {
-      "id": 406,
-      "parola_griko": "strata",
-      "parola_italiano": "strada"
-    },
-    {
-      "id": 389,
-      "parola_griko": "su",
-      "parola_italiano": "ti, a te; tuo"
-    },
-    {
-      "id": 163,
-      "parola_griko": "sucèa",
-      "parola_italiano": "fico (albero)"
-    },
-    {
-      "id": 302,
-      "parola_griko": "sucia",
-      "parola_italiano": "fichi (le piante di fico)"
-    },
-    {
-      "id": 468,
-      "parola_griko": "tarda",
-      "parola_italiano": "tardi"
-    },
-    {
-      "id": 281,
-      "parola_griko": "teli",
-      "parola_italiano": "vuole"
-    },
-    {
-      "id": 738,
-      "parola_griko": "telo",
-      "parola_italiano": "io voglio"
-    },
-    {
-      "id": 424,
-      "parola_griko": "terizo",
-      "parola_italiano": "mieto, raccolgo"
-    },
-    {
-      "id": 344,
-      "parola_griko": "tessaris / tessera",
-      "parola_italiano": "quattro"
-    },
-    {
-      "id": 370,
-      "parola_griko": "tetarti",
-      "parola_italiano": "mercoledì (quarto giorno)"
-    },
-    {
-      "id": 152,
-      "parola_griko": "thàlassa",
-      "parola_italiano": "mare"
-    },
-    {
-      "id": 410,
-      "parola_griko": "ti",
-      "parola_italiano": "che, che cosa"
-    },
-    {
-      "id": 112,
-      "parola_griko": "tico",
-      "parola_italiano": "muro"
-    },
-    {
-      "id": 398,
-      "parola_griko": "tin",
-      "parola_italiano": "la"
-    },
-    {
-      "id": 412,
-      "parola_griko": "tino",
-      "parola_italiano": "chi (complemento oggetto); nessuno"
-    },
-    {
-      "id": 330,
-      "parola_griko": "tinò",
-      "parola_italiano": "qualcuno; nessuno (complemento oggetto)"
-    },
-    {
-      "id": 411,
-      "parola_griko": "tinos",
-      "parola_italiano": "di chi, a chi"
-    },
-    {
-      "id": 331,
-      "parola_griko": "tipoti",
-      "parola_italiano": "qualcosa; niente"
-    },
-    {
-      "id": 480,
-      "parola_griko": "tipoti",
-      "parola_italiano": "niente; qualcosa"
-    },
-    {
-      "id": 566,
-      "parola_griko": "tipoti",
-      "parola_italiano": "niente"
-    },
-    {
-      "id": 250,
-      "parola_griko": "tiri",
-      "parola_italiano": "di (secondo termine di paragone)"
-    },
-    {
-      "id": 396,
-      "parola_griko": "tis",
-      "parola_italiano": "le, a lei"
-    },
-    {
-      "id": 409,
-      "parola_griko": "tis",
-      "parola_italiano": "chi"
-    },
-    {
-      "id": 329,
-      "parola_griko": "tispo",
-      "parola_italiano": "qualcuno; nessuno (soggetto)"
-    },
-    {
-      "id": 397,
-      "parola_griko": "ton",
-      "parola_italiano": "lo"
-    },
-    {
-      "id": 684,
-      "parola_griko": "torimeno",
-      "parola_italiano": "visto"
-    },
-    {
-      "id": 626,
-      "parola_griko": "toriomesta",
-      "parola_italiano": "ci vediamo"
-    },
-    {
-      "id": 627,
-      "parola_griko": "torisi",
-      "parola_italiano": "vedere"
-    },
-    {
-      "id": 682,
-      "parola_griko": "torisonta",
-      "parola_italiano": "se avessi visto"
-    },
-    {
-      "id": 683,
-      "parola_griko": "toristonta",
-      "parola_italiano": "vedendosi, se si fosse visto"
-    },
-    {
-      "id": 590,
-      "parola_griko": "torò",
-      "parola_italiano": "io vedo, guardo"
-    },
-    {
-      "id": 739,
-      "parola_griko": "torò",
-      "parola_italiano": "io vedo, considero"
-    },
-    {
-      "id": 681,
-      "parola_griko": "toronta",
-      "parola_italiano": "vedendo, mentre vedevo"
-    },
-    {
-      "id": 471,
-      "parola_griko": "tote",
-      "parola_italiano": "allora"
-    },
-    {
-      "id": 599,
-      "parola_griko": "traìno",
-      "parola_italiano": "carro"
-    },
-    {
-      "id": 740,
-      "parola_griko": "trecho",
-      "parola_italiano": "io corro, inseguo"
-    },
-    {
-      "id": 699,
-      "parola_griko": "trekonta",
-      "parola_italiano": "correndo"
-    },
-    {
-      "id": 353,
-      "parola_griko": "trianta",
-      "parola_italiano": "trenta"
-    },
-    {
-      "id": 173,
-      "parola_griko": "tripi",
-      "parola_italiano": "buco"
-    },
-    {
-      "id": 343,
-      "parola_griko": "tris / tria",
-      "parola_italiano": "tre"
-    },
-    {
-      "id": 369,
-      "parola_griko": "triti",
-      "parola_italiano": "martedì (terzo giorno)"
-    },
-    {
-      "id": 90,
-      "parola_griko": "troi",
-      "parola_italiano": "mangia"
-    },
-    {
-      "id": 656,
-      "parola_griko": "troo",
-      "parola_italiano": "io mangio"
-    },
-    {
-      "id": 692,
-      "parola_griko": "troonta",
-      "parola_italiano": "mangiando"
+      "id": 69,
+      "parola_griko": "zimòno",
+      "parola_italiano": "io impasto"
     },
     {
       "id": 70,
@@ -4788,59 +1764,359 @@
       "parola_italiano": "legno"
     },
     {
-      "id": 288,
-      "parola_griko": "tu",
-      "parola_italiano": "qui (particella rafforzativa)"
+      "id": 72,
+      "parola_griko": "pappo",
+      "parola_italiano": "nonno"
     },
     {
-      "id": 395,
-      "parola_griko": "tu",
-      "parola_italiano": "gli, a lui"
+      "id": 73,
+      "parola_griko": "giacco",
+      "parola_italiano": "giacca"
     },
     {
-      "id": 285,
-      "parola_griko": "tuo",
-      "parola_italiano": "questo, costui (pronome)"
+      "id": 74,
+      "parola_griko": "mavro",
+      "parola_italiano": "nero"
     },
     {
-      "id": 399,
-      "parola_griko": "tus",
-      "parola_italiano": "li, a loro"
+      "id": 75,
+      "parola_griko": "sordo",
+      "parola_italiano": "soldo, denaro"
     },
     {
-      "id": 284,
-      "parola_griko": "tuso",
-      "parola_italiano": "questo (aggettivo)"
+      "id": 76,
+      "parola_griko": "scarpari",
+      "parola_italiano": "calzolaio"
     },
     {
-      "id": 487,
-      "parola_griko": "umme",
-      "parola_italiano": "sì"
+      "id": 77,
+      "parola_griko": "andra",
+      "parola_italiano": "marito"
     },
     {
-      "id": 657,
-      "parola_griko": "vaddo",
-      "parola_italiano": "io metto"
+      "id": 78,
+      "parola_griko": "agapò",
+      "parola_italiano": "io amo"
     },
     {
-      "id": 741,
-      "parola_griko": "vaddo",
-      "parola_italiano": "io metto, infilo"
+      "id": 79,
+      "parola_griko": "ghinèka",
+      "parola_italiano": "moglie, donna"
     },
     {
-      "id": 701,
-      "parola_griko": "vaddonta",
-      "parola_italiano": "mettendo"
+      "id": 80,
+      "parola_griko": "jìtona",
+      "parola_italiano": "vicino di casa"
     },
     {
-      "id": 702,
-      "parola_griko": "valonta",
-      "parola_italiano": "se avesse messo"
+      "id": 81,
+      "parola_griko": "psilì",
+      "parola_italiano": "alta"
     },
     {
-      "id": 225,
-      "parola_griko": "vari / vareo",
-      "parola_italiano": "pesante"
+      "id": 82,
+      "parola_griko": "maddhìa",
+      "parola_italiano": "capelli"
+    },
+    {
+      "id": 83,
+      "parola_griko": "condà",
+      "parola_italiano": "corti"
+    },
+    {
+      "id": 84,
+      "parola_griko": "làchana",
+      "parola_italiano": "verdura"
+    },
+    {
+      "id": 85,
+      "parola_griko": "paniri",
+      "parola_italiano": "fiera"
+    },
+    {
+      "id": 86,
+      "parola_griko": "imera",
+      "parola_italiano": "giorno"
+    },
+    {
+      "id": 87,
+      "parola_griko": "pedì",
+      "parola_italiano": "figlio, ragazzo"
+    },
+    {
+      "id": 88,
+      "parola_griko": "liko",
+      "parola_italiano": "lupo"
+    },
+    {
+      "id": 89,
+      "parola_griko": "arnì",
+      "parola_italiano": "agnello"
+    },
+    {
+      "id": 90,
+      "parola_griko": "troi",
+      "parola_italiano": "mangia"
+    },
+    {
+      "id": 91,
+      "parola_griko": "pedìa",
+      "parola_italiano": "ragazzi"
+    },
+    {
+      "id": 92,
+      "parola_griko": "glicèa",
+      "parola_italiano": "dolci"
+    },
+    {
+      "id": 93,
+      "parola_griko": "pappi",
+      "parola_italiano": "nonni"
+    },
+    {
+      "id": 94,
+      "parola_griko": "attechì",
+      "parola_italiano": "poveri"
+    },
+    {
+      "id": 95,
+      "parola_griko": "apethamenu",
+      "parola_italiano": "defunti"
+    },
+    {
+      "id": 96,
+      "parola_griko": "chiru",
+      "parola_italiano": "maiali"
+    },
+    {
+      "id": 97,
+      "parola_griko": "argulo",
+      "parola_italiano": "albero"
+    },
+    {
+      "id": 98,
+      "parola_griko": "càmbara",
+      "parola_italiano": "stanza"
+    },
+    {
+      "id": 99,
+      "parola_griko": "spiti",
+      "parola_italiano": "casa"
+    },
+    {
+      "id": 100,
+      "parola_griko": "mikrè",
+      "parola_italiano": "piccole"
+    },
+    {
+      "id": 101,
+      "parola_griko": "makrà",
+      "parola_italiano": "lunghi"
+    },
+    {
+      "id": 102,
+      "parola_griko": "argalìo",
+      "parola_italiano": "telaio"
+    },
+    {
+      "id": 103,
+      "parola_griko": "cofìni",
+      "parola_italiano": "paniere"
+    },
+    {
+      "id": 104,
+      "parola_griko": "gomàta",
+      "parola_italiano": "pieni"
+    },
+    {
+      "id": 105,
+      "parola_griko": "machèri",
+      "parola_italiano": "coltello"
+    },
+    {
+      "id": 106,
+      "parola_griko": "silo",
+      "parola_italiano": "legno"
+    },
+    {
+      "id": 107,
+      "parola_griko": "fiddha",
+      "parola_italiano": "foglie"
+    },
+    {
+      "id": 108,
+      "parola_griko": "àntrepo",
+      "parola_italiano": "uomo"
+    },
+    {
+      "id": 109,
+      "parola_griko": "ànemo",
+      "parola_italiano": "vento"
+    },
+    {
+      "id": 110,
+      "parola_griko": "gàmbaro",
+      "parola_italiano": "gambero"
+    },
+    {
+      "id": 111,
+      "parola_griko": "càntaro",
+      "parola_italiano": "vaso da notte"
+    },
+    {
+      "id": 112,
+      "parola_griko": "tico",
+      "parola_italiano": "muro"
+    },
+    {
+      "id": 113,
+      "parola_griko": "cosmo",
+      "parola_italiano": "mondo"
+    },
+    {
+      "id": 114,
+      "parola_griko": "fengo",
+      "parola_italiano": "luna"
+    },
+    {
+      "id": 115,
+      "parola_griko": "fos",
+      "parola_italiano": "luce"
+    },
+    {
+      "id": 116,
+      "parola_griko": "pono",
+      "parola_italiano": "dolore"
+    },
+    {
+      "id": 117,
+      "parola_griko": "lagò",
+      "parola_italiano": "lepre"
+    },
+    {
+      "id": 118,
+      "parola_griko": "cannò",
+      "parola_italiano": "fumo"
+    },
+    {
+      "id": 119,
+      "parola_griko": "petterò",
+      "parola_italiano": "suocero"
+    },
+    {
+      "id": 120,
+      "parola_griko": "cerò",
+      "parola_italiano": "tempo"
+    },
+    {
+      "id": 121,
+      "parola_griko": "stavrò",
+      "parola_italiano": "croce"
+    },
+    {
+      "id": 122,
+      "parola_griko": "gambrò",
+      "parola_italiano": "genero"
+    },
+    {
+      "id": 123,
+      "parola_griko": "simeri",
+      "parola_italiano": "oggi"
+    },
+    {
+      "id": 124,
+      "parola_griko": "magirèo",
+      "parola_italiano": "io cucino"
+    },
+    {
+      "id": 125,
+      "parola_griko": "agàpi",
+      "parola_italiano": "amore"
+    },
+    {
+      "id": 126,
+      "parola_griko": "mina",
+      "parola_italiano": "mese"
+    },
+    {
+      "id": 127,
+      "parola_griko": "patera",
+      "parola_italiano": "prete, padre"
+    },
+    {
+      "id": 128,
+      "parola_griko": "vrachiona",
+      "parola_italiano": "braccio"
+    },
+    {
+      "id": 129,
+      "parola_griko": "aghera",
+      "parola_italiano": "cielo"
+    },
+    {
+      "id": 130,
+      "parola_griko": "plaona",
+      "parola_italiano": "lenzuolo"
+    },
+    {
+      "id": 131,
+      "parola_griko": "cantuna",
+      "parola_italiano": "camino, angolo del focolare"
+    },
+    {
+      "id": 132,
+      "parola_griko": "calascione",
+      "parola_italiano": "antico strumento musicale; (figurato) uomo alto e sciocco"
+    },
+    {
+      "id": 133,
+      "parola_griko": "amartìa",
+      "parola_italiano": "peccato"
+    },
+    {
+      "id": 134,
+      "parola_griko": "maio",
+      "parola_italiano": "maggio"
+    },
+    {
+      "id": 135,
+      "parola_griko": "furnari",
+      "parola_italiano": "fornaio"
+    },
+    {
+      "id": 136,
+      "parola_griko": "mulinari",
+      "parola_italiano": "mugnaio"
+    },
+    {
+      "id": 137,
+      "parola_griko": "barbieri",
+      "parola_italiano": "barbiere"
+    },
+    {
+      "id": 138,
+      "parola_griko": "Scennari",
+      "parola_italiano": "gennaio"
+    },
+    {
+      "id": 139,
+      "parola_griko": "Flevari",
+      "parola_italiano": "febbraio"
+    },
+    {
+      "id": 140,
+      "parola_griko": "Aprili",
+      "parola_italiano": "aprile"
+    },
+    {
+      "id": 141,
+      "parola_griko": "ciuri",
+      "parola_italiano": "padre"
+    },
+    {
+      "id": 142,
+      "parola_griko": "massari",
+      "parola_italiano": "massaro, fattore"
     },
     {
       "id": 143,
@@ -4853,29 +2129,2344 @@
       "parola_italiano": "portare"
     },
     {
+      "id": 145,
+      "parola_griko": "caffè",
+      "parola_italiano": "caffè"
+    },
+    {
+      "id": 146,
+      "parola_griko": "canapè",
+      "parola_italiano": "divano"
+    },
+    {
+      "id": 147,
+      "parola_griko": "pìtera",
+      "parola_italiano": "crusca"
+    },
+    {
+      "id": 148,
+      "parola_griko": "nerò",
+      "parola_italiano": "acqua"
+    },
+    {
+      "id": 149,
+      "parola_griko": "fèrni",
+      "parola_italiano": "porta (egli porta)"
+    },
+    {
+      "id": 150,
+      "parola_griko": "ornita",
+      "parola_italiano": "gallina"
+    },
+    {
+      "id": 151,
+      "parola_griko": "idrota",
+      "parola_italiano": "sudore"
+    },
+    {
+      "id": 152,
+      "parola_griko": "thàlassa",
+      "parola_italiano": "mare"
+    },
+    {
+      "id": 153,
+      "parola_griko": "alipuna",
+      "parola_italiano": "volpe"
+    },
+    {
+      "id": 154,
+      "parola_griko": "aglisìa",
+      "parola_italiano": "chiesa"
+    },
+    {
+      "id": 155,
+      "parola_griko": "ajelàda",
+      "parola_italiano": "mucca"
+    },
+    {
+      "id": 156,
+      "parola_griko": "charà",
+      "parola_italiano": "gioia"
+    },
+    {
+      "id": 157,
+      "parola_griko": "ghinèka",
+      "parola_italiano": "donna, moglie"
+    },
+    {
+      "id": 158,
+      "parola_griko": "chiatèra",
+      "parola_italiano": "ragazza, figlia"
+    },
+    {
+      "id": 159,
+      "parola_griko": "cucuvàscia",
+      "parola_italiano": "civetta"
+    },
+    {
+      "id": 160,
+      "parola_griko": "nifta",
+      "parola_italiano": "notte"
+    },
+    {
+      "id": 161,
+      "parola_griko": "pràtina",
+      "parola_italiano": "pecora"
+    },
+    {
+      "id": 162,
+      "parola_griko": "chora",
+      "parola_italiano": "paese"
+    },
+    {
+      "id": 163,
+      "parola_griko": "sucèa",
+      "parola_italiano": "fico (albero)"
+    },
+    {
+      "id": 164,
+      "parola_griko": "matrìa",
+      "parola_italiano": "matrigna"
+    },
+    {
+      "id": 165,
+      "parola_griko": "litrìa",
+      "parola_italiano": "messa"
+    },
+    {
+      "id": 166,
+      "parola_griko": "avgà",
+      "parola_italiano": "uova"
+    },
+    {
+      "id": 167,
+      "parola_griko": "cànnavi",
+      "parola_italiano": "canapa"
+    },
+    {
+      "id": 168,
+      "parola_griko": "cari",
+      "parola_italiano": "grazia, favore"
+    },
+    {
+      "id": 169,
+      "parola_griko": "cefàli",
+      "parola_italiano": "testa"
+    },
+    {
+      "id": 170,
+      "parola_griko": "stàchti",
+      "parola_italiano": "cenere"
+    },
+    {
+      "id": 171,
+      "parola_griko": "Pefti",
+      "parola_italiano": "giovedì"
+    },
+    {
+      "id": 172,
+      "parola_griko": "anemi",
+      "parola_italiano": "arcolaio"
+    },
+    {
+      "id": 173,
+      "parola_griko": "tripi",
+      "parola_italiano": "buco"
+    },
+    {
+      "id": 174,
+      "parola_griko": "foni",
+      "parola_italiano": "voce, grido"
+    },
+    {
+      "id": 175,
+      "parola_griko": "psichì",
+      "parola_italiano": "anima"
+    },
+    {
+      "id": 176,
+      "parola_griko": "zoì",
+      "parola_italiano": "vita"
+    },
+    {
+      "id": 177,
+      "parola_griko": "Ciuriacì",
+      "parola_italiano": "domenica"
+    },
+    {
+      "id": 178,
+      "parola_griko": "adelfì",
+      "parola_italiano": "sorella"
+    },
+    {
+      "id": 179,
+      "parola_griko": "avlì",
+      "parola_italiano": "corte, cortile"
+    },
+    {
+      "id": 180,
+      "parola_griko": "Parasceì",
+      "parola_italiano": "venerdì"
+    },
+    {
+      "id": 181,
+      "parola_griko": "nifi",
+      "parola_italiano": "nuora"
+    },
+    {
+      "id": 182,
+      "parola_griko": "dàttilo",
+      "parola_italiano": "dito"
+    },
+    {
+      "id": 183,
+      "parola_griko": "gònato",
+      "parola_italiano": "ginocchio"
+    },
+    {
+      "id": 184,
+      "parola_griko": "sìdero",
+      "parola_italiano": "ferro (al plurale: attrezzi)"
+    },
+    {
+      "id": 185,
+      "parola_griko": "cèrato",
+      "parola_italiano": "corno"
+    },
+    {
+      "id": 186,
+      "parola_griko": "pròvato",
+      "parola_italiano": "pecora"
+    },
+    {
+      "id": 187,
+      "parola_griko": "sico",
+      "parola_italiano": "fico (frutto)"
+    },
+    {
+      "id": 188,
+      "parola_griko": "agò",
+      "parola_italiano": "uovo"
+    },
+    {
+      "id": 189,
+      "parola_griko": "ruco",
+      "parola_italiano": "roba, averi (al plurale: vestiti)"
+    },
+    {
+      "id": 190,
+      "parola_griko": "chili",
+      "parola_italiano": "labbro"
+    },
+    {
+      "id": 191,
+      "parola_griko": "calò",
+      "parola_italiano": "il bene"
+    },
+    {
+      "id": 192,
+      "parola_griko": "cacò",
+      "parola_italiano": "il male"
+    },
+    {
+      "id": 193,
+      "parola_griko": "jèlio",
+      "parola_italiano": "riso, risata"
+    },
+    {
+      "id": 194,
+      "parola_griko": "mèro",
+      "parola_italiano": "parte"
+    },
+    {
+      "id": 195,
+      "parola_griko": "rodinì",
+      "parola_italiano": "rossa, rosata"
+    },
+    {
+      "id": 196,
+      "parola_griko": "anichi",
+      "parola_italiano": "unghia"
+    },
+    {
+      "id": 197,
+      "parola_griko": "atì",
+      "parola_italiano": "orecchio"
+    },
+    {
+      "id": 198,
+      "parola_griko": "alòni",
+      "parola_italiano": "aia"
+    },
+    {
+      "id": 199,
+      "parola_griko": "psari",
+      "parola_italiano": "pesce"
+    },
+    {
+      "id": 200,
+      "parola_griko": "asteri",
+      "parola_italiano": "stella"
+    },
+    {
+      "id": 201,
+      "parola_griko": "ammadi",
+      "parola_italiano": "occhio"
+    },
+    {
+      "id": 202,
+      "parola_griko": "arni",
+      "parola_italiano": "agnello"
+    },
+    {
+      "id": 203,
+      "parola_griko": "kodari",
+      "parola_italiano": "albero di olivo"
+    },
+    {
+      "id": 204,
+      "parola_griko": "pedì",
+      "parola_italiano": "ragazzo, figlio"
+    },
+    {
+      "id": 205,
+      "parola_griko": "skanni",
+      "parola_italiano": "sgabello"
+    },
+    {
+      "id": 206,
+      "parola_griko": "kurti",
+      "parola_italiano": "cascina"
+    },
+    {
+      "id": 207,
+      "parola_griko": "luri",
+      "parola_italiano": "cinghia"
+    },
+    {
+      "id": 208,
+      "parola_griko": "ceri",
+      "parola_italiano": "cero"
+    },
+    {
+      "id": 209,
+      "parola_griko": "ampeli",
+      "parola_italiano": "vigna"
+    },
+    {
+      "id": 210,
+      "parola_griko": "stafìli",
+      "parola_italiano": "uva"
+    },
+    {
+      "id": 211,
+      "parola_griko": "forti",
+      "parola_italiano": "fascina"
+    },
+    {
+      "id": 212,
+      "parola_griko": "astrema",
+      "parola_italiano": "lampo, fulmine"
+    },
+    {
+      "id": 213,
+      "parola_griko": "gramma",
+      "parola_italiano": "lettera"
+    },
+    {
+      "id": 214,
+      "parola_griko": "soma",
+      "parola_italiano": "corpo"
+    },
+    {
+      "id": 215,
+      "parola_griko": "derma",
+      "parola_italiano": "pelle"
+    },
+    {
+      "id": 216,
+      "parola_griko": "jema",
+      "parola_italiano": "sangue"
+    },
+    {
+      "id": 217,
+      "parola_griko": "psema",
+      "parola_italiano": "bugia"
+    },
+    {
+      "id": 218,
+      "parola_griko": "gala",
+      "parola_italiano": "latte"
+    },
+    {
+      "id": 219,
+      "parola_griko": "krea",
+      "parola_italiano": "carne (al plurale kreata: parti del corpo, carnagione)"
+    },
+    {
+      "id": 220,
+      "parola_griko": "somata",
+      "parola_italiano": "le parti del corpo"
+    },
+    {
+      "id": 221,
+      "parola_griko": "aspro",
+      "parola_italiano": "bianco"
+    },
+    {
+      "id": 222,
+      "parola_griko": "paleo",
+      "parola_italiano": "vecchio"
+    },
+    {
+      "id": 223,
+      "parola_griko": "glicì",
+      "parola_italiano": "dolce"
+    },
+    {
+      "id": 224,
+      "parola_griko": "steri / stereo",
+      "parola_italiano": "duro"
+    },
+    {
+      "id": 225,
+      "parola_griko": "vari / vareo",
+      "parola_italiano": "pesante"
+    },
+    {
+      "id": 226,
+      "parola_griko": "macreo",
+      "parola_italiano": "lungo"
+    },
+    {
+      "id": 227,
+      "parola_griko": "acheri",
+      "parola_italiano": "vuoto"
+    },
+    {
+      "id": 228,
+      "parola_griko": "apsilo",
+      "parola_italiano": "alto"
+    },
+    {
+      "id": 229,
+      "parola_griko": "pacheo",
+      "parola_italiano": "grosso"
+    },
+    {
+      "id": 230,
+      "parola_griko": "pseftari",
+      "parola_italiano": "bugiardo"
+    },
+    {
+      "id": 231,
+      "parola_griko": "attechò",
+      "parola_italiano": "povero"
+    },
+    {
+      "id": 232,
+      "parola_griko": "attechudi",
+      "parola_italiano": "poveretto"
+    },
+    {
+      "id": 233,
+      "parola_griko": "poddhì",
+      "parola_italiano": "molto"
+    },
+    {
+      "id": 234,
+      "parola_griko": "malo / mea",
+      "parola_italiano": "grande"
+    },
+    {
+      "id": 235,
+      "parola_griko": "cambara",
+      "parola_italiano": "stanza, camera"
+    },
+    {
+      "id": 236,
+      "parola_griko": "argalio",
+      "parola_italiano": "telaio"
+    },
+    {
+      "id": 237,
+      "parola_griko": "gineca",
+      "parola_italiano": "donna"
+    },
+    {
+      "id": 238,
+      "parola_griko": "cratti",
+      "parola_italiano": "letto"
+    },
+    {
+      "id": 239,
+      "parola_griko": "coccalo",
+      "parola_italiano": "testa, cranio"
+    },
+    {
+      "id": 240,
+      "parola_griko": "antropo",
+      "parola_italiano": "uomo"
+    },
+    {
+      "id": 241,
+      "parola_griko": "ròdi",
+      "parola_italiano": "melograno"
+    },
+    {
+      "id": 242,
+      "parola_griko": "astachi",
+      "parola_italiano": "spiga"
+    },
+    {
+      "id": 243,
+      "parola_griko": "alevri",
+      "parola_italiano": "farina"
+    },
+    {
+      "id": 244,
+      "parola_griko": "amari",
+      "parola_italiano": "carro"
+    },
+    {
+      "id": 245,
+      "parola_griko": "pedì",
+      "parola_italiano": "ragazzo"
+    },
+    {
+      "id": 246,
+      "parola_griko": "plon / plo",
+      "parola_italiano": "piu"
+    },
+    {
+      "id": 247,
+      "parola_griko": "alìo",
+      "parola_italiano": "poco, meno"
+    },
+    {
+      "id": 248,
+      "parola_griko": "posso",
+      "parola_italiano": "tanto, quanto"
+    },
+    {
+      "id": 249,
+      "parola_griko": "san",
+      "parola_italiano": "come"
+    },
+    {
+      "id": 250,
+      "parola_griko": "tiri",
+      "parola_italiano": "di (secondo termine di paragone)"
+    },
+    {
+      "id": 251,
+      "parola_griko": "ca",
+      "parola_italiano": "che, di (secondo termine di paragone)"
+    },
+    {
+      "id": 252,
+      "parola_griko": "apsilò",
+      "parola_italiano": "alto"
+    },
+    {
+      "id": 253,
+      "parola_griko": "condò",
+      "parola_italiano": "basso"
+    },
+    {
+      "id": 254,
+      "parola_griko": "plusìo",
+      "parola_italiano": "ricco"
+    },
+    {
+      "id": 255,
+      "parola_griko": "orrio",
+      "parola_italiano": "bello"
+    },
+    {
+      "id": 256,
+      "parola_griko": "glicea",
+      "parola_italiano": "dolce (femminile)"
+    },
+    {
+      "id": 257,
+      "parola_griko": "meli",
+      "parola_italiano": "miele"
+    },
+    {
+      "id": 258,
+      "parola_griko": "coli",
+      "parola_italiano": "fiele, bile"
+    },
+    {
+      "id": 259,
+      "parola_griko": "cofini",
+      "parola_italiano": "paniere"
+    },
+    {
+      "id": 260,
+      "parola_griko": "gomao",
+      "parola_italiano": "pieno"
+    },
+    {
+      "id": 261,
+      "parola_griko": "micrò",
+      "parola_italiano": "piccolo"
+    },
+    {
+      "id": 262,
+      "parola_griko": "cacò",
+      "parola_italiano": "cattivo"
+    },
+    {
+      "id": 263,
+      "parola_griko": "calò",
+      "parola_italiano": "buono"
+    },
+    {
+      "id": 264,
+      "parola_griko": "chiro",
+      "parola_italiano": "peggiore, peggio"
+    },
+    {
+      "id": 265,
+      "parola_griko": "caglio",
+      "parola_italiano": "migliore, meglio"
+    },
+    {
+      "id": 266,
+      "parola_griko": "fortomeno",
+      "parola_italiano": "carico"
+    },
+    {
+      "id": 267,
+      "parola_griko": "dattilo",
+      "parola_italiano": "dito"
+    },
+    {
+      "id": 268,
+      "parola_griko": "chera",
+      "parola_italiano": "mano"
+    },
+    {
+      "id": 269,
+      "parola_griko": "profeta",
+      "parola_italiano": "stupido (nell'espressione o plo profeta = il piu stupido)"
+    },
+    {
+      "id": 270,
+      "parola_griko": "mana",
+      "parola_italiano": "madre, mamma"
+    },
+    {
+      "id": 271,
+      "parola_griko": "adelfò",
+      "parola_italiano": "fratello"
+    },
+    {
+      "id": 272,
+      "parola_griko": "gineca",
+      "parola_italiano": "moglie, donna"
+    },
+    {
+      "id": 273,
+      "parola_griko": "chorafi",
+      "parola_italiano": "campo, fondo"
+    },
+    {
+      "id": 274,
+      "parola_griko": "ampari",
+      "parola_italiano": "cavallo"
+    },
+    {
+      "id": 275,
+      "parola_griko": "clidì",
+      "parola_italiano": "chiave"
+    },
+    {
+      "id": 276,
+      "parola_griko": "cista",
+      "parola_italiano": "cesta"
+    },
+    {
+      "id": 277,
+      "parola_griko": "coccalo",
+      "parola_italiano": "cranio, testa"
+    },
+    {
+      "id": 278,
+      "parola_griko": "chrono",
+      "parola_italiano": "anno"
+    },
+    {
+      "id": 279,
+      "parola_griko": "cucuvascia",
+      "parola_italiano": "civetta"
+    },
+    {
+      "id": 280,
+      "parola_griko": "vrizo",
+      "parola_italiano": "ingiuriare (da cui: soprannominare)"
+    },
+    {
+      "id": 281,
+      "parola_griko": "teli",
+      "parola_italiano": "vuole"
+    },
+    {
+      "id": 282,
+      "parola_griko": "dico-mu",
+      "parola_italiano": "mio (forma tonica)"
+    },
+    {
+      "id": 283,
+      "parola_griko": "gamba",
+      "parola_italiano": "gamba (nell'esempio: ha una gamba rotta)"
+    },
+    {
+      "id": 284,
+      "parola_griko": "tuso",
+      "parola_italiano": "questo (aggettivo)"
+    },
+    {
+      "id": 285,
+      "parola_griko": "tuo",
+      "parola_italiano": "questo, costui (pronome)"
+    },
+    {
+      "id": 286,
+      "parola_griko": "cisso",
+      "parola_italiano": "quello (aggettivo)"
+    },
+    {
+      "id": 287,
+      "parola_griko": "cino",
+      "parola_italiano": "quello, colui (pronome)"
+    },
+    {
+      "id": 288,
+      "parola_griko": "tu",
+      "parola_italiano": "qui (particella rafforzativa)"
+    },
+    {
+      "id": 289,
+      "parola_griko": "ci",
+      "parola_italiano": "li (particella rafforzativa, da ecì)"
+    },
+    {
+      "id": 290,
+      "parola_griko": "sacco",
+      "parola_italiano": "sacco"
+    },
+    {
+      "id": 291,
+      "parola_griko": "ora",
+      "parola_italiano": "ora"
+    },
+    {
+      "id": 292,
+      "parola_griko": "seggia",
+      "parola_italiano": "sedia"
+    },
+    {
+      "id": 293,
+      "parola_griko": "ciuriacì",
+      "parola_italiano": "domenica"
+    },
+    {
+      "id": 294,
+      "parola_griko": "arnaci",
+      "parola_italiano": "agnellino"
+    },
+    {
+      "id": 295,
+      "parola_griko": "cristiano",
+      "parola_italiano": "persona"
+    },
+    {
+      "id": 296,
+      "parola_griko": "prosopo",
+      "parola_italiano": "viso"
+    },
+    {
+      "id": 297,
+      "parola_griko": "citta",
+      "parola_italiano": "zitto, zitti"
+    },
+    {
+      "id": 298,
+      "parola_griko": "furno",
+      "parola_italiano": "forno"
+    },
+    {
+      "id": 299,
+      "parola_griko": "chorafi",
+      "parola_italiano": "campo"
+    },
+    {
+      "id": 300,
+      "parola_griko": "maddhia",
+      "parola_italiano": "capelli"
+    },
+    {
       "id": 301,
       "parola_griko": "vesta",
       "parola_italiano": "veste"
     },
     {
-      "id": 128,
-      "parola_griko": "vrachiona",
-      "parola_italiano": "braccio"
+      "id": 302,
+      "parola_griko": "sucia",
+      "parola_italiano": "fichi (le piante di fico)"
     },
     {
-      "id": 746,
-      "parola_griko": "vrechi",
-      "parola_italiano": "piove"
+      "id": 303,
+      "parola_griko": "franza",
+      "parola_italiano": "fronda"
     },
     {
-      "id": 675,
-      "parola_griko": "vrèchome",
-      "parola_italiano": "io mi bagno"
+      "id": 304,
+      "parola_griko": "astico",
+      "parola_italiano": "pavimento"
+    },
+    {
+      "id": 305,
+      "parola_griko": "prama",
+      "parola_italiano": "cosa"
+    },
+    {
+      "id": 306,
+      "parola_griko": "asimegno",
+      "parola_italiano": "argenteo, d'argento"
+    },
+    {
+      "id": 307,
+      "parola_griko": "chrisafegno",
+      "parola_italiano": "aureo, d'oro"
+    },
+    {
+      "id": 308,
+      "parola_griko": "rologi",
+      "parola_italiano": "orologio"
+    },
+    {
+      "id": 309,
+      "parola_griko": "scoccola",
+      "parola_italiano": "sberla"
+    },
+    {
+      "id": 310,
+      "parola_griko": "elie",
+      "parola_italiano": "olive"
+    },
+    {
+      "id": 311,
+      "parola_griko": "gitonissa",
+      "parola_italiano": "vicina di casa"
+    },
+    {
+      "id": 312,
+      "parola_griko": "scarso",
+      "parola_italiano": "pantalone"
+    },
+    {
+      "id": 313,
+      "parola_griko": "frontì",
+      "parola_italiano": "fulmine, saetta"
+    },
+    {
+      "id": 314,
+      "parola_griko": "calò",
+      "parola_italiano": "buono, bravo"
+    },
+    {
+      "id": 315,
+      "parola_griko": "pedia",
+      "parola_italiano": "ragazzi, bambini, figli"
+    },
+    {
+      "id": 316,
+      "parola_griko": "clefti",
+      "parola_italiano": "ruba (dal proverbio: cino pu clefti)"
+    },
+    {
+      "id": 317,
+      "parola_griko": "ena / mia",
+      "parola_italiano": "uno, un tale, una tale"
+    },
+    {
+      "id": 318,
+      "parola_griko": "canè",
+      "parola_italiano": "nessuno; qualche, qualcuno"
+    },
+    {
+      "id": 319,
+      "parola_griko": "camia",
+      "parola_italiano": "nessuna; qualche, qualcuna"
+    },
+    {
+      "id": 320,
+      "parola_griko": "canena",
+      "parola_italiano": "nessuno (neutro); qualcuno"
+    },
+    {
+      "id": 321,
+      "parola_griko": "posso",
+      "parola_italiano": "tanto, parecchio"
+    },
+    {
+      "id": 322,
+      "parola_griko": "quai",
+      "parola_italiano": "certo, un tale, alcuni"
+    },
+    {
+      "id": 323,
+      "parola_griko": "passo",
+      "parola_italiano": "ogni, ciascuno"
+    },
+    {
+      "id": 324,
+      "parola_griko": "passo-ena",
+      "parola_italiano": "ciascuno, ognuno"
+    },
+    {
+      "id": 325,
+      "parola_griko": "olo",
+      "parola_italiano": "tutto"
+    },
+    {
+      "id": 326,
+      "parola_griko": "alìo",
+      "parola_italiano": "poco"
+    },
+    {
+      "id": 327,
+      "parola_griko": "addho",
+      "parola_italiano": "altro (diverso)"
+    },
+    {
+      "id": 328,
+      "parola_griko": "addhona",
+      "parola_italiano": "un altro ancora, un altro in piu"
+    },
+    {
+      "id": 329,
+      "parola_griko": "tispo",
+      "parola_italiano": "qualcuno; nessuno (soggetto)"
+    },
+    {
+      "id": 330,
+      "parola_griko": "tinò",
+      "parola_italiano": "qualcuno; nessuno (complemento oggetto)"
+    },
+    {
+      "id": 331,
+      "parola_griko": "tipoti",
+      "parola_italiano": "qualcosa; niente"
+    },
+    {
+      "id": 332,
+      "parola_griko": "stati",
+      "parola_italiano": "cenere"
+    },
+    {
+      "id": 333,
+      "parola_griko": "ecclisia",
+      "parola_italiano": "chiesa"
+    },
+    {
+      "id": 334,
+      "parola_griko": "mesi",
+      "parola_italiano": "piazza"
+    },
+    {
+      "id": 335,
+      "parola_griko": "mana",
+      "parola_italiano": "mamma"
+    },
+    {
+      "id": 336,
+      "parola_griko": "pedia",
+      "parola_italiano": "figli, ragazzi"
+    },
+    {
+      "id": 337,
+      "parola_griko": "forà",
+      "parola_italiano": "volta"
+    },
+    {
+      "id": 338,
+      "parola_griko": "milò",
+      "parola_italiano": "parlare"
     },
     {
       "id": 339,
       "parola_griko": "vrisko",
       "parola_italiano": "trovare"
+    },
+    {
+      "id": 340,
+      "parola_griko": "psiddha",
+      "parola_italiano": "pulce"
+    },
+    {
+      "id": 341,
+      "parola_griko": "ena / mia",
+      "parola_italiano": "uno / una"
+    },
+    {
+      "id": 342,
+      "parola_griko": "dyo",
+      "parola_italiano": "due"
+    },
+    {
+      "id": 343,
+      "parola_griko": "tris / tria",
+      "parola_italiano": "tre"
+    },
+    {
+      "id": 344,
+      "parola_griko": "tessaris / tessera",
+      "parola_italiano": "quattro"
+    },
+    {
+      "id": 345,
+      "parola_griko": "pente",
+      "parola_italiano": "cinque"
+    },
+    {
+      "id": 346,
+      "parola_griko": "eftà",
+      "parola_italiano": "sette"
+    },
+    {
+      "id": 347,
+      "parola_griko": "deka",
+      "parola_italiano": "dieci"
+    },
+    {
+      "id": 348,
+      "parola_griko": "enteka",
+      "parola_italiano": "undici"
+    },
+    {
+      "id": 349,
+      "parola_griko": "dodeka",
+      "parola_italiano": "dodici"
+    },
+    {
+      "id": 350,
+      "parola_griko": "dekatria",
+      "parola_italiano": "tredici"
+    },
+    {
+      "id": 351,
+      "parola_griko": "dekatessera",
+      "parola_italiano": "quattordici"
+    },
+    {
+      "id": 352,
+      "parola_griko": "ikosi",
+      "parola_italiano": "venti"
+    },
+    {
+      "id": 353,
+      "parola_griko": "trianta",
+      "parola_italiano": "trenta"
+    },
+    {
+      "id": 354,
+      "parola_griko": "saranta",
+      "parola_italiano": "quaranta"
+    },
+    {
+      "id": 355,
+      "parola_griko": "peninta",
+      "parola_italiano": "cinquanta"
+    },
+    {
+      "id": 356,
+      "parola_griko": "eksinta",
+      "parola_italiano": "sessanta"
+    },
+    {
+      "id": 357,
+      "parola_griko": "ebdominta",
+      "parola_italiano": "settanta"
+    },
+    {
+      "id": 358,
+      "parola_griko": "ogdonta",
+      "parola_italiano": "ottanta"
+    },
+    {
+      "id": 359,
+      "parola_griko": "enneninta",
+      "parola_italiano": "novanta"
+    },
+    {
+      "id": 360,
+      "parola_griko": "akatò",
+      "parola_italiano": "cento"
+    },
+    {
+      "id": 361,
+      "parola_griko": "chiglia",
+      "parola_italiano": "mille"
+    },
+    {
+      "id": 362,
+      "parola_griko": "chiliada",
+      "parola_italiano": "migliaio"
+    },
+    {
+      "id": 363,
+      "parola_griko": "zevgari",
+      "parola_italiano": "coppia"
+    },
+    {
+      "id": 364,
+      "parola_griko": "centinaro",
+      "parola_italiano": "centinaio"
+    },
+    {
+      "id": 365,
+      "parola_griko": "monaxò",
+      "parola_italiano": "solo, soltanto"
+    },
+    {
+      "id": 366,
+      "parola_griko": "diplò",
+      "parola_italiano": "doppio"
+    },
+    {
+      "id": 367,
+      "parola_griko": "protinò",
+      "parola_italiano": "primo"
+    },
+    {
+      "id": 368,
+      "parola_griko": "deftera",
+      "parola_italiano": "lunedì (secondo giorno)"
+    },
+    {
+      "id": 369,
+      "parola_griko": "triti",
+      "parola_italiano": "martedì (terzo giorno)"
+    },
+    {
+      "id": 370,
+      "parola_griko": "tetarti",
+      "parola_italiano": "mercoledì (quarto giorno)"
+    },
+    {
+      "id": 371,
+      "parola_griko": "pefti",
+      "parola_italiano": "giovedì (quinto giorno)"
+    },
+    {
+      "id": 372,
+      "parola_griko": "mera",
+      "parola_italiano": "giorno"
+    },
+    {
+      "id": 373,
+      "parola_griko": "misò",
+      "parola_italiano": "metà, mezzo"
+    },
+    {
+      "id": 374,
+      "parola_griko": "sakko",
+      "parola_italiano": "sacco"
+    },
+    {
+      "id": 375,
+      "parola_griko": "matia",
+      "parola_italiano": "occhi"
+    },
+    {
+      "id": 376,
+      "parola_griko": "ena ena",
+      "parola_italiano": "a uno a uno"
+    },
+    {
+      "id": 377,
+      "parola_griko": "ena ti forà",
+      "parola_italiano": "uno alla volta"
+    },
+    {
+      "id": 378,
+      "parola_griko": "egò",
+      "parola_italiano": "io"
+    },
+    {
+      "id": 379,
+      "parola_griko": "emì",
+      "parola_italiano": "noi"
+    },
+    {
+      "id": 380,
+      "parola_griko": "emena",
+      "parola_italiano": "me, di me, a me"
+    },
+    {
+      "id": 381,
+      "parola_griko": "emà",
+      "parola_italiano": "noi, a noi, di noi"
+    },
+    {
+      "id": 382,
+      "parola_griko": "mu",
+      "parola_italiano": "mi, a me; mio"
+    },
+    {
+      "id": 383,
+      "parola_griko": "me",
+      "parola_italiano": "mi (complemento oggetto)"
+    },
+    {
+      "id": 384,
+      "parola_griko": "mas",
+      "parola_italiano": "ci, a noi; nostro"
+    },
+    {
+      "id": 385,
+      "parola_griko": "esù",
+      "parola_italiano": "tu"
+    },
+    {
+      "id": 386,
+      "parola_griko": "esì",
+      "parola_italiano": "voi"
+    },
+    {
+      "id": 387,
+      "parola_griko": "esena",
+      "parola_italiano": "te, di te, a te"
+    },
+    {
+      "id": 388,
+      "parola_griko": "esà",
+      "parola_italiano": "voi, di voi, a voi"
+    },
+    {
+      "id": 389,
+      "parola_griko": "su",
+      "parola_italiano": "ti, a te; tuo"
+    },
+    {
+      "id": 390,
+      "parola_griko": "se",
+      "parola_italiano": "ti (complemento oggetto)"
+    },
+    {
+      "id": 391,
+      "parola_griko": "sas",
+      "parola_italiano": "vi, a voi; vostro"
+    },
+    {
+      "id": 392,
+      "parola_griko": "ecino",
+      "parola_italiano": "egli, lui, quello"
+    },
+    {
+      "id": 393,
+      "parola_griko": "ecini",
+      "parola_italiano": "ella, lei, quella"
+    },
+    {
+      "id": 394,
+      "parola_griko": "ecini / ecina",
+      "parola_italiano": "essi, esse, quelli, quelle"
+    },
+    {
+      "id": 395,
+      "parola_griko": "tu",
+      "parola_italiano": "gli, a lui"
+    },
+    {
+      "id": 396,
+      "parola_griko": "tis",
+      "parola_italiano": "le, a lei"
+    },
+    {
+      "id": 397,
+      "parola_griko": "ton",
+      "parola_italiano": "lo"
+    },
+    {
+      "id": 398,
+      "parola_griko": "tin",
+      "parola_italiano": "la"
+    },
+    {
+      "id": 399,
+      "parola_griko": "tus",
+      "parola_italiano": "li, a loro"
+    },
+    {
+      "id": 400,
+      "parola_griko": "pedàci",
+      "parola_italiano": "ragazza, figlia"
+    },
+    {
+      "id": 401,
+      "parola_griko": "potiri",
+      "parola_italiano": "bicchiere"
+    },
+    {
+      "id": 402,
+      "parola_griko": "krea",
+      "parola_italiano": "carne"
+    },
+    {
+      "id": 403,
+      "parola_griko": "sitari",
+      "parola_italiano": "grano"
+    },
+    {
+      "id": 404,
+      "parola_griko": "krasì",
+      "parola_italiano": "vino"
+    },
+    {
+      "id": 405,
+      "parola_griko": "zomì",
+      "parola_italiano": "pane"
+    },
+    {
+      "id": 406,
+      "parola_griko": "strata",
+      "parola_italiano": "strada"
+    },
+    {
+      "id": 407,
+      "parola_griko": "dascalo",
+      "parola_italiano": "maestro"
+    },
+    {
+      "id": 408,
+      "parola_griko": "mea",
+      "parola_italiano": "grande"
+    },
+    {
+      "id": 409,
+      "parola_griko": "tis",
+      "parola_italiano": "chi"
+    },
+    {
+      "id": 410,
+      "parola_griko": "ti",
+      "parola_italiano": "che, che cosa"
+    },
+    {
+      "id": 411,
+      "parola_griko": "tinos",
+      "parola_italiano": "di chi, a chi"
+    },
+    {
+      "id": 412,
+      "parola_griko": "tino",
+      "parola_italiano": "chi (complemento oggetto); nessuno"
+    },
+    {
+      "id": 413,
+      "parola_griko": "posso",
+      "parola_italiano": "quanto, quanta"
+    },
+    {
+      "id": 414,
+      "parola_griko": "plio",
+      "parola_italiano": "quale"
+    },
+    {
+      "id": 415,
+      "parola_griko": "pu",
+      "parola_italiano": "che, il quale; dove"
+    },
+    {
+      "id": 416,
+      "parola_griko": "ka",
+      "parola_italiano": "che, il quale"
+    },
+    {
+      "id": 417,
+      "parola_griko": "rolòi",
+      "parola_italiano": "orologio"
+    },
+    {
+      "id": 418,
+      "parola_griko": "ebdomada",
+      "parola_italiano": "settimana"
+    },
+    {
+      "id": 419,
+      "parola_griko": "elies",
+      "parola_italiano": "olive"
+    },
+    {
+      "id": 420,
+      "parola_griko": "kalò",
+      "parola_italiano": "buono"
+    },
+    {
+      "id": 421,
+      "parola_griko": "mali",
+      "parola_italiano": "grande"
+    },
+    {
+      "id": 422,
+      "parola_griko": "pachì",
+      "parola_italiano": "grosso"
+    },
+    {
+      "id": 423,
+      "parola_griko": "sperno",
+      "parola_italiano": "semino"
+    },
+    {
+      "id": 424,
+      "parola_griko": "terizo",
+      "parola_italiano": "mieto, raccolgo"
+    },
+    {
+      "id": 425,
+      "parola_griko": "matara",
+      "parola_italiano": "bugiarda"
+    },
+    {
+      "id": 426,
+      "parola_griko": "antama",
+      "parola_italiano": "insieme"
+    },
+    {
+      "id": 427,
+      "parola_griko": "siga siga",
+      "parola_italiano": "piano piano"
+    },
+    {
+      "id": 428,
+      "parola_griko": "krifà",
+      "parola_italiano": "di nascosto"
+    },
+    {
+      "id": 429,
+      "parola_griko": "fanerà",
+      "parola_italiano": "apertamente"
+    },
+    {
+      "id": 430,
+      "parola_griko": "olamià",
+      "parola_italiano": "tutto a un tratto"
+    },
+    {
+      "id": 431,
+      "parola_griko": "kalà",
+      "parola_italiano": "bene"
+    },
+    {
+      "id": 432,
+      "parola_griko": "ascimà",
+      "parola_italiano": "male"
+    },
+    {
+      "id": 433,
+      "parola_griko": "itu",
+      "parola_italiano": "così"
+    },
+    {
+      "id": 434,
+      "parola_griko": "pos",
+      "parola_italiano": "come"
+    },
+    {
+      "id": 435,
+      "parola_griko": "etù",
+      "parola_italiano": "qui"
+    },
+    {
+      "id": 436,
+      "parola_griko": "ecì",
+      "parola_italiano": "lì"
+    },
+    {
+      "id": 437,
+      "parola_griko": "embrò",
+      "parola_italiano": "avanti, davanti"
+    },
+    {
+      "id": 438,
+      "parola_griko": "ampì",
+      "parola_italiano": "dietro"
+    },
+    {
+      "id": 439,
+      "parola_griko": "apanu",
+      "parola_italiano": "sopra"
+    },
+    {
+      "id": 440,
+      "parola_griko": "akau",
+      "parola_italiano": "sotto"
+    },
+    {
+      "id": 441,
+      "parola_griko": "ammesa",
+      "parola_italiano": "in mezzo"
+    },
+    {
+      "id": 442,
+      "parola_griko": "pukanè",
+      "parola_italiano": "dappertutto"
+    },
+    {
+      "id": 443,
+      "parola_griko": "ecessu",
+      "parola_italiano": "lì dentro"
+    },
+    {
+      "id": 444,
+      "parola_griko": "etossu",
+      "parola_italiano": "qui dentro"
+    },
+    {
+      "id": 445,
+      "parola_griko": "essu",
+      "parola_italiano": "dentro, a casa"
+    },
+    {
+      "id": 446,
+      "parola_griko": "ozzu",
+      "parola_italiano": "fuori, in campagna"
+    },
+    {
+      "id": 447,
+      "parola_griko": "macrà",
+      "parola_italiano": "lontano"
+    },
+    {
+      "id": 448,
+      "parola_griko": "kuccia",
+      "parola_italiano": "vicino"
+    },
+    {
+      "id": 449,
+      "parola_griko": "larga",
+      "parola_italiano": "lontano"
+    },
+    {
+      "id": 450,
+      "parola_griko": "etumbrò",
+      "parola_italiano": "qui davanti, qui fuori"
+    },
+    {
+      "id": 451,
+      "parola_griko": "ecimbrò",
+      "parola_italiano": "lì davanti, lì fuori"
+    },
+    {
+      "id": 452,
+      "parola_griko": "sortea",
+      "parola_italiano": "diritto, da quella parte"
+    },
+    {
+      "id": 453,
+      "parola_griko": "ecipisu",
+      "parola_italiano": "là dietro"
+    },
+    {
+      "id": 454,
+      "parola_griko": "pu",
+      "parola_italiano": "dove"
+    },
+    {
+      "id": 455,
+      "parola_griko": "apupù",
+      "parola_italiano": "da dove"
+    },
+    {
+      "id": 456,
+      "parola_griko": "attù ce addhà",
+      "parola_italiano": "di qua e di là"
+    },
+    {
+      "id": 457,
+      "parola_griko": "agrà",
+      "parola_italiano": "rasente"
+    },
+    {
+      "id": 458,
+      "parola_griko": "ettè",
+      "parola_italiano": "ieri"
+    },
+    {
+      "id": 459,
+      "parola_griko": "protettè",
+      "parola_italiano": "avantieri"
+    },
+    {
+      "id": 460,
+      "parola_griko": "panta",
+      "parola_italiano": "sempre"
+    },
+    {
+      "id": 461,
+      "parola_griko": "arte / artena",
+      "parola_italiano": "adesso"
+    },
+    {
+      "id": 462,
+      "parola_griko": "protinà",
+      "parola_italiano": "prima"
+    },
+    {
+      "id": 463,
+      "parola_griko": "attinìtta",
+      "parola_italiano": "stanotte"
+    },
+    {
+      "id": 464,
+      "parola_griko": "attivrài",
+      "parola_italiano": "stasera"
+    },
+    {
+      "id": 465,
+      "parola_griko": "attiporna",
+      "parola_italiano": "stamattina"
+    },
+    {
+      "id": 466,
+      "parola_griko": "porna",
+      "parola_italiano": "mattina"
+    },
+    {
+      "id": 467,
+      "parola_griko": "presta",
+      "parola_italiano": "presto"
+    },
+    {
+      "id": 468,
+      "parola_griko": "tarda",
+      "parola_italiano": "tardi"
+    },
+    {
+      "id": 469,
+      "parola_griko": "avri",
+      "parola_italiano": "domani"
+    },
+    {
+      "id": 470,
+      "parola_griko": "metavrì",
+      "parola_italiano": "dopodomani"
+    },
+    {
+      "id": 471,
+      "parola_griko": "tote",
+      "parola_italiano": "allora"
+    },
+    {
+      "id": 472,
+      "parola_griko": "pale / mapale",
+      "parola_italiano": "di nuovo"
+    },
+    {
+      "id": 473,
+      "parola_griko": "feto",
+      "parola_italiano": "quest'anno"
+    },
+    {
+      "id": 474,
+      "parola_griko": "fetoportè",
+      "parola_italiano": "l'anno venturo"
+    },
+    {
+      "id": 475,
+      "parola_griko": "pertsi",
+      "parola_italiano": "l'anno scorso"
+    },
+    {
+      "id": 476,
+      "parola_griko": "propertsi",
+      "parola_italiano": "due anni fa"
+    },
+    {
+      "id": 477,
+      "parola_griko": "pote",
+      "parola_italiano": "quando"
+    },
+    {
+      "id": 478,
+      "parola_griko": "macheri",
+      "parola_italiano": "coltello"
+    },
+    {
+      "id": 479,
+      "parola_griko": "kanno",
+      "parola_italiano": "camino, focolare"
+    },
+    {
+      "id": 480,
+      "parola_griko": "tipoti",
+      "parola_italiano": "niente; qualcosa"
+    },
+    {
+      "id": 481,
+      "parola_griko": "plion",
+      "parola_italiano": "più"
+    },
+    {
+      "id": 482,
+      "parola_griko": "oligo",
+      "parola_italiano": "poco"
+    },
+    {
+      "id": 483,
+      "parola_griko": "nasprì",
+      "parola_italiano": "un po'"
+    },
+    {
+      "id": 484,
+      "parola_griko": "kaitosso",
+      "parola_italiano": "ogni tanto"
+    },
+    {
+      "id": 485,
+      "parola_griko": "plon oligo",
+      "parola_italiano": "meno"
+    },
+    {
+      "id": 486,
+      "parola_griko": "isa isa",
+      "parola_italiano": "pari pari, appena in tempo"
+    },
+    {
+      "id": 487,
+      "parola_griko": "umme",
+      "parola_italiano": "sì"
+    },
+    {
+      "id": 488,
+      "parola_griko": "degnà",
+      "parola_italiano": "no"
+    },
+    {
+      "id": 489,
+      "parola_griko": "en",
+      "parola_italiano": "non, non c'è"
+    },
+    {
+      "id": 490,
+      "parola_griko": "ghiatì",
+      "parola_italiano": "perché"
+    },
+    {
+      "id": 491,
+      "parola_griko": "alìzia",
+      "parola_italiano": "verità"
+    },
+    {
+      "id": 492,
+      "parola_griko": "propria",
+      "parola_italiano": "affatto, del tutto"
+    },
+    {
+      "id": 493,
+      "parola_griko": "òimena",
+      "parola_italiano": "povero me"
+    },
+    {
+      "id": 494,
+      "parola_griko": "mara cemena",
+      "parola_italiano": "peggio per me"
+    },
+    {
+      "id": 495,
+      "parola_griko": "na",
+      "parola_italiano": "ecco"
+    },
+    {
+      "id": 496,
+      "parola_griko": "fotìa",
+      "parola_italiano": "fuoco (fotìa fotìa = aiuto)"
+    },
+    {
+      "id": 497,
+      "parola_griko": "magàri-mu",
+      "parola_italiano": "beato me"
+    },
+    {
+      "id": 498,
+      "parola_griko": "kalòs irtes",
+      "parola_italiano": "benvenuto"
+    },
+    {
+      "id": 499,
+      "parola_griko": "ce",
+      "parola_italiano": "e"
+    },
+    {
+      "id": 500,
+      "parola_griko": "mide",
+      "parola_italiano": "né"
+    },
+    {
+      "id": 501,
+      "parola_griko": "ma",
+      "parola_italiano": "ma"
+    },
+    {
+      "id": 502,
+      "parola_griko": "mo tuto",
+      "parola_italiano": "con tutto ciò"
+    },
+    {
+      "id": 503,
+      "parola_griko": "ka",
+      "parola_italiano": "che"
+    },
+    {
+      "id": 504,
+      "parola_griko": "an",
+      "parola_italiano": "se"
+    },
+    {
+      "id": 505,
+      "parola_griko": "piri",
+      "parola_italiano": "che (secondo termine di paragone); anziché"
+    },
+    {
+      "id": 506,
+      "parola_griko": "kagliò",
+      "parola_italiano": "meglio"
+    },
+    {
+      "id": 507,
+      "parola_griko": "mai",
+      "parola_italiano": "affinché, finché"
+    },
+    {
+      "id": 508,
+      "parola_griko": "sape",
+      "parola_italiano": "come se"
+    },
+    {
+      "id": 509,
+      "parola_griko": "apù",
+      "parola_italiano": "da"
+    },
+    {
+      "id": 510,
+      "parola_griko": "me",
+      "parola_italiano": "con"
+    },
+    {
+      "id": 511,
+      "parola_griko": "atti",
+      "parola_italiano": "della"
+    },
+    {
+      "id": 512,
+      "parola_griko": "fai",
+      "parola_italiano": "cibo, il mangiare"
+    },
+    {
+      "id": 513,
+      "parola_griko": "mialò",
+      "parola_italiano": "cervello"
+    },
+    {
+      "id": 514,
+      "parola_griko": "plutu",
+      "parola_italiano": "ricchezza"
+    },
+    {
+      "id": 515,
+      "parola_griko": "kupeta",
+      "parola_italiano": "coperta"
+    },
+    {
+      "id": 516,
+      "parola_griko": "dachtilìdi",
+      "parola_italiano": "anello"
+    },
+    {
+      "id": 517,
+      "parola_griko": "chrusò",
+      "parola_italiano": "oro"
+    },
+    {
+      "id": 518,
+      "parola_griko": "praino",
+      "parola_italiano": "carro"
+    },
+    {
+      "id": 519,
+      "parola_griko": "krisari",
+      "parola_italiano": "orzo"
+    },
+    {
+      "id": 520,
+      "parola_griko": "sciddho",
+      "parola_italiano": "cane"
+    },
+    {
+      "id": 521,
+      "parola_griko": "reda",
+      "parola_italiano": "capretta"
+    },
+    {
+      "id": 522,
+      "parola_griko": "denno",
+      "parola_italiano": "io lego"
+    },
+    {
+      "id": 523,
+      "parola_griko": "dennome",
+      "parola_italiano": "io mi lego"
+    },
+    {
+      "id": 524,
+      "parola_griko": "edesa",
+      "parola_italiano": "io legai"
+    },
+    {
+      "id": 525,
+      "parola_griko": "edenna",
+      "parola_italiano": "io legavo"
+    },
+    {
+      "id": 526,
+      "parola_griko": "enna deso",
+      "parola_italiano": "io legherò"
+    },
+    {
+      "id": 527,
+      "parola_griko": "desi",
+      "parola_italiano": "legare"
+    },
+    {
+      "id": 528,
+      "parola_griko": "denonta",
+      "parola_italiano": "legando"
+    },
+    {
+      "id": 529,
+      "parola_griko": "demeno",
+      "parola_italiano": "legato"
+    },
+    {
+      "id": 530,
+      "parola_griko": "destimo",
+      "parola_italiano": "io mi legai"
+    },
+    {
+      "id": 531,
+      "parola_griko": "ime",
+      "parola_italiano": "io sono"
+    },
+    {
+      "id": 532,
+      "parola_griko": "erkome",
+      "parola_italiano": "io vengo"
+    },
+    {
+      "id": 533,
+      "parola_griko": "fenome",
+      "parola_italiano": "io sembro"
+    },
+    {
+      "id": 534,
+      "parola_griko": "ghenome",
+      "parola_italiano": "io divento"
+    },
+    {
+      "id": 535,
+      "parola_griko": "forume",
+      "parola_italiano": "io ho paura"
+    },
+    {
+      "id": 536,
+      "parola_griko": "meno",
+      "parola_italiano": "aspetto, mi fermo"
+    },
+    {
+      "id": 537,
+      "parola_griko": "feo",
+      "parola_italiano": "corro; tolgo"
+    },
+    {
+      "id": 538,
+      "parola_griko": "ghirizo",
+      "parola_italiano": "torno; restituisco"
+    },
+    {
+      "id": 539,
+      "parola_griko": "sozo",
+      "parola_italiano": "posso"
+    },
+    {
+      "id": 540,
+      "parola_griko": "kofto",
+      "parola_italiano": "io taglio"
+    },
+    {
+      "id": 541,
+      "parola_griko": "filò",
+      "parola_italiano": "io bacio"
+    },
+    {
+      "id": 542,
+      "parola_griko": "serno",
+      "parola_italiano": "io tiro"
+    },
+    {
+      "id": 543,
+      "parola_griko": "afinno",
+      "parola_italiano": "io lascio"
+    },
+    {
+      "id": 544,
+      "parola_griko": "orizo",
+      "parola_italiano": "delimitare"
+    },
+    {
+      "id": 545,
+      "parola_griko": "damali",
+      "parola_italiano": "bue, giovenca"
+    },
+    {
+      "id": 546,
+      "parola_griko": "macheria",
+      "parola_italiano": "coltelli"
+    },
+    {
+      "id": 547,
+      "parola_griko": "skarpe",
+      "parola_italiano": "scarpe"
+    },
+    {
+      "id": 548,
+      "parola_griko": "eklisìa",
+      "parola_italiano": "chiesa"
+    },
+    {
+      "id": 549,
+      "parola_griko": "echo",
+      "parola_italiano": "io ho"
+    },
+    {
+      "id": 550,
+      "parola_griko": "echi",
+      "parola_italiano": "tu hai / egli ha"
+    },
+    {
+      "id": 551,
+      "parola_griko": "echome",
+      "parola_italiano": "noi abbiamo"
+    },
+    {
+      "id": 552,
+      "parola_griko": "echete",
+      "parola_italiano": "voi avete"
+    },
+    {
+      "id": 553,
+      "parola_griko": "echune",
+      "parola_italiano": "essi hanno"
+    },
+    {
+      "id": 554,
+      "parola_griko": "icha",
+      "parola_italiano": "io avevo / io ebbi"
+    },
+    {
+      "id": 555,
+      "parola_griko": "ichamo",
+      "parola_italiano": "noi avevamo / noi avemmo"
+    },
+    {
+      "id": 556,
+      "parola_griko": "echonta",
+      "parola_italiano": "avendo (participio)"
+    },
+    {
+      "id": 557,
+      "parola_griko": "na 'cho",
+      "parola_italiano": "che io abbia"
+    },
+    {
+      "id": 558,
+      "parola_griko": "imone",
+      "parola_italiano": "io ero / io fossi / io sarei"
+    },
+    {
+      "id": 559,
+      "parola_griko": "ine",
+      "parola_italiano": "è / essere"
+    },
+    {
+      "id": 560,
+      "parola_griko": "stonta",
+      "parola_italiano": "stando"
+    },
+    {
+      "id": 561,
+      "parola_griko": "stameno",
+      "parola_italiano": "stato"
+    },
+    {
+      "id": 562,
+      "parola_griko": "sozi esti",
+      "parola_italiano": "può essere, è possibile"
+    },
+    {
+      "id": 563,
+      "parola_griko": "sozo",
+      "parola_italiano": "io posso"
+    },
+    {
+      "id": 564,
+      "parola_griko": "na",
+      "parola_italiano": "che (congiunzione finale)"
+    },
+    {
+      "id": 565,
+      "parola_griko": "sìmmeri",
+      "parola_italiano": "oggi"
+    },
+    {
+      "id": 566,
+      "parola_griko": "tipoti",
+      "parola_italiano": "niente"
+    },
+    {
+      "id": 567,
+      "parola_griko": "sordu",
+      "parola_italiano": "soldi"
+    },
+    {
+      "id": 568,
+      "parola_griko": "mài",
+      "parola_italiano": "pane"
+    },
+    {
+      "id": 569,
+      "parola_griko": "skola",
+      "parola_italiano": "scuola"
+    },
+    {
+      "id": 570,
+      "parola_griko": "gratti",
+      "parola_italiano": "letto"
+    },
+    {
+      "id": 571,
+      "parola_griko": "plusio",
+      "parola_italiano": "ricco"
+    },
+    {
+      "id": 572,
+      "parola_griko": "protino",
+      "parola_italiano": "primo"
+    },
+    {
+      "id": 573,
+      "parola_griko": "pratò",
+      "parola_italiano": "cammino"
+    },
+    {
+      "id": 574,
+      "parola_griko": "skarpari",
+      "parola_italiano": "calzolaio"
+    },
+    {
+      "id": 575,
+      "parola_griko": "denni",
+      "parola_italiano": "tu leghi / egli lega"
+    },
+    {
+      "id": 576,
+      "parola_griko": "edenna",
+      "parola_italiano": "io legavo / io legherei"
+    },
+    {
+      "id": 577,
+      "parola_griko": "dennonta",
+      "parola_italiano": "legando"
+    },
+    {
+      "id": 578,
+      "parola_griko": "dedemeno",
+      "parola_italiano": "legato"
+    },
+    {
+      "id": 579,
+      "parola_griko": "echo dedemeno",
+      "parola_italiano": "ho legato"
+    },
+    {
+      "id": 580,
+      "parola_griko": "edesa",
+      "parola_italiano": "legai / ho legato"
+    },
+    {
+      "id": 581,
+      "parola_griko": "enna deso",
+      "parola_italiano": "legherò / devo legare"
+    },
+    {
+      "id": 582,
+      "parola_griko": "na deso",
+      "parola_italiano": "che io leghi / che io legassi"
+    },
+    {
+      "id": 583,
+      "parola_griko": "icha desonta",
+      "parola_italiano": "avessi legato"
+    },
+    {
+      "id": 584,
+      "parola_griko": "desonta",
+      "parola_italiano": "legando / se avesse legato"
+    },
+    {
+      "id": 585,
+      "parola_griko": "dese",
+      "parola_italiano": "lega (tu)"
+    },
+    {
+      "id": 586,
+      "parola_griko": "desete",
+      "parola_italiano": "legate (voi)"
+    },
+    {
+      "id": 587,
+      "parola_griko": "agapài",
+      "parola_italiano": "tu ami"
+    },
+    {
+      "id": 588,
+      "parola_griko": "agapà",
+      "parola_italiano": "egli ama"
+    },
+    {
+      "id": 589,
+      "parola_griko": "agapìome",
+      "parola_italiano": "io sono amato / mi amo"
+    },
+    {
+      "id": 590,
+      "parola_griko": "torò",
+      "parola_italiano": "io vedo, guardo"
+    },
+    {
+      "id": 591,
+      "parola_griko": "kanno",
+      "parola_italiano": "io faccio"
+    },
+    {
+      "id": 592,
+      "parola_griko": "ekanne",
+      "parola_italiano": "faresti / faceva"
+    },
+    {
+      "id": 593,
+      "parola_griko": "fortìa",
+      "parola_italiano": "fascine"
+    },
+    {
+      "id": 594,
+      "parola_griko": "skala",
+      "parola_italiano": "scala"
+    },
+    {
+      "id": 595,
+      "parola_griko": "kalò prama",
+      "parola_italiano": "una cosa buona"
+    },
+    {
+      "id": 596,
+      "parola_griko": "vùi",
+      "parola_italiano": "bue"
+    },
+    {
+      "id": 597,
+      "parola_griko": "spameno",
+      "parola_italiano": "spezzato"
+    },
+    {
+      "id": 598,
+      "parola_griko": "manokkia",
+      "parola_italiano": "covoni"
+    },
+    {
+      "id": 599,
+      "parola_griko": "traìno",
+      "parola_italiano": "carro"
+    },
+    {
+      "id": 600,
+      "parola_griko": "ciuccio",
+      "parola_italiano": "asino"
+    },
+    {
+      "id": 601,
+      "parola_griko": "pesonta",
+      "parola_italiano": "caduto (participio aoristo di cadere)"
+    },
+    {
+      "id": 602,
+      "parola_griko": "dennese",
+      "parola_italiano": "tu ti leghi"
+    },
+    {
+      "id": 603,
+      "parola_griko": "dennete",
+      "parola_italiano": "egli si lega"
+    },
+    {
+      "id": 604,
+      "parola_griko": "edennamo",
+      "parola_italiano": "io mi legavo"
+    },
+    {
+      "id": 605,
+      "parola_griko": "enna destò",
+      "parola_italiano": "devo legarmi"
+    },
+    {
+      "id": 606,
+      "parola_griko": "na destò",
+      "parola_italiano": "che io mi leghi"
+    },
+    {
+      "id": 607,
+      "parola_griko": "destu",
+      "parola_italiano": "legati (tu)"
+    },
+    {
+      "id": 608,
+      "parola_griko": "destesta",
+      "parola_italiano": "legatevi (voi)"
+    },
+    {
+      "id": 609,
+      "parola_griko": "destonta",
+      "parola_italiano": "legandosi / se si fosse legato"
+    },
+    {
+      "id": 610,
+      "parola_griko": "destì",
+      "parola_italiano": "legarsi"
+    },
+    {
+      "id": 611,
+      "parola_griko": "ime dedemeno",
+      "parola_italiano": "io sono legato"
+    },
+    {
+      "id": 612,
+      "parola_griko": "imone dedemeno",
+      "parola_italiano": "io ero legato"
     },
     {
       "id": 613,
@@ -4888,34 +4479,709 @@
       "parola_italiano": "io mi trovo"
     },
     {
-      "id": 280,
-      "parola_griko": "vrizo",
-      "parola_italiano": "ingiuriare (da cui: soprannominare)"
+      "id": 615,
+      "parola_griko": "hanno",
+      "parola_italiano": "io perdo"
     },
     {
-      "id": 596,
-      "parola_griko": "vùi",
-      "parola_italiano": "bue"
+      "id": 616,
+      "parola_griko": "hannome",
+      "parola_italiano": "io mi perdo"
     },
     {
-      "id": 363,
-      "parola_griko": "zevgari",
-      "parola_italiano": "coppia"
+      "id": 617,
+      "parola_griko": "pao",
+      "parola_italiano": "io vado"
     },
     {
-      "id": 69,
-      "parola_griko": "zimòno",
-      "parola_italiano": "io impasto"
+      "id": 618,
+      "parola_griko": "peto",
+      "parola_italiano": "io cado"
     },
     {
-      "id": 176,
-      "parola_griko": "zoì",
-      "parola_italiano": "vita"
+      "id": 619,
+      "parola_griko": "foriome",
+      "parola_italiano": "io ho paura"
     },
     {
-      "id": 405,
-      "parola_griko": "zomì",
-      "parola_italiano": "pane"
+      "id": 620,
+      "parola_griko": "agapiga",
+      "parola_italiano": "io amavo / io amerei"
+    },
+    {
+      "id": 621,
+      "parola_griko": "agaponta",
+      "parola_italiano": "amando"
+    },
+    {
+      "id": 622,
+      "parola_griko": "agapimeno",
+      "parola_italiano": "amato"
+    },
+    {
+      "id": 623,
+      "parola_griko": "agapisa",
+      "parola_italiano": "io amai"
+    },
+    {
+      "id": 624,
+      "parola_griko": "enna agapiso",
+      "parola_italiano": "io amerò"
+    },
+    {
+      "id": 625,
+      "parola_griko": "agapìstume sta",
+      "parola_italiano": "che ci amiamo / che ci amassimo"
+    },
+    {
+      "id": 626,
+      "parola_griko": "toriomesta",
+      "parola_italiano": "ci vediamo"
+    },
+    {
+      "id": 627,
+      "parola_griko": "torisi",
+      "parola_italiano": "vedere"
+    },
+    {
+      "id": 628,
+      "parola_griko": "kiatera",
+      "parola_italiano": "ragazza"
+    },
+    {
+      "id": 629,
+      "parola_griko": "ghineka",
+      "parola_italiano": "donna, moglie"
+    },
+    {
+      "id": 630,
+      "parola_griko": "kronu",
+      "parola_italiano": "anni"
+    },
+    {
+      "id": 631,
+      "parola_griko": "agàpiso",
+      "parola_italiano": "ama (tu)"
+    },
+    {
+      "id": 632,
+      "parola_griko": "agapìsete",
+      "parola_italiano": "amate (voi)"
+    },
+    {
+      "id": 633,
+      "parola_griko": "anàtto",
+      "parola_italiano": "io accendo"
+    },
+    {
+      "id": 634,
+      "parola_griko": "anìo",
+      "parola_italiano": "io apro"
+    },
+    {
+      "id": 635,
+      "parola_griko": "arotò",
+      "parola_italiano": "io domando"
+    },
+    {
+      "id": 636,
+      "parola_griko": "danizo",
+      "parola_italiano": "io presto, do in prestito"
+    },
+    {
+      "id": 637,
+      "parola_griko": "fonazo",
+      "parola_italiano": "io chiamo"
+    },
+    {
+      "id": 638,
+      "parola_griko": "katìome",
+      "parola_italiano": "io mi siedo"
+    },
+    {
+      "id": 639,
+      "parola_griko": "jelò",
+      "parola_italiano": "io rido"
+    },
+    {
+      "id": 640,
+      "parola_griko": "jirizo",
+      "parola_italiano": "io torno, giro"
+    },
+    {
+      "id": 641,
+      "parola_griko": "kanonò",
+      "parola_italiano": "io guardo, osservo"
+    },
+    {
+      "id": 642,
+      "parola_griko": "kratò",
+      "parola_italiano": "io tengo, trattengo"
+    },
+    {
+      "id": 643,
+      "parola_griko": "liparièo",
+      "parola_italiano": "io ingrasso"
+    },
+    {
+      "id": 644,
+      "parola_griko": "mairèo",
+      "parola_italiano": "io cucino"
+    },
+    {
+      "id": 645,
+      "parola_griko": "meletò",
+      "parola_italiano": "io leggo"
+    },
+    {
+      "id": 646,
+      "parola_griko": "merazo",
+      "parola_italiano": "io divido"
+    },
+    {
+      "id": 647,
+      "parola_griko": "ferno",
+      "parola_italiano": "io porto (qua)"
+    },
+    {
+      "id": 648,
+      "parola_griko": "kuo",
+      "parola_italiano": "io sento, ascolto"
+    },
+    {
+      "id": 649,
+      "parola_griko": "perno",
+      "parola_italiano": "io porto (via), prendo"
+    },
+    {
+      "id": 650,
+      "parola_griko": "pianno",
+      "parola_italiano": "io prendo"
+    },
+    {
+      "id": 651,
+      "parola_griko": "pinno",
+      "parola_italiano": "io bevo"
+    },
+    {
+      "id": 652,
+      "parola_griko": "sfazo",
+      "parola_italiano": "io uccido"
+    },
+    {
+      "id": 653,
+      "parola_griko": "spanno",
+      "parola_italiano": "io rompo"
+    },
+    {
+      "id": 654,
+      "parola_griko": "smigo",
+      "parola_italiano": "io mescolo"
+    },
+    {
+      "id": 655,
+      "parola_griko": "sbenno",
+      "parola_italiano": "io spengo"
+    },
+    {
+      "id": 656,
+      "parola_griko": "troo",
+      "parola_italiano": "io mangio"
+    },
+    {
+      "id": 657,
+      "parola_griko": "vaddo",
+      "parola_italiano": "io metto"
+    },
+    {
+      "id": 658,
+      "parola_griko": "apsofò",
+      "parola_italiano": "io muoio, crepo (detto di animali)"
+    },
+    {
+      "id": 659,
+      "parola_griko": "ela / elate",
+      "parola_italiano": "vieni / venite"
+    },
+    {
+      "id": 660,
+      "parola_griko": "mbenno",
+      "parola_italiano": "io entro"
+    },
+    {
+      "id": 661,
+      "parola_griko": "emba / embate",
+      "parola_italiano": "entra / entrate"
+    },
+    {
+      "id": 662,
+      "parola_griko": "afi / afite",
+      "parola_italiano": "lascia / lasciate"
+    },
+    {
+      "id": 663,
+      "parola_griko": "feo",
+      "parola_italiano": "io corro, fuggo"
+    },
+    {
+      "id": 664,
+      "parola_griko": "fie / fiete",
+      "parola_italiano": "corri / correte"
+    },
+    {
+      "id": 665,
+      "parola_griko": "amo / amate",
+      "parola_italiano": "va' / andate"
+    },
+    {
+      "id": 666,
+      "parola_griko": "de / dete",
+      "parola_italiano": "vedi / vedete"
+    },
+    {
+      "id": 667,
+      "parola_griko": "armàzome",
+      "parola_italiano": "io mi sposo"
+    },
+    {
+      "id": 668,
+      "parola_griko": "armàstu",
+      "parola_italiano": "sposati (tu)"
+    },
+    {
+      "id": 669,
+      "parola_griko": "aplònnome",
+      "parola_italiano": "io mi corico"
+    },
+    {
+      "id": 670,
+      "parola_griko": "ksevdìnome",
+      "parola_italiano": "io mi spoglio"
+    },
+    {
+      "id": 671,
+      "parola_griko": "jennìome",
+      "parola_italiano": "io nasco"
+    },
+    {
+      "id": 672,
+      "parola_griko": "kanonìome",
+      "parola_italiano": "io mi guardo"
+    },
+    {
+      "id": 673,
+      "parola_griko": "kratìome",
+      "parola_italiano": "io mi tengo"
+    },
+    {
+      "id": 674,
+      "parola_griko": "klinnome",
+      "parola_italiano": "io mi chiudo"
+    },
+    {
+      "id": 675,
+      "parola_griko": "vrèchome",
+      "parola_italiano": "io mi bagno"
+    },
+    {
+      "id": 676,
+      "parola_griko": "kaìome",
+      "parola_italiano": "io brucio"
+    },
+    {
+      "id": 677,
+      "parola_griko": "ngìzome",
+      "parola_italiano": "io mi tocco"
+    },
+    {
+      "id": 678,
+      "parola_griko": "agonìome",
+      "parola_italiano": "io mi affretto"
+    },
+    {
+      "id": 679,
+      "parola_griko": "rizònome",
+      "parola_italiano": "io mi arrabbio"
+    },
+    {
+      "id": 680,
+      "parola_griko": "skorìzome",
+      "parola_italiano": "io mi separo"
+    },
+    {
+      "id": 681,
+      "parola_griko": "toronta",
+      "parola_italiano": "vedendo, mentre vedevo"
+    },
+    {
+      "id": 682,
+      "parola_griko": "torisonta",
+      "parola_italiano": "se avessi visto"
+    },
+    {
+      "id": 683,
+      "parola_griko": "toristonta",
+      "parola_italiano": "vedendosi, se si fosse visto"
+    },
+    {
+      "id": 684,
+      "parola_griko": "torimeno",
+      "parola_italiano": "visto"
+    },
+    {
+      "id": 685,
+      "parola_griko": "echo torimena",
+      "parola_italiano": "ho visto"
+    },
+    {
+      "id": 686,
+      "parola_griko": "afinnonta",
+      "parola_italiano": "lasciando"
+    },
+    {
+      "id": 687,
+      "parola_griko": "afikonta",
+      "parola_italiano": "avendo lasciato"
+    },
+    {
+      "id": 688,
+      "parola_griko": "dionta",
+      "parola_italiano": "dando"
+    },
+    {
+      "id": 689,
+      "parola_griko": "dokonta",
+      "parola_italiano": "avendo dato"
+    },
+    {
+      "id": 690,
+      "parola_griko": "erkonta",
+      "parola_italiano": "venendo"
+    },
+    {
+      "id": 691,
+      "parola_griko": "irtonta",
+      "parola_italiano": "essendo venuto"
+    },
+    {
+      "id": 692,
+      "parola_griko": "troonta",
+      "parola_italiano": "mangiando"
+    },
+    {
+      "id": 693,
+      "parola_griko": "faonta",
+      "parola_italiano": "se avessi mangiato"
+    },
+    {
+      "id": 694,
+      "parola_griko": "feonta",
+      "parola_italiano": "fuggendo, di corsa"
+    },
+    {
+      "id": 695,
+      "parola_griko": "fionta",
+      "parola_italiano": "se fosse fuggito"
+    },
+    {
+      "id": 696,
+      "parola_griko": "menonta",
+      "parola_italiano": "aspettando"
+    },
+    {
+      "id": 697,
+      "parola_griko": "minonta",
+      "parola_italiano": "avendo aspettato"
+    },
+    {
+      "id": 698,
+      "parola_griko": "leonta",
+      "parola_italiano": "dicendo"
+    },
+    {
+      "id": 699,
+      "parola_griko": "trekonta",
+      "parola_italiano": "correndo"
+    },
+    {
+      "id": 700,
+      "parola_griko": "dramonta",
+      "parola_italiano": "avendo corso"
+    },
+    {
+      "id": 701,
+      "parola_griko": "vaddonta",
+      "parola_italiano": "mettendo"
+    },
+    {
+      "id": 702,
+      "parola_griko": "valonta",
+      "parola_italiano": "se avesse messo"
+    },
+    {
+      "id": 703,
+      "parola_griko": "chalazi",
+      "parola_italiano": "grandine"
+    },
+    {
+      "id": 704,
+      "parola_griko": "fotìa",
+      "parola_italiano": "fuoco"
+    },
+    {
+      "id": 705,
+      "parola_griko": "jali",
+      "parola_italiano": "specchio"
+    },
+    {
+      "id": 706,
+      "parola_griko": "agapimeni",
+      "parola_italiano": "amata"
+    },
+    {
+      "id": 707,
+      "parola_griko": "alàti",
+      "parola_italiano": "sale"
+    },
+    {
+      "id": 708,
+      "parola_griko": "kilìa",
+      "parola_italiano": "pancia"
+    },
+    {
+      "id": 709,
+      "parola_griko": "afika",
+      "parola_italiano": "io lasciai"
+    },
+    {
+      "id": 710,
+      "parola_griko": "afimeno",
+      "parola_italiano": "lasciato"
+    },
+    {
+      "id": 711,
+      "parola_griko": "irta",
+      "parola_italiano": "io venni"
+    },
+    {
+      "id": 712,
+      "parola_griko": "artomeno",
+      "parola_italiano": "venuto"
+    },
+    {
+      "id": 713,
+      "parola_griko": "efaa",
+      "parola_italiano": "io mangiai"
+    },
+    {
+      "id": 714,
+      "parola_griko": "faomeno",
+      "parola_italiano": "mangiato"
+    },
+    {
+      "id": 715,
+      "parola_griko": "leo",
+      "parola_italiano": "io dico"
+    },
+    {
+      "id": 716,
+      "parola_griko": "ipa",
+      "parola_italiano": "io dissi"
+    },
+    {
+      "id": 717,
+      "parola_griko": "pomeno",
+      "parola_italiano": "detto"
+    },
+    {
+      "id": 718,
+      "parola_griko": "ammelo",
+      "parola_italiano": "io butto"
+    },
+    {
+      "id": 719,
+      "parola_griko": "anevenno",
+      "parola_italiano": "io salgo"
+    },
+    {
+      "id": 720,
+      "parola_griko": "apethenno",
+      "parola_italiano": "io muoio"
+    },
+    {
+      "id": 721,
+      "parola_griko": "kèo",
+      "parola_italiano": "io brucio"
+    },
+    {
+      "id": 722,
+      "parola_griko": "dio",
+      "parola_italiano": "io do"
+    },
+    {
+      "id": 723,
+      "parola_griko": "feo",
+      "parola_italiano": "io fuggo, tolgo"
+    },
+    {
+      "id": 724,
+      "parola_griko": "evjenno",
+      "parola_italiano": "io esco"
+    },
+    {
+      "id": 725,
+      "parola_griko": "jènome",
+      "parola_italiano": "io divento, maturo"
+    },
+    {
+      "id": 726,
+      "parola_griko": "ekama",
+      "parola_italiano": "io feci"
+    },
+    {
+      "id": 727,
+      "parola_griko": "kamomeno",
+      "parola_italiano": "fatto"
+    },
+    {
+      "id": 728,
+      "parola_griko": "kathèrno",
+      "parola_italiano": "io pulisco, sbuccio"
+    },
+    {
+      "id": 729,
+      "parola_griko": "kleo",
+      "parola_italiano": "io piango"
+    },
+    {
+      "id": 730,
+      "parola_griko": "kuo",
+      "parola_italiano": "io ascolto, sento"
+    },
+    {
+      "id": 731,
+      "parola_griko": "mathenno",
+      "parola_italiano": "io imparo, insegno"
+    },
+    {
+      "id": 732,
+      "parola_griko": "pezo",
+      "parola_italiano": "io gioco"
+    },
+    {
+      "id": 733,
+      "parola_griko": "perno",
+      "parola_italiano": "io porto (via)"
+    },
+    {
+      "id": 734,
+      "parola_griko": "plenno",
+      "parola_italiano": "io lavo"
+    },
+    {
+      "id": 735,
+      "parola_griko": "limeno",
+      "parola_italiano": "lavato"
+    },
+    {
+      "id": 736,
+      "parola_griko": "sirno",
+      "parola_italiano": "io tiro, trascino"
+    },
+    {
+      "id": 737,
+      "parola_griko": "sperno",
+      "parola_italiano": "io semino"
+    },
+    {
+      "id": 738,
+      "parola_griko": "telo",
+      "parola_italiano": "io voglio"
+    },
+    {
+      "id": 739,
+      "parola_griko": "torò",
+      "parola_italiano": "io vedo, considero"
+    },
+    {
+      "id": 740,
+      "parola_griko": "trecho",
+      "parola_italiano": "io corro, inseguo"
+    },
+    {
+      "id": 741,
+      "parola_griko": "vaddo",
+      "parola_italiano": "io metto, infilo"
+    },
+    {
+      "id": 742,
+      "parola_griko": "chèrome",
+      "parola_italiano": "io sono contento"
+    },
+    {
+      "id": 743,
+      "parola_griko": "astrei",
+      "parola_italiano": "lampeggia"
+    },
+    {
+      "id": 744,
+      "parola_griko": "skotignazi",
+      "parola_italiano": "fa buio"
+    },
+    {
+      "id": 745,
+      "parola_griko": "ksemeronni",
+      "parola_italiano": "albeggia"
+    },
+    {
+      "id": 746,
+      "parola_griko": "vrechi",
+      "parola_italiano": "piove"
+    },
+    {
+      "id": 747,
+      "parola_griko": "chionizi",
+      "parola_italiano": "nevica"
+    },
+    {
+      "id": 748,
+      "parola_griko": "kalojerazi",
+      "parola_italiano": "inizia l'estate"
+    },
+    {
+      "id": 749,
+      "parola_griko": "scimonìazi",
+      "parola_italiano": "inizia l'inverno"
+    },
+    {
+      "id": 750,
+      "parola_griko": "kanni kama",
+      "parola_italiano": "fa caldo"
+    },
+    {
+      "id": 751,
+      "parola_griko": "kanni friddo",
+      "parola_italiano": "fa freddo"
+    },
+    {
+      "id": 752,
+      "parola_griko": "ngizi na",
+      "parola_italiano": "bisogna che"
+    },
+    {
+      "id": 753,
+      "parola_griko": "prepi na",
+      "parola_italiano": "conviene che, bisogna che"
+    },
+    {
+      "id": 754,
+      "parola_griko": "sozi esti",
+      "parola_italiano": "è possibile"
+    },
+    {
+      "id": 755,
+      "parola_griko": "enna",
+      "parola_italiano": "devo, bisogna che"
     }
   ],
   "occurrences": [

@@ -2,7 +2,6 @@ import { useState, useMemo, useEffect } from "react";
 import { useRouter } from "next/router";
 import Layout from "../../components/Layout";
 import { getDizionarioProps } from "../../lib/archive.mjs";
-import carmineData from "../../data/carmine_greco_lessons.json";
 
 const CARMINE_CATEGORIES = [
   { id: "tutte", label: "Tutte le lezioni" },
@@ -19,6 +18,7 @@ export default function Dizionario({
   rules = [],
   lexemes = [],
   occurrences = [],
+  carmineLessons = [],
   carmineRules = [],
   carmineLexemes = [],
   carmineOccurrences = [],
@@ -27,13 +27,6 @@ export default function Dizionario({
 
   const [activeCourse, setActiveCourse] = useState("palma");
   const [query, setQuery] = useState("");
-
-  // Metadati del corso (titolo, durata, proverbio, link YouTube) dal JSON senza
-  // trascrizione. Regole e vocabolario arrivano dalle props.
-  const carmineLessons = useMemo(
-    () => carmineData.lessons.filter((lesson) => !lesson.is_poetry),
-    []
-  );
   const [carmineCategory, setCarmineCategory] = useState("tutte");
   const [carmineSearch, setCarmineSearch] = useState("");
 
@@ -95,7 +88,7 @@ export default function Dizionario({
 
   const carmineLessonById = useMemo(() => {
     const map = {};
-    for (const lesson of carmineLessons) map[lesson.order] = lesson;
+    for (const lesson of carmineLessons) map[lesson.id] = lesson;
     return map;
   }, [carmineLessons]);
 
@@ -165,7 +158,7 @@ export default function Dizionario({
         const linkedLessons = occs
           .map((occurrence) => carmineLessonById[occurrence.lesson_id])
           .filter(Boolean)
-          .map((lesson) => ({ id: lesson.order, titolo: lesson.title, categoria: lesson.category_label }));
+          .map((lesson) => ({ id: lesson.id, titolo: lesson.titolo, categoria: lesson.categoria_label }));
         return {
           id: `carmine-${lexeme.id}`,
           source: "carmine",
@@ -188,13 +181,13 @@ export default function Dizionario({
 
   const filteredCarmineLessons = useMemo(() => {
     return carmineLessons.filter((lesson) => {
-      const matchCat = carmineCategory === "tutte" || lesson.category === carmineCategory;
+      const matchCat = carmineCategory === "tutte" || lesson.categoria === carmineCategory;
       const q = carmineSearch.trim().toLowerCase();
       const matchSearch =
         !q ||
-        lesson.title.toLowerCase().includes(q) ||
-        lesson.summary.toLowerCase().includes(q) ||
-        (lesson.proverb && lesson.proverb.toLowerCase().includes(q));
+        lesson.titolo.toLowerCase().includes(q) ||
+        lesson.sommario.toLowerCase().includes(q) ||
+        (lesson.proverbio && lesson.proverbio.toLowerCase().includes(q));
       return matchCat && matchSearch;
     });
   }, [carmineLessons, carmineCategory, carmineSearch]);
@@ -409,30 +402,28 @@ export default function Dizionario({
               </div>
             ) : (
               filteredCarmineLessons.map((lesson) => {
-                const lessonRules = carmineRulesByLesson[lesson.order] || [];
-                const lessonVocab = (carmineOccurrencesByLesson[lesson.order] || [])
+                const lessonRules = carmineRulesByLesson[lesson.id] || [];
+                const lessonVocab = (carmineOccurrencesByLesson[lesson.id] || [])
                   .map((occurrence) => carmineLexemeById[occurrence.lexeme_id])
                   .filter(Boolean);
                 return (
-                  <article key={lesson.video_id} className="carmine-card">
+                  <article key={lesson.video_id || lesson.id} className="carmine-card">
                     <div className="carmine-card-top">
                       <div className="carmine-badges-group">
-                        <span className="carmine-num-badge">#{String(lesson.order).padStart(2, "0")}</span>
-                        <span className="carmine-cat-badge">{lesson.category_label}</span>
+                        <span className="carmine-num-badge">#{String(lesson.id).padStart(2, "0")}</span>
+                        <span className="carmine-cat-badge">{lesson.categoria_label}</span>
                       </div>
                       <div className="carmine-meta-info">
-                        <span>⏱ {lesson.duration} min</span>
-                        <span>·</span>
-                        <span>~{lesson.words_count} parole</span>
+                        <span>⏱ {lesson.durata} min</span>
                       </div>
                     </div>
 
-                    <h2 className="carmine-lesson-heading">{lesson.title}</h2>
-                    <p className="carmine-summary-body">{lesson.summary}</p>
+                    <h2 className="carmine-lesson-heading">{lesson.titolo}</h2>
+                    <p className="carmine-summary-body">{lesson.sommario}</p>
 
-                    {lesson.proverb && (
+                    {lesson.proverbio && (
                       <div className="carmine-proverb-highlight">
-                        <strong>Proverbio commentato:</strong> {lesson.proverb}
+                        <strong>Proverbio commentato:</strong> {lesson.proverbio}
                       </div>
                     )}
 

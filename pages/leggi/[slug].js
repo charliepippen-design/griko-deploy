@@ -49,7 +49,7 @@ export default function TestoPage({ testo }) {
 export function getStaticPaths() {
   return {
     paths: listTestiSlugs().map((slug) => ({ params: { slug } })),
-    fallback: "blocking",
+    fallback: false,
   };
 }
 

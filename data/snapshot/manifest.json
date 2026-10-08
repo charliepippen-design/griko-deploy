@@ -1,26 +1,24 @@
 {
-  "generatedAt": "2026-10-08T07:17:24.984Z",
-  "sources": {
-    "palma": "supabase",
-    "carmine": "supabase",
-    "testi": "ciuricepedi.it",
-    "places": "public/data/places.json"
-  },
+  "generatedAt": "2026-10-08T07:27:12.220Z",
+  "source": "supabase",
+  "supabaseRef": "xhpcztzisqdzqiwrojvl",
   "counts": {
     "lessons": 73,
     "rules": 158,
     "lexemes": 684,
     "occurrences": 716,
+    "carmineLessons": 24,
     "carmineRules": 283,
     "carmineLexemes": 700,
     "carmineOccurrences": 781,
-    "testi": 157
+    "testi": 158
   },
   "bytes": {
     "palma": 168075,
-    "carmine": 199673,
-    "testi": 2253947
+    "carmine": 210060,
+    "testi": 2261649
   },
-  "excluded": "Nessuna trascrizione integrale di Carmine Greco: esclusi i campi transcript e trascrizione, i file in carmine_transcripts_clean/ e i testi con categoria canto_carmine_greco o licenza cortesia_carmine_greco.",
-  "refresh": "node scripts/refresh-snapshot.mjs --scrape"
+  "places": "public/data/places.json (la tabella places non e' su Supabase)",
+  "excluded": "Esclusi i campi transcript e trascrizione e i testi con categoria canto_carmine_greco o licenza cortesia_carmine_greco.",
+  "refresh": "node scripts/refresh-snapshot.mjs"
 }
