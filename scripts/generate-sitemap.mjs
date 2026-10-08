@@ -6,6 +6,7 @@
 import { readFileSync, writeFileSync } from "fs";
 import { dirname, join } from "path";
 import { fileURLToPath } from "url";
+import { isExcludedTesto } from "../lib/testiDiritti.mjs";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const SITE = "https://www.griko.online";
@@ -41,6 +42,7 @@ function leggiPaths() {
     if (row.categoria === "canto_carmine_greco") continue;
     if (row.licenza === "cortesia_carmine_greco") continue;
     if (!row.titolo || typeof row.testo !== "string" || row.testo.trim().length < 20) continue;
+    if (isExcludedTesto(row)) continue;
     paths.push(`/leggi/${row.slug}`);
   }
   return paths;

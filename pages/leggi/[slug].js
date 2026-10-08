@@ -1,12 +1,12 @@
 import Link from "next/link";
 import Layout from "../../components/Layout";
+import TestoCredit from "../../components/TestoCredit";
 import { getLeggiTestoProps, listTestiSlugs } from "../../lib/archive.mjs";
-import { categoryMeta, excerpt, isGrikoText, licenseLabel } from "../../lib/testiMeta";
+import { categoryMeta, excerpt, isGrikoText } from "../../lib/testiMeta";
 
 export default function TestoPage({ testo }) {
   const meta = categoryMeta(testo.categoria);
   const griko = isGrikoText(testo.categoria);
-  const fonte = licenseLabel(testo.licenza);
 
   return (
     <Layout
@@ -22,19 +22,7 @@ export default function TestoPage({ testo }) {
           ) : (
             <p className="reading-panel-text">{testo.testo}</p>
           )}
-          <p className="reading-panel-source">
-            {testo.url_fonte ? (
-              <>
-                Fonte:{" "}
-                <a href={testo.url_fonte} target="_blank" rel="noopener noreferrer">
-                  {testo.url_fonte}
-                </a>
-              </>
-            ) : (
-              "Fonte non indicata"
-            )}
-            {fonte ? ` · ${fonte}` : ""}
-          </p>
+          <TestoCredit credito={testo.credito} className="reading-panel-source" />
         </article>
         <p style={{ marginTop: "16px" }}>
           <Link href="/leggi" className="section-card-action">

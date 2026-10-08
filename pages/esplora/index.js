@@ -26,7 +26,7 @@ export default function EsploraPage({ places = [], dataSource = "Archivio verifi
       <div style={{ marginBottom: "20px", display: "flex", justifyContent: "space-between", alignItems: "baseline", flexWrap: "wrap", gap: "8px" }}>
         <h2 style={{ fontSize: "1.6rem", margin: 0 }}>Schede dei Borghi della Grecìa Salentina</h2>
         <span style={{ fontSize: "0.85rem", color: "var(--text-tertiary)" }}>
-          {places.length} comuni · Dati demografici ISTAT · Fonti aperte
+          {places.length} comuni · Fonti aperte
         </span>
       </div>
 
