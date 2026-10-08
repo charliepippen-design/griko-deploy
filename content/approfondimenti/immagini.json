@@ -1,0 +1,53 @@
+{
+  "che-cos-e-il-griko": [
+    {
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:GrikoSpeakingCommunitiesTodayV4_it.png",
+      "src": "/images/approfondimenti/che-cos-e-il-griko/GrikoSpeakingCommunitiesTodayV4_it.png",
+      "mime": "image/png",
+      "width": 265,
+      "height": 300,
+      "bytes": 14176,
+      "sha1": "139c9c5db63f7aa45d07a71dbe90a0b8d7c604b7"
+    }
+  ],
+  "kalinifta-matinata": [
+    {
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Vito_Domenico_Palumbo.JPG",
+      "src": "/images/approfondimenti/kalinifta-matinata/Vito_Domenico_Palumbo.JPG",
+      "mime": "image/jpeg",
+      "width": 208,
+      "height": 283,
+      "bytes": 12727,
+      "sha1": "53ef3461315ad2ee19f96866777ed27d1cd2c6ec"
+    }
+  ],
+  "paesi-grecia-salentina": [
+    {
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mappa_dei_comuni_della_Grecia_Salentina.svg",
+      "src": "/images/approfondimenti/paesi-grecia-salentina/Mappa_dei_comuni_della_Grecia_Salentina.svg",
+      "mime": "image/svg+xml",
+      "width": 4402,
+      "height": 5553,
+      "bytes": 159110,
+      "sha1": "c5e6addb9ccd91973bdeddebe130e91b6a01c6ba"
+    },
+    {
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Porta_Fil%C3%ACa_Sternatia.jpg",
+      "src": "/images/approfondimenti/paesi-grecia-salentina/Porta_Fil_a_Sternatia.jpg",
+      "mime": "image/jpeg",
+      "width": 4320,
+      "height": 3240,
+      "bytes": 5930156,
+      "sha1": "67386be57ae435049420c0c0c2448102ae46310e"
+    },
+    {
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Calimera_-_Grecia_Salentina_-_panoramio.jpg",
+      "src": "/images/approfondimenti/paesi-grecia-salentina/Calimera_-_Grecia_Salentina_-_panoramio.jpg",
+      "mime": "image/jpeg",
+      "width": 2048,
+      "height": 1362,
+      "bytes": 1661999,
+      "sha1": "d0e37d78f46798207c701a790c95f61b102a0116"
+    }
+  ]
+}
