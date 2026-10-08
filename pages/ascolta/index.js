@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Layout from "../../components/Layout";
 import carmineData from "../../data/carmine_greco_lessons.json";
+import { normalizeTitle } from "../../lib/titles.mjs";
 
 export default function AscoltaPage() {
   // Filtra i 4 componimenti poetici e musicali di Carmine Greco
@@ -9,7 +10,7 @@ export default function AscoltaPage() {
 
   return (
     <Layout
-      title="Ascolta — Archivio Sonoro e Canti della Grecìa Salentina"
+      title="Ascolta | Archivio Sonoro e Canti della Grecìa Salentina | griko.online"
       description="Ascolta i canti tradizionali, i morolòja e le poesie in lingua grika: interpretazione, trascrizione e commento a cura di Carmine Greco."
     >
       <div className="editorial-hero">
@@ -33,7 +34,7 @@ export default function AscoltaPage() {
                 <div className="ascolta-card-media">
                   <iframe
                     src={item.embed_url}
-                    title={item.title}
+                    title={normalizeTitle(item.title)}
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowFullScreen
                     className="ascolta-video-frame"
@@ -47,7 +48,7 @@ export default function AscoltaPage() {
                     <span className="ascolta-durata">⏱ {item.duration} min</span>
                   </div>
 
-                  <h2 className="ascolta-card-title">{item.title}</h2>
+                  <h2 className="ascolta-card-title">{normalizeTitle(item.title)}</h2>
                   <p className="ascolta-card-summary">{item.summary}</p>
 
                   {item.proverb && (

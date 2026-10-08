@@ -4,7 +4,7 @@ import Layout from "../../components/Layout";
 export default function PersonePage() {
   return (
     <Layout
-      title="Persone & Custodi della Memoria — griko.online"
+      title="Persone & Custodi della Memoria | griko.online"
       description="Biografie e testimonianze dei poeti, studiosi e custodi della lingua grika."
     >
       <div className="editorial-hero">

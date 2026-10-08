@@ -4,7 +4,7 @@ import Layout from "../../components/Layout";
 export default function ArchivioPage() {
   return (
     <Layout
-      title="Archivio Documentale — griko.online"
+      title="Archivio Documentale | griko.online"
       description="Raccolta documentale, testi storici e bibliografia aperta sul griko salentino."
     >
       <div className="editorial-hero">

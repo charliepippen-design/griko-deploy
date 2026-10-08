@@ -97,7 +97,7 @@ export default function HomePage() {
 
   return (
     <Layout
-      title="griko.online — Lingua, memoria e cultura della Grecia Salentina"
+      title="griko.online | Lingua, memoria e cultura della Grecia Salentina"
       description="Portale culturale dedicato alla tutela, studio e documentazione del patrimonio linguistico griko: dizionario, grammatica, borghi ellenofoni e archivio."
     >
       {/* Carosello Poetico Salento, Mare e Grecia Salentina */}
