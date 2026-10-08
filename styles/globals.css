@@ -1245,6 +1245,40 @@ html.light .word-poetic {
   margin-left: 8px;
 }
 
+.lesson-details > summary {
+  list-style: none;
+}
+
+.lesson-details > summary::-webkit-details-marker {
+  display: none;
+}
+
+.lesson-details > summary.lesson-btn {
+  display: flex;
+}
+
+.lesson-details[open] > summary.lesson-btn {
+  border-radius: var(--radius-md) var(--radius-md) 0 0;
+}
+
+.lesson-details .arrow-open,
+.lesson-details[open] .arrow-closed {
+  display: none;
+}
+
+.lesson-details[open] .arrow-open {
+  display: inline;
+}
+
+a.testo-card {
+  text-decoration: none;
+  color: inherit;
+}
+
+.reading-page {
+  margin-top: 12px;
+}
+
 /* ==========================================================================
    STILI PER LE SCHEDE DEI COMUNI (SEZIONE ESPLORA)
    ========================================================================== */

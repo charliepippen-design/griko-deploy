@@ -1,0 +1,8311 @@
+{
+  "lessons": [
+    {
+      "id": 1,
+      "titolo": "Aggettivi qualificativi parossitoni (fem. in -a) (O-Z)",
+      "categoria": "aggettivi",
+      "genere": "femminile",
+      "desinenza": "-a"
+    },
+    {
+      "id": 2,
+      "titolo": "Aggettivi qualificativi parossitoni (fem. in -a) (K-N)",
+      "categoria": "aggettivi",
+      "genere": "femminile",
+      "desinenza": "-a"
+    },
+    {
+      "id": 3,
+      "titolo": "Aggettivi qualificativi parossitoni (fem. in -a) (C-G)",
+      "categoria": "aggettivi",
+      "genere": "femminile",
+      "desinenza": "-a"
+    },
+    {
+      "id": 4,
+      "titolo": "Aggettivi qualificativi parossitoni (fem. in -a) (A)",
+      "categoria": "aggettivi",
+      "genere": "femminile",
+      "desinenza": "-a"
+    },
+    {
+      "id": 5,
+      "titolo": "Aggettivi qualificativi proparossitoni (fem. in -i) (I-Z)",
+      "categoria": "aggettivi",
+      "genere": "femminile",
+      "desinenza": "-i"
+    },
+    {
+      "id": 6,
+      "titolo": "Aggettivi qualificativi proparossitoni (fem. in -i) (C-E)",
+      "categoria": "aggettivi",
+      "genere": "femminile",
+      "desinenza": "-i"
+    },
+    {
+      "id": 7,
+      "titolo": "Aggettivi qualificativi proparossitoni (fem. in -i) (A)",
+      "categoria": "aggettivi",
+      "genere": "femminile",
+      "desinenza": "-i"
+    },
+    {
+      "id": 8,
+      "titolo": "Aggettivi qualificativi parossitoni (fem. in -i)",
+      "categoria": "aggettivi",
+      "genere": "femminile",
+      "desinenza": "-i"
+    },
+    {
+      "id": 9,
+      "titolo": "Aggettivi qualificativi ossitoni (fem. in -ì) (T-Z)",
+      "categoria": "aggettivi",
+      "genere": "femminile",
+      "desinenza": "-ì"
+    },
+    {
+      "id": 10,
+      "titolo": "Aggettivi qualificativi ossitoni (fem. in -ì) (S)",
+      "categoria": "aggettivi",
+      "genere": "femminile",
+      "desinenza": "-ì"
+    },
+    {
+      "id": 11,
+      "titolo": "Aggettivi qualificativi ossitoni (fem. in -ì) (P-R)",
+      "categoria": "aggettivi",
+      "genere": "femminile",
+      "desinenza": "-ì"
+    },
+    {
+      "id": 12,
+      "titolo": "Aggettivi qualificativi ossitoni (fem. in -ì) (L-N)",
+      "categoria": "aggettivi",
+      "genere": "femminile",
+      "desinenza": "-ì"
+    },
+    {
+      "id": 13,
+      "titolo": "Aggettivi qualificativi ossitoni (fem. in -ì) (D-K)",
+      "categoria": "aggettivi",
+      "genere": "femminile",
+      "desinenza": "-ì"
+    },
+    {
+      "id": 14,
+      "titolo": "Aggettivi qualificativi ossitoni (fem. in -ì) (A-CH)",
+      "categoria": "aggettivi",
+      "genere": "femminile",
+      "desinenza": "-ì"
+    },
+    {
+      "id": 15,
+      "titolo": "Aggettivi qualificativi - Aspetti generali",
+      "categoria": "aggettivi",
+      "genere": "",
+      "desinenza": ""
+    },
+    {
+      "id": 16,
+      "titolo": "Lemmi vari dei tre generi",
+      "categoria": "lessico",
+      "genere": "tre generi",
+      "desinenza": ""
+    },
+    {
+      "id": 17,
+      "titolo": "Lemmi rari dei tre generi",
+      "categoria": "lessico",
+      "genere": "tre generi",
+      "desinenza": ""
+    },
+    {
+      "id": 18,
+      "titolo": "Lemmi vari di genere neutro (M-Z)",
+      "categoria": "lessico",
+      "genere": "neutro",
+      "desinenza": ""
+    },
+    {
+      "id": 19,
+      "titolo": "Lemmi vari di genere neutro (A-K)",
+      "categoria": "lessico",
+      "genere": "neutro",
+      "desinenza": ""
+    },
+    {
+      "id": 20,
+      "titolo": "Loja danikà ce ess imisìa (R-V)",
+      "categoria": "lessico",
+      "genere": "",
+      "desinenza": ""
+    },
+    {
+      "id": 21,
+      "titolo": "Loja danikà ce ess imisìa (M-P)",
+      "categoria": "lessico",
+      "genere": "",
+      "desinenza": ""
+    },
+    {
+      "id": 22,
+      "titolo": "Loja danikà ce ess imisìa (A-K)",
+      "categoria": "lessico",
+      "genere": "",
+      "desinenza": ""
+    },
+    {
+      "id": 23,
+      "titolo": "Pluralia tantum di genere neutro",
+      "categoria": "sostantivi",
+      "genere": "neutro",
+      "desinenza": ""
+    },
+    {
+      "id": 24,
+      "titolo": "Sostantivi di genere neutro ossitoni in -o (M-Z)",
+      "categoria": "sostantivi",
+      "genere": "neutro",
+      "desinenza": "-o"
+    },
+    {
+      "id": 25,
+      "titolo": "Sostantivi di genere neutro ossitoni in -o (A-L)",
+      "categoria": "sostantivi",
+      "genere": "neutro",
+      "desinenza": "-o"
+    },
+    {
+      "id": 26,
+      "titolo": "Sostantivi di genere neutro parossitoni in -o (M-Z)",
+      "categoria": "sostantivi",
+      "genere": "neutro",
+      "desinenza": "-o"
+    },
+    {
+      "id": 27,
+      "titolo": "Sostantivi di genere neutro parossitoni in -o (A-L)",
+      "categoria": "sostantivi",
+      "genere": "neutro",
+      "desinenza": "-o"
+    },
+    {
+      "id": 28,
+      "titolo": "Sostantivi di genere neutro proparossitoni in -o (M-Z)",
+      "categoria": "sostantivi",
+      "genere": "neutro",
+      "desinenza": "-o"
+    },
+    {
+      "id": 29,
+      "titolo": "Sostantivi di genere neutro proparossitoni in -o (A-L)",
+      "categoria": "sostantivi",
+      "genere": "neutro",
+      "desinenza": "-o"
+    },
+    {
+      "id": 30,
+      "titolo": "Sostantivi di genere neutro ossitoni in -i",
+      "categoria": "sostantivi",
+      "genere": "neutro",
+      "desinenza": "-i"
+    },
+    {
+      "id": 31,
+      "titolo": "Sostantivi di genere neutro parossitoni in -i (T-Z)",
+      "categoria": "sostantivi",
+      "genere": "neutro",
+      "desinenza": "-i"
+    },
+    {
+      "id": 32,
+      "titolo": "Sostantivi di genere neutro parossitoni in -i (R-S)",
+      "categoria": "sostantivi",
+      "genere": "neutro",
+      "desinenza": "-i"
+    },
+    {
+      "id": 33,
+      "titolo": "Sostantivi di genere neutro parossitoni in -i (L-P)",
+      "categoria": "sostantivi",
+      "genere": "neutro",
+      "desinenza": "-i"
+    },
+    {
+      "id": 34,
+      "titolo": "Sostantivi di genere neutro parossitoni in -i (K)",
+      "categoria": "sostantivi",
+      "genere": "neutro",
+      "desinenza": "-i"
+    },
+    {
+      "id": 35,
+      "titolo": "Sostantivi di genere neutro parossitoni in -i (C-J)",
+      "categoria": "sostantivi",
+      "genere": "neutro",
+      "desinenza": "-i"
+    },
+    {
+      "id": 36,
+      "titolo": "Sostantivi di genere neutro parossitoni in -i (A)",
+      "categoria": "sostantivi",
+      "genere": "neutro",
+      "desinenza": "-i"
+    },
+    {
+      "id": 37,
+      "titolo": "Sostantivi di genere neutro in -i",
+      "categoria": "sostantivi",
+      "genere": "neutro",
+      "desinenza": "-i"
+    },
+    {
+      "id": 38,
+      "titolo": "Altri sostantivi di genere neutro in -a",
+      "categoria": "sostantivi",
+      "genere": "neutro",
+      "desinenza": "-a"
+    },
+    {
+      "id": 39,
+      "titolo": "Sostantivi di genere neutro in -ma derivanti da verbi (M-X)",
+      "categoria": "sostantivi",
+      "genere": "neutro",
+      "desinenza": "-ma"
+    },
+    {
+      "id": 40,
+      "titolo": "Sostantivi di genere neutro in -ma derivanti da verbi (A-K)",
+      "categoria": "sostantivi",
+      "genere": "neutro",
+      "desinenza": "-ma"
+    },
+    {
+      "id": 41,
+      "titolo": "Flessione dei sostantivi di genere neutro",
+      "categoria": "sostantivi",
+      "genere": "neutro",
+      "desinenza": ""
+    },
+    {
+      "id": 42,
+      "titolo": "Sostantivi di genere neutro",
+      "categoria": "sostantivi",
+      "genere": "neutro",
+      "desinenza": ""
+    },
+    {
+      "id": 43,
+      "titolo": "Sostantivi maschili vari",
+      "categoria": "sostantivi",
+      "genere": "maschile",
+      "desinenza": ""
+    },
+    {
+      "id": 44,
+      "titolo": "Loja danikà ce ess imisìa",
+      "categoria": "lessico",
+      "genere": "",
+      "desinenza": ""
+    },
+    {
+      "id": 45,
+      "titolo": "Ìmesta griki - Otranto e Roca 1480/81",
+      "categoria": "storia",
+      "genere": "",
+      "desinenza": ""
+    },
+    {
+      "id": 46,
+      "titolo": "Sostantivi di genere maschile in -a",
+      "categoria": "sostantivi",
+      "genere": "maschile",
+      "desinenza": "-a"
+    },
+    {
+      "id": 47,
+      "titolo": "Sostantivi di genere maschile proparossitoni o sdruccioli in -o",
+      "categoria": "sostantivi",
+      "genere": "maschile",
+      "desinenza": "-o"
+    },
+    {
+      "id": 48,
+      "titolo": "Sostantivi di genere maschile parossitoni o piani in -o (P-V)",
+      "categoria": "sostantivi",
+      "genere": "maschile",
+      "desinenza": "-o"
+    },
+    {
+      "id": 49,
+      "titolo": "Sostantivi di genere maschile parossitoni o piani in -o (A-N)",
+      "categoria": "sostantivi",
+      "genere": "maschile",
+      "desinenza": "-o"
+    },
+    {
+      "id": 50,
+      "titolo": "Sostantivi di genere maschile in -ò",
+      "categoria": "sostantivi",
+      "genere": "maschile",
+      "desinenza": "-ò"
+    },
+    {
+      "id": 51,
+      "titolo": "Sostantivi di genere maschile in -io e -ìo",
+      "categoria": "sostantivi",
+      "genere": "maschile",
+      "desinenza": "-io/-ìo"
+    },
+    {
+      "id": 52,
+      "titolo": "Sostantivi di genere maschile",
+      "categoria": "sostantivi",
+      "genere": "maschile",
+      "desinenza": ""
+    },
+    {
+      "id": 53,
+      "titolo": "Loja ess imisìa",
+      "categoria": "lessico",
+      "genere": "",
+      "desinenza": ""
+    },
+    {
+      "id": 54,
+      "titolo": "Loja danikà",
+      "categoria": "lessico",
+      "genere": "",
+      "desinenza": ""
+    },
+    {
+      "id": 55,
+      "titolo": "Vari sostantivi di genere femminile",
+      "categoria": "sostantivi",
+      "genere": "femminile",
+      "desinenza": ""
+    },
+    {
+      "id": 56,
+      "titolo": "Diminutivi e vezzeggiativi di genere femminile",
+      "categoria": "sostantivi",
+      "genere": "femminile",
+      "desinenza": ""
+    },
+    {
+      "id": 57,
+      "titolo": "Altri sostantivi di genere femminile in -a (III decl.)",
+      "categoria": "sostantivi",
+      "genere": "femminile",
+      "desinenza": "-a"
+    },
+    {
+      "id": 58,
+      "titolo": "Sostantivi di genere femminile in -ida",
+      "categoria": "sostantivi",
+      "genere": "femminile",
+      "desinenza": "-ida"
+    },
+    {
+      "id": 59,
+      "titolo": "Sostantivi di genere femminile in -à(da)",
+      "categoria": "sostantivi",
+      "genere": "femminile",
+      "desinenza": "-à(da)"
+    },
+    {
+      "id": 60,
+      "titolo": "Sostantivi di genere femminile in -i",
+      "categoria": "sostantivi",
+      "genere": "femminile",
+      "desinenza": "-i"
+    },
+    {
+      "id": 61,
+      "titolo": "Altri sostantivi di genere femminile in -a (I decl.)",
+      "categoria": "sostantivi",
+      "genere": "femminile",
+      "desinenza": "-a"
+    },
+    {
+      "id": 62,
+      "titolo": "Sostantivi di genere femminile in -ia",
+      "categoria": "sostantivi",
+      "genere": "femminile",
+      "desinenza": "-ia"
+    },
+    {
+      "id": 63,
+      "titolo": "Sostantivi di genere femminile in -ea",
+      "categoria": "sostantivi",
+      "genere": "femminile",
+      "desinenza": "-ea"
+    },
+    {
+      "id": 64,
+      "titolo": "Sostantivi di genere femminile",
+      "categoria": "sostantivi",
+      "genere": "femminile",
+      "desinenza": ""
+    },
+    {
+      "id": 65,
+      "titolo": "Preposizioni articolate",
+      "categoria": "preposizioni",
+      "genere": "",
+      "desinenza": ""
+    },
+    {
+      "id": 66,
+      "titolo": "Articolo determinativo plurale",
+      "categoria": "articoli",
+      "genere": "",
+      "desinenza": ""
+    },
+    {
+      "id": 67,
+      "titolo": "Articolo determinativo singolare",
+      "categoria": "articoli",
+      "genere": "",
+      "desinenza": ""
+    },
+    {
+      "id": 68,
+      "titolo": "Articolo indeterminativo",
+      "categoria": "articoli",
+      "genere": "",
+      "desinenza": ""
+    },
+    {
+      "id": 69,
+      "titolo": "Fenomeni fonetici consonantici",
+      "categoria": "fonetica",
+      "genere": "",
+      "desinenza": ""
+    },
+    {
+      "id": 70,
+      "titolo": "Fenomeni fonetici vocalici",
+      "categoria": "fonetica",
+      "genere": "",
+      "desinenza": ""
+    },
+    {
+      "id": 71,
+      "titolo": "Il genere",
+      "categoria": "grammatica",
+      "genere": "",
+      "desinenza": ""
+    },
+    {
+      "id": 72,
+      "titolo": "Trascrizione fonetica",
+      "categoria": "fonetica",
+      "genere": "",
+      "desinenza": ""
+    },
+    {
+      "id": 73,
+      "titolo": "Graeci sumus",
+      "categoria": "introduzione",
+      "genere": "",
+      "desinenza": ""
+    }
+  ],
+  "rules": [
+    {
+      "id": 1,
+      "lesson_id": 1,
+      "regola_testo": "Aggettivi qualificativi parossitoni della seconda classe: femminile in -a, maschile/neutro in -o(n)."
+    },
+    {
+      "id": 2,
+      "lesson_id": 1,
+      "regola_testo": "Molte forme maschili/neutre in -o(n) derivano dall'antica desinenza femminile in -a."
+    },
+    {
+      "id": 3,
+      "lesson_id": 2,
+      "regola_testo": "Aggettivi parossitoni (accento sulla penultima) con femminile in -a, iniziali fra K e N."
+    },
+    {
+      "id": 4,
+      "lesson_id": 2,
+      "regola_testo": "macario (beato) è indeclinabile e si usa con pronome enclitico, sdoppiando l'accento (magario ommu = beato me)."
+    },
+    {
+      "id": 5,
+      "lesson_id": 3,
+      "regola_testo": "Aggettivi parossitoni con femminile in -a, iniziali fra C e G; molte forme derivano da quella femminile antica."
+    },
+    {
+      "id": 6,
+      "lesson_id": 3,
+      "regola_testo": "glice (dolce) si scrive senza accento perché EOS/EA non formano dittongo (parola piana)."
+    },
+    {
+      "id": 7,
+      "lesson_id": 4,
+      "regola_testo": "Aggettivi parossitoni con femminile in -a, iniziale A; declinazione tipo aos/aia/aion (Santo)."
+    },
+    {
+      "id": 8,
+      "lesson_id": 4,
+      "regola_testo": "Agios (Santo) davanti a nome: la S si conserva davanti a vocale (as Santoni), la n si adatta in m davanti a p/b (am Blasi)."
+    },
+    {
+      "id": 9,
+      "lesson_id": 5,
+      "regola_testo": "Aggettivi proparossitoni (accento sulla terzultima) con femminile in -i, iniziali fra I e Z."
+    },
+    {
+      "id": 10,
+      "lesson_id": 5,
+      "regola_testo": "Aggettivi con suffisso -ariko (da accusativo terza declinazione) indicano età o stagione: minariko (di un mese), scimonariko (invernale)."
+    },
+    {
+      "id": 11,
+      "lesson_id": 6,
+      "regola_testo": "Aggettivi proparossitoni con femminile in -i, iniziali fra C ed E."
+    },
+    {
+      "id": 12,
+      "lesson_id": 6,
+      "regola_testo": "Alfa privativo (a-) nega il significato della radice; dis- (dus-) indica difficoltà."
+    },
+    {
+      "id": 13,
+      "lesson_id": 7,
+      "regola_testo": "Aggettivi proparossitoni con femminile in -i, iniziale A; molti formati con Alfa privativo che nega la radice."
+    },
+    {
+      "id": 14,
+      "lesson_id": 7,
+      "regola_testo": "I diminutivi vezzeggiativi hanno forma unica per maschile/neutro e distinta al femminile."
+    },
+    {
+      "id": 15,
+      "lesson_id": 8,
+      "regola_testo": "Aggettivi qualificativi parossitoni con femminile in -i (accento sulla penultima)."
+    },
+    {
+      "id": 16,
+      "lesson_id": 8,
+      "regola_testo": "La i del femminile deriva dall'antica vocale lunga ETA, pronunciata i nelle parlate salentine."
+    },
+    {
+      "id": 17,
+      "lesson_id": 9,
+      "regola_testo": "Aggettivi qualificativi ossitoni con femminile in -ì accentato, iniziali fra T e Z."
+    },
+    {
+      "id": 18,
+      "lesson_id": 9,
+      "regola_testo": "Beta si pronuncia B ed ETA si pronuncia è alla maniera erasmiana (pronuncia antica)."
+    },
+    {
+      "id": 19,
+      "lesson_id": 10,
+      "regola_testo": "Negli aggettivi ossitoni con femminile in -ì, la Z dentale sorda aspirata preceduta da mu diventa doppia T (es. spinta > spittò)."
+    },
+    {
+      "id": 20,
+      "lesson_id": 10,
+      "regola_testo": "In greco antico la gamma davanti a un'altra gutturale si pronuncia come n nasale (es. sfingtos > spitto)."
+    },
+    {
+      "id": 21,
+      "lesson_id": 10,
+      "regola_testo": "Il greco non ammette più di tre sillabe consecutive con una sola emissione di fiato: si aggiunge un secondo accento."
+    },
+    {
+      "id": 22,
+      "lesson_id": 11,
+      "regola_testo": "Negli aggettivi ossitoni la s/n finale del maschile e neutro si conserva e si scrive davanti a parola che inizia per vocale."
+    },
+    {
+      "id": 23,
+      "lesson_id": 11,
+      "regola_testo": "I verbi in -eno (dall'antico -aino, per metatesi della r) possono avere valore transitivo o intransitivo senza forma riflessiva media."
+    },
+    {
+      "id": 24,
+      "lesson_id": 12,
+      "regola_testo": "Gli aggettivi ossitoni con femminile in -ì derivano spesso da aggettivi antichi col femminile in -a, poi uniformatosi alla terminazione prevalente ETA."
+    },
+    {
+      "id": 25,
+      "lesson_id": 12,
+      "regola_testo": "Con parola clitica atona che porterebbe oltre le tre sillabe, nasce un secondo accento sulla sillaba clitica."
+    },
+    {
+      "id": 26,
+      "lesson_id": 13,
+      "regola_testo": "In alcuni aggettivi/verbi la vocale iniziale antica può cadere (es. endiastikò > diastikò; anitto > nitto)."
+    },
+    {
+      "id": 27,
+      "lesson_id": 13,
+      "regola_testo": "Dopo una n esplicita l'aggettivo raddoppia la consonante iniziale (es. glielastò diventa gghielastò)."
+    },
+    {
+      "id": 28,
+      "lesson_id": 14,
+      "regola_testo": "Gli aggettivi ossitoni si dividono in due classi in base al femminile (in -ì o in -a) e si declinano come i sostantivi del genere corrispondente."
+    },
+    {
+      "id": 29,
+      "lesson_id": 14,
+      "regola_testo": "Le parole ossitone in greco non sono tronche come in italiano ma spesso contratte (due vocali che si contraggono)."
+    },
+    {
+      "id": 30,
+      "lesson_id": 15,
+      "regola_testo": "Gli aggettivi qualificativi si distinguono in due classi in base al femminile al nominativo singolare: in -ì (da ETA) o in -a; maschile e neutro in -os e -on."
+    },
+    {
+      "id": 31,
+      "lesson_id": 15,
+      "regola_testo": "Il femminile in -ì deriva dall'antica ETA evolutasi in i nella pronuncia; in casi conservativi resta la e."
+    },
+    {
+      "id": 32,
+      "lesson_id": 16,
+      "regola_testo": "Molti lemmi dei tre generi derivano da termini greci antichi tramite metatesi della r o alloglotti entrati per via latina."
+    },
+    {
+      "id": 33,
+      "lesson_id": 16,
+      "regola_testo": "Le forme tronche (accento sull'ultima) alternano con forme piane a seconda del termine (es. ramma/rammàta)."
+    },
+    {
+      "id": 34,
+      "lesson_id": 17,
+      "regola_testo": "Molti lemmi rari dei tre generi si riscontrano soprattutto in letteratura più che nel parlato e presentano più varianti."
+    },
+    {
+      "id": 35,
+      "lesson_id": 17,
+      "regola_testo": "Alcune parole potrebbero essere alloglotte o di sostrato pre-ellenico e vanno confrontate col greco antico o medievale."
+    },
+    {
+      "id": 36,
+      "lesson_id": 18,
+      "regola_testo": "I lemmi neutri derivano spesso da diminutivi greci antichi (es. -ion), con conservazione del suono u antico."
+    },
+    {
+      "id": 37,
+      "lesson_id": 18,
+      "regola_testo": "Le forme tronche alternano con le piane; la doppia D segnala pronuncia cacuminale."
+    },
+    {
+      "id": 38,
+      "lesson_id": 19,
+      "regola_testo": "I diminutivi neutri in -acin/-ain/-i derivano da forme antiche in -ion; al plurale danno -acia."
+    },
+    {
+      "id": 39,
+      "lesson_id": 19,
+      "regola_testo": "Molti neutri sono aggettivi sostantivati (colori, qualità) che assumono valore di sostantivo."
+    },
+    {
+      "id": 40,
+      "lesson_id": 19,
+      "regola_testo": "Il griko conserva forme arcaiche più vicine al greco antico che al moderno."
+    },
+    {
+      "id": 41,
+      "lesson_id": 20,
+      "regola_testo": "Parole di genere neutro di origine straniera (totale o parziale) o ibride, con iniziale R-V."
+    },
+    {
+      "id": 42,
+      "lesson_id": 20,
+      "regola_testo": "I prestiti spesso mantengono forme del greco antico o subiscono dissimilazione (es. sabaton da sciabbat)."
+    },
+    {
+      "id": 43,
+      "lesson_id": 21,
+      "regola_testo": "Parole di genere neutro di origine straniera o meticciata, con iniziale M-P."
+    },
+    {
+      "id": 44,
+      "lesson_id": 21,
+      "regola_testo": "L'origine dei prestiti va indicata con prudenza (latino, francese, spagnolo, germanico)."
+    },
+    {
+      "id": 45,
+      "lesson_id": 22,
+      "regola_testo": "Parole di genere neutro non propriamente elleniche (da altre lingue o miste), con iniziale A-K."
+    },
+    {
+      "id": 46,
+      "lesson_id": 22,
+      "regola_testo": "Non ogni parola ritenuta grecismo lo è: crombolo deriva in realtà dal latino morula."
+    },
+    {
+      "id": 47,
+      "lesson_id": 23,
+      "regola_testo": "I pluralia tantum di genere neutro si usano solo al plurale, pur derivando da un singolare."
+    },
+    {
+      "id": 48,
+      "lesson_id": 23,
+      "regola_testo": "Il griko conserva le doppie antiche e talvolta le crea, a differenza del greco moderno."
+    },
+    {
+      "id": 49,
+      "lesson_id": 24,
+      "regola_testo": "Sostantivi neutri ossitoni in -o (accento sull'ultima sillaba), iniziali M-Z."
+    },
+    {
+      "id": 50,
+      "lesson_id": 24,
+      "regola_testo": "Una doppia iniziale (es. nnero) può derivare dall'assorbimento della n dell'articolo maschile accusativo ton."
+    },
+    {
+      "id": 51,
+      "lesson_id": 25,
+      "regola_testo": "Sostantivi neutri parossitoni in -o (accento sulla penultima sillaba), iniziali A-L."
+    },
+    {
+      "id": 52,
+      "lesson_id": 25,
+      "regola_testo": "La s finale può sentirsi o meno per raddoppiamento sintattico secondo la parola successiva."
+    },
+    {
+      "id": 53,
+      "lesson_id": 26,
+      "regola_testo": "Sostantivi neutri parossitoni in -o (accento sulla penultima), iniziali M-Z."
+    },
+    {
+      "id": 54,
+      "lesson_id": 26,
+      "regola_testo": "Alcuni neutri hanno plurale in -i (es. mero/meri) in analogia col greco antico."
+    },
+    {
+      "id": 55,
+      "lesson_id": 27,
+      "regola_testo": "Sostantivi neutri parossitoni in -o (accento sulla penultima), iniziali A-L."
+    },
+    {
+      "id": 56,
+      "lesson_id": 27,
+      "regola_testo": "La legge del trisillabismo impone un secondo accento quando un possessivo clitico sposterebbe l'accento oltre la terzultima."
+    },
+    {
+      "id": 57,
+      "lesson_id": 28,
+      "regola_testo": "I sostantivi neutri proparossitoni in -o (accento sulla terzultima) formano il plurale in -a."
+    },
+    {
+      "id": 58,
+      "lesson_id": 28,
+      "regola_testo": "Aggiungendo un suffisso che crea una quartultima sillaba, la parola prende un secondo accento (es. proato > proatato)."
+    },
+    {
+      "id": 59,
+      "lesson_id": 29,
+      "regola_testo": "I sostantivi neutri proparossitoni in -o hanno il plurale in -a (es. sidero/sidera)."
+    },
+    {
+      "id": 60,
+      "lesson_id": 29,
+      "regola_testo": "La -n finale in parentesi è strutturale (non eufonica): si conserva davanti a vocale."
+    },
+    {
+      "id": 61,
+      "lesson_id": 30,
+      "regola_testo": "I sostantivi neutri ossitoni in -i hanno l'accento sull'ultima sillaba e sono pochi rispetto ai parossitoni."
+    },
+    {
+      "id": 62,
+      "lesson_id": 30,
+      "regola_testo": "Molti derivano da parole realmente attestate nel greco medievale."
+    },
+    {
+      "id": 63,
+      "lesson_id": 31,
+      "regola_testo": "I sostantivi neutri parossitoni in -i, iniziali T-Z, spesso derivano da diminutivi greci in -ion."
+    },
+    {
+      "id": 64,
+      "lesson_id": 31,
+      "regola_testo": "La consonante dopo l'accento spesso si raddoppia; -nt- e -mp- si conservano senza assimilare."
+    },
+    {
+      "id": 65,
+      "lesson_id": 32,
+      "regola_testo": "I sostantivi neutri parossitoni in -i, iniziali R-S, nascono per lo più come diminutivi greci in -ion."
+    },
+    {
+      "id": 66,
+      "lesson_id": 32,
+      "regola_testo": "La -n strutturale riappare quando è seguita da vocale o da certe consonanti."
+    },
+    {
+      "id": 67,
+      "lesson_id": 33,
+      "regola_testo": "I sostantivi neutri parossitoni in -i, iniziali L-P, derivano spesso da diminutivi greci in -ion."
+    },
+    {
+      "id": 68,
+      "lesson_id": 33,
+      "regola_testo": "Alcune parole sono meticciate (radice non greca con struttura greca)."
+    },
+    {
+      "id": 69,
+      "lesson_id": 34,
+      "regola_testo": "I sostantivi neutri parossitoni in -i, iniziali K, derivano da diminutivi greci in -ion e fanno plurale in -a col raddoppio della consonante dopo l'accento."
+    },
+    {
+      "id": 70,
+      "lesson_id": 34,
+      "regola_testo": "Nella grecìa salentina i gruppi consonantici e le doppie si conservano (dissimilazione, non assimilazione: cromidi vs crommidi)."
+    },
+    {
+      "id": 71,
+      "lesson_id": 35,
+      "regola_testo": "I sostantivi neutri parossitoni in -i, iniziali C-J, derivano da diminutivi in -ion; i nomi dei frutti sono neutri mentre gli alberi sono femminili."
+    },
+    {
+      "id": 72,
+      "lesson_id": 35,
+      "regola_testo": "Il plurale in -a palatalizza la -n- (es. demoni > demonia)."
+    },
+    {
+      "id": 73,
+      "lesson_id": 36,
+      "regola_testo": "I sostantivi neutri parossitoni in -i, iniziali A, derivano da diminutivi greci in -ion (terminazione -ion pronunciata -i)."
+    },
+    {
+      "id": 74,
+      "lesson_id": 36,
+      "regola_testo": "La vocale iniziale spesso deriva dall'assorbimento dell'accento/articolo, non da forma dorica."
+    },
+    {
+      "id": 75,
+      "lesson_id": 37,
+      "regola_testo": "I sostantivi neutri in -i comprendono parossitoni e ossitoni; molti derivano da diminutivi in -ion diventati di grado normale."
+    },
+    {
+      "id": 76,
+      "lesson_id": 37,
+      "regola_testo": "Esistono sottotipi in -ai e -oi accentati sul dittongo finale (es. pedai da paidaction, alai da eladion)."
+    },
+    {
+      "id": 77,
+      "lesson_id": 38,
+      "regola_testo": "I sostantivi neutri in -a (spesso in -ma correlati a verbi) restano neutri, non femminili nonostante la terminazione in -a; al plurale aggiungono -ta."
+    },
+    {
+      "id": 78,
+      "lesson_id": 38,
+      "regola_testo": "Nelle parole polisillabiche l'accento non può cadere oltre la terzultima: aggiungendo -ta al plurale l'accento si sposta in avanti."
+    },
+    {
+      "id": 79,
+      "lesson_id": 38,
+      "regola_testo": "L'aferesi (caduta della vocale iniziale atona) è tipica di Calimera; a Martano avviene la protesi (aggiunta di vocali iniziali)."
+    },
+    {
+      "id": 80,
+      "lesson_id": 39,
+      "regola_testo": "Prosegue l'esame dei sostantivi neutri in -ma derivanti da verbi (iniziale M-X), in ordine alfabetico."
+    },
+    {
+      "id": 81,
+      "lesson_id": 39,
+      "regola_testo": "Al plurale, per parole di almeno tre sillabe, l'accento si sposta in avanti per rispettare la legge del trisillabo."
+    },
+    {
+      "id": 82,
+      "lesson_id": 39,
+      "regola_testo": "Alcune parole con una sola -m al singolare raddoppiano la -m al plurale quando l'accento resta indietro."
+    },
+    {
+      "id": 83,
+      "lesson_id": 40,
+      "regola_testo": "I sostantivi neutri in -ma derivanti da verbi (iniziale A-K) esprimono il concetto legato a un verbo; molti verbi d'origine sono ancora in uso."
+    },
+    {
+      "id": 84,
+      "lesson_id": 40,
+      "regola_testo": "Al plurale aggiungono -ta con spostamento dell'accento; se la parola è bisillaba (es. derma) l'accento resta al suo posto."
+    },
+    {
+      "id": 85,
+      "lesson_id": 41,
+      "regola_testo": "Nei sostantivi neutri nominativo, accusativo e vocativo sono uguali sia al singolare sia al plurale."
+    },
+    {
+      "id": 86,
+      "lesson_id": 41,
+      "regola_testo": "I neutri da temi antichi in -os fanno plurale in -i; i neutri in -a fanno plurale in -ata; altri fanno plurale in -a."
+    },
+    {
+      "id": 87,
+      "lesson_id": 41,
+      "regola_testo": "Al genitivo/dativo la desinenza singolare è -u e plurale -o(n)/-os, con eventuale spostamento dell'accento."
+    },
+    {
+      "id": 88,
+      "lesson_id": 42,
+      "regola_testo": "I sostantivi neutri conservano la flessione nominale (a differenza dell'italiano); si classificano per terminazione (-a, -i, -o) e i neutri in -ma aggiungono una sillaba al plurale."
+    },
+    {
+      "id": 89,
+      "lesson_id": 42,
+      "regola_testo": "I nomi dei frutti sono neutri, mentre i nomi delle piante sono femminili."
+    },
+    {
+      "id": 90,
+      "lesson_id": 42,
+      "regola_testo": "Esistono neutri pluralia tantum e diminutivi in -i (da -ion) che oggi hanno valore normale."
+    },
+    {
+      "id": 91,
+      "lesson_id": 43,
+      "regola_testo": "Rassegna conclusiva di sostantivi maschili di varia tipologia: parole greche, prestiti e alloglotte."
+    },
+    {
+      "id": 92,
+      "lesson_id": 43,
+      "regola_testo": "Alcune particelle pronominali identiche in italiano si distinguono in griko per caso: dativo contro accusativo."
+    },
+    {
+      "id": 93,
+      "lesson_id": 44,
+      "regola_testo": "Lezione sui prestiti (loja danikà) e sulle parole ibride (ess imisìa), nate dalla fusione tra griko e altre lingue."
+    },
+    {
+      "id": 94,
+      "lesson_id": 44,
+      "regola_testo": "Il singolare può essere assente in parole pluralia tantum."
+    },
+    {
+      "id": 95,
+      "lesson_id": 45,
+      "regola_testo": "Lezione narrativa/storica (non grammaticale): ricostruzione documentata della presa di Otranto e Roca da parte dei Turchi nel 1480-81, con revisione critica di numeri, date e leggende popolari."
+    },
+    {
+      "id": 96,
+      "lesson_id": 46,
+      "regola_testo": "I sostantivi maschili con nominativo in -a derivano dalla terza declinazione antica (dall'accusativo); al plurale nom./voc. in -i e gen./dat. in -o(n)/-os."
+    },
+    {
+      "id": 97,
+      "lesson_id": 46,
+      "regola_testo": "Alcuni maschili cambiano genere diventando neutri nella flessione (es. poda > plurale neutro pòdia)."
+    },
+    {
+      "id": 98,
+      "lesson_id": 47,
+      "regola_testo": "I sostantivi maschili proparossitoni (sdruccioli) in -o hanno l'accento sulla terzultima sillaba al nominativo singolare."
+    },
+    {
+      "id": 99,
+      "lesson_id": 47,
+      "regola_testo": "Nella flessione, se la vocale dell'ultima sillaba è lunga, l'accento si sposta sulla penultima (es. ànemo > anèmo)."
+    },
+    {
+      "id": 100,
+      "lesson_id": 47,
+      "regola_testo": "Con un possessivo enclitico atono la parola aggiunge un secondo accento (es. sfòndilo > sfondilòssu)."
+    },
+    {
+      "id": 101,
+      "lesson_id": 48,
+      "regola_testo": "I sostantivi maschili parossitoni (piani) in -o hanno l'accento sulla penultima; iniziali P-V."
+    },
+    {
+      "id": 102,
+      "lesson_id": 48,
+      "regola_testo": "Molte derivano dal greco antico spesso con metatesi consonantica (es. coradia da podaria)."
+    },
+    {
+      "id": 103,
+      "lesson_id": 49,
+      "regola_testo": "I sostantivi maschili parossitoni (piani) in -o con iniziale A-N."
+    },
+    {
+      "id": 104,
+      "lesson_id": 49,
+      "regola_testo": "crono (anno) sposta l'accento sull'ultima al genitivo plurale quando indica età o durata (cronò)."
+    },
+    {
+      "id": 105,
+      "lesson_id": 50,
+      "regola_testo": "I sostantivi maschili in -ò (accento sull'ultima) derivano dalla seconda declinazione antica; non sono tronchi ma frutto di contrazione vocalica."
+    },
+    {
+      "id": 106,
+      "lesson_id": 50,
+      "regola_testo": "Alcuni aggettivi sostantivati terminano in -ò accentata (es. alò, chinipò)."
+    },
+    {
+      "id": 107,
+      "lesson_id": 51,
+      "regola_testo": "I sostantivi maschili in -io (accento su sillaba precedente) e in -ìo (accento sulla i)."
+    },
+    {
+      "id": 108,
+      "lesson_id": 52,
+      "regola_testo": "Panoramica dei sostantivi maschili: in -o (seconda declinazione), in -ò accentata, in -io/-ìo, e in -a (terza declinazione, dall'accusativo)."
+    },
+    {
+      "id": 109,
+      "lesson_id": 52,
+      "regola_testo": "I nomi propri maschili in -o formano il vocativo sostituendo -o con -i (es. Lenardo > Lenard); quelli in -a restano invariati."
+    },
+    {
+      "id": 110,
+      "lesson_id": 52,
+      "regola_testo": "Il genitivo-dativo dei maschili in -o è in -u (es. lico > licu)."
+    },
+    {
+      "id": 111,
+      "lesson_id": 53,
+      "regola_testo": "Loja ess imisìa: parole ibride/meticciate, composte fondendo elementi di lingue diverse (greco, latino, francese, celtico); etimologie spesso congetturali."
+    },
+    {
+      "id": 112,
+      "lesson_id": 53,
+      "regola_testo": "Molte di queste voci sono di ambito agricolo e gastronomico."
+    },
+    {
+      "id": 113,
+      "lesson_id": 54,
+      "regola_testo": "Vari sostantivi (e aggettivi) di genere femminile che sono prestiti da altre lingue (latino, talora antico francese)."
+    },
+    {
+      "id": 114,
+      "lesson_id": 54,
+      "regola_testo": "Davanti a p/b si scrive m, davanti a f la n (es. ambugghia/anfora)."
+    },
+    {
+      "id": 115,
+      "lesson_id": 55,
+      "regola_testo": "Riepilogo dei sostantivi femminili: in -a e in -i, della prima e terza declinazione antica, con diminutivi e vezzeggiativi."
+    },
+    {
+      "id": 116,
+      "lesson_id": 55,
+      "regola_testo": "Alcune parole cambiano genere rispetto al greco antico (es. pira, maschile in antico, oggi femminile)."
+    },
+    {
+      "id": 117,
+      "lesson_id": 56,
+      "regola_testo": "I diminutivi e vezzeggiativi femminili si formano con suffissi come -edda/-edduci; spesso conservano un significato traslato."
+    },
+    {
+      "id": 118,
+      "lesson_id": 56,
+      "regola_testo": "Alcuni diminutivi conservano il significato antico della radice: caletta bellina da calè (anticamente bella)."
+    },
+    {
+      "id": 119,
+      "lesson_id": 57,
+      "regola_testo": "Molti sostantivi femminili in -a derivano dall'accusativo della terza declinazione greca antica (es. alopos > alupuna volpe)."
+    },
+    {
+      "id": 120,
+      "lesson_id": 57,
+      "regola_testo": "La parola mano al plurale (cheria) si comporta come neutro per l'organo, ma è femminile in altri usi."
+    },
+    {
+      "id": 121,
+      "lesson_id": 58,
+      "regola_testo": "I sostantivi femminili in -ida derivano dall'accusativo (-ida) di termini della terza declinazione greca antica."
+    },
+    {
+      "id": 122,
+      "lesson_id": 58,
+      "regola_testo": "Talvolta l'ultima sillaba si pronuncia con dentale sorda (-ita) invece di sonora (-ida) secondo le parlate."
+    },
+    {
+      "id": 123,
+      "lesson_id": 59,
+      "regola_testo": "Molti sostantivi femminili in -a (con o senza -da finale) derivano localmente da verbi greci (es. prima imbiancatura da frio)."
+    },
+    {
+      "id": 124,
+      "lesson_id": 59,
+      "regola_testo": "Casi come forada cavalla non si abbreviano per distinguerli da parole simili (ora volta/tempo)."
+    },
+    {
+      "id": 125,
+      "lesson_id": 60,
+      "regola_testo": "I sostantivi femminili in -i (accentata) derivano quasi tutti dalla prima declinazione greca antica, alcuni dalla terza."
+    },
+    {
+      "id": 126,
+      "lesson_id": 60,
+      "regola_testo": "I giorni della settimana femminili derivano da numerali ordinali: petti giovedì (quinto), tetradi mercoledì (quarto), triti martedì (terzo)."
+    },
+    {
+      "id": 127,
+      "lesson_id": 61,
+      "regola_testo": "Altri sostantivi femminili in -a derivano dalla prima declinazione greca antica (es. celona testuggine, nemera giorno)."
+    },
+    {
+      "id": 128,
+      "lesson_id": 61,
+      "regola_testo": "Molti nomi mantengono desinenza in -a di origine dorica, tipica della lingua greco-salentina."
+    },
+    {
+      "id": 129,
+      "lesson_id": 62,
+      "regola_testo": "I sostantivi femminili in -ia derivano quasi tutti dalla prima declinazione greca antica (spesso da aggettivi o verbi)."
+    },
+    {
+      "id": 130,
+      "lesson_id": 62,
+      "regola_testo": "Alcuni sono termini più letterari o caduti in disuso, talora con significato traslato."
+    },
+    {
+      "id": 131,
+      "lesson_id": 63,
+      "regola_testo": "I sostantivi femminili in -ea derivano da un'antica desinenza in -ea; i nomi di piante/alberi sono femminili."
+    },
+    {
+      "id": 132,
+      "lesson_id": 63,
+      "regola_testo": "Spesso il nome dell'albero (femminile in -ea) si affianca a quello del frutto (neutro): es. caridi noce > caridea noce (albero)."
+    },
+    {
+      "id": 133,
+      "lesson_id": 64,
+      "regola_testo": "I sostantivi femminili derivano dalla prima declinazione (terminano in -a o -i) o dalla terza (forma dell'accusativo, di solito in -a)."
+    },
+    {
+      "id": 134,
+      "lesson_id": 64,
+      "regola_testo": "Genitivo/dativo e vocativo singolare hanno la stessa forma del nominativo; l'accusativo singolare termina in -n."
+    },
+    {
+      "id": 135,
+      "lesson_id": 64,
+      "regola_testo": "gine donna (acc. inaica) e chiatera figlia (acc. sulatera) hanno gen./dat. plurale con accento sull'ultima (inecos, chiateron)."
+    },
+    {
+      "id": 136,
+      "lesson_id": 65,
+      "regola_testo": "Le preposizioni articolate si formano unendo la preposizione con l'articolo determinativo all'accusativo, nei tre generi e due numeri; tra vocali le parole si fondono."
+    },
+    {
+      "id": 137,
+      "lesson_id": 65,
+      "regola_testo": "Quando nell'incontro di due vocali resta una sola vocale, su di essa si pone l'accento circonflesso; se cade la vocale iniziale della preposizione, niente circonflesso."
+    },
+    {
+      "id": 138,
+      "lesson_id": 65,
+      "regola_testo": "Preposizioni base: apu/api/apo (da), gli/i (per), ma (con), (e)s/sto (su, in); es. atto/attu (dai, dal), stes/stin (sulle, nel)."
+    },
+    {
+      "id": 139,
+      "lesson_id": 66,
+      "regola_testo": "L'articolo determinativo plurale ha tre generi: al nominativo m. e f. sono uguali (i/e), il neutro è ta; l'accusativo distingue tus (m.) e tes (f.), il neutro resta ta."
+    },
+    {
+      "id": 140,
+      "lesson_id": 66,
+      "regola_testo": "Il genitivo-dativo plurale è ton per tutti e tre i generi (dalla fusione di ton + tois)."
+    },
+    {
+      "id": 141,
+      "lesson_id": 67,
+      "regola_testo": "L'articolo determinativo singolare al nominativo è: o (maschile), i/e (femminile), to (neutro, uguale all'accusativo)."
+    },
+    {
+      "id": 142,
+      "lesson_id": 67,
+      "regola_testo": "Genitivo-dativo singolare: tu/u (del, al) per m. e neutro; tis/tes (della, alla) per il femminile. Accusativo: ton/to (m.), tin/ti (f.), to (neutro)."
+    },
+    {
+      "id": 143,
+      "lesson_id": 68,
+      "regola_testo": "L'articolo indeterminativo ai casi diretti: m. e neutro na/ena (uno), femminile mia (nom.)/mian (acc.); la scelta na/ena dipende dai suoni seguenti."
+    },
+    {
+      "id": 144,
+      "lesson_id": 68,
+      "regola_testo": "Ai casi obliqui (gen.-dat.): m. e neutro anu/ena (di un, a un); femminile anis/mias (di una, a una)."
+    },
+    {
+      "id": 145,
+      "lesson_id": 69,
+      "regola_testo": "Fenomeni consonantici: raddoppiamento fonosintattico e assimilazione della -n/-s finale alla consonante iniziale della parola seguente; davanti a sonora la -n si conserva, davanti a sorda si assimila."
+    },
+    {
+      "id": 146,
+      "lesson_id": 69,
+      "regola_testo": "La gamma antica ha esiti diversi: davanti a vocale palatale diventa semiconsonante j, altrove può conservarsi, diventare v, o cadere (es. leo da leggo, laò da lagò)."
+    },
+    {
+      "id": 147,
+      "lesson_id": 69,
+      "regola_testo": "Le doppie consonanti antiche si conservano nella pronuncia; esistono metatesi della r e rotacismo l>r."
+    },
+    {
+      "id": 148,
+      "lesson_id": 70,
+      "regola_testo": "Fenomeni vocalici: aferesi (caduta di vocale iniziale) e il fenomeno opposto, la protesi (aggiunta di vocale iniziale) e l'anaptissi (aggiunta interna), spesso per motivi eufonici."
+    },
+    {
+      "id": 149,
+      "lesson_id": 70,
+      "regola_testo": "Crasi: due parole in stretta connessione fondono le vocali di contatto in una sola (segnata col circonflesso)."
+    },
+    {
+      "id": 150,
+      "lesson_id": 70,
+      "regola_testo": "Sincope: caduta di vocale interna; i dittonghi antichi si chiudono (ai > e); consonanti aspirate possono cadere al nominativo e riaffiorare negli altri casi."
+    },
+    {
+      "id": 151,
+      "lesson_id": 71,
+      "regola_testo": "La lingua ha tre generi (maschile, femminile, neutro) e flessione nominale con casi: nominativo, genitivo-dativo (forma unica), accusativo, vocativo, più casi retti da preposizioni."
+    },
+    {
+      "id": 152,
+      "lesson_id": 71,
+      "regola_testo": "Genere neutro conservato: i sostantivi in -ma (da radice verbale, es. gramma da grafo) sono neutri; i frutti sono neutri (sico, milo), gli alberi femminili (sichea, milea)."
+    },
+    {
+      "id": 153,
+      "lesson_id": 71,
+      "regola_testo": "Molti diminutivi in -i sono neutri anche se derivano da parole maschili/femminili (es. ampari cavallo, sinari zappa)."
+    },
+    {
+      "id": 154,
+      "lesson_id": 72,
+      "regola_testo": "La trascrizione fonetica proposta segue l'alfabeto greco: k velare sorda dura, ch affricata palatale sorda, g dolce all'italiana, q solo per cai (ogni)."
+    },
+    {
+      "id": 155,
+      "lesson_id": 72,
+      "regola_testo": "Suoni dentali speciali: la doppia lambda antica dà una d retroflessa/cacuminale (es. addo da allos); il theta antico è per lo più s, ma ti a Martignano e Sternatia."
+    },
+    {
+      "id": 156,
+      "lesson_id": 72,
+      "regola_testo": "Psi e csi mantengono la grafia ps- e x-; le doppie con simboli speciali distinguono sonora da sorda."
+    },
+    {
+      "id": 157,
+      "lesson_id": 73,
+      "regola_testo": "Il griko è l'antica lingua greca del Salento, parlata ancora oggi in circa sette comuni della provincia di Lecce; Graeci sumus (siamo greci) del Galateo esprime l'identità greca di questa terra."
+    },
+    {
+      "id": 158,
+      "lesson_id": 73,
+      "regola_testo": "La lingua greco-salentina conserva arcaismi fonetici che precedono l'influsso bizantino: la distinzione tra nome del frutto (sico) e dell'albero (sichea) riflette stratificazioni storiche antiche."
+    }
+  ],
+  "lexemes": [
+    {
+      "id": 1112,
+      "parola_griko": "abisso",
+      "parola_italiano": "abisso/voragine"
+    },
+    {
+      "id": 987,
+      "parola_griko": "achero",
+      "parola_italiano": "paglia"
+    },
+    {
+      "id": 1068,
+      "parola_griko": "achilo",
+      "parola_italiano": "chiodo"
+    },
+    {
+      "id": 1179,
+      "parola_griko": "acquasale",
+      "parola_italiano": "pane bagnato e condito"
+    },
+    {
+      "id": 1366,
+      "parola_griko": "acrisia",
+      "parola_italiano": "chiesa"
+    },
+    {
+      "id": 1178,
+      "parola_griko": "acuchi",
+      "parola_italiano": "ago grosso"
+    },
+    {
+      "id": 1361,
+      "parola_griko": "addo",
+      "parola_italiano": "altro"
+    },
+    {
+      "id": 1246,
+      "parola_griko": "aderfecia",
+      "parola_italiano": "sorellina"
+    },
+    {
+      "id": 1268,
+      "parola_griko": "aderfi",
+      "parola_italiano": "sorella"
+    },
+    {
+      "id": 988,
+      "parola_griko": "adiko",
+      "parola_italiano": "ingiustizia"
+    },
+    {
+      "id": 736,
+      "parola_griko": "adinatos",
+      "parola_italiano": "privo di forze/debole"
+    },
+    {
+      "id": 802,
+      "parola_griko": "afelasò",
+      "parola_italiano": "inutile"
+    },
+    {
+      "id": 1228,
+      "parola_griko": "afentia",
+      "parola_italiano": "autorità/signoria"
+    },
+    {
+      "id": 1019,
+      "parola_griko": "afidi",
+      "parola_italiano": "serpe"
+    },
+    {
+      "id": 939,
+      "parola_griko": "afimo",
+      "parola_italiano": "fiato/respiro"
+    },
+    {
+      "id": 967,
+      "parola_griko": "afo",
+      "parola_italiano": "pisello secco"
+    },
+    {
+      "id": 1165,
+      "parola_griko": "aforchio",
+      "parola_italiano": "tana"
+    },
+    {
+      "id": 1346,
+      "parola_griko": "agapao",
+      "parola_italiano": "amo"
+    },
+    {
+      "id": 1292,
+      "parola_griko": "agapi",
+      "parola_italiano": "amore"
+    },
+    {
+      "id": 803,
+      "parola_griko": "agapitò",
+      "parola_italiano": "amato/caro/prediletto"
+    },
+    {
+      "id": 1263,
+      "parola_griko": "agelada",
+      "parola_italiano": "mucca"
+    },
+    {
+      "id": 1082,
+      "parola_griko": "agguito",
+      "parola_italiano": "gomito"
+    },
+    {
+      "id": 1028,
+      "parola_griko": "agiasma",
+      "parola_italiano": "acquasanta"
+    },
+    {
+      "id": 804,
+      "parola_griko": "agrikò",
+      "parola_italiano": "rustico/selvatico/agreste"
+    },
+    {
+      "id": 1113,
+      "parola_griko": "agrio",
+      "parola_italiano": "olivo selvatico/oleastro"
+    },
+    {
+      "id": 941,
+      "parola_griko": "agro",
+      "parola_italiano": "bagnato/umido"
+    },
+    {
+      "id": 1295,
+      "parola_griko": "akrisi",
+      "parola_italiano": "chiesa"
+    },
+    {
+      "id": 1290,
+      "parola_griko": "alacati",
+      "parola_italiano": "conocchia"
+    },
+    {
+      "id": 1023,
+      "parola_griko": "alai",
+      "parola_italiano": "aia"
+    },
+    {
+      "id": 1076,
+      "parola_griko": "alài",
+      "parola_italiano": "olio"
+    },
+    {
+      "id": 1027,
+      "parola_griko": "alaio",
+      "parola_italiano": "olivo"
+    },
+    {
+      "id": 1224,
+      "parola_griko": "alatra",
+      "parola_italiano": "aratura"
+    },
+    {
+      "id": 1114,
+      "parola_griko": "alatro",
+      "parola_italiano": "aratro"
+    },
+    {
+      "id": 1273,
+      "parola_griko": "alesia",
+      "parola_italiano": "verità/il vero"
+    },
+    {
+      "id": 721,
+      "parola_griko": "alisios",
+      "parola_italiano": "vero/veritiero/sincero"
+    },
+    {
+      "id": 1156,
+      "parola_griko": "alò",
+      "parola_italiano": "lepre"
+    },
+    {
+      "id": 1278,
+      "parola_griko": "alocaria",
+      "parola_italiano": "allegrezza/gioia/contentezza"
+    },
+    {
+      "id": 737,
+      "parola_griko": "alocaros",
+      "parola_italiano": "allegro/felice/contento"
+    },
+    {
+      "id": 1109,
+      "parola_griko": "alonari",
+      "parola_italiano": "luglio"
+    },
+    {
+      "id": 1253,
+      "parola_griko": "alupuna",
+      "parola_italiano": "volpe"
+    },
+    {
+      "id": 1171,
+      "parola_griko": "ambrachio",
+      "parola_italiano": "tettoia/riparo dal sole"
+    },
+    {
+      "id": 942,
+      "parola_griko": "ambro",
+      "parola_italiano": "davanti/parte anteriore"
+    },
+    {
+      "id": 1203,
+      "parola_griko": "ambugghia",
+      "parola_italiano": "bolla/foruncolo"
+    },
+    {
+      "id": 738,
+      "parola_griko": "ametros",
+      "parola_italiano": "smisurato/innumerevole"
+    },
+    {
+      "id": 1345,
+      "parola_griko": "amilia",
+      "parola_italiano": "favella/discorso"
+    },
+    {
+      "id": 1225,
+      "parola_griko": "ampa",
+      "parola_italiano": "spinta"
+    },
+    {
+      "id": 1352,
+      "parola_griko": "ampari",
+      "parola_italiano": "cavallo"
+    },
+    {
+      "id": 1024,
+      "parola_griko": "ampeli",
+      "parola_italiano": "vite"
+    },
+    {
+      "id": 992,
+      "parola_griko": "ampì",
+      "parola_italiano": "parte posteriore"
+    },
+    {
+      "id": 807,
+      "parola_griko": "ampisinò",
+      "parola_italiano": "ultimo/estremo"
+    },
+    {
+      "id": 824,
+      "parola_griko": "ampoma",
+      "parola_italiano": "spinta"
+    },
+    {
+      "id": 1226,
+      "parola_griko": "anapodia",
+      "parola_italiano": "irrequietezza dei bambini"
+    },
+    {
+      "id": 739,
+      "parola_griko": "anapoli",
+      "parola_italiano": "rovescio/inverso/contrario"
+    },
+    {
+      "id": 740,
+      "parola_griko": "anazeros",
+      "parola_italiano": "imbranato/incapace/ignorante"
+    },
+    {
+      "id": 1101,
+      "parola_griko": "andra",
+      "parola_italiano": "marito"
+    },
+    {
+      "id": 1173,
+      "parola_griko": "andra",
+      "parola_italiano": "marito/uomo"
+    },
+    {
+      "id": 1243,
+      "parola_griko": "anemi",
+      "parola_italiano": "arcolaio"
+    },
+    {
+      "id": 1115,
+      "parola_griko": "anemo",
+      "parola_italiano": "vento"
+    },
+    {
+      "id": 742,
+      "parola_griko": "anemos",
+      "parola_italiano": "debole"
+    },
+    {
+      "id": 1310,
+      "parola_griko": "anemos",
+      "parola_italiano": "vento"
+    },
+    {
+      "id": 741,
+      "parola_griko": "anepautos",
+      "parola_italiano": "irrequieto"
+    },
+    {
+      "id": 1327,
+      "parola_griko": "anis",
+      "parola_italiano": "di una/a una (gen.-dat. f.)"
+    },
+    {
+      "id": 808,
+      "parola_griko": "anitò",
+      "parola_italiano": "aperto/spalancato"
+    },
+    {
+      "id": 745,
+      "parola_griko": "anoitos",
+      "parola_italiano": "stupido/che non comprende"
+    },
+    {
+      "id": 1093,
+      "parola_griko": "anto",
+      "parola_italiano": "striscia di terreno lavorata"
+    },
+    {
+      "id": 716,
+      "parola_griko": "antropiaris",
+      "parola_italiano": "pudico/che si vergogna"
+    },
+    {
+      "id": 821,
+      "parola_griko": "antropiaro",
+      "parola_italiano": "pudico/che si vergogna"
+    },
+    {
+      "id": 1116,
+      "parola_griko": "antropo",
+      "parola_italiano": "uomo"
+    },
+    {
+      "id": 1326,
+      "parola_griko": "anu",
+      "parola_italiano": "di un/a un (gen.-dat. m./neutro)"
+    },
+    {
+      "id": 720,
+      "parola_griko": "aos",
+      "parola_italiano": "santo"
+    },
+    {
+      "id": 943,
+      "parola_griko": "apalo",
+      "parola_italiano": "molle/madido"
+    },
+    {
+      "id": 809,
+      "parola_griko": "apalò",
+      "parola_italiano": "molle/madido"
+    },
+    {
+      "id": 1283,
+      "parola_griko": "apidea",
+      "parola_italiano": "pero"
+    },
+    {
+      "id": 1020,
+      "parola_griko": "apidi",
+      "parola_italiano": "pera"
+    },
+    {
+      "id": 1293,
+      "parola_griko": "apu",
+      "parola_italiano": "da"
+    },
+    {
+      "id": 877,
+      "parola_griko": "apunai",
+      "parola_italiano": "carbonaia piccola"
+    },
+    {
+      "id": 910,
+      "parola_griko": "arbari",
+      "parola_italiano": "aiuola rialzata"
+    },
+    {
+      "id": 746,
+      "parola_griko": "arbos",
+      "parola_italiano": "acerbo/immaturo"
+    },
+    {
+      "id": 735,
+      "parola_griko": "arceros",
+      "parola_italiano": "vuoto/vacante"
+    },
+    {
+      "id": 1021,
+      "parola_griko": "ardari",
+      "parola_italiano": "crosta lattea"
+    },
+    {
+      "id": 722,
+      "parola_griko": "areos",
+      "parola_italiano": "rado/raro"
+    },
+    {
+      "id": 968,
+      "parola_griko": "argalio",
+      "parola_italiano": "telaio"
+    },
+    {
+      "id": 993,
+      "parola_griko": "arnì",
+      "parola_italiano": "agnello"
+    },
+    {
+      "id": 1227,
+      "parola_griko": "arpa",
+      "parola_italiano": "arpia/mostro"
+    },
+    {
+      "id": 695,
+      "parola_griko": "arteo",
+      "parola_italiano": "diritto/dritto/destro"
+    },
+    {
+      "id": 1204,
+      "parola_griko": "aruggia",
+      "parola_italiano": "vivaio/semenzaio"
+    },
+    {
+      "id": 911,
+      "parola_griko": "arzuli",
+      "parola_italiano": "orciolo/brocca di terracotta"
+    },
+    {
+      "id": 1199,
+      "parola_griko": "ascla",
+      "parola_italiano": "pezzo di tronco"
+    },
+    {
+      "id": 1157,
+      "parola_griko": "ascò",
+      "parola_italiano": "otre di pelle"
+    },
+    {
+      "id": 920,
+      "parola_griko": "ascromata",
+      "parola_italiano": "mucchio di schegge di legno"
+    },
+    {
+      "id": 723,
+      "parola_griko": "asimos",
+      "parola_italiano": "argenteo/d'argento"
+    },
+    {
+      "id": 743,
+      "parola_griko": "askimos",
+      "parola_italiano": "brutto/sgraziato"
+    },
+    {
+      "id": 747,
+      "parola_griko": "aspros",
+      "parola_italiano": "bianco/candido"
+    },
+    {
+      "id": 1022,
+      "parola_griko": "asteri",
+      "parola_italiano": "stella"
+    },
+    {
+      "id": 1354,
+      "parola_griko": "astrapi",
+      "parola_italiano": "lampo"
+    },
+    {
+      "id": 1176,
+      "parola_griko": "asurari",
+      "parola_italiano": "usuraio"
+    },
+    {
+      "id": 909,
+      "parola_griko": "atari",
+      "parola_italiano": "altare"
+    },
+    {
+      "id": 1363,
+      "parola_griko": "atera",
+      "parola_italiano": "resta di spiga"
+    },
+    {
+      "id": 1291,
+      "parola_griko": "avli",
+      "parola_italiano": "corte/cortile"
+    },
+    {
+      "id": 940,
+      "parola_griko": "avuo",
+      "parola_italiano": "uovo"
+    },
+    {
+      "id": 814,
+      "parola_griko": "azilò",
+      "parola_italiano": "alto"
+    },
+    {
+      "id": 744,
+      "parola_griko": "azimos",
+      "parola_italiano": "pane non lievitato/azzimo"
+    },
+    {
+      "id": 858,
+      "parola_griko": "azzemero",
+      "parola_italiano": "alba/aurora"
+    },
+    {
+      "id": 1125,
+      "parola_griko": "bombo",
+      "parola_italiano": "moscone/grossa vespa"
+    },
+    {
+      "id": 1347,
+      "parola_griko": "brady",
+      "parola_italiano": "sera"
+    },
+    {
+      "id": 753,
+      "parola_griko": "brastos",
+      "parola_italiano": "bollente"
+    },
+    {
+      "id": 754,
+      "parola_griko": "bromeros",
+      "parola_italiano": "puzzolente/maleodorante"
+    },
+    {
+      "id": 836,
+      "parola_griko": "bromò",
+      "parola_italiano": "fetido"
+    },
+    {
+      "id": 842,
+      "parola_griko": "bui",
+      "parola_italiano": "bue"
+    },
+    {
+      "id": 1100,
+      "parola_griko": "burro",
+      "parola_italiano": "capriccio/vezzo"
+    },
+    {
+      "id": 912,
+      "parola_griko": "cacanili",
+      "parola_italiano": "ultimo nato di una nidiata"
+    },
+    {
+      "id": 947,
+      "parola_griko": "caco",
+      "parola_italiano": "male/malvagità/malanno"
+    },
+    {
+      "id": 845,
+      "parola_griko": "cafì",
+      "parola_italiano": "crusca d'orzo"
+    },
+    {
+      "id": 1010,
+      "parola_griko": "calami",
+      "parola_italiano": "canna"
+    },
+    {
+      "id": 884,
+      "parola_griko": "calangi",
+      "parola_italiano": "frittura natalizia"
+    },
+    {
+      "id": 1250,
+      "parola_griko": "caletta",
+      "parola_italiano": "bellina/carina"
+    },
+    {
+      "id": 1367,
+      "parola_griko": "calimera",
+      "parola_italiano": "buongiorno"
+    },
+    {
+      "id": 1368,
+      "parola_griko": "calispera",
+      "parola_italiano": "buonasera"
+    },
+    {
+      "id": 948,
+      "parola_griko": "calo",
+      "parola_italiano": "bene"
+    },
+    {
+      "id": 1069,
+      "parola_griko": "cama",
+      "parola_italiano": "caldo"
+    },
+    {
+      "id": 1182,
+      "parola_griko": "camula",
+      "parola_italiano": "nebbia/foschia"
+    },
+    {
+      "id": 699,
+      "parola_griko": "camulos",
+      "parola_italiano": "nebbioso/offuscato"
+    },
+    {
+      "id": 1175,
+      "parola_griko": "canaria",
+      "parola_italiano": "venditore di verdure/millantatore"
+    },
+    {
+      "id": 1120,
+      "parola_griko": "cantaro",
+      "parola_italiano": "vaso da notte"
+    },
+    {
+      "id": 1144,
+      "parola_griko": "canzo",
+      "parola_italiano": "cerchio del setaccio"
+    },
+    {
+      "id": 1162,
+      "parola_griko": "capnò",
+      "parola_italiano": "fumo"
+    },
+    {
+      "id": 1257,
+      "parola_griko": "carassa",
+      "parola_italiano": "fessura/fenditura"
+    },
+    {
+      "id": 1280,
+      "parola_griko": "cardia",
+      "parola_italiano": "cuore"
+    },
+    {
+      "id": 1011,
+      "parola_griko": "caridi",
+      "parola_italiano": "noce"
+    },
+    {
+      "id": 1297,
+      "parola_griko": "carti",
+      "parola_italiano": "carta/foglio"
+    },
+    {
+      "id": 921,
+      "parola_griko": "casarmata",
+      "parola_italiano": "scarti della pulizia delle verdure"
+    },
+    {
+      "id": 1229,
+      "parola_griko": "catadicasia",
+      "parola_italiano": "condanna"
+    },
+    {
+      "id": 949,
+      "parola_griko": "catalimo",
+      "parola_italiano": "distruzione/dissoluzione"
+    },
+    {
+      "id": 700,
+      "parola_griko": "cataros",
+      "parola_italiano": "bestemmiatore"
+    },
+    {
+      "id": 1344,
+      "parola_griko": "catera",
+      "parola_italiano": "figlia/ragazza"
+    },
+    {
+      "id": 1009,
+      "parola_griko": "cattari",
+      "parola_italiano": "caldaia"
+    },
+    {
+      "id": 1249,
+      "parola_griko": "cefalaci",
+      "parola_italiano": "testolina"
+    },
+    {
+      "id": 1269,
+      "parola_griko": "cefali",
+      "parola_italiano": "testa/capo/mente"
+    },
+    {
+      "id": 969,
+      "parola_griko": "ceilo",
+      "parola_italiano": "labbro"
+    },
+    {
+      "id": 1274,
+      "parola_griko": "celona",
+      "parola_italiano": "testuggine/tartaruga"
+    },
+    {
+      "id": 1247,
+      "parola_griko": "celonaci",
+      "parola_italiano": "piccola tartaruga"
+    },
+    {
+      "id": 711,
+      "parola_griko": "cerameos",
+      "parola_italiano": "delle tegole"
+    },
+    {
+      "id": 1014,
+      "parola_griko": "cerami",
+      "parola_italiano": "tegola"
+    },
+    {
+      "id": 1015,
+      "parola_griko": "cerasi",
+      "parola_italiano": "ciliegia"
+    },
+    {
+      "id": 1070,
+      "parola_griko": "ceri",
+      "parola_italiano": "cera/candela"
+    },
+    {
+      "id": 1359,
+      "parola_griko": "cero",
+      "parola_italiano": "tempo opportuno"
+    },
+    {
+      "id": 1248,
+      "parola_griko": "cerulaci",
+      "parola_italiano": "manina"
+    },
+    {
+      "id": 1289,
+      "parola_griko": "chara",
+      "parola_italiano": "gioia/allegrezza"
+    },
+    {
+      "id": 701,
+      "parola_griko": "checci",
+      "parola_italiano": "piccolo"
+    },
+    {
+      "id": 702,
+      "parola_griko": "checiuli",
+      "parola_italiano": "piccolino/piccoletto"
+    },
+    {
+      "id": 1254,
+      "parola_griko": "chera",
+      "parola_italiano": "mano"
+    },
+    {
+      "id": 1158,
+      "parola_griko": "chierò",
+      "parola_italiano": "tempo opportuno"
+    },
+    {
+      "id": 1065,
+      "parola_griko": "chili",
+      "parola_italiano": "labbro"
+    },
+    {
+      "id": 1172,
+      "parola_griko": "chinipò",
+      "parola_italiano": "costoso/caro"
+    },
+    {
+      "id": 1016,
+      "parola_griko": "chioni",
+      "parola_italiano": "neve"
+    },
+    {
+      "id": 1141,
+      "parola_griko": "chipo",
+      "parola_italiano": "giardino/orto"
+    },
+    {
+      "id": 1054,
+      "parola_griko": "chiretima",
+      "parola_italiano": "saluto"
+    },
+    {
+      "id": 1080,
+      "parola_griko": "chiro",
+      "parola_italiano": "vedovo"
+    },
+    {
+      "id": 811,
+      "parola_griko": "chlorò",
+      "parola_italiano": "verde/acerbo"
+    },
+    {
+      "id": 1055,
+      "parola_griko": "choma",
+      "parola_italiano": "terra"
+    },
+    {
+      "id": 712,
+      "parola_griko": "chroneos",
+      "parola_italiano": "di un anno"
+    },
+    {
+      "id": 818,
+      "parola_griko": "cinùrio",
+      "parola_italiano": "nuovo/recente"
+    },
+    {
+      "id": 713,
+      "parola_griko": "cinurios",
+      "parola_italiano": "recente/nuovo"
+    },
+    {
+      "id": 1209,
+      "parola_griko": "cioccia",
+      "parola_italiano": "piccola/bambina"
+    },
+    {
+      "id": 1328,
+      "parola_griko": "cipo",
+      "parola_italiano": "giardino/orto"
+    },
+    {
+      "id": 1017,
+      "parola_griko": "citoni",
+      "parola_italiano": "mela cotogna"
+    },
+    {
+      "id": 816,
+      "parola_griko": "citrinò",
+      "parola_italiano": "verdastro"
+    },
+    {
+      "id": 730,
+      "parola_griko": "citrinos",
+      "parola_italiano": "verdastro/verde oliva"
+    },
+    {
+      "id": 1331,
+      "parola_griko": "clama",
+      "parola_italiano": "pianto"
+    },
+    {
+      "id": 878,
+      "parola_griko": "claraci",
+      "parola_italiano": "rametto"
+    },
+    {
+      "id": 879,
+      "parola_griko": "claro",
+      "parola_italiano": "ramo"
+    },
+    {
+      "id": 1083,
+      "parola_griko": "cleftì",
+      "parola_italiano": "ladro"
+    },
+    {
+      "id": 977,
+      "parola_griko": "clidio",
+      "parola_italiano": "uovo fecondato"
+    },
+    {
+      "id": 944,
+      "parola_griko": "cloro",
+      "parola_italiano": "parte verde del ramo"
+    },
+    {
+      "id": 1358,
+      "parola_griko": "cnida",
+      "parola_italiano": "ortica"
+    },
+    {
+      "id": 843,
+      "parola_griko": "cocchiarèa",
+      "parola_italiano": "coppia di friselle/puccia"
+    },
+    {
+      "id": 978,
+      "parola_griko": "cocco",
+      "parola_italiano": "acino/chicco"
+    },
+    {
+      "id": 1145,
+      "parola_griko": "colombo",
+      "parola_italiano": "nodo/legame"
+    },
+    {
+      "id": 945,
+      "parola_griko": "condro",
+      "parola_italiano": "grosso/stupido"
+    },
+    {
+      "id": 1084,
+      "parola_griko": "copanari",
+      "parola_italiano": "picchiatore"
+    },
+    {
+      "id": 885,
+      "parola_griko": "copano",
+      "parola_italiano": "randello"
+    },
+    {
+      "id": 979,
+      "parola_griko": "copro",
+      "parola_italiano": "letame/sporcizia"
+    },
+    {
+      "id": 1184,
+      "parola_griko": "copula",
+      "parola_italiano": "sfera di pietra/boccia"
+    },
+    {
+      "id": 1185,
+      "parola_griko": "copuledda",
+      "parola_italiano": "polpetta di pane in brodo"
+    },
+    {
+      "id": 970,
+      "parola_griko": "corio",
+      "parola_italiano": "villaggio/paese"
+    },
+    {
+      "id": 971,
+      "parola_griko": "corto",
+      "parola_italiano": "erba/foraggio"
+    },
+    {
+      "id": 1319,
+      "parola_griko": "corto",
+      "parola_italiano": "erba/foraggio/fieno"
+    },
+    {
+      "id": 1146,
+      "parola_griko": "cosmo",
+      "parola_italiano": "mondo/universo"
+    },
+    {
+      "id": 1338,
+      "parola_griko": "cosmo",
+      "parola_italiano": "mondo"
+    },
+    {
+      "id": 1071,
+      "parola_griko": "crasi",
+      "parola_italiano": "vino"
+    },
+    {
+      "id": 837,
+      "parola_griko": "crauno",
+      "parola_italiano": "carbone"
+    },
+    {
+      "id": 825,
+      "parola_griko": "creta",
+      "parola_italiano": "argilla"
+    },
+    {
+      "id": 950,
+      "parola_griko": "crifo",
+      "parola_italiano": "nascosto/segreto"
+    },
+    {
+      "id": 1147,
+      "parola_griko": "crino",
+      "parola_italiano": "giglio"
+    },
+    {
+      "id": 1169,
+      "parola_griko": "crio",
+      "parola_italiano": "montone/ariete"
+    },
+    {
+      "id": 1163,
+      "parola_griko": "cristianò",
+      "parola_italiano": "uomo cristiano/uomo"
+    },
+    {
+      "id": 952,
+      "parola_griko": "croco",
+      "parola_italiano": "tuorlo dell'uovo"
+    },
+    {
+      "id": 919,
+      "parola_griko": "crombolo",
+      "parola_italiano": "corbezzolo/mora di rovo"
+    },
+    {
+      "id": 1013,
+      "parola_griko": "crommidi",
+      "parola_italiano": "cipolla"
+    },
+    {
+      "id": 1140,
+      "parola_griko": "crono",
+      "parola_italiano": "anno"
+    },
+    {
+      "id": 819,
+      "parola_griko": "crusafègno",
+      "parola_italiano": "aureo/fatto d'oro"
+    },
+    {
+      "id": 1012,
+      "parola_griko": "crusafi",
+      "parola_italiano": "oro"
+    },
+    {
+      "id": 820,
+      "parola_griko": "crusameno",
+      "parola_italiano": "dorato/ricoperto d'oro"
+    },
+    {
+      "id": 951,
+      "parola_griko": "ctino",
+      "parola_italiano": "bestia/animale d'allevamento"
+    },
+    {
+      "id": 1095,
+      "parola_griko": "cucco",
+      "parola_italiano": "focaccia di farina d'orzo"
+    },
+    {
+      "id": 851,
+      "parola_griko": "cuccovìo",
+      "parola_italiano": "maschio della civetta"
+    },
+    {
+      "id": 731,
+      "parola_griko": "cucibile",
+      "parola_italiano": "di facile cottura"
+    },
+    {
+      "id": 1221,
+      "parola_griko": "cucuvascia",
+      "parola_italiano": "civetta"
+    },
+    {
+      "id": 703,
+      "parola_griko": "cuffios",
+      "parola_italiano": "vuoto/sciocco"
+    },
+    {
+      "id": 732,
+      "parola_griko": "culimos",
+      "parola_italiano": "colmo/strapieno"
+    },
+    {
+      "id": 913,
+      "parola_griko": "culumi",
+      "parola_italiano": "mucchio"
+    },
+    {
+      "id": 1259,
+      "parola_griko": "culura",
+      "parola_italiano": "ciambella/dolce pasquale"
+    },
+    {
+      "id": 1270,
+      "parola_griko": "curiaci",
+      "parola_italiano": "domenica"
+    },
+    {
+      "id": 886,
+      "parola_griko": "cutali",
+      "parola_italiano": "cucchiaio"
+    },
+    {
+      "id": 887,
+      "parola_griko": "cutrupi",
+      "parola_italiano": "oliera"
+    },
+    {
+      "id": 1265,
+      "parola_griko": "dacca",
+      "parola_italiano": "morso"
+    },
+    {
+      "id": 1258,
+      "parola_griko": "damalida",
+      "parola_italiano": "vitella/giovenca"
+    },
+    {
+      "id": 789,
+      "parola_griko": "danikò",
+      "parola_italiano": "prestato/preso in prestito/altrui"
+    },
+    {
+      "id": 1078,
+      "parola_griko": "daso",
+      "parola_italiano": "bosco"
+    },
+    {
+      "id": 989,
+      "parola_griko": "dattilo",
+      "parola_italiano": "dito"
+    },
+    {
+      "id": 844,
+      "parola_griko": "decadìa",
+      "parola_italiano": "decima parte"
+    },
+    {
+      "id": 1057,
+      "parola_griko": "derma",
+      "parola_italiano": "pelle"
+    },
+    {
+      "id": 882,
+      "parola_griko": "dermazzi",
+      "parola_italiano": "cuoio"
+    },
+    {
+      "id": 792,
+      "parola_griko": "diastikò",
+      "parola_italiano": "utile/necessario"
+    },
+    {
+      "id": 1117,
+      "parola_griko": "diavolo",
+      "parola_italiano": "diavolo"
+    },
+    {
+      "id": 1170,
+      "parola_griko": "dio",
+      "parola_italiano": "zio"
+    },
+    {
+      "id": 790,
+      "parola_griko": "diplò",
+      "parola_italiano": "doppio"
+    },
+    {
+      "id": 733,
+      "parola_griko": "discolos",
+      "parola_italiano": "discolo/difficile/fastidioso"
+    },
+    {
+      "id": 854,
+      "parola_griko": "ditti",
+      "parola_italiano": "rete per uccelli"
+    },
+    {
+      "id": 714,
+      "parola_griko": "domanos",
+      "parola_italiano": "generoso/caritatevole"
+    },
+    {
+      "id": 1018,
+      "parola_griko": "donti",
+      "parola_italiano": "dente"
+    },
+    {
+      "id": 715,
+      "parola_griko": "dorsos",
+      "parola_italiano": "destro"
+    },
+    {
+      "id": 972,
+      "parola_griko": "dricheo",
+      "parola_italiano": "giusto/ragione"
+    },
+    {
+      "id": 791,
+      "parola_griko": "droserò",
+      "parola_italiano": "rugiadoso/umido"
+    },
+    {
+      "id": 1279,
+      "parola_griko": "drosia",
+      "parola_italiano": "rugiada"
+    },
+    {
+      "id": 1304,
+      "parola_griko": "e",
+      "parola_italiano": "le (nom. f. pl.)"
+    },
+    {
+      "id": 734,
+      "parola_griko": "edimi",
+      "parola_italiano": "incinta/gravida"
+    },
+    {
+      "id": 1323,
+      "parola_griko": "ena",
+      "parola_italiano": "uno (m./neutro)"
+    },
+    {
+      "id": 1339,
+      "parola_griko": "endino",
+      "parola_italiano": "vesto"
+    },
+    {
+      "id": 1207,
+      "parola_griko": "esterna",
+      "parola_italiano": "cisterna"
+    },
+    {
+      "id": 1349,
+      "parola_griko": "evrisko",
+      "parola_italiano": "trovo/incontro"
+    },
+    {
+      "id": 793,
+      "parola_griko": "fanerò",
+      "parola_italiano": "evidente/appariscente"
+    },
+    {
+      "id": 946,
+      "parola_griko": "fano",
+      "parola_italiano": "apparenza/esteriorità"
+    },
+    {
+      "id": 1159,
+      "parola_griko": "fanò",
+      "parola_italiano": "apparenza/pubblicità"
+    },
+    {
+      "id": 717,
+      "parola_griko": "fariziaris",
+      "parola_italiano": "timoroso/timido"
+    },
+    {
+      "id": 914,
+      "parola_griko": "favaruli",
+      "parola_italiano": "tonchio (parassita delle fave)"
+    },
+    {
+      "id": 973,
+      "parola_griko": "fengo",
+      "parola_italiano": "luna"
+    },
+    {
+      "id": 1340,
+      "parola_griko": "feo",
+      "parola_italiano": "vado via/fuggo"
+    },
+    {
+      "id": 794,
+      "parola_griko": "fiddarò",
+      "parola_italiano": "ricco di foglie/frondoso"
+    },
+    {
+      "id": 1267,
+      "parola_griko": "filima",
+      "parola_italiano": "bacio"
+    },
+    {
+      "id": 974,
+      "parola_griko": "filo",
+      "parola_italiano": "foglia/petalo"
+    },
+    {
+      "id": 1362,
+      "parola_griko": "filo",
+      "parola_italiano": "foglia"
+    },
+    {
+      "id": 1041,
+      "parola_griko": "fisima",
+      "parola_italiano": "gonfiore"
+    },
+    {
+      "id": 1160,
+      "parola_griko": "fò",
+      "parola_italiano": "luce"
+    },
+    {
+      "id": 795,
+      "parola_griko": "fonarò",
+      "parola_italiano": "rumoroso/che parla a voce alta"
+    },
+    {
+      "id": 1329,
+      "parola_griko": "foni",
+      "parola_italiano": "voce/grido"
+    },
+    {
+      "id": 1266,
+      "parola_griko": "forada",
+      "parola_italiano": "cavalla/giumenta"
+    },
+    {
+      "id": 1298,
+      "parola_griko": "fori",
+      "parola_italiano": "paese/villaggio"
+    },
+    {
+      "id": 915,
+      "parola_griko": "fossi",
+      "parola_italiano": "fossa/granaio sotterraneo"
+    },
+    {
+      "id": 883,
+      "parola_griko": "frea",
+      "parola_italiano": "pozzo"
+    },
+    {
+      "id": 1181,
+      "parola_griko": "frisa",
+      "parola_italiano": "frisella"
+    },
+    {
+      "id": 1365,
+      "parola_griko": "frizza",
+      "parola_italiano": "radice"
+    },
+    {
+      "id": 871,
+      "parola_griko": "ftecheddhi",
+      "parola_italiano": "poveretto/mendicante"
+    },
+    {
+      "id": 773,
+      "parola_griko": "ftexò",
+      "parola_italiano": "povero/mendicante"
+    },
+    {
+      "id": 1220,
+      "parola_griko": "fusca",
+      "parola_italiano": "pula"
+    },
+    {
+      "id": 1081,
+      "parola_griko": "fustiano",
+      "parola_italiano": "gonna"
+    },
+    {
+      "id": 916,
+      "parola_griko": "gaduri",
+      "parola_italiano": "somaro/asino"
+    },
+    {
+      "id": 1029,
+      "parola_griko": "gala",
+      "parola_italiano": "latte"
+    },
+    {
+      "id": 1096,
+      "parola_griko": "galani",
+      "parola_italiano": "massaro/pastore"
+    },
+    {
+      "id": 1118,
+      "parola_griko": "garofalo",
+      "parola_italiano": "garofano"
+    },
+    {
+      "id": 797,
+      "parola_griko": "gghielastò",
+      "parola_italiano": "ridente/ridicolo/deriso"
+    },
+    {
+      "id": 796,
+      "parola_griko": "gghielò",
+      "parola_italiano": "sorridente/allegro"
+    },
+    {
+      "id": 719,
+      "parola_griko": "glice",
+      "parola_italiano": "dolce"
+    },
+    {
+      "id": 1337,
+      "parola_griko": "gliceo",
+      "parola_italiano": "dolce"
+    },
+    {
+      "id": 817,
+      "parola_griko": "glicèo",
+      "parola_italiano": "dolce"
+    },
+    {
+      "id": 975,
+      "parola_griko": "glico",
+      "parola_italiano": "dolce"
+    },
+    {
+      "id": 850,
+      "parola_griko": "glitona",
+      "parola_italiano": "vicino/vicinato"
+    },
+    {
+      "id": 1335,
+      "parola_griko": "glossa",
+      "parola_italiano": "lingua"
+    },
+    {
+      "id": 990,
+      "parola_griko": "gonato",
+      "parola_italiano": "ginocchio"
+    },
+    {
+      "id": 1341,
+      "parola_griko": "grafo",
+      "parola_italiano": "scrivo"
+    },
+    {
+      "id": 1161,
+      "parola_griko": "grambò",
+      "parola_italiano": "genero"
+    },
+    {
+      "id": 1052,
+      "parola_griko": "gramma",
+      "parola_italiano": "lettera"
+    },
+    {
+      "id": 1206,
+      "parola_griko": "granza",
+      "parola_italiano": "frisella di farina grossa d'orzo"
+    },
+    {
+      "id": 1276,
+      "parola_griko": "grasta",
+      "parola_italiano": "vaso"
+    },
+    {
+      "id": 1205,
+      "parola_griko": "grifa",
+      "parola_italiano": "sansa delle olive"
+    },
+    {
+      "id": 1143,
+      "parola_griko": "grotto",
+      "parola_italiano": "manciata/pugno"
+    },
+    {
+      "id": 1210,
+      "parola_griko": "gruppo",
+      "parola_italiano": "cripta/grotta"
+    },
+    {
+      "id": 917,
+      "parola_griko": "guruni",
+      "parola_italiano": "grugno/muso/maiale"
+    },
+    {
+      "id": 881,
+      "parola_griko": "halo",
+      "parola_italiano": "sale"
+    },
+    {
+      "id": 698,
+      "parola_griko": "hurmos",
+      "parola_italiano": "maturo"
+    },
+    {
+      "id": 1303,
+      "parola_griko": "i",
+      "parola_italiano": "gli (nom. m. pl.)"
+    },
+    {
+      "id": 1313,
+      "parola_griko": "i",
+      "parola_italiano": "la (nom. f. sing.)"
+    },
+    {
+      "id": 826,
+      "parola_griko": "idrota",
+      "parola_italiano": "sudore"
+    },
+    {
+      "id": 1030,
+      "parola_griko": "iema",
+      "parola_italiano": "sangue"
+    },
+    {
+      "id": 976,
+      "parola_griko": "ieno",
+      "parola_italiano": "parto/figliata"
+    },
+    {
+      "id": 918,
+      "parola_griko": "iermito",
+      "parola_italiano": "fascio di spighe"
+    },
+    {
+      "id": 805,
+      "parola_griko": "igrò",
+      "parola_italiano": "bagnato/umido"
+    },
+    {
+      "id": 898,
+      "parola_griko": "imbuto",
+      "parola_italiano": "imbuto"
+    },
+    {
+      "id": 1342,
+      "parola_griko": "imera",
+      "parola_italiano": "giorno"
+    },
+    {
+      "id": 724,
+      "parola_griko": "imisos",
+      "parola_italiano": "mezzo/metà"
+    },
+    {
+      "id": 903,
+      "parola_griko": "inchinari",
+      "parola_italiano": "uncino"
+    },
+    {
+      "id": 1343,
+      "parola_griko": "ipno",
+      "parola_italiano": "sonno/sogno"
+    },
+    {
+      "id": 810,
+      "parola_griko": "ipsilò",
+      "parola_italiano": "alto"
+    },
+    {
+      "id": 1119,
+      "parola_griko": "ipuno",
+      "parola_italiano": "sonno/sogno"
+    },
+    {
+      "id": 1058,
+      "parola_griko": "jennima",
+      "parola_italiano": "creatura"
+    },
+    {
+      "id": 798,
+      "parola_griko": "jumnò",
+      "parola_italiano": "nudo"
+    },
+    {
+      "id": 1208,
+      "parola_griko": "jurnata",
+      "parola_italiano": "giornata lavorativa"
+    },
+    {
+      "id": 1059,
+      "parola_griko": "kakalima",
+      "parola_italiano": "aborto"
+    },
+    {
+      "id": 800,
+      "parola_griko": "kakò",
+      "parola_italiano": "malvagio/cattivo"
+    },
+    {
+      "id": 799,
+      "parola_griko": "kalò",
+      "parola_italiano": "buono"
+    },
+    {
+      "id": 1060,
+      "parola_griko": "katurima",
+      "parola_italiano": "pianto"
+    },
+    {
+      "id": 801,
+      "parola_griko": "kinipò",
+      "parola_italiano": "costoso/caro"
+    },
+    {
+      "id": 1056,
+      "parola_griko": "kinonima",
+      "parola_italiano": "comunione"
+    },
+    {
+      "id": 1318,
+      "parola_griko": "kirà",
+      "parola_italiano": "vedova"
+    },
+    {
+      "id": 1061,
+      "parola_griko": "klama",
+      "parola_italiano": "pianto"
+    },
+    {
+      "id": 1062,
+      "parola_griko": "klima",
+      "parola_italiano": "tralcio di vite"
+    },
+    {
+      "id": 1063,
+      "parola_griko": "klisima",
+      "parola_italiano": "recinto"
+    },
+    {
+      "id": 991,
+      "parola_griko": "kokkalo",
+      "parola_italiano": "osso"
+    },
+    {
+      "id": 1064,
+      "parola_griko": "komma",
+      "parola_italiano": "pezzo"
+    },
+    {
+      "id": 812,
+      "parola_griko": "kondrò",
+      "parola_italiano": "grosso"
+    },
+    {
+      "id": 1031,
+      "parola_griko": "krea",
+      "parola_italiano": "carne"
+    },
+    {
+      "id": 994,
+      "parola_griko": "kucì",
+      "parola_italiano": "fava"
+    },
+    {
+      "id": 1148,
+      "parola_griko": "laco",
+      "parola_italiano": "pozzanghera/palude/stagno"
+    },
+    {
+      "id": 1186,
+      "parola_griko": "lacunetta",
+      "parola_italiano": "nuca"
+    },
+    {
+      "id": 776,
+      "parola_griko": "lafrò",
+      "parola_italiano": "leggero/lieve/agile"
+    },
+    {
+      "id": 1336,
+      "parola_griko": "lagò",
+      "parola_italiano": "lepre"
+    },
+    {
+      "id": 1281,
+      "parola_griko": "lamia",
+      "parola_italiano": "terrazza"
+    },
+    {
+      "id": 1230,
+      "parola_griko": "lampa",
+      "parola_italiano": "fiammata/vampa"
+    },
+    {
+      "id": 1177,
+      "parola_griko": "lampasciuna",
+      "parola_italiano": "lampascione"
+    },
+    {
+      "id": 777,
+      "parola_griko": "lamperò",
+      "parola_italiano": "lucente"
+    },
+    {
+      "id": 1231,
+      "parola_griko": "langa",
+      "parola_italiano": "breccia in un muro"
+    },
+    {
+      "id": 1187,
+      "parola_griko": "lapistra",
+      "parola_italiano": "ramolaccio/rafano"
+    },
+    {
+      "id": 1188,
+      "parola_griko": "latula",
+      "parola_italiano": "rucola a foglia larga"
+    },
+    {
+      "id": 778,
+      "parola_griko": "leftò",
+      "parola_italiano": "sottile/magro/fine"
+    },
+    {
+      "id": 1350,
+      "parola_griko": "leo",
+      "parola_italiano": "dico"
+    },
+    {
+      "id": 980,
+      "parola_griko": "licaci",
+      "parola_italiano": "lupacchiotto"
+    },
+    {
+      "id": 1149,
+      "parola_griko": "licno",
+      "parola_italiano": "lucerna/lume"
+    },
+    {
+      "id": 1155,
+      "parola_griko": "lico",
+      "parola_italiano": "lupo"
+    },
+    {
+      "id": 1174,
+      "parola_griko": "limbuna",
+      "parola_italiano": "grande bacinella per il bucato"
+    },
+    {
+      "id": 1004,
+      "parola_griko": "linari",
+      "parola_italiano": "lino"
+    },
+    {
+      "id": 779,
+      "parola_griko": "liparò",
+      "parola_italiano": "grasso/obeso"
+    },
+    {
+      "id": 953,
+      "parola_griko": "lipo",
+      "parola_italiano": "grasso"
+    },
+    {
+      "id": 1085,
+      "parola_griko": "lippo",
+      "parola_italiano": "grasso"
+    },
+    {
+      "id": 704,
+      "parola_griko": "lippus",
+      "parola_italiano": "unto/viscido"
+    },
+    {
+      "id": 1005,
+      "parola_griko": "lisari",
+      "parola_italiano": "sasso"
+    },
+    {
+      "id": 1299,
+      "parola_griko": "lisari",
+      "parola_italiano": "pietra/sasso"
+    },
+    {
+      "id": 780,
+      "parola_griko": "lisarò",
+      "parola_italiano": "pietroso/sassoso/roccioso"
+    },
+    {
+      "id": 1006,
+      "parola_griko": "livani",
+      "parola_italiano": "incenso"
+    },
+    {
+      "id": 1211,
+      "parola_griko": "lumera",
+      "parola_italiano": "fiamma/luce"
+    },
+    {
+      "id": 1189,
+      "parola_griko": "lumia",
+      "parola_italiano": "limone"
+    },
+    {
+      "id": 1294,
+      "parola_griko": "ma",
+      "parola_italiano": "con"
+    },
+    {
+      "id": 827,
+      "parola_griko": "macara",
+      "parola_italiano": "strega"
+    },
+    {
+      "id": 706,
+      "parola_griko": "macario",
+      "parola_italiano": "beato/felice"
+    },
+    {
+      "id": 899,
+      "parola_griko": "maccaluri",
+      "parola_italiano": "fazzoletto"
+    },
+    {
+      "id": 1097,
+      "parola_griko": "macio",
+      "parola_italiano": "persona mascherata"
+    },
+    {
+      "id": 707,
+      "parola_griko": "macreos",
+      "parola_italiano": "lungo/alto"
+    },
+    {
+      "id": 781,
+      "parola_griko": "maddarò",
+      "parola_italiano": "lanoso/peloso"
+    },
+    {
+      "id": 862,
+      "parola_griko": "maddi",
+      "parola_italiano": "capello/pelo/lana"
+    },
+    {
+      "id": 828,
+      "parola_griko": "magaria",
+      "parola_italiano": "stregoneria"
+    },
+    {
+      "id": 1232,
+      "parola_griko": "magaria",
+      "parola_italiano": "stregoneria/fattura"
+    },
+    {
+      "id": 880,
+      "parola_griko": "magro",
+      "parola_italiano": "nero"
+    },
+    {
+      "id": 954,
+      "parola_griko": "malacro",
+      "parola_italiano": "finocchio"
+    },
+    {
+      "id": 705,
+      "parola_griko": "malligno",
+      "parola_italiano": "peloso/villoso"
+    },
+    {
+      "id": 1320,
+      "parola_griko": "manà",
+      "parola_italiano": "madre"
+    },
+    {
+      "id": 782,
+      "parola_griko": "manachò",
+      "parola_italiano": "solo/unico"
+    },
+    {
+      "id": 1121,
+      "parola_griko": "mandalo",
+      "parola_italiano": "catenaccio/chiavistello"
+    },
+    {
+      "id": 1138,
+      "parola_griko": "mandato",
+      "parola_italiano": "rovo"
+    },
+    {
+      "id": 1277,
+      "parola_griko": "mandra",
+      "parola_italiano": "recinto/ovile"
+    },
+    {
+      "id": 900,
+      "parola_griko": "mansanemi",
+      "parola_italiano": "luogo soleggiato al riparo dal vento"
+    },
+    {
+      "id": 901,
+      "parola_griko": "mantili",
+      "parola_italiano": "grembiale"
+    },
+    {
+      "id": 981,
+      "parola_griko": "maratho",
+      "parola_italiano": "finocchio"
+    },
+    {
+      "id": 955,
+      "parola_griko": "mariato",
+      "parola_italiano": "cibo cotto/cucinato"
+    },
+    {
+      "id": 708,
+      "parola_griko": "marmaros",
+      "parola_italiano": "marmoreo/di marmo"
+    },
+    {
+      "id": 982,
+      "parola_griko": "maro",
+      "parola_italiano": "marmo"
+    },
+    {
+      "id": 1296,
+      "parola_griko": "martia",
+      "parola_italiano": "peccato"
+    },
+    {
+      "id": 1122,
+      "parola_griko": "marturo",
+      "parola_italiano": "martire"
+    },
+    {
+      "id": 1110,
+      "parola_griko": "mascia",
+      "parola_italiano": "maestro/artigiano"
+    },
+    {
+      "id": 829,
+      "parola_griko": "mascìa",
+      "parola_italiano": "magia/incantesimo"
+    },
+    {
+      "id": 922,
+      "parola_griko": "masimata",
+      "parola_italiano": "cose da imparare/ammaestramenti"
+    },
+    {
+      "id": 1026,
+      "parola_griko": "matai",
+      "parola_italiano": "occhio"
+    },
+    {
+      "id": 863,
+      "parola_griko": "matì",
+      "parola_italiano": "camicia"
+    },
+    {
+      "id": 815,
+      "parola_griko": "mavrò",
+      "parola_italiano": "nero"
+    },
+    {
+      "id": 748,
+      "parola_griko": "mavros",
+      "parola_italiano": "nero/scuro"
+    },
+    {
+      "id": 1036,
+      "parola_griko": "meletima",
+      "parola_italiano": "lettura"
+    },
+    {
+      "id": 1007,
+      "parola_griko": "meli",
+      "parola_italiano": "miele"
+    },
+    {
+      "id": 1190,
+      "parola_griko": "mella",
+      "parola_italiano": "mela"
+    },
+    {
+      "id": 1066,
+      "parola_griko": "meri",
+      "parola_italiano": "lato"
+    },
+    {
+      "id": 956,
+      "parola_griko": "mero",
+      "parola_italiano": "lato/parte"
+    },
+    {
+      "id": 1200,
+      "parola_griko": "merula",
+      "parola_italiano": "merla"
+    },
+    {
+      "id": 783,
+      "parola_griko": "metaxotò",
+      "parola_italiano": "serico/di seta"
+    },
+    {
+      "id": 957,
+      "parola_griko": "metro",
+      "parola_italiano": "misura"
+    },
+    {
+      "id": 1324,
+      "parola_griko": "mia",
+      "parola_italiano": "una (f. nom.)"
+    },
+    {
+      "id": 1325,
+      "parola_griko": "mian",
+      "parola_italiano": "una (f. acc.)"
+    },
+    {
+      "id": 1166,
+      "parola_griko": "miciìlio",
+      "parola_italiano": "capo dei frantoiani/nocchiero"
+    },
+    {
+      "id": 1284,
+      "parola_griko": "milea",
+      "parola_italiano": "melo"
+    },
+    {
+      "id": 852,
+      "parola_griko": "milissùna",
+      "parola_italiano": "fuco"
+    },
+    {
+      "id": 958,
+      "parola_griko": "milo",
+      "parola_italiano": "mela"
+    },
+    {
+      "id": 1150,
+      "parola_griko": "milo",
+      "parola_italiano": "mola/macina/mulino"
+    },
+    {
+      "id": 1351,
+      "parola_griko": "milo",
+      "parola_italiano": "spengo"
+    },
+    {
+      "id": 1107,
+      "parola_griko": "mina",
+      "parola_italiano": "mese"
+    },
+    {
+      "id": 725,
+      "parola_griko": "minariko",
+      "parola_italiano": "di un mese"
+    },
+    {
+      "id": 709,
+      "parola_griko": "mineos",
+      "parola_italiano": "di un mese"
+    },
+    {
+      "id": 923,
+      "parola_griko": "minomata",
+      "parola_italiano": "rimanenze/avanzi/residui"
+    },
+    {
+      "id": 1288,
+      "parola_griko": "mira",
+      "parola_italiano": "parte/porzione"
+    },
+    {
+      "id": 1037,
+      "parola_griko": "mirisma",
+      "parola_italiano": "profumo"
+    },
+    {
+      "id": 784,
+      "parola_griko": "miristikò",
+      "parola_italiano": "odoroso/profumato"
+    },
+    {
+      "id": 785,
+      "parola_griko": "miristò",
+      "parola_italiano": "odoroso"
+    },
+    {
+      "id": 830,
+      "parola_griko": "miscìmera",
+      "parola_italiano": "mezzogiorno"
+    },
+    {
+      "id": 1151,
+      "parola_griko": "mito",
+      "parola_italiano": "filo/ordito"
+    },
+    {
+      "id": 902,
+      "parola_griko": "miuli",
+      "parola_italiano": "bicchiere"
+    },
+    {
+      "id": 928,
+      "parola_griko": "miulo",
+      "parola_italiano": "midollo/cervello"
+    },
+    {
+      "id": 1251,
+      "parola_griko": "monachedda",
+      "parola_italiano": "monachella"
+    },
+    {
+      "id": 786,
+      "parola_griko": "monò",
+      "parola_italiano": "singolo/semplice"
+    },
+    {
+      "id": 864,
+      "parola_griko": "morolò",
+      "parola_italiano": "canto/lamento funebre"
+    },
+    {
+      "id": 865,
+      "parola_griko": "mustài",
+      "parola_italiano": "baffi"
+    },
+    {
+      "id": 1322,
+      "parola_griko": "na",
+      "parola_italiano": "un/uno (m./neutro)"
+    },
+    {
+      "id": 905,
+      "parola_griko": "nastudi",
+      "parola_italiano": "bottone"
+    },
+    {
+      "id": 984,
+      "parola_griko": "nefo",
+      "parola_italiano": "nuvola"
+    },
+    {
+      "id": 787,
+      "parola_griko": "negò",
+      "parola_italiano": "magro"
+    },
+    {
+      "id": 855,
+      "parola_griko": "nema",
+      "parola_italiano": "filo"
+    },
+    {
+      "id": 1275,
+      "parola_griko": "nemera",
+      "parola_italiano": "giorno"
+    },
+    {
+      "id": 710,
+      "parola_griko": "neos",
+      "parola_italiano": "nuovo/recente"
+    },
+    {
+      "id": 930,
+      "parola_griko": "neuro",
+      "parola_italiano": "parte magra della carne"
+    },
+    {
+      "id": 1255,
+      "parola_griko": "nifta",
+      "parola_italiano": "notte"
+    },
+    {
+      "id": 1038,
+      "parola_griko": "nima",
+      "parola_italiano": "tomba"
+    },
+    {
+      "id": 904,
+      "parola_griko": "ninni",
+      "parola_italiano": "bambino"
+    },
+    {
+      "id": 788,
+      "parola_griko": "nistikò",
+      "parola_italiano": "digiuno"
+    },
+    {
+      "id": 1167,
+      "parola_griko": "nistio",
+      "parola_italiano": "digiuno"
+    },
+    {
+      "id": 929,
+      "parola_griko": "nnero",
+      "parola_italiano": "acqua/pioggia"
+    },
+    {
+      "id": 1039,
+      "parola_griko": "noima",
+      "parola_italiano": "intelligenza"
+    },
+    {
+      "id": 1032,
+      "parola_griko": "noma",
+      "parola_italiano": "corno"
+    },
+    {
+      "id": 1153,
+      "parola_griko": "nosto",
+      "parola_italiano": "retrogusto sgradevole"
+    },
+    {
+      "id": 1154,
+      "parola_griko": "noto",
+      "parola_italiano": "vento di scirocco"
+    },
+    {
+      "id": 1312,
+      "parola_griko": "o",
+      "parola_italiano": "il (nom. m. sing.)"
+    },
+    {
+      "id": 1309,
+      "parola_griko": "olo",
+      "parola_italiano": "tutto/intero"
+    },
+    {
+      "id": 1152,
+      "parola_griko": "omo",
+      "parola_italiano": "spalla"
+    },
+    {
+      "id": 806,
+      "parola_griko": "omò",
+      "parola_italiano": "crudo/non cotto"
+    },
+    {
+      "id": 726,
+      "parola_griko": "opsimos",
+      "parola_italiano": "tardivo/tardo"
+    },
+    {
+      "id": 1330,
+      "parola_griko": "ora",
+      "parola_italiano": "volta/tempo"
+    },
+    {
+      "id": 813,
+      "parola_griko": "oriò",
+      "parola_italiano": "bello"
+    },
+    {
+      "id": 1332,
+      "parola_griko": "orne",
+      "parola_italiano": "gallina"
+    },
+    {
+      "id": 685,
+      "parola_griko": "orrios",
+      "parola_italiano": "bello"
+    },
+    {
+      "id": 686,
+      "parola_griko": "pachos",
+      "parola_italiano": "pingue/grasso"
+    },
+    {
+      "id": 1094,
+      "parola_griko": "pago",
+      "parola_italiano": "ghiaccio"
+    },
+    {
+      "id": 1127,
+      "parola_griko": "pago",
+      "parola_italiano": "gelo/brina"
+    },
+    {
+      "id": 838,
+      "parola_griko": "paladi",
+      "parola_italiano": "palazzo"
+    },
+    {
+      "id": 1126,
+      "parola_griko": "palanco",
+      "parola_italiano": "leva di ferro/grande punteruolo"
+    },
+    {
+      "id": 687,
+      "parola_griko": "paleos",
+      "parola_italiano": "vecchio/antico"
+    },
+    {
+      "id": 856,
+      "parola_griko": "panìri",
+      "parola_italiano": "fiera/sagra"
+    },
+    {
+      "id": 1102,
+      "parola_griko": "papa",
+      "parola_italiano": "prete/padre"
+    },
+    {
+      "id": 1128,
+      "parola_griko": "pappo",
+      "parola_italiano": "nonno"
+    },
+    {
+      "id": 857,
+      "parola_griko": "parabossolo",
+      "parola_italiano": "granturco/mais"
+    },
+    {
+      "id": 1086,
+      "parola_griko": "paraiso",
+      "parola_italiano": "paradiso"
+    },
+    {
+      "id": 1233,
+      "parola_griko": "paratomia",
+      "parola_italiano": "pasto offerto ai familiari di un defunto"
+    },
+    {
+      "id": 1216,
+      "parola_griko": "parrata",
+      "parola_italiano": "scrofa/suina"
+    },
+    {
+      "id": 906,
+      "parola_griko": "pasca",
+      "parola_italiano": "Pasqua"
+    },
+    {
+      "id": 1212,
+      "parola_griko": "passiuna",
+      "parola_italiano": "passione"
+    },
+    {
+      "id": 1103,
+      "parola_griko": "patera",
+      "parola_italiano": "prete/sacerdote"
+    },
+    {
+      "id": 1129,
+      "parola_griko": "pato",
+      "parola_italiano": "via battuta/passaggio"
+    },
+    {
+      "id": 931,
+      "parola_griko": "patremo",
+      "parola_italiano": "padre nostro"
+    },
+    {
+      "id": 1348,
+      "parola_griko": "pedaci",
+      "parola_italiano": "bambino"
+    },
+    {
+      "id": 1025,
+      "parola_griko": "pedai",
+      "parola_italiano": "bambino"
+    },
+    {
+      "id": 1075,
+      "parola_griko": "pedì",
+      "parola_italiano": "bambino"
+    },
+    {
+      "id": 1191,
+      "parola_griko": "pentima",
+      "parola_italiano": "grosso masso/rupe"
+    },
+    {
+      "id": 866,
+      "parola_griko": "peristeri",
+      "parola_italiano": "colomba/piccione"
+    },
+    {
+      "id": 1357,
+      "parola_griko": "persico",
+      "parola_italiano": "pesca"
+    },
+    {
+      "id": 831,
+      "parola_griko": "pesma",
+      "parola_italiano": "caduta"
+    },
+    {
+      "id": 983,
+      "parola_griko": "petrosino",
+      "parola_italiano": "prezzemolo"
+    },
+    {
+      "id": 1271,
+      "parola_griko": "petti",
+      "parola_italiano": "giovedì"
+    },
+    {
+      "id": 867,
+      "parola_griko": "pezzali",
+      "parola_italiano": "sedile di pietra o legno"
+    },
+    {
+      "id": 868,
+      "parola_griko": "piccio",
+      "parola_italiano": "uccello"
+    },
+    {
+      "id": 934,
+      "parola_griko": "picro",
+      "parola_italiano": "amaro/amarezza"
+    },
+    {
+      "id": 907,
+      "parola_griko": "pilacci",
+      "parola_italiano": "vasca per il mosto"
+    },
+    {
+      "id": 1192,
+      "parola_griko": "piotta",
+      "parola_italiano": "brodo di cottura"
+    },
+    {
+      "id": 1008,
+      "parola_griko": "piperi",
+      "parola_italiano": "pepe"
+    },
+    {
+      "id": 908,
+      "parola_griko": "pipituri",
+      "parola_italiano": "pannocchia"
+    },
+    {
+      "id": 1234,
+      "parola_griko": "pira",
+      "parola_italiano": "fuoco/calore"
+    },
+    {
+      "id": 869,
+      "parola_griko": "pittarai",
+      "parola_italiano": "panino di orzo per bambini"
+    },
+    {
+      "id": 1256,
+      "parola_griko": "placa",
+      "parola_italiano": "chianca/lastra di pietra"
+    },
+    {
+      "id": 688,
+      "parola_griko": "plateo",
+      "parola_italiano": "largo"
+    },
+    {
+      "id": 932,
+      "parola_griko": "pleuro",
+      "parola_italiano": "fianco"
+    },
+    {
+      "id": 689,
+      "parola_griko": "plusios",
+      "parola_italiano": "ricco"
+    },
+    {
+      "id": 1104,
+      "parola_griko": "poda",
+      "parola_italiano": "piede"
+    },
+    {
+      "id": 1300,
+      "parola_griko": "podi",
+      "parola_italiano": "piede"
+    },
+    {
+      "id": 822,
+      "parola_griko": "polemao",
+      "parola_italiano": "laborioso/gran lavoratore"
+    },
+    {
+      "id": 691,
+      "parola_griko": "polemos",
+      "parola_italiano": "laborioso/gran lavoratore"
+    },
+    {
+      "id": 1087,
+      "parola_griko": "pono",
+      "parola_italiano": "dolore"
+    },
+    {
+      "id": 1301,
+      "parola_griko": "pono",
+      "parola_italiano": "dolore/pena"
+    },
+    {
+      "id": 1164,
+      "parola_griko": "ponticò",
+      "parola_italiano": "topo"
+    },
+    {
+      "id": 690,
+      "parola_griko": "pornitos",
+      "parola_italiano": "mattiniero"
+    },
+    {
+      "id": 933,
+      "parola_griko": "porno",
+      "parola_italiano": "mattino"
+    },
+    {
+      "id": 823,
+      "parola_griko": "pornò",
+      "parola_italiano": "mattiniero"
+    },
+    {
+      "id": 1130,
+      "parola_griko": "poro",
+      "parola_italiano": "entrata/varco"
+    },
+    {
+      "id": 924,
+      "parola_griko": "potimata",
+      "parola_italiano": "piante da fiore/ortaggi"
+    },
+    {
+      "id": 1053,
+      "parola_griko": "prama",
+      "parola_italiano": "cosa"
+    },
+    {
+      "id": 870,
+      "parola_griko": "pramazzi",
+      "parola_italiano": "cosetta trascurabile"
+    },
+    {
+      "id": 1040,
+      "parola_griko": "pramma",
+      "parola_italiano": "pane plasmato"
+    },
+    {
+      "id": 1311,
+      "parola_griko": "pratina",
+      "parola_italiano": "pecora"
+    },
+    {
+      "id": 1002,
+      "parola_griko": "previti",
+      "parola_italiano": "cece"
+    },
+    {
+      "id": 769,
+      "parola_griko": "prikò",
+      "parola_italiano": "amaro"
+    },
+    {
+      "id": 1264,
+      "parola_griko": "prima",
+      "parola_italiano": "imbiancatura/pittura"
+    },
+    {
+      "id": 692,
+      "parola_griko": "promos",
+      "parola_italiano": "primaticcio"
+    },
+    {
+      "id": 846,
+      "parola_griko": "protimisì",
+      "parola_italiano": "arroganza/prepotenza"
+    },
+    {
+      "id": 770,
+      "parola_griko": "protinò",
+      "parola_italiano": "primo"
+    },
+    {
+      "id": 771,
+      "parola_griko": "psacnò",
+      "parola_italiano": "magro/morbido"
+    },
+    {
+      "id": 1033,
+      "parola_griko": "psema",
+      "parola_italiano": "bugia"
+    },
+    {
+      "id": 1302,
+      "parola_griko": "psichì",
+      "parola_italiano": "anima"
+    },
+    {
+      "id": 772,
+      "parola_griko": "psicrò",
+      "parola_italiano": "freddo/gelido"
+    },
+    {
+      "id": 1282,
+      "parola_griko": "ptochia",
+      "parola_italiano": "povertà"
+    },
+    {
+      "id": 872,
+      "parola_griko": "pugghì",
+      "parola_italiano": "pollo/animale giovane"
+    },
+    {
+      "id": 1213,
+      "parola_griko": "pungia",
+      "parola_italiano": "tasca/taschina"
+    },
+    {
+      "id": 832,
+      "parola_griko": "pupusha",
+      "parola_italiano": "upupa"
+    },
+    {
+      "id": 1214,
+      "parola_griko": "purgula",
+      "parola_italiano": "polvere"
+    },
+    {
+      "id": 774,
+      "parola_griko": "purmistò",
+      "parola_italiano": "bollente/scottante"
+    },
+    {
+      "id": 1106,
+      "parola_griko": "rajona",
+      "parola_italiano": "braccio"
+    },
+    {
+      "id": 833,
+      "parola_griko": "ramma",
+      "parola_italiano": "cucitura"
+    },
+    {
+      "id": 1222,
+      "parola_griko": "rapa",
+      "parola_italiano": "parte inferiore del tronco"
+    },
+    {
+      "id": 888,
+      "parola_griko": "rebatto",
+      "parola_italiano": "rumore/frastuono"
+    },
+    {
+      "id": 1215,
+      "parola_griko": "reccia",
+      "parola_italiano": "frisa d'orzo e grano"
+    },
+    {
+      "id": 889,
+      "parola_griko": "recco",
+      "parola_italiano": "maiale/porco"
+    },
+    {
+      "id": 1042,
+      "parola_griko": "rocanima",
+      "parola_italiano": "cartilagine"
+    },
+    {
+      "id": 999,
+      "parola_griko": "rodani",
+      "parola_italiano": "trama del telaio"
+    },
+    {
+      "id": 1285,
+      "parola_griko": "rodea",
+      "parola_italiano": "rosaio/cespuglio di rose"
+    },
+    {
+      "id": 775,
+      "parola_griko": "rodinò",
+      "parola_italiano": "rosso"
+    },
+    {
+      "id": 959,
+      "parola_griko": "rodo",
+      "parola_italiano": "rosa"
+    },
+    {
+      "id": 890,
+      "parola_griko": "roggio",
+      "parola_italiano": "bastone per mescolare il latte cagliato"
+    },
+    {
+      "id": 1001,
+      "parola_griko": "roidi",
+      "parola_italiano": "melagrana"
+    },
+    {
+      "id": 853,
+      "parola_griko": "rucco",
+      "parola_italiano": "colombo/piccione"
+    },
+    {
+      "id": 1000,
+      "parola_griko": "rufi",
+      "parola_italiano": "grappolo"
+    },
+    {
+      "id": 960,
+      "parola_griko": "rufo",
+      "parola_italiano": "roba/panno/averi"
+    },
+    {
+      "id": 1131,
+      "parola_griko": "sacco",
+      "parola_italiano": "sacco"
+    },
+    {
+      "id": 1235,
+      "parola_griko": "saccuna",
+      "parola_italiano": "pagliericcio/materassino"
+    },
+    {
+      "id": 727,
+      "parola_griko": "salenos",
+      "parola_italiano": "giallo pallido"
+    },
+    {
+      "id": 1180,
+      "parola_griko": "salicurda",
+      "parola_italiano": "pane cotto in acqua con verdure"
+    },
+    {
+      "id": 1260,
+      "parola_griko": "salitedda",
+      "parola_italiano": "pipistrello"
+    },
+    {
+      "id": 891,
+      "parola_griko": "sambo",
+      "parola_italiano": "sabato"
+    },
+    {
+      "id": 892,
+      "parola_griko": "saracinico",
+      "parola_italiano": "anguria/cocomero"
+    },
+    {
+      "id": 834,
+      "parola_griko": "saracostì",
+      "parola_italiano": "quaresima"
+    },
+    {
+      "id": 1244,
+      "parola_griko": "sarcosti",
+      "parola_italiano": "quaresima"
+    },
+    {
+      "id": 1195,
+      "parola_griko": "scasini",
+      "parola_italiano": "pigrizia"
+    },
+    {
+      "id": 693,
+      "parola_griko": "scersos",
+      "parola_italiano": "incolto/arido"
+    },
+    {
+      "id": 1043,
+      "parola_griko": "schisma",
+      "parola_italiano": "squarcio"
+    },
+    {
+      "id": 1168,
+      "parola_griko": "sciaddio",
+      "parola_italiano": "cappello"
+    },
+    {
+      "id": 1333,
+      "parola_griko": "sciddo",
+      "parola_italiano": "cane"
+    },
+    {
+      "id": 1105,
+      "parola_griko": "scimona",
+      "parola_italiano": "inverno"
+    },
+    {
+      "id": 728,
+      "parola_griko": "scimonariko",
+      "parola_italiano": "invernale/d'inverno"
+    },
+    {
+      "id": 961,
+      "parola_griko": "scino",
+      "parola_italiano": "lentischio"
+    },
+    {
+      "id": 1262,
+      "parola_griko": "scordalida",
+      "parola_italiano": "aglio selvatico"
+    },
+    {
+      "id": 962,
+      "parola_griko": "scordo",
+      "parola_italiano": "aglio"
+    },
+    {
+      "id": 1238,
+      "parola_griko": "scotinia",
+      "parola_italiano": "oscurità/tenebra"
+    },
+    {
+      "id": 759,
+      "parola_griko": "scotinò",
+      "parola_italiano": "scuro/oscuro/buio"
+    },
+    {
+      "id": 755,
+      "parola_griko": "secleros",
+      "parola_italiano": "duro/coriaceo"
+    },
+    {
+      "id": 1044,
+      "parola_griko": "selima",
+      "parola_italiano": "volontà"
+    },
+    {
+      "id": 1088,
+      "parola_griko": "semmatàri",
+      "parola_italiano": "bugiardo"
+    },
+    {
+      "id": 749,
+      "parola_griko": "senos",
+      "parola_italiano": "straniero/forestiero/estraneo"
+    },
+    {
+      "id": 927,
+      "parola_griko": "sera",
+      "parola_italiano": "luoghi forestieri"
+    },
+    {
+      "id": 859,
+      "parola_griko": "serama",
+      "parola_italiano": "vomito"
+    },
+    {
+      "id": 756,
+      "parola_griko": "serizeros",
+      "parola_italiano": "secco/asciutto/arido"
+    },
+    {
+      "id": 729,
+      "parola_griko": "serocaros",
+      "parola_italiano": "sgraziato/senza grazia"
+    },
+    {
+      "id": 1123,
+      "parola_griko": "sfondilo",
+      "parola_italiano": "collo"
+    },
+    {
+      "id": 1236,
+      "parola_griko": "sicalinda",
+      "parola_italiano": "pianta di fico d'india"
+    },
+    {
+      "id": 1356,
+      "parola_griko": "sichea",
+      "parola_italiano": "albero di fico"
+    },
+    {
+      "id": 1073,
+      "parola_griko": "sico",
+      "parola_italiano": "fico"
+    },
+    {
+      "id": 1355,
+      "parola_griko": "sico",
+      "parola_italiano": "fico (frutto)"
+    },
+    {
+      "id": 847,
+      "parola_griko": "sicra",
+      "parola_italiano": "gelata notturna/ghiaccio"
+    },
+    {
+      "id": 986,
+      "parola_griko": "sidero",
+      "parola_italiano": "ferro"
+    },
+    {
+      "id": 694,
+      "parola_griko": "sideros",
+      "parola_italiano": "di ferro/ferroso"
+    },
+    {
+      "id": 985,
+      "parola_griko": "sikamino",
+      "parola_italiano": "gelso"
+    },
+    {
+      "id": 966,
+      "parola_griko": "silo",
+      "parola_italiano": "legno"
+    },
+    {
+      "id": 1193,
+      "parola_griko": "silogatta",
+      "parola_italiano": "trappola per topi"
+    },
+    {
+      "id": 1334,
+      "parola_griko": "simeri",
+      "parola_italiano": "oggi"
+    },
+    {
+      "id": 1353,
+      "parola_griko": "sinari",
+      "parola_italiano": "zappa"
+    },
+    {
+      "id": 1050,
+      "parola_griko": "singorima",
+      "parola_italiano": "perdono"
+    },
+    {
+      "id": 757,
+      "parola_griko": "sinos",
+      "parola_italiano": "acido"
+    },
+    {
+      "id": 1089,
+      "parola_griko": "sio",
+      "parola_italiano": "pulce"
+    },
+    {
+      "id": 1237,
+      "parola_griko": "sirma",
+      "parola_italiano": "tiro/l'atto del tirare"
+    },
+    {
+      "id": 1241,
+      "parola_griko": "sìtsira",
+      "parola_italiano": "zia"
+    },
+    {
+      "id": 1242,
+      "parola_griko": "smirna",
+      "parola_italiano": "sedano selvatico"
+    },
+    {
+      "id": 1074,
+      "parola_griko": "soma",
+      "parola_italiano": "corpo"
+    },
+    {
+      "id": 1077,
+      "parola_griko": "somì",
+      "parola_italiano": "pane"
+    },
+    {
+      "id": 849,
+      "parola_griko": "spara",
+      "parola_italiano": "specie di salvia"
+    },
+    {
+      "id": 767,
+      "parola_griko": "spastrikò",
+      "parola_italiano": "pulito/terso"
+    },
+    {
+      "id": 1218,
+      "parola_griko": "specchia",
+      "parola_italiano": "mucchio di pietre/punto d'osservazione"
+    },
+    {
+      "id": 925,
+      "parola_griko": "spermata",
+      "parola_italiano": "seminagioni"
+    },
+    {
+      "id": 1132,
+      "parola_griko": "spero",
+      "parola_italiano": "seme"
+    },
+    {
+      "id": 1223,
+      "parola_griko": "spina",
+      "parola_italiano": "cuneo/zeppa"
+    },
+    {
+      "id": 768,
+      "parola_griko": "spinò",
+      "parola_italiano": "spesso/fitto/doppio"
+    },
+    {
+      "id": 1321,
+      "parola_griko": "spiti",
+      "parola_italiano": "casa"
+    },
+    {
+      "id": 760,
+      "parola_griko": "spittò",
+      "parola_italiano": "scintillante/sfavillante/brillante"
+    },
+    {
+      "id": 761,
+      "parola_griko": "sporicò",
+      "parola_italiano": "pieno di semi"
+    },
+    {
+      "id": 893,
+      "parola_griko": "stacchi",
+      "parola_italiano": "pietra del gioco delle stacche"
+    },
+    {
+      "id": 1261,
+      "parola_griko": "stafida",
+      "parola_italiano": "uva passa/uvetta"
+    },
+    {
+      "id": 1003,
+      "parola_griko": "stafili",
+      "parola_italiano": "uva"
+    },
+    {
+      "id": 873,
+      "parola_griko": "stamnì",
+      "parola_italiano": "orciolo/brocca di terracotta"
+    },
+    {
+      "id": 1198,
+      "parola_griko": "stanciula",
+      "parola_italiano": "gheppio"
+    },
+    {
+      "id": 763,
+      "parola_griko": "stannò",
+      "parola_italiano": "asciutto/asciugato"
+    },
+    {
+      "id": 1239,
+      "parola_griko": "stavricola",
+      "parola_italiano": "lucertola"
+    },
+    {
+      "id": 1090,
+      "parola_griko": "stavrò",
+      "parola_italiano": "croce"
+    },
+    {
+      "id": 935,
+      "parola_griko": "steno",
+      "parola_italiano": "piccone"
+    },
+    {
+      "id": 764,
+      "parola_griko": "stenò",
+      "parola_italiano": "stretto"
+    },
+    {
+      "id": 963,
+      "parola_griko": "steo",
+      "parola_italiano": "osso"
+    },
+    {
+      "id": 762,
+      "parola_griko": "stittò",
+      "parola_italiano": "stretto"
+    },
+    {
+      "id": 1034,
+      "parola_griko": "stoma",
+      "parola_italiano": "ferro temperato"
+    },
+    {
+      "id": 936,
+      "parola_griko": "stomaco",
+      "parola_italiano": "stomaco"
+    },
+    {
+      "id": 1217,
+      "parola_griko": "strada",
+      "parola_italiano": "strada"
+    },
+    {
+      "id": 765,
+      "parola_griko": "stranghilò",
+      "parola_italiano": "enorme/altissimo"
+    },
+    {
+      "id": 1133,
+      "parola_griko": "straso",
+      "parola_italiano": "porro/brufolo duro"
+    },
+    {
+      "id": 937,
+      "parola_griko": "stravo",
+      "parola_italiano": "torto"
+    },
+    {
+      "id": 766,
+      "parola_griko": "stravò",
+      "parola_italiano": "storto/incurvato"
+    },
+    {
+      "id": 1051,
+      "parola_griko": "strema",
+      "parola_italiano": "lampo"
+    },
+    {
+      "id": 1194,
+      "parola_griko": "striara",
+      "parola_italiano": "strega"
+    },
+    {
+      "id": 1134,
+      "parola_griko": "strigno",
+      "parola_italiano": "capriccio"
+    },
+    {
+      "id": 1240,
+      "parola_griko": "strolechia",
+      "parola_italiano": "rimprovero/straparlare"
+    },
+    {
+      "id": 839,
+      "parola_griko": "sublì",
+      "parola_italiano": "lesina"
+    },
+    {
+      "id": 1286,
+      "parola_griko": "suchea",
+      "parola_italiano": "fico (albero)"
+    },
+    {
+      "id": 1287,
+      "parola_griko": "sulinea",
+      "parola_italiano": "ferro di cavallo/staffa"
+    },
+    {
+      "id": 1305,
+      "parola_griko": "ta",
+      "parola_italiano": "i/le (neutro pl.)"
+    },
+    {
+      "id": 1201,
+      "parola_griko": "tabla",
+      "parola_italiano": "tavola/asse di legno"
+    },
+    {
+      "id": 1035,
+      "parola_griko": "tama",
+      "parola_italiano": "voto"
+    },
+    {
+      "id": 1124,
+      "parola_griko": "tanato",
+      "parola_italiano": "morte"
+    },
+    {
+      "id": 1111,
+      "parola_griko": "tata",
+      "parola_italiano": "papà/nonno"
+    },
+    {
+      "id": 894,
+      "parola_griko": "tavari",
+      "parola_italiano": "otre"
+    },
+    {
+      "id": 874,
+      "parola_griko": "telimata",
+      "parola_italiano": "cose desiderate/occorrente"
+    },
+    {
+      "id": 1245,
+      "parola_griko": "tenni",
+      "parola_italiano": "arte/mestiere/abilità"
+    },
+    {
+      "id": 835,
+      "parola_griko": "teò",
+      "parola_italiano": "Dio"
+    },
+    {
+      "id": 1067,
+      "parola_griko": "teri",
+      "parola_italiano": "mietitura"
+    },
+    {
+      "id": 1108,
+      "parola_griko": "terinari",
+      "parola_italiano": "giugno"
+    },
+    {
+      "id": 697,
+      "parola_griko": "termi",
+      "parola_italiano": "tiepido/calduccio"
+    },
+    {
+      "id": 696,
+      "parola_griko": "termidigno",
+      "parola_italiano": "focoso/testa calda"
+    },
+    {
+      "id": 750,
+      "parola_griko": "termos",
+      "parola_italiano": "caldo"
+    },
+    {
+      "id": 964,
+      "parola_griko": "teros",
+      "parola_italiano": "mietitura/mese di giugno"
+    },
+    {
+      "id": 1307,
+      "parola_griko": "tes",
+      "parola_italiano": "le (acc. f. pl.)"
+    },
+    {
+      "id": 848,
+      "parola_griko": "tesi",
+      "parola_italiano": "colpa"
+    },
+    {
+      "id": 840,
+      "parola_griko": "thermò",
+      "parola_italiano": "caldo"
+    },
+    {
+      "id": 996,
+      "parola_griko": "tiani",
+      "parola_italiano": "padella"
+    },
+    {
+      "id": 875,
+      "parola_griko": "tiàni",
+      "parola_italiano": "teglia di rame/padella"
+    },
+    {
+      "id": 1135,
+      "parola_griko": "tico",
+      "parola_italiano": "muro/parete"
+    },
+    {
+      "id": 1196,
+      "parola_griko": "tiedra",
+      "parola_italiano": "teglia"
+    },
+    {
+      "id": 926,
+      "parola_griko": "tiflomata",
+      "parola_italiano": "talpa"
+    },
+    {
+      "id": 1072,
+      "parola_griko": "tiri",
+      "parola_italiano": "formaggio"
+    },
+    {
+      "id": 1142,
+      "parola_griko": "tiro",
+      "parola_italiano": "pidocchio"
+    },
+    {
+      "id": 718,
+      "parola_griko": "tirus",
+      "parola_italiano": "pieno di pidocchi"
+    },
+    {
+      "id": 1316,
+      "parola_griko": "tis",
+      "parola_italiano": "della/alla (gen.-dat. f.)"
+    },
+    {
+      "id": 1314,
+      "parola_griko": "to",
+      "parola_italiano": "il/lo (neutro sing.)"
+    },
+    {
+      "id": 1308,
+      "parola_griko": "ton",
+      "parola_italiano": "dei/ai (gen.-dat. pl.)"
+    },
+    {
+      "id": 1317,
+      "parola_griko": "ton",
+      "parola_italiano": "il (acc. m. sing.)"
+    },
+    {
+      "id": 1136,
+      "parola_griko": "topo",
+      "parola_italiano": "luogo/posto"
+    },
+    {
+      "id": 1137,
+      "parola_griko": "trafo",
+      "parola_italiano": "porca (striscia di terra tra due solchi)"
+    },
+    {
+      "id": 997,
+      "parola_griko": "trapani",
+      "parola_italiano": "falce"
+    },
+    {
+      "id": 1098,
+      "parola_griko": "trapilo",
+      "parola_italiano": "frantoio"
+    },
+    {
+      "id": 751,
+      "parola_griko": "triferos",
+      "parola_italiano": "tenero/morbido/molle"
+    },
+    {
+      "id": 841,
+      "parola_griko": "trifiddi",
+      "parola_italiano": "trifoglio"
+    },
+    {
+      "id": 965,
+      "parola_griko": "trifillo",
+      "parola_italiano": "trifoglio"
+    },
+    {
+      "id": 1091,
+      "parola_griko": "trio",
+      "parola_italiano": "vendemmia"
+    },
+    {
+      "id": 1252,
+      "parola_griko": "tripedda",
+      "parola_italiano": "buchetto"
+    },
+    {
+      "id": 895,
+      "parola_griko": "tristelli",
+      "parola_italiano": "cavalletto di ferro"
+    },
+    {
+      "id": 752,
+      "parola_griko": "tromeros",
+      "parola_italiano": "terrificante/terribile"
+    },
+    {
+      "id": 876,
+      "parola_griko": "truddhi",
+      "parola_italiano": "mucchio di pietre"
+    },
+    {
+      "id": 1315,
+      "parola_griko": "tu",
+      "parola_italiano": "del/al (gen.-dat. m./neutro)"
+    },
+    {
+      "id": 1099,
+      "parola_griko": "tufo",
+      "parola_italiano": "conci di pietra calcarea"
+    },
+    {
+      "id": 896,
+      "parola_griko": "tumeno",
+      "parola_italiano": "tomolo (misura)"
+    },
+    {
+      "id": 897,
+      "parola_griko": "turnisi",
+      "parola_italiano": "soldo/moneta"
+    },
+    {
+      "id": 1219,
+      "parola_griko": "turri",
+      "parola_italiano": "torre"
+    },
+    {
+      "id": 1306,
+      "parola_griko": "tus",
+      "parola_italiano": "i (acc. m. pl.)"
+    },
+    {
+      "id": 1079,
+      "parola_griko": "uranisco",
+      "parola_italiano": "palato"
+    },
+    {
+      "id": 998,
+      "parola_griko": "vambaci",
+      "parola_italiano": "cotone"
+    },
+    {
+      "id": 1045,
+      "parola_griko": "vamma",
+      "parola_italiano": "tintura"
+    },
+    {
+      "id": 1047,
+      "parola_griko": "vascama",
+      "parola_italiano": "malocchio"
+    },
+    {
+      "id": 938,
+      "parola_griko": "vasilico",
+      "parola_italiano": "basilico"
+    },
+    {
+      "id": 1046,
+      "parola_griko": "vattisma",
+      "parola_italiano": "battesimo"
+    },
+    {
+      "id": 1360,
+      "parola_griko": "velani",
+      "parola_italiano": "ghianda"
+    },
+    {
+      "id": 1202,
+      "parola_griko": "viannova",
+      "parola_italiano": "strada nuova"
+    },
+    {
+      "id": 995,
+      "parola_griko": "vizì",
+      "parola_italiano": "mammella"
+    },
+    {
+      "id": 1048,
+      "parola_griko": "vlemma",
+      "parola_italiano": "sguardo"
+    },
+    {
+      "id": 1049,
+      "parola_griko": "vlojisma",
+      "parola_italiano": "benedizione"
+    },
+    {
+      "id": 1139,
+      "parola_griko": "volo",
+      "parola_italiano": "terra argillosa"
+    },
+    {
+      "id": 1183,
+      "parola_griko": "volumi",
+      "parola_italiano": "mucchio"
+    },
+    {
+      "id": 1364,
+      "parola_griko": "xilo",
+      "parola_italiano": "legno"
+    },
+    {
+      "id": 1197,
+      "parola_griko": "zagareto",
+      "parola_italiano": "fioritura"
+    },
+    {
+      "id": 860,
+      "parola_griko": "zinùtti",
+      "parola_italiano": "aceto"
+    },
+    {
+      "id": 1092,
+      "parola_griko": "zio",
+      "parola_italiano": "giogo"
+    },
+    {
+      "id": 1272,
+      "parola_griko": "zoì",
+      "parola_italiano": "vita"
+    },
+    {
+      "id": 861,
+      "parola_griko": "zonari",
+      "parola_italiano": "cintola"
+    },
+    {
+      "id": 758,
+      "parola_griko": "zontos",
+      "parola_italiano": "rozzo/grossolano"
+    }
+  ],
+  "occurrences": [
+    {
+      "id": 717,
+      "lexeme_id": 685,
+      "lesson_id": 1
+    },
+    {
+      "id": 718,
+      "lexeme_id": 686,
+      "lesson_id": 1
+    },
+    {
+      "id": 719,
+      "lexeme_id": 687,
+      "lesson_id": 1
+    },
+    {
+      "id": 720,
+      "lexeme_id": 688,
+      "lesson_id": 1
+    },
+    {
+      "id": 721,
+      "lexeme_id": 689,
+      "lesson_id": 1
+    },
+    {
+      "id": 722,
+      "lexeme_id": 690,
+      "lesson_id": 1
+    },
+    {
+      "id": 723,
+      "lexeme_id": 691,
+      "lesson_id": 1
+    },
+    {
+      "id": 724,
+      "lexeme_id": 692,
+      "lesson_id": 1
+    },
+    {
+      "id": 725,
+      "lexeme_id": 693,
+      "lesson_id": 1
+    },
+    {
+      "id": 726,
+      "lexeme_id": 694,
+      "lesson_id": 1
+    },
+    {
+      "id": 727,
+      "lexeme_id": 695,
+      "lesson_id": 1
+    },
+    {
+      "id": 728,
+      "lexeme_id": 696,
+      "lesson_id": 1
+    },
+    {
+      "id": 729,
+      "lexeme_id": 697,
+      "lesson_id": 1
+    },
+    {
+      "id": 730,
+      "lexeme_id": 698,
+      "lesson_id": 1
+    },
+    {
+      "id": 731,
+      "lexeme_id": 699,
+      "lesson_id": 2
+    },
+    {
+      "id": 732,
+      "lexeme_id": 700,
+      "lesson_id": 2
+    },
+    {
+      "id": 733,
+      "lexeme_id": 701,
+      "lesson_id": 2
+    },
+    {
+      "id": 734,
+      "lexeme_id": 702,
+      "lesson_id": 2
+    },
+    {
+      "id": 735,
+      "lexeme_id": 703,
+      "lesson_id": 2
+    },
+    {
+      "id": 736,
+      "lexeme_id": 704,
+      "lesson_id": 2
+    },
+    {
+      "id": 737,
+      "lexeme_id": 705,
+      "lesson_id": 2
+    },
+    {
+      "id": 738,
+      "lexeme_id": 706,
+      "lesson_id": 2
+    },
+    {
+      "id": 739,
+      "lexeme_id": 707,
+      "lesson_id": 2
+    },
+    {
+      "id": 740,
+      "lexeme_id": 708,
+      "lesson_id": 2
+    },
+    {
+      "id": 741,
+      "lexeme_id": 709,
+      "lesson_id": 2
+    },
+    {
+      "id": 742,
+      "lexeme_id": 710,
+      "lesson_id": 2
+    },
+    {
+      "id": 743,
+      "lexeme_id": 711,
+      "lesson_id": 3
+    },
+    {
+      "id": 744,
+      "lexeme_id": 712,
+      "lesson_id": 3
+    },
+    {
+      "id": 745,
+      "lexeme_id": 713,
+      "lesson_id": 3
+    },
+    {
+      "id": 746,
+      "lexeme_id": 714,
+      "lesson_id": 3
+    },
+    {
+      "id": 747,
+      "lexeme_id": 715,
+      "lesson_id": 3
+    },
+    {
+      "id": 748,
+      "lexeme_id": 716,
+      "lesson_id": 3
+    },
+    {
+      "id": 749,
+      "lexeme_id": 717,
+      "lesson_id": 3
+    },
+    {
+      "id": 750,
+      "lexeme_id": 718,
+      "lesson_id": 3
+    },
+    {
+      "id": 751,
+      "lexeme_id": 719,
+      "lesson_id": 3
+    },
+    {
+      "id": 752,
+      "lexeme_id": 720,
+      "lesson_id": 4
+    },
+    {
+      "id": 753,
+      "lexeme_id": 721,
+      "lesson_id": 4
+    },
+    {
+      "id": 754,
+      "lexeme_id": 722,
+      "lesson_id": 4
+    },
+    {
+      "id": 755,
+      "lexeme_id": 695,
+      "lesson_id": 4
+    },
+    {
+      "id": 756,
+      "lexeme_id": 723,
+      "lesson_id": 4
+    },
+    {
+      "id": 757,
+      "lexeme_id": 724,
+      "lesson_id": 5
+    },
+    {
+      "id": 758,
+      "lexeme_id": 725,
+      "lesson_id": 5
+    },
+    {
+      "id": 759,
+      "lexeme_id": 726,
+      "lesson_id": 5
+    },
+    {
+      "id": 760,
+      "lexeme_id": 727,
+      "lesson_id": 5
+    },
+    {
+      "id": 761,
+      "lexeme_id": 728,
+      "lesson_id": 5
+    },
+    {
+      "id": 762,
+      "lexeme_id": 729,
+      "lesson_id": 5
+    },
+    {
+      "id": 763,
+      "lexeme_id": 730,
+      "lesson_id": 6
+    },
+    {
+      "id": 764,
+      "lexeme_id": 731,
+      "lesson_id": 6
+    },
+    {
+      "id": 765,
+      "lexeme_id": 732,
+      "lesson_id": 6
+    },
+    {
+      "id": 766,
+      "lexeme_id": 733,
+      "lesson_id": 6
+    },
+    {
+      "id": 767,
+      "lexeme_id": 734,
+      "lesson_id": 6
+    },
+    {
+      "id": 768,
+      "lexeme_id": 735,
+      "lesson_id": 6
+    },
+    {
+      "id": 769,
+      "lexeme_id": 736,
+      "lesson_id": 7
+    },
+    {
+      "id": 770,
+      "lexeme_id": 737,
+      "lesson_id": 7
+    },
+    {
+      "id": 771,
+      "lexeme_id": 738,
+      "lesson_id": 7
+    },
+    {
+      "id": 772,
+      "lexeme_id": 739,
+      "lesson_id": 7
+    },
+    {
+      "id": 773,
+      "lexeme_id": 740,
+      "lesson_id": 7
+    },
+    {
+      "id": 774,
+      "lexeme_id": 741,
+      "lesson_id": 7
+    },
+    {
+      "id": 775,
+      "lexeme_id": 742,
+      "lesson_id": 7
+    },
+    {
+      "id": 776,
+      "lexeme_id": 743,
+      "lesson_id": 7
+    },
+    {
+      "id": 777,
+      "lexeme_id": 744,
+      "lesson_id": 7
+    },
+    {
+      "id": 778,
+      "lexeme_id": 745,
+      "lesson_id": 8
+    },
+    {
+      "id": 779,
+      "lexeme_id": 746,
+      "lesson_id": 8
+    },
+    {
+      "id": 780,
+      "lexeme_id": 747,
+      "lesson_id": 8
+    },
+    {
+      "id": 781,
+      "lexeme_id": 748,
+      "lesson_id": 8
+    },
+    {
+      "id": 782,
+      "lexeme_id": 749,
+      "lesson_id": 8
+    },
+    {
+      "id": 783,
+      "lexeme_id": 750,
+      "lesson_id": 9
+    },
+    {
+      "id": 784,
+      "lexeme_id": 751,
+      "lesson_id": 9
+    },
+    {
+      "id": 785,
+      "lexeme_id": 752,
+      "lesson_id": 9
+    },
+    {
+      "id": 786,
+      "lexeme_id": 753,
+      "lesson_id": 9
+    },
+    {
+      "id": 787,
+      "lexeme_id": 754,
+      "lesson_id": 9
+    },
+    {
+      "id": 788,
+      "lexeme_id": 755,
+      "lesson_id": 9
+    },
+    {
+      "id": 789,
+      "lexeme_id": 756,
+      "lesson_id": 9
+    },
+    {
+      "id": 790,
+      "lexeme_id": 757,
+      "lesson_id": 9
+    },
+    {
+      "id": 791,
+      "lexeme_id": 758,
+      "lesson_id": 9
+    },
+    {
+      "id": 792,
+      "lexeme_id": 759,
+      "lesson_id": 10
+    },
+    {
+      "id": 793,
+      "lexeme_id": 760,
+      "lesson_id": 10
+    },
+    {
+      "id": 794,
+      "lexeme_id": 761,
+      "lesson_id": 10
+    },
+    {
+      "id": 795,
+      "lexeme_id": 762,
+      "lesson_id": 10
+    },
+    {
+      "id": 796,
+      "lexeme_id": 763,
+      "lesson_id": 10
+    },
+    {
+      "id": 797,
+      "lexeme_id": 764,
+      "lesson_id": 10
+    },
+    {
+      "id": 798,
+      "lexeme_id": 765,
+      "lesson_id": 10
+    },
+    {
+      "id": 799,
+      "lexeme_id": 766,
+      "lesson_id": 10
+    },
+    {
+      "id": 800,
+      "lexeme_id": 767,
+      "lesson_id": 11
+    },
+    {
+      "id": 801,
+      "lexeme_id": 768,
+      "lesson_id": 11
+    },
+    {
+      "id": 802,
+      "lexeme_id": 769,
+      "lesson_id": 11
+    },
+    {
+      "id": 803,
+      "lexeme_id": 770,
+      "lesson_id": 11
+    },
+    {
+      "id": 804,
+      "lexeme_id": 771,
+      "lesson_id": 11
+    },
+    {
+      "id": 805,
+      "lexeme_id": 772,
+      "lesson_id": 11
+    },
+    {
+      "id": 806,
+      "lexeme_id": 773,
+      "lesson_id": 11
+    },
+    {
+      "id": 807,
+      "lexeme_id": 774,
+      "lesson_id": 11
+    },
+    {
+      "id": 808,
+      "lexeme_id": 775,
+      "lesson_id": 11
+    },
+    {
+      "id": 809,
+      "lexeme_id": 776,
+      "lesson_id": 12
+    },
+    {
+      "id": 810,
+      "lexeme_id": 777,
+      "lesson_id": 12
+    },
+    {
+      "id": 811,
+      "lexeme_id": 778,
+      "lesson_id": 12
+    },
+    {
+      "id": 812,
+      "lexeme_id": 779,
+      "lesson_id": 12
+    },
+    {
+      "id": 813,
+      "lexeme_id": 780,
+      "lesson_id": 12
+    },
+    {
+      "id": 814,
+      "lexeme_id": 781,
+      "lesson_id": 12
+    },
+    {
+      "id": 815,
+      "lexeme_id": 782,
+      "lesson_id": 12
+    },
+    {
+      "id": 816,
+      "lexeme_id": 783,
+      "lesson_id": 12
+    },
+    {
+      "id": 817,
+      "lexeme_id": 784,
+      "lesson_id": 12
+    },
+    {
+      "id": 818,
+      "lexeme_id": 785,
+      "lesson_id": 12
+    },
+    {
+      "id": 819,
+      "lexeme_id": 786,
+      "lesson_id": 12
+    },
+    {
+      "id": 820,
+      "lexeme_id": 787,
+      "lesson_id": 12
+    },
+    {
+      "id": 821,
+      "lexeme_id": 788,
+      "lesson_id": 12
+    },
+    {
+      "id": 822,
+      "lexeme_id": 789,
+      "lesson_id": 13
+    },
+    {
+      "id": 823,
+      "lexeme_id": 790,
+      "lesson_id": 13
+    },
+    {
+      "id": 824,
+      "lexeme_id": 791,
+      "lesson_id": 13
+    },
+    {
+      "id": 825,
+      "lexeme_id": 792,
+      "lesson_id": 13
+    },
+    {
+      "id": 826,
+      "lexeme_id": 793,
+      "lesson_id": 13
+    },
+    {
+      "id": 827,
+      "lexeme_id": 794,
+      "lesson_id": 13
+    },
+    {
+      "id": 828,
+      "lexeme_id": 795,
+      "lesson_id": 13
+    },
+    {
+      "id": 829,
+      "lexeme_id": 796,
+      "lesson_id": 13
+    },
+    {
+      "id": 830,
+      "lexeme_id": 797,
+      "lesson_id": 13
+    },
+    {
+      "id": 831,
+      "lexeme_id": 798,
+      "lesson_id": 13
+    },
+    {
+      "id": 832,
+      "lexeme_id": 799,
+      "lesson_id": 13
+    },
+    {
+      "id": 833,
+      "lexeme_id": 800,
+      "lesson_id": 13
+    },
+    {
+      "id": 834,
+      "lexeme_id": 801,
+      "lesson_id": 13
+    },
+    {
+      "id": 835,
+      "lexeme_id": 802,
+      "lesson_id": 14
+    },
+    {
+      "id": 836,
+      "lexeme_id": 803,
+      "lesson_id": 14
+    },
+    {
+      "id": 837,
+      "lexeme_id": 804,
+      "lesson_id": 14
+    },
+    {
+      "id": 838,
+      "lexeme_id": 805,
+      "lesson_id": 14
+    },
+    {
+      "id": 839,
+      "lexeme_id": 806,
+      "lesson_id": 14
+    },
+    {
+      "id": 840,
+      "lexeme_id": 807,
+      "lesson_id": 14
+    },
+    {
+      "id": 841,
+      "lexeme_id": 808,
+      "lesson_id": 14
+    },
+    {
+      "id": 842,
+      "lexeme_id": 809,
+      "lesson_id": 14
+    },
+    {
+      "id": 843,
+      "lexeme_id": 810,
+      "lesson_id": 14
+    },
+    {
+      "id": 844,
+      "lexeme_id": 811,
+      "lesson_id": 14
+    },
+    {
+      "id": 845,
+      "lexeme_id": 812,
+      "lesson_id": 14
+    },
+    {
+      "id": 846,
+      "lexeme_id": 799,
+      "lesson_id": 15
+    },
+    {
+      "id": 847,
+      "lexeme_id": 813,
+      "lesson_id": 15
+    },
+    {
+      "id": 848,
+      "lexeme_id": 814,
+      "lesson_id": 15
+    },
+    {
+      "id": 849,
+      "lexeme_id": 815,
+      "lesson_id": 15
+    },
+    {
+      "id": 850,
+      "lexeme_id": 816,
+      "lesson_id": 15
+    },
+    {
+      "id": 851,
+      "lexeme_id": 817,
+      "lesson_id": 15
+    },
+    {
+      "id": 852,
+      "lexeme_id": 818,
+      "lesson_id": 15
+    },
+    {
+      "id": 853,
+      "lexeme_id": 819,
+      "lesson_id": 15
+    },
+    {
+      "id": 854,
+      "lexeme_id": 820,
+      "lesson_id": 15
+    },
+    {
+      "id": 855,
+      "lexeme_id": 821,
+      "lesson_id": 15
+    },
+    {
+      "id": 856,
+      "lexeme_id": 822,
+      "lesson_id": 15
+    },
+    {
+      "id": 857,
+      "lexeme_id": 823,
+      "lesson_id": 15
+    },
+    {
+      "id": 858,
+      "lexeme_id": 824,
+      "lesson_id": 16
+    },
+    {
+      "id": 859,
+      "lexeme_id": 825,
+      "lesson_id": 16
+    },
+    {
+      "id": 860,
+      "lexeme_id": 826,
+      "lesson_id": 16
+    },
+    {
+      "id": 861,
+      "lexeme_id": 827,
+      "lesson_id": 16
+    },
+    {
+      "id": 862,
+      "lexeme_id": 828,
+      "lesson_id": 16
+    },
+    {
+      "id": 863,
+      "lexeme_id": 829,
+      "lesson_id": 16
+    },
+    {
+      "id": 864,
+      "lexeme_id": 830,
+      "lesson_id": 16
+    },
+    {
+      "id": 865,
+      "lexeme_id": 831,
+      "lesson_id": 16
+    },
+    {
+      "id": 866,
+      "lexeme_id": 832,
+      "lesson_id": 16
+    },
+    {
+      "id": 867,
+      "lexeme_id": 833,
+      "lesson_id": 16
+    },
+    {
+      "id": 868,
+      "lexeme_id": 834,
+      "lesson_id": 16
+    },
+    {
+      "id": 869,
+      "lexeme_id": 835,
+      "lesson_id": 16
+    },
+    {
+      "id": 870,
+      "lexeme_id": 836,
+      "lesson_id": 16
+    },
+    {
+      "id": 871,
+      "lexeme_id": 837,
+      "lesson_id": 16
+    },
+    {
+      "id": 872,
+      "lexeme_id": 838,
+      "lesson_id": 16
+    },
+    {
+      "id": 873,
+      "lexeme_id": 839,
+      "lesson_id": 16
+    },
+    {
+      "id": 874,
+      "lexeme_id": 840,
+      "lesson_id": 16
+    },
+    {
+      "id": 875,
+      "lexeme_id": 841,
+      "lesson_id": 16
+    },
+    {
+      "id": 876,
+      "lexeme_id": 842,
+      "lesson_id": 16
+    },
+    {
+      "id": 877,
+      "lexeme_id": 843,
+      "lesson_id": 17
+    },
+    {
+      "id": 878,
+      "lexeme_id": 844,
+      "lesson_id": 17
+    },
+    {
+      "id": 879,
+      "lexeme_id": 845,
+      "lesson_id": 17
+    },
+    {
+      "id": 880,
+      "lexeme_id": 846,
+      "lesson_id": 17
+    },
+    {
+      "id": 881,
+      "lexeme_id": 847,
+      "lesson_id": 17
+    },
+    {
+      "id": 882,
+      "lexeme_id": 848,
+      "lesson_id": 17
+    },
+    {
+      "id": 883,
+      "lexeme_id": 849,
+      "lesson_id": 17
+    },
+    {
+      "id": 884,
+      "lexeme_id": 850,
+      "lesson_id": 17
+    },
+    {
+      "id": 885,
+      "lexeme_id": 851,
+      "lesson_id": 17
+    },
+    {
+      "id": 886,
+      "lexeme_id": 852,
+      "lesson_id": 17
+    },
+    {
+      "id": 887,
+      "lexeme_id": 853,
+      "lesson_id": 17
+    },
+    {
+      "id": 888,
+      "lexeme_id": 854,
+      "lesson_id": 17
+    },
+    {
+      "id": 889,
+      "lexeme_id": 855,
+      "lesson_id": 17
+    },
+    {
+      "id": 890,
+      "lexeme_id": 856,
+      "lesson_id": 17
+    },
+    {
+      "id": 891,
+      "lexeme_id": 857,
+      "lesson_id": 17
+    },
+    {
+      "id": 892,
+      "lexeme_id": 858,
+      "lesson_id": 17
+    },
+    {
+      "id": 893,
+      "lexeme_id": 859,
+      "lesson_id": 17
+    },
+    {
+      "id": 894,
+      "lexeme_id": 860,
+      "lesson_id": 17
+    },
+    {
+      "id": 895,
+      "lexeme_id": 861,
+      "lesson_id": 17
+    },
+    {
+      "id": 896,
+      "lexeme_id": 862,
+      "lesson_id": 18
+    },
+    {
+      "id": 897,
+      "lexeme_id": 863,
+      "lesson_id": 18
+    },
+    {
+      "id": 898,
+      "lexeme_id": 864,
+      "lesson_id": 18
+    },
+    {
+      "id": 899,
+      "lexeme_id": 865,
+      "lesson_id": 18
+    },
+    {
+      "id": 900,
+      "lexeme_id": 866,
+      "lesson_id": 18
+    },
+    {
+      "id": 901,
+      "lexeme_id": 867,
+      "lesson_id": 18
+    },
+    {
+      "id": 902,
+      "lexeme_id": 868,
+      "lesson_id": 18
+    },
+    {
+      "id": 903,
+      "lexeme_id": 869,
+      "lesson_id": 18
+    },
+    {
+      "id": 904,
+      "lexeme_id": 870,
+      "lesson_id": 18
+    },
+    {
+      "id": 905,
+      "lexeme_id": 871,
+      "lesson_id": 18
+    },
+    {
+      "id": 906,
+      "lexeme_id": 872,
+      "lesson_id": 18
+    },
+    {
+      "id": 907,
+      "lexeme_id": 873,
+      "lesson_id": 18
+    },
+    {
+      "id": 908,
+      "lexeme_id": 874,
+      "lesson_id": 18
+    },
+    {
+      "id": 909,
+      "lexeme_id": 875,
+      "lesson_id": 18
+    },
+    {
+      "id": 910,
+      "lexeme_id": 876,
+      "lesson_id": 18
+    },
+    {
+      "id": 911,
+      "lexeme_id": 877,
+      "lesson_id": 19
+    },
+    {
+      "id": 912,
+      "lexeme_id": 878,
+      "lesson_id": 19
+    },
+    {
+      "id": 913,
+      "lexeme_id": 879,
+      "lesson_id": 19
+    },
+    {
+      "id": 914,
+      "lexeme_id": 880,
+      "lesson_id": 19
+    },
+    {
+      "id": 915,
+      "lexeme_id": 881,
+      "lesson_id": 19
+    },
+    {
+      "id": 916,
+      "lexeme_id": 882,
+      "lesson_id": 19
+    },
+    {
+      "id": 917,
+      "lexeme_id": 883,
+      "lesson_id": 19
+    },
+    {
+      "id": 918,
+      "lexeme_id": 884,
+      "lesson_id": 19
+    },
+    {
+      "id": 919,
+      "lexeme_id": 885,
+      "lesson_id": 19
+    },
+    {
+      "id": 920,
+      "lexeme_id": 886,
+      "lesson_id": 19
+    },
+    {
+      "id": 921,
+      "lexeme_id": 887,
+      "lesson_id": 19
+    },
+    {
+      "id": 922,
+      "lexeme_id": 888,
+      "lesson_id": 20
+    },
+    {
+      "id": 923,
+      "lexeme_id": 889,
+      "lesson_id": 20
+    },
+    {
+      "id": 924,
+      "lexeme_id": 890,
+      "lesson_id": 20
+    },
+    {
+      "id": 925,
+      "lexeme_id": 891,
+      "lesson_id": 20
+    },
+    {
+      "id": 926,
+      "lexeme_id": 892,
+      "lesson_id": 20
+    },
+    {
+      "id": 927,
+      "lexeme_id": 893,
+      "lesson_id": 20
+    },
+    {
+      "id": 928,
+      "lexeme_id": 894,
+      "lesson_id": 20
+    },
+    {
+      "id": 929,
+      "lexeme_id": 895,
+      "lesson_id": 20
+    },
+    {
+      "id": 930,
+      "lexeme_id": 896,
+      "lesson_id": 20
+    },
+    {
+      "id": 931,
+      "lexeme_id": 897,
+      "lesson_id": 20
+    },
+    {
+      "id": 932,
+      "lexeme_id": 898,
+      "lesson_id": 20
+    },
+    {
+      "id": 933,
+      "lexeme_id": 899,
+      "lesson_id": 21
+    },
+    {
+      "id": 934,
+      "lexeme_id": 900,
+      "lesson_id": 21
+    },
+    {
+      "id": 935,
+      "lexeme_id": 901,
+      "lesson_id": 21
+    },
+    {
+      "id": 936,
+      "lexeme_id": 902,
+      "lesson_id": 21
+    },
+    {
+      "id": 937,
+      "lexeme_id": 903,
+      "lesson_id": 21
+    },
+    {
+      "id": 938,
+      "lexeme_id": 904,
+      "lesson_id": 21
+    },
+    {
+      "id": 939,
+      "lexeme_id": 905,
+      "lesson_id": 21
+    },
+    {
+      "id": 940,
+      "lexeme_id": 906,
+      "lesson_id": 21
+    },
+    {
+      "id": 941,
+      "lexeme_id": 907,
+      "lesson_id": 21
+    },
+    {
+      "id": 942,
+      "lexeme_id": 908,
+      "lesson_id": 21
+    },
+    {
+      "id": 943,
+      "lexeme_id": 909,
+      "lesson_id": 22
+    },
+    {
+      "id": 944,
+      "lexeme_id": 910,
+      "lesson_id": 22
+    },
+    {
+      "id": 945,
+      "lexeme_id": 911,
+      "lesson_id": 22
+    },
+    {
+      "id": 946,
+      "lexeme_id": 912,
+      "lesson_id": 22
+    },
+    {
+      "id": 947,
+      "lexeme_id": 913,
+      "lesson_id": 22
+    },
+    {
+      "id": 948,
+      "lexeme_id": 914,
+      "lesson_id": 22
+    },
+    {
+      "id": 949,
+      "lexeme_id": 915,
+      "lesson_id": 22
+    },
+    {
+      "id": 950,
+      "lexeme_id": 916,
+      "lesson_id": 22
+    },
+    {
+      "id": 951,
+      "lexeme_id": 917,
+      "lesson_id": 22
+    },
+    {
+      "id": 952,
+      "lexeme_id": 918,
+      "lesson_id": 22
+    },
+    {
+      "id": 953,
+      "lexeme_id": 919,
+      "lesson_id": 22
+    },
+    {
+      "id": 954,
+      "lexeme_id": 920,
+      "lesson_id": 23
+    },
+    {
+      "id": 955,
+      "lexeme_id": 921,
+      "lesson_id": 23
+    },
+    {
+      "id": 956,
+      "lexeme_id": 922,
+      "lesson_id": 23
+    },
+    {
+      "id": 957,
+      "lexeme_id": 923,
+      "lesson_id": 23
+    },
+    {
+      "id": 958,
+      "lexeme_id": 924,
+      "lesson_id": 23
+    },
+    {
+      "id": 959,
+      "lexeme_id": 925,
+      "lesson_id": 23
+    },
+    {
+      "id": 960,
+      "lexeme_id": 926,
+      "lesson_id": 23
+    },
+    {
+      "id": 961,
+      "lexeme_id": 927,
+      "lesson_id": 23
+    },
+    {
+      "id": 962,
+      "lexeme_id": 928,
+      "lesson_id": 24
+    },
+    {
+      "id": 963,
+      "lexeme_id": 929,
+      "lesson_id": 24
+    },
+    {
+      "id": 964,
+      "lexeme_id": 930,
+      "lesson_id": 24
+    },
+    {
+      "id": 965,
+      "lexeme_id": 931,
+      "lesson_id": 24
+    },
+    {
+      "id": 966,
+      "lexeme_id": 932,
+      "lesson_id": 24
+    },
+    {
+      "id": 967,
+      "lexeme_id": 933,
+      "lesson_id": 24
+    },
+    {
+      "id": 968,
+      "lexeme_id": 934,
+      "lesson_id": 24
+    },
+    {
+      "id": 969,
+      "lexeme_id": 935,
+      "lesson_id": 24
+    },
+    {
+      "id": 970,
+      "lexeme_id": 936,
+      "lesson_id": 24
+    },
+    {
+      "id": 971,
+      "lexeme_id": 937,
+      "lesson_id": 24
+    },
+    {
+      "id": 972,
+      "lexeme_id": 938,
+      "lesson_id": 24
+    },
+    {
+      "id": 973,
+      "lexeme_id": 939,
+      "lesson_id": 25
+    },
+    {
+      "id": 974,
+      "lexeme_id": 940,
+      "lesson_id": 25
+    },
+    {
+      "id": 975,
+      "lexeme_id": 941,
+      "lesson_id": 25
+    },
+    {
+      "id": 976,
+      "lexeme_id": 942,
+      "lesson_id": 25
+    },
+    {
+      "id": 977,
+      "lexeme_id": 943,
+      "lesson_id": 25
+    },
+    {
+      "id": 978,
+      "lexeme_id": 944,
+      "lesson_id": 25
+    },
+    {
+      "id": 979,
+      "lexeme_id": 945,
+      "lesson_id": 25
+    },
+    {
+      "id": 980,
+      "lexeme_id": 946,
+      "lesson_id": 25
+    },
+    {
+      "id": 981,
+      "lexeme_id": 947,
+      "lesson_id": 25
+    },
+    {
+      "id": 982,
+      "lexeme_id": 948,
+      "lesson_id": 25
+    },
+    {
+      "id": 983,
+      "lexeme_id": 949,
+      "lesson_id": 25
+    },
+    {
+      "id": 984,
+      "lexeme_id": 950,
+      "lesson_id": 25
+    },
+    {
+      "id": 985,
+      "lexeme_id": 951,
+      "lesson_id": 25
+    },
+    {
+      "id": 986,
+      "lexeme_id": 952,
+      "lesson_id": 25
+    },
+    {
+      "id": 987,
+      "lexeme_id": 953,
+      "lesson_id": 25
+    },
+    {
+      "id": 988,
+      "lexeme_id": 954,
+      "lesson_id": 26
+    },
+    {
+      "id": 989,
+      "lexeme_id": 955,
+      "lesson_id": 26
+    },
+    {
+      "id": 990,
+      "lexeme_id": 956,
+      "lesson_id": 26
+    },
+    {
+      "id": 991,
+      "lexeme_id": 957,
+      "lesson_id": 26
+    },
+    {
+      "id": 992,
+      "lexeme_id": 958,
+      "lesson_id": 26
+    },
+    {
+      "id": 993,
+      "lexeme_id": 959,
+      "lesson_id": 26
+    },
+    {
+      "id": 994,
+      "lexeme_id": 960,
+      "lesson_id": 26
+    },
+    {
+      "id": 995,
+      "lexeme_id": 961,
+      "lesson_id": 26
+    },
+    {
+      "id": 996,
+      "lexeme_id": 962,
+      "lesson_id": 26
+    },
+    {
+      "id": 997,
+      "lexeme_id": 963,
+      "lesson_id": 26
+    },
+    {
+      "id": 998,
+      "lexeme_id": 964,
+      "lesson_id": 26
+    },
+    {
+      "id": 999,
+      "lexeme_id": 965,
+      "lesson_id": 26
+    },
+    {
+      "id": 1000,
+      "lexeme_id": 966,
+      "lesson_id": 26
+    },
+    {
+      "id": 1001,
+      "lexeme_id": 967,
+      "lesson_id": 27
+    },
+    {
+      "id": 1002,
+      "lexeme_id": 968,
+      "lesson_id": 27
+    },
+    {
+      "id": 1003,
+      "lexeme_id": 969,
+      "lesson_id": 27
+    },
+    {
+      "id": 1004,
+      "lexeme_id": 970,
+      "lesson_id": 27
+    },
+    {
+      "id": 1005,
+      "lexeme_id": 971,
+      "lesson_id": 27
+    },
+    {
+      "id": 1006,
+      "lexeme_id": 972,
+      "lesson_id": 27
+    },
+    {
+      "id": 1007,
+      "lexeme_id": 973,
+      "lesson_id": 27
+    },
+    {
+      "id": 1008,
+      "lexeme_id": 974,
+      "lesson_id": 27
+    },
+    {
+      "id": 1009,
+      "lexeme_id": 975,
+      "lesson_id": 27
+    },
+    {
+      "id": 1010,
+      "lexeme_id": 976,
+      "lesson_id": 27
+    },
+    {
+      "id": 1011,
+      "lexeme_id": 977,
+      "lesson_id": 27
+    },
+    {
+      "id": 1012,
+      "lexeme_id": 978,
+      "lesson_id": 27
+    },
+    {
+      "id": 1013,
+      "lexeme_id": 979,
+      "lesson_id": 27
+    },
+    {
+      "id": 1014,
+      "lexeme_id": 980,
+      "lesson_id": 27
+    },
+    {
+      "id": 1015,
+      "lexeme_id": 981,
+      "lesson_id": 28
+    },
+    {
+      "id": 1016,
+      "lexeme_id": 982,
+      "lesson_id": 28
+    },
+    {
+      "id": 1017,
+      "lexeme_id": 983,
+      "lesson_id": 28
+    },
+    {
+      "id": 1018,
+      "lexeme_id": 984,
+      "lesson_id": 28
+    },
+    {
+      "id": 1019,
+      "lexeme_id": 985,
+      "lesson_id": 28
+    },
+    {
+      "id": 1020,
+      "lexeme_id": 986,
+      "lesson_id": 29
+    },
+    {
+      "id": 1021,
+      "lexeme_id": 987,
+      "lesson_id": 29
+    },
+    {
+      "id": 1022,
+      "lexeme_id": 988,
+      "lesson_id": 29
+    },
+    {
+      "id": 1023,
+      "lexeme_id": 989,
+      "lesson_id": 29
+    },
+    {
+      "id": 1024,
+      "lexeme_id": 990,
+      "lesson_id": 29
+    },
+    {
+      "id": 1025,
+      "lexeme_id": 991,
+      "lesson_id": 29
+    },
+    {
+      "id": 1026,
+      "lexeme_id": 992,
+      "lesson_id": 30
+    },
+    {
+      "id": 1027,
+      "lexeme_id": 993,
+      "lesson_id": 30
+    },
+    {
+      "id": 1028,
+      "lexeme_id": 994,
+      "lesson_id": 30
+    },
+    {
+      "id": 1029,
+      "lexeme_id": 995,
+      "lesson_id": 30
+    },
+    {
+      "id": 1030,
+      "lexeme_id": 996,
+      "lesson_id": 31
+    },
+    {
+      "id": 1031,
+      "lexeme_id": 997,
+      "lesson_id": 31
+    },
+    {
+      "id": 1032,
+      "lexeme_id": 998,
+      "lesson_id": 31
+    },
+    {
+      "id": 1033,
+      "lexeme_id": 861,
+      "lesson_id": 31
+    },
+    {
+      "id": 1034,
+      "lexeme_id": 999,
+      "lesson_id": 32
+    },
+    {
+      "id": 1035,
+      "lexeme_id": 1000,
+      "lesson_id": 32
+    },
+    {
+      "id": 1036,
+      "lexeme_id": 1001,
+      "lesson_id": 32
+    },
+    {
+      "id": 1037,
+      "lexeme_id": 1002,
+      "lesson_id": 32
+    },
+    {
+      "id": 1038,
+      "lexeme_id": 1003,
+      "lesson_id": 32
+    },
+    {
+      "id": 1039,
+      "lexeme_id": 1004,
+      "lesson_id": 33
+    },
+    {
+      "id": 1040,
+      "lexeme_id": 1005,
+      "lesson_id": 33
+    },
+    {
+      "id": 1041,
+      "lexeme_id": 1006,
+      "lesson_id": 33
+    },
+    {
+      "id": 1042,
+      "lexeme_id": 1007,
+      "lesson_id": 33
+    },
+    {
+      "id": 1043,
+      "lexeme_id": 1008,
+      "lesson_id": 33
+    },
+    {
+      "id": 1044,
+      "lexeme_id": 1009,
+      "lesson_id": 34
+    },
+    {
+      "id": 1045,
+      "lexeme_id": 1010,
+      "lesson_id": 34
+    },
+    {
+      "id": 1046,
+      "lexeme_id": 1011,
+      "lesson_id": 34
+    },
+    {
+      "id": 1047,
+      "lexeme_id": 1012,
+      "lesson_id": 34
+    },
+    {
+      "id": 1048,
+      "lexeme_id": 1013,
+      "lesson_id": 34
+    },
+    {
+      "id": 1049,
+      "lexeme_id": 1014,
+      "lesson_id": 35
+    },
+    {
+      "id": 1050,
+      "lexeme_id": 1015,
+      "lesson_id": 35
+    },
+    {
+      "id": 1051,
+      "lexeme_id": 1016,
+      "lesson_id": 35
+    },
+    {
+      "id": 1052,
+      "lexeme_id": 1017,
+      "lesson_id": 35
+    },
+    {
+      "id": 1053,
+      "lexeme_id": 1018,
+      "lesson_id": 35
+    },
+    {
+      "id": 1054,
+      "lexeme_id": 1019,
+      "lesson_id": 36
+    },
+    {
+      "id": 1055,
+      "lexeme_id": 1020,
+      "lesson_id": 36
+    },
+    {
+      "id": 1056,
+      "lexeme_id": 1021,
+      "lesson_id": 36
+    },
+    {
+      "id": 1057,
+      "lexeme_id": 1022,
+      "lesson_id": 36
+    },
+    {
+      "id": 1058,
+      "lexeme_id": 1023,
+      "lesson_id": 37
+    },
+    {
+      "id": 1059,
+      "lexeme_id": 1024,
+      "lesson_id": 37
+    },
+    {
+      "id": 1060,
+      "lexeme_id": 1025,
+      "lesson_id": 37
+    },
+    {
+      "id": 1061,
+      "lexeme_id": 1026,
+      "lesson_id": 37
+    },
+    {
+      "id": 1062,
+      "lexeme_id": 1027,
+      "lesson_id": 37
+    },
+    {
+      "id": 1063,
+      "lexeme_id": 1028,
+      "lesson_id": 38
+    },
+    {
+      "id": 1064,
+      "lexeme_id": 1029,
+      "lesson_id": 38
+    },
+    {
+      "id": 1065,
+      "lexeme_id": 1030,
+      "lesson_id": 38
+    },
+    {
+      "id": 1066,
+      "lexeme_id": 1031,
+      "lesson_id": 38
+    },
+    {
+      "id": 1067,
+      "lexeme_id": 1032,
+      "lesson_id": 38
+    },
+    {
+      "id": 1068,
+      "lexeme_id": 1033,
+      "lesson_id": 38
+    },
+    {
+      "id": 1069,
+      "lexeme_id": 1034,
+      "lesson_id": 38
+    },
+    {
+      "id": 1070,
+      "lexeme_id": 1035,
+      "lesson_id": 38
+    },
+    {
+      "id": 1071,
+      "lexeme_id": 1036,
+      "lesson_id": 39
+    },
+    {
+      "id": 1072,
+      "lexeme_id": 1037,
+      "lesson_id": 39
+    },
+    {
+      "id": 1073,
+      "lexeme_id": 1038,
+      "lesson_id": 39
+    },
+    {
+      "id": 1074,
+      "lexeme_id": 1039,
+      "lesson_id": 39
+    },
+    {
+      "id": 1075,
+      "lexeme_id": 1040,
+      "lesson_id": 39
+    },
+    {
+      "id": 1076,
+      "lexeme_id": 1041,
+      "lesson_id": 39
+    },
+    {
+      "id": 1077,
+      "lexeme_id": 1042,
+      "lesson_id": 39
+    },
+    {
+      "id": 1078,
+      "lexeme_id": 1043,
+      "lesson_id": 39
+    },
+    {
+      "id": 1079,
+      "lexeme_id": 1044,
+      "lesson_id": 39
+    },
+    {
+      "id": 1080,
+      "lexeme_id": 1045,
+      "lesson_id": 39
+    },
+    {
+      "id": 1081,
+      "lexeme_id": 1046,
+      "lesson_id": 39
+    },
+    {
+      "id": 1082,
+      "lexeme_id": 1047,
+      "lesson_id": 39
+    },
+    {
+      "id": 1083,
+      "lexeme_id": 1048,
+      "lesson_id": 39
+    },
+    {
+      "id": 1084,
+      "lexeme_id": 1049,
+      "lesson_id": 39
+    },
+    {
+      "id": 1085,
+      "lexeme_id": 1050,
+      "lesson_id": 39
+    },
+    {
+      "id": 1086,
+      "lexeme_id": 1051,
+      "lesson_id": 40
+    },
+    {
+      "id": 1087,
+      "lexeme_id": 1052,
+      "lesson_id": 40
+    },
+    {
+      "id": 1088,
+      "lexeme_id": 1053,
+      "lesson_id": 40
+    },
+    {
+      "id": 1089,
+      "lexeme_id": 1054,
+      "lesson_id": 40
+    },
+    {
+      "id": 1090,
+      "lexeme_id": 1055,
+      "lesson_id": 40
+    },
+    {
+      "id": 1091,
+      "lexeme_id": 1056,
+      "lesson_id": 40
+    },
+    {
+      "id": 1092,
+      "lexeme_id": 1057,
+      "lesson_id": 40
+    },
+    {
+      "id": 1093,
+      "lexeme_id": 1058,
+      "lesson_id": 40
+    },
+    {
+      "id": 1094,
+      "lexeme_id": 1059,
+      "lesson_id": 40
+    },
+    {
+      "id": 1095,
+      "lexeme_id": 1060,
+      "lesson_id": 40
+    },
+    {
+      "id": 1096,
+      "lexeme_id": 1061,
+      "lesson_id": 40
+    },
+    {
+      "id": 1097,
+      "lexeme_id": 1062,
+      "lesson_id": 40
+    },
+    {
+      "id": 1098,
+      "lexeme_id": 1063,
+      "lesson_id": 40
+    },
+    {
+      "id": 1099,
+      "lexeme_id": 1064,
+      "lesson_id": 40
+    },
+    {
+      "id": 1100,
+      "lexeme_id": 1065,
+      "lesson_id": 41
+    },
+    {
+      "id": 1101,
+      "lexeme_id": 1066,
+      "lesson_id": 41
+    },
+    {
+      "id": 1102,
+      "lexeme_id": 1067,
+      "lesson_id": 41
+    },
+    {
+      "id": 1103,
+      "lexeme_id": 1068,
+      "lesson_id": 41
+    },
+    {
+      "id": 1104,
+      "lexeme_id": 959,
+      "lesson_id": 41
+    },
+    {
+      "id": 1105,
+      "lexeme_id": 940,
+      "lesson_id": 41
+    },
+    {
+      "id": 1106,
+      "lexeme_id": 1069,
+      "lesson_id": 41
+    },
+    {
+      "id": 1107,
+      "lexeme_id": 1070,
+      "lesson_id": 41
+    },
+    {
+      "id": 1108,
+      "lexeme_id": 1071,
+      "lesson_id": 41
+    },
+    {
+      "id": 1109,
+      "lexeme_id": 1072,
+      "lesson_id": 41
+    },
+    {
+      "id": 1110,
+      "lexeme_id": 1073,
+      "lesson_id": 41
+    },
+    {
+      "id": 1111,
+      "lexeme_id": 1074,
+      "lesson_id": 42
+    },
+    {
+      "id": 1112,
+      "lexeme_id": 1031,
+      "lesson_id": 42
+    },
+    {
+      "id": 1113,
+      "lexeme_id": 1075,
+      "lesson_id": 42
+    },
+    {
+      "id": 1114,
+      "lexeme_id": 1076,
+      "lesson_id": 42
+    },
+    {
+      "id": 1115,
+      "lexeme_id": 1077,
+      "lesson_id": 42
+    },
+    {
+      "id": 1116,
+      "lexeme_id": 986,
+      "lesson_id": 42
+    },
+    {
+      "id": 1117,
+      "lexeme_id": 1073,
+      "lesson_id": 42
+    },
+    {
+      "id": 1118,
+      "lexeme_id": 1078,
+      "lesson_id": 42
+    },
+    {
+      "id": 1119,
+      "lexeme_id": 1079,
+      "lesson_id": 43
+    },
+    {
+      "id": 1120,
+      "lexeme_id": 1080,
+      "lesson_id": 43
+    },
+    {
+      "id": 1121,
+      "lexeme_id": 1081,
+      "lesson_id": 43
+    },
+    {
+      "id": 1122,
+      "lexeme_id": 1082,
+      "lesson_id": 43
+    },
+    {
+      "id": 1123,
+      "lexeme_id": 1083,
+      "lesson_id": 43
+    },
+    {
+      "id": 1124,
+      "lexeme_id": 1084,
+      "lesson_id": 43
+    },
+    {
+      "id": 1125,
+      "lexeme_id": 1085,
+      "lesson_id": 43
+    },
+    {
+      "id": 1126,
+      "lexeme_id": 1086,
+      "lesson_id": 43
+    },
+    {
+      "id": 1127,
+      "lexeme_id": 1087,
+      "lesson_id": 43
+    },
+    {
+      "id": 1128,
+      "lexeme_id": 1088,
+      "lesson_id": 43
+    },
+    {
+      "id": 1129,
+      "lexeme_id": 1089,
+      "lesson_id": 43
+    },
+    {
+      "id": 1130,
+      "lexeme_id": 1090,
+      "lesson_id": 43
+    },
+    {
+      "id": 1131,
+      "lexeme_id": 1091,
+      "lesson_id": 43
+    },
+    {
+      "id": 1132,
+      "lexeme_id": 1092,
+      "lesson_id": 43
+    },
+    {
+      "id": 1133,
+      "lexeme_id": 1093,
+      "lesson_id": 44
+    },
+    {
+      "id": 1134,
+      "lexeme_id": 1094,
+      "lesson_id": 44
+    },
+    {
+      "id": 1135,
+      "lexeme_id": 1095,
+      "lesson_id": 44
+    },
+    {
+      "id": 1136,
+      "lexeme_id": 1096,
+      "lesson_id": 44
+    },
+    {
+      "id": 1137,
+      "lexeme_id": 1097,
+      "lesson_id": 44
+    },
+    {
+      "id": 1138,
+      "lexeme_id": 1098,
+      "lesson_id": 44
+    },
+    {
+      "id": 1139,
+      "lexeme_id": 1099,
+      "lesson_id": 44
+    },
+    {
+      "id": 1140,
+      "lexeme_id": 1100,
+      "lesson_id": 44
+    },
+    {
+      "id": 1141,
+      "lexeme_id": 1101,
+      "lesson_id": 46
+    },
+    {
+      "id": 1142,
+      "lexeme_id": 1102,
+      "lesson_id": 46
+    },
+    {
+      "id": 1143,
+      "lexeme_id": 1103,
+      "lesson_id": 46
+    },
+    {
+      "id": 1144,
+      "lexeme_id": 1104,
+      "lesson_id": 46
+    },
+    {
+      "id": 1145,
+      "lexeme_id": 1105,
+      "lesson_id": 46
+    },
+    {
+      "id": 1146,
+      "lexeme_id": 1106,
+      "lesson_id": 46
+    },
+    {
+      "id": 1147,
+      "lexeme_id": 1107,
+      "lesson_id": 46
+    },
+    {
+      "id": 1148,
+      "lexeme_id": 1108,
+      "lesson_id": 46
+    },
+    {
+      "id": 1149,
+      "lexeme_id": 1109,
+      "lesson_id": 46
+    },
+    {
+      "id": 1150,
+      "lexeme_id": 1110,
+      "lesson_id": 46
+    },
+    {
+      "id": 1151,
+      "lexeme_id": 1111,
+      "lesson_id": 46
+    },
+    {
+      "id": 1152,
+      "lexeme_id": 1112,
+      "lesson_id": 47
+    },
+    {
+      "id": 1153,
+      "lexeme_id": 1113,
+      "lesson_id": 47
+    },
+    {
+      "id": 1154,
+      "lexeme_id": 1114,
+      "lesson_id": 47
+    },
+    {
+      "id": 1155,
+      "lexeme_id": 1115,
+      "lesson_id": 47
+    },
+    {
+      "id": 1156,
+      "lexeme_id": 1116,
+      "lesson_id": 47
+    },
+    {
+      "id": 1157,
+      "lexeme_id": 1117,
+      "lesson_id": 47
+    },
+    {
+      "id": 1158,
+      "lexeme_id": 1118,
+      "lesson_id": 47
+    },
+    {
+      "id": 1159,
+      "lexeme_id": 1119,
+      "lesson_id": 47
+    },
+    {
+      "id": 1160,
+      "lexeme_id": 1120,
+      "lesson_id": 47
+    },
+    {
+      "id": 1161,
+      "lexeme_id": 1121,
+      "lesson_id": 47
+    },
+    {
+      "id": 1162,
+      "lexeme_id": 1122,
+      "lesson_id": 47
+    },
+    {
+      "id": 1163,
+      "lexeme_id": 1123,
+      "lesson_id": 47
+    },
+    {
+      "id": 1164,
+      "lexeme_id": 1124,
+      "lesson_id": 47
+    },
+    {
+      "id": 1165,
+      "lexeme_id": 1125,
+      "lesson_id": 47
+    },
+    {
+      "id": 1166,
+      "lexeme_id": 1126,
+      "lesson_id": 48
+    },
+    {
+      "id": 1167,
+      "lexeme_id": 1127,
+      "lesson_id": 48
+    },
+    {
+      "id": 1168,
+      "lexeme_id": 1128,
+      "lesson_id": 48
+    },
+    {
+      "id": 1169,
+      "lexeme_id": 1129,
+      "lesson_id": 48
+    },
+    {
+      "id": 1170,
+      "lexeme_id": 1130,
+      "lesson_id": 48
+    },
+    {
+      "id": 1171,
+      "lexeme_id": 1131,
+      "lesson_id": 48
+    },
+    {
+      "id": 1172,
+      "lexeme_id": 1132,
+      "lesson_id": 48
+    },
+    {
+      "id": 1173,
+      "lexeme_id": 1133,
+      "lesson_id": 48
+    },
+    {
+      "id": 1174,
+      "lexeme_id": 1134,
+      "lesson_id": 48
+    },
+    {
+      "id": 1175,
+      "lexeme_id": 1135,
+      "lesson_id": 48
+    },
+    {
+      "id": 1176,
+      "lexeme_id": 1136,
+      "lesson_id": 48
+    },
+    {
+      "id": 1177,
+      "lexeme_id": 1137,
+      "lesson_id": 48
+    },
+    {
+      "id": 1178,
+      "lexeme_id": 1138,
+      "lesson_id": 48
+    },
+    {
+      "id": 1179,
+      "lexeme_id": 1139,
+      "lesson_id": 48
+    },
+    {
+      "id": 1180,
+      "lexeme_id": 1140,
+      "lesson_id": 49
+    },
+    {
+      "id": 1181,
+      "lexeme_id": 1141,
+      "lesson_id": 49
+    },
+    {
+      "id": 1182,
+      "lexeme_id": 1142,
+      "lesson_id": 49
+    },
+    {
+      "id": 1183,
+      "lexeme_id": 1143,
+      "lesson_id": 49
+    },
+    {
+      "id": 1184,
+      "lexeme_id": 1144,
+      "lesson_id": 49
+    },
+    {
+      "id": 1185,
+      "lexeme_id": 879,
+      "lesson_id": 49
+    },
+    {
+      "id": 1186,
+      "lexeme_id": 1145,
+      "lesson_id": 49
+    },
+    {
+      "id": 1187,
+      "lexeme_id": 1146,
+      "lesson_id": 49
+    },
+    {
+      "id": 1188,
+      "lexeme_id": 1147,
+      "lesson_id": 49
+    },
+    {
+      "id": 1189,
+      "lexeme_id": 1148,
+      "lesson_id": 49
+    },
+    {
+      "id": 1190,
+      "lexeme_id": 1149,
+      "lesson_id": 49
+    },
+    {
+      "id": 1191,
+      "lexeme_id": 1150,
+      "lesson_id": 49
+    },
+    {
+      "id": 1192,
+      "lexeme_id": 1151,
+      "lesson_id": 49
+    },
+    {
+      "id": 1193,
+      "lexeme_id": 1152,
+      "lesson_id": 49
+    },
+    {
+      "id": 1194,
+      "lexeme_id": 1153,
+      "lesson_id": 49
+    },
+    {
+      "id": 1195,
+      "lexeme_id": 1154,
+      "lesson_id": 49
+    },
+    {
+      "id": 1196,
+      "lexeme_id": 1155,
+      "lesson_id": 50
+    },
+    {
+      "id": 1197,
+      "lexeme_id": 1156,
+      "lesson_id": 50
+    },
+    {
+      "id": 1198,
+      "lexeme_id": 1157,
+      "lesson_id": 50
+    },
+    {
+      "id": 1199,
+      "lexeme_id": 1158,
+      "lesson_id": 50
+    },
+    {
+      "id": 1200,
+      "lexeme_id": 1159,
+      "lesson_id": 50
+    },
+    {
+      "id": 1201,
+      "lexeme_id": 1160,
+      "lesson_id": 50
+    },
+    {
+      "id": 1202,
+      "lexeme_id": 1161,
+      "lesson_id": 50
+    },
+    {
+      "id": 1203,
+      "lexeme_id": 1162,
+      "lesson_id": 50
+    },
+    {
+      "id": 1204,
+      "lexeme_id": 1163,
+      "lesson_id": 50
+    },
+    {
+      "id": 1205,
+      "lexeme_id": 1164,
+      "lesson_id": 50
+    },
+    {
+      "id": 1206,
+      "lexeme_id": 1165,
+      "lesson_id": 51
+    },
+    {
+      "id": 1207,
+      "lexeme_id": 1166,
+      "lesson_id": 51
+    },
+    {
+      "id": 1208,
+      "lexeme_id": 1167,
+      "lesson_id": 51
+    },
+    {
+      "id": 1209,
+      "lexeme_id": 1168,
+      "lesson_id": 51
+    },
+    {
+      "id": 1210,
+      "lexeme_id": 1169,
+      "lesson_id": 51
+    },
+    {
+      "id": 1211,
+      "lexeme_id": 1170,
+      "lesson_id": 51
+    },
+    {
+      "id": 1212,
+      "lexeme_id": 1171,
+      "lesson_id": 51
+    },
+    {
+      "id": 1213,
+      "lexeme_id": 1155,
+      "lesson_id": 52
+    },
+    {
+      "id": 1214,
+      "lexeme_id": 1156,
+      "lesson_id": 52
+    },
+    {
+      "id": 1215,
+      "lexeme_id": 1172,
+      "lesson_id": 52
+    },
+    {
+      "id": 1216,
+      "lexeme_id": 1167,
+      "lesson_id": 52
+    },
+    {
+      "id": 1217,
+      "lexeme_id": 1173,
+      "lesson_id": 52
+    },
+    {
+      "id": 1218,
+      "lexeme_id": 1174,
+      "lesson_id": 52
+    },
+    {
+      "id": 1219,
+      "lexeme_id": 1175,
+      "lesson_id": 52
+    },
+    {
+      "id": 1220,
+      "lexeme_id": 1176,
+      "lesson_id": 52
+    },
+    {
+      "id": 1221,
+      "lexeme_id": 1177,
+      "lesson_id": 52
+    },
+    {
+      "id": 1222,
+      "lexeme_id": 1107,
+      "lesson_id": 52
+    },
+    {
+      "id": 1223,
+      "lexeme_id": 1178,
+      "lesson_id": 53
+    },
+    {
+      "id": 1224,
+      "lexeme_id": 1179,
+      "lesson_id": 53
+    },
+    {
+      "id": 1225,
+      "lexeme_id": 1180,
+      "lesson_id": 53
+    },
+    {
+      "id": 1226,
+      "lexeme_id": 1181,
+      "lesson_id": 53
+    },
+    {
+      "id": 1227,
+      "lexeme_id": 1182,
+      "lesson_id": 53
+    },
+    {
+      "id": 1228,
+      "lexeme_id": 1183,
+      "lesson_id": 53
+    },
+    {
+      "id": 1229,
+      "lexeme_id": 1184,
+      "lesson_id": 53
+    },
+    {
+      "id": 1230,
+      "lexeme_id": 1185,
+      "lesson_id": 53
+    },
+    {
+      "id": 1231,
+      "lexeme_id": 1186,
+      "lesson_id": 53
+    },
+    {
+      "id": 1232,
+      "lexeme_id": 1187,
+      "lesson_id": 53
+    },
+    {
+      "id": 1233,
+      "lexeme_id": 1188,
+      "lesson_id": 53
+    },
+    {
+      "id": 1234,
+      "lexeme_id": 1189,
+      "lesson_id": 53
+    },
+    {
+      "id": 1235,
+      "lexeme_id": 1190,
+      "lesson_id": 53
+    },
+    {
+      "id": 1236,
+      "lexeme_id": 1191,
+      "lesson_id": 53
+    },
+    {
+      "id": 1237,
+      "lexeme_id": 1192,
+      "lesson_id": 53
+    },
+    {
+      "id": 1238,
+      "lexeme_id": 1193,
+      "lesson_id": 53
+    },
+    {
+      "id": 1239,
+      "lexeme_id": 1194,
+      "lesson_id": 53
+    },
+    {
+      "id": 1240,
+      "lexeme_id": 1195,
+      "lesson_id": 53
+    },
+    {
+      "id": 1241,
+      "lexeme_id": 1196,
+      "lesson_id": 53
+    },
+    {
+      "id": 1242,
+      "lexeme_id": 1197,
+      "lesson_id": 53
+    },
+    {
+      "id": 1243,
+      "lexeme_id": 1198,
+      "lesson_id": 53
+    },
+    {
+      "id": 1244,
+      "lexeme_id": 1199,
+      "lesson_id": 53
+    },
+    {
+      "id": 1245,
+      "lexeme_id": 1200,
+      "lesson_id": 53
+    },
+    {
+      "id": 1246,
+      "lexeme_id": 1201,
+      "lesson_id": 53
+    },
+    {
+      "id": 1247,
+      "lexeme_id": 1202,
+      "lesson_id": 53
+    },
+    {
+      "id": 1248,
+      "lexeme_id": 1203,
+      "lesson_id": 54
+    },
+    {
+      "id": 1249,
+      "lexeme_id": 1204,
+      "lesson_id": 54
+    },
+    {
+      "id": 1250,
+      "lexeme_id": 1205,
+      "lesson_id": 54
+    },
+    {
+      "id": 1251,
+      "lexeme_id": 1206,
+      "lesson_id": 54
+    },
+    {
+      "id": 1252,
+      "lexeme_id": 1207,
+      "lesson_id": 54
+    },
+    {
+      "id": 1253,
+      "lexeme_id": 1208,
+      "lesson_id": 54
+    },
+    {
+      "id": 1254,
+      "lexeme_id": 1209,
+      "lesson_id": 54
+    },
+    {
+      "id": 1255,
+      "lexeme_id": 1210,
+      "lesson_id": 54
+    },
+    {
+      "id": 1256,
+      "lexeme_id": 1211,
+      "lesson_id": 54
+    },
+    {
+      "id": 1257,
+      "lexeme_id": 1212,
+      "lesson_id": 54
+    },
+    {
+      "id": 1258,
+      "lexeme_id": 1213,
+      "lesson_id": 54
+    },
+    {
+      "id": 1259,
+      "lexeme_id": 1214,
+      "lesson_id": 54
+    },
+    {
+      "id": 1260,
+      "lexeme_id": 1215,
+      "lesson_id": 54
+    },
+    {
+      "id": 1261,
+      "lexeme_id": 1216,
+      "lesson_id": 54
+    },
+    {
+      "id": 1262,
+      "lexeme_id": 1217,
+      "lesson_id": 54
+    },
+    {
+      "id": 1263,
+      "lexeme_id": 1218,
+      "lesson_id": 54
+    },
+    {
+      "id": 1264,
+      "lexeme_id": 1219,
+      "lesson_id": 54
+    },
+    {
+      "id": 1265,
+      "lexeme_id": 1220,
+      "lesson_id": 54
+    },
+    {
+      "id": 1266,
+      "lexeme_id": 1221,
+      "lesson_id": 54
+    },
+    {
+      "id": 1267,
+      "lexeme_id": 1222,
+      "lesson_id": 54
+    },
+    {
+      "id": 1268,
+      "lexeme_id": 1223,
+      "lesson_id": 54
+    },
+    {
+      "id": 1269,
+      "lexeme_id": 1224,
+      "lesson_id": 55
+    },
+    {
+      "id": 1270,
+      "lexeme_id": 1225,
+      "lesson_id": 55
+    },
+    {
+      "id": 1271,
+      "lexeme_id": 1226,
+      "lesson_id": 55
+    },
+    {
+      "id": 1272,
+      "lexeme_id": 1227,
+      "lesson_id": 55
+    },
+    {
+      "id": 1273,
+      "lexeme_id": 1228,
+      "lesson_id": 55
+    },
+    {
+      "id": 1274,
+      "lexeme_id": 1229,
+      "lesson_id": 55
+    },
+    {
+      "id": 1275,
+      "lexeme_id": 1230,
+      "lesson_id": 55
+    },
+    {
+      "id": 1276,
+      "lexeme_id": 1231,
+      "lesson_id": 55
+    },
+    {
+      "id": 1277,
+      "lexeme_id": 1232,
+      "lesson_id": 55
+    },
+    {
+      "id": 1278,
+      "lexeme_id": 1233,
+      "lesson_id": 55
+    },
+    {
+      "id": 1279,
+      "lexeme_id": 1234,
+      "lesson_id": 55
+    },
+    {
+      "id": 1280,
+      "lexeme_id": 1235,
+      "lesson_id": 55
+    },
+    {
+      "id": 1281,
+      "lexeme_id": 1236,
+      "lesson_id": 55
+    },
+    {
+      "id": 1282,
+      "lexeme_id": 1237,
+      "lesson_id": 55
+    },
+    {
+      "id": 1283,
+      "lexeme_id": 1238,
+      "lesson_id": 55
+    },
+    {
+      "id": 1284,
+      "lexeme_id": 1239,
+      "lesson_id": 55
+    },
+    {
+      "id": 1285,
+      "lexeme_id": 1240,
+      "lesson_id": 55
+    },
+    {
+      "id": 1286,
+      "lexeme_id": 1241,
+      "lesson_id": 55
+    },
+    {
+      "id": 1287,
+      "lexeme_id": 1242,
+      "lesson_id": 55
+    },
+    {
+      "id": 1288,
+      "lexeme_id": 1243,
+      "lesson_id": 55
+    },
+    {
+      "id": 1289,
+      "lexeme_id": 1244,
+      "lesson_id": 55
+    },
+    {
+      "id": 1290,
+      "lexeme_id": 1245,
+      "lesson_id": 55
+    },
+    {
+      "id": 1291,
+      "lexeme_id": 1246,
+      "lesson_id": 56
+    },
+    {
+      "id": 1292,
+      "lexeme_id": 1247,
+      "lesson_id": 56
+    },
+    {
+      "id": 1293,
+      "lexeme_id": 1248,
+      "lesson_id": 56
+    },
+    {
+      "id": 1294,
+      "lexeme_id": 1249,
+      "lesson_id": 56
+    },
+    {
+      "id": 1295,
+      "lexeme_id": 1250,
+      "lesson_id": 56
+    },
+    {
+      "id": 1296,
+      "lexeme_id": 1251,
+      "lesson_id": 56
+    },
+    {
+      "id": 1297,
+      "lexeme_id": 1252,
+      "lesson_id": 56
+    },
+    {
+      "id": 1298,
+      "lexeme_id": 1253,
+      "lesson_id": 57
+    },
+    {
+      "id": 1299,
+      "lexeme_id": 1254,
+      "lesson_id": 57
+    },
+    {
+      "id": 1300,
+      "lexeme_id": 1255,
+      "lesson_id": 57
+    },
+    {
+      "id": 1301,
+      "lexeme_id": 1256,
+      "lesson_id": 57
+    },
+    {
+      "id": 1302,
+      "lexeme_id": 1257,
+      "lesson_id": 57
+    },
+    {
+      "id": 1303,
+      "lexeme_id": 1258,
+      "lesson_id": 58
+    },
+    {
+      "id": 1304,
+      "lexeme_id": 1259,
+      "lesson_id": 58
+    },
+    {
+      "id": 1305,
+      "lexeme_id": 1260,
+      "lesson_id": 58
+    },
+    {
+      "id": 1306,
+      "lexeme_id": 1261,
+      "lesson_id": 58
+    },
+    {
+      "id": 1307,
+      "lexeme_id": 1262,
+      "lesson_id": 58
+    },
+    {
+      "id": 1308,
+      "lexeme_id": 1263,
+      "lesson_id": 59
+    },
+    {
+      "id": 1309,
+      "lexeme_id": 1264,
+      "lesson_id": 59
+    },
+    {
+      "id": 1310,
+      "lexeme_id": 1265,
+      "lesson_id": 59
+    },
+    {
+      "id": 1311,
+      "lexeme_id": 1266,
+      "lesson_id": 59
+    },
+    {
+      "id": 1312,
+      "lexeme_id": 1267,
+      "lesson_id": 59
+    },
+    {
+      "id": 1313,
+      "lexeme_id": 1268,
+      "lesson_id": 60
+    },
+    {
+      "id": 1314,
+      "lexeme_id": 1269,
+      "lesson_id": 60
+    },
+    {
+      "id": 1315,
+      "lexeme_id": 1270,
+      "lesson_id": 60
+    },
+    {
+      "id": 1316,
+      "lexeme_id": 1271,
+      "lesson_id": 60
+    },
+    {
+      "id": 1317,
+      "lexeme_id": 1272,
+      "lesson_id": 60
+    },
+    {
+      "id": 1318,
+      "lexeme_id": 1273,
+      "lesson_id": 61
+    },
+    {
+      "id": 1319,
+      "lexeme_id": 1274,
+      "lesson_id": 61
+    },
+    {
+      "id": 1320,
+      "lexeme_id": 1275,
+      "lesson_id": 61
+    },
+    {
+      "id": 1321,
+      "lexeme_id": 1276,
+      "lesson_id": 61
+    },
+    {
+      "id": 1322,
+      "lexeme_id": 1277,
+      "lesson_id": 61
+    },
+    {
+      "id": 1323,
+      "lexeme_id": 1278,
+      "lesson_id": 62
+    },
+    {
+      "id": 1324,
+      "lexeme_id": 1279,
+      "lesson_id": 62
+    },
+    {
+      "id": 1325,
+      "lexeme_id": 1280,
+      "lesson_id": 62
+    },
+    {
+      "id": 1326,
+      "lexeme_id": 1281,
+      "lesson_id": 62
+    },
+    {
+      "id": 1327,
+      "lexeme_id": 1282,
+      "lesson_id": 62
+    },
+    {
+      "id": 1328,
+      "lexeme_id": 1283,
+      "lesson_id": 63
+    },
+    {
+      "id": 1329,
+      "lexeme_id": 1284,
+      "lesson_id": 63
+    },
+    {
+      "id": 1330,
+      "lexeme_id": 1285,
+      "lesson_id": 63
+    },
+    {
+      "id": 1331,
+      "lexeme_id": 1286,
+      "lesson_id": 63
+    },
+    {
+      "id": 1332,
+      "lexeme_id": 1287,
+      "lesson_id": 63
+    },
+    {
+      "id": 1333,
+      "lexeme_id": 1288,
+      "lesson_id": 64
+    },
+    {
+      "id": 1334,
+      "lexeme_id": 1289,
+      "lesson_id": 64
+    },
+    {
+      "id": 1335,
+      "lexeme_id": 1290,
+      "lesson_id": 64
+    },
+    {
+      "id": 1336,
+      "lexeme_id": 1291,
+      "lesson_id": 64
+    },
+    {
+      "id": 1337,
+      "lexeme_id": 1292,
+      "lesson_id": 64
+    },
+    {
+      "id": 1338,
+      "lexeme_id": 1293,
+      "lesson_id": 65
+    },
+    {
+      "id": 1339,
+      "lexeme_id": 1294,
+      "lesson_id": 65
+    },
+    {
+      "id": 1340,
+      "lexeme_id": 1295,
+      "lesson_id": 65
+    },
+    {
+      "id": 1341,
+      "lexeme_id": 1296,
+      "lesson_id": 65
+    },
+    {
+      "id": 1342,
+      "lexeme_id": 1297,
+      "lesson_id": 65
+    },
+    {
+      "id": 1343,
+      "lexeme_id": 1298,
+      "lesson_id": 65
+    },
+    {
+      "id": 1344,
+      "lexeme_id": 1299,
+      "lesson_id": 65
+    },
+    {
+      "id": 1345,
+      "lexeme_id": 1107,
+      "lesson_id": 65
+    },
+    {
+      "id": 1346,
+      "lexeme_id": 1300,
+      "lesson_id": 65
+    },
+    {
+      "id": 1347,
+      "lexeme_id": 1301,
+      "lesson_id": 65
+    },
+    {
+      "id": 1348,
+      "lexeme_id": 1302,
+      "lesson_id": 65
+    },
+    {
+      "id": 1349,
+      "lexeme_id": 1074,
+      "lesson_id": 65
+    },
+    {
+      "id": 1350,
+      "lexeme_id": 1303,
+      "lesson_id": 66
+    },
+    {
+      "id": 1351,
+      "lexeme_id": 1304,
+      "lesson_id": 66
+    },
+    {
+      "id": 1352,
+      "lexeme_id": 1305,
+      "lesson_id": 66
+    },
+    {
+      "id": 1353,
+      "lexeme_id": 1306,
+      "lesson_id": 66
+    },
+    {
+      "id": 1354,
+      "lexeme_id": 1307,
+      "lesson_id": 66
+    },
+    {
+      "id": 1355,
+      "lexeme_id": 1308,
+      "lesson_id": 66
+    },
+    {
+      "id": 1356,
+      "lexeme_id": 1309,
+      "lesson_id": 66
+    },
+    {
+      "id": 1357,
+      "lexeme_id": 1310,
+      "lesson_id": 66
+    },
+    {
+      "id": 1358,
+      "lexeme_id": 1155,
+      "lesson_id": 66
+    },
+    {
+      "id": 1359,
+      "lexeme_id": 1311,
+      "lesson_id": 66
+    },
+    {
+      "id": 1360,
+      "lexeme_id": 986,
+      "lesson_id": 66
+    },
+    {
+      "id": 1361,
+      "lexeme_id": 1312,
+      "lesson_id": 67
+    },
+    {
+      "id": 1362,
+      "lexeme_id": 1313,
+      "lesson_id": 67
+    },
+    {
+      "id": 1363,
+      "lexeme_id": 1314,
+      "lesson_id": 67
+    },
+    {
+      "id": 1364,
+      "lexeme_id": 1315,
+      "lesson_id": 67
+    },
+    {
+      "id": 1365,
+      "lexeme_id": 1316,
+      "lesson_id": 67
+    },
+    {
+      "id": 1366,
+      "lexeme_id": 1317,
+      "lesson_id": 67
+    },
+    {
+      "id": 1367,
+      "lexeme_id": 1101,
+      "lesson_id": 67
+    },
+    {
+      "id": 1368,
+      "lexeme_id": 1318,
+      "lesson_id": 67
+    },
+    {
+      "id": 1369,
+      "lexeme_id": 1319,
+      "lesson_id": 67
+    },
+    {
+      "id": 1370,
+      "lexeme_id": 989,
+      "lesson_id": 67
+    },
+    {
+      "id": 1371,
+      "lexeme_id": 1320,
+      "lesson_id": 67
+    },
+    {
+      "id": 1372,
+      "lexeme_id": 1103,
+      "lesson_id": 67
+    },
+    {
+      "id": 1373,
+      "lexeme_id": 1321,
+      "lesson_id": 67
+    },
+    {
+      "id": 1374,
+      "lexeme_id": 1322,
+      "lesson_id": 68
+    },
+    {
+      "id": 1375,
+      "lexeme_id": 1323,
+      "lesson_id": 68
+    },
+    {
+      "id": 1376,
+      "lexeme_id": 1324,
+      "lesson_id": 68
+    },
+    {
+      "id": 1377,
+      "lexeme_id": 1325,
+      "lesson_id": 68
+    },
+    {
+      "id": 1378,
+      "lexeme_id": 1326,
+      "lesson_id": 68
+    },
+    {
+      "id": 1379,
+      "lexeme_id": 1327,
+      "lesson_id": 68
+    },
+    {
+      "id": 1380,
+      "lexeme_id": 1328,
+      "lesson_id": 68
+    },
+    {
+      "id": 1381,
+      "lexeme_id": 1329,
+      "lesson_id": 68
+    },
+    {
+      "id": 1382,
+      "lexeme_id": 1330,
+      "lesson_id": 68
+    },
+    {
+      "id": 1383,
+      "lexeme_id": 1331,
+      "lesson_id": 68
+    },
+    {
+      "id": 1384,
+      "lexeme_id": 1332,
+      "lesson_id": 68
+    },
+    {
+      "id": 1385,
+      "lexeme_id": 1333,
+      "lesson_id": 68
+    },
+    {
+      "id": 1386,
+      "lexeme_id": 1334,
+      "lesson_id": 68
+    },
+    {
+      "id": 1387,
+      "lexeme_id": 1029,
+      "lesson_id": 69
+    },
+    {
+      "id": 1388,
+      "lexeme_id": 1335,
+      "lesson_id": 69
+    },
+    {
+      "id": 1389,
+      "lexeme_id": 990,
+      "lesson_id": 69
+    },
+    {
+      "id": 1390,
+      "lexeme_id": 1292,
+      "lesson_id": 69
+    },
+    {
+      "id": 1391,
+      "lexeme_id": 1336,
+      "lesson_id": 69
+    },
+    {
+      "id": 1392,
+      "lexeme_id": 1337,
+      "lesson_id": 69
+    },
+    {
+      "id": 1393,
+      "lexeme_id": 1024,
+      "lesson_id": 69
+    },
+    {
+      "id": 1394,
+      "lexeme_id": 1338,
+      "lesson_id": 69
+    },
+    {
+      "id": 1395,
+      "lexeme_id": 1339,
+      "lesson_id": 69
+    },
+    {
+      "id": 1396,
+      "lexeme_id": 1340,
+      "lesson_id": 69
+    },
+    {
+      "id": 1397,
+      "lexeme_id": 1341,
+      "lesson_id": 69
+    },
+    {
+      "id": 1398,
+      "lexeme_id": 1342,
+      "lesson_id": 70
+    },
+    {
+      "id": 1399,
+      "lexeme_id": 1343,
+      "lesson_id": 70
+    },
+    {
+      "id": 1400,
+      "lexeme_id": 1344,
+      "lesson_id": 70
+    },
+    {
+      "id": 1401,
+      "lexeme_id": 1345,
+      "lesson_id": 70
+    },
+    {
+      "id": 1402,
+      "lexeme_id": 1346,
+      "lesson_id": 70
+    },
+    {
+      "id": 1403,
+      "lexeme_id": 1347,
+      "lesson_id": 70
+    },
+    {
+      "id": 1404,
+      "lexeme_id": 1348,
+      "lesson_id": 70
+    },
+    {
+      "id": 1405,
+      "lexeme_id": 1349,
+      "lesson_id": 70
+    },
+    {
+      "id": 1406,
+      "lexeme_id": 1350,
+      "lesson_id": 70
+    },
+    {
+      "id": 1407,
+      "lexeme_id": 1351,
+      "lesson_id": 70
+    },
+    {
+      "id": 1408,
+      "lexeme_id": 1352,
+      "lesson_id": 71
+    },
+    {
+      "id": 1409,
+      "lexeme_id": 1353,
+      "lesson_id": 71
+    },
+    {
+      "id": 1410,
+      "lexeme_id": 1052,
+      "lesson_id": 71
+    },
+    {
+      "id": 1411,
+      "lexeme_id": 1354,
+      "lesson_id": 71
+    },
+    {
+      "id": 1412,
+      "lexeme_id": 1355,
+      "lesson_id": 71
+    },
+    {
+      "id": 1413,
+      "lexeme_id": 1356,
+      "lesson_id": 71
+    },
+    {
+      "id": 1414,
+      "lexeme_id": 958,
+      "lesson_id": 71
+    },
+    {
+      "id": 1415,
+      "lexeme_id": 1284,
+      "lesson_id": 71
+    },
+    {
+      "id": 1416,
+      "lexeme_id": 1020,
+      "lesson_id": 71
+    },
+    {
+      "id": 1417,
+      "lexeme_id": 1283,
+      "lesson_id": 71
+    },
+    {
+      "id": 1418,
+      "lexeme_id": 1357,
+      "lesson_id": 71
+    },
+    {
+      "id": 1419,
+      "lexeme_id": 1358,
+      "lesson_id": 72
+    },
+    {
+      "id": 1420,
+      "lexeme_id": 1359,
+      "lesson_id": 72
+    },
+    {
+      "id": 1421,
+      "lexeme_id": 1348,
+      "lesson_id": 72
+    },
+    {
+      "id": 1422,
+      "lexeme_id": 1360,
+      "lesson_id": 72
+    },
+    {
+      "id": 1423,
+      "lexeme_id": 1361,
+      "lesson_id": 72
+    },
+    {
+      "id": 1424,
+      "lexeme_id": 1362,
+      "lesson_id": 72
+    },
+    {
+      "id": 1425,
+      "lexeme_id": 1363,
+      "lesson_id": 72
+    },
+    {
+      "id": 1426,
+      "lexeme_id": 1364,
+      "lesson_id": 72
+    },
+    {
+      "id": 1427,
+      "lexeme_id": 1365,
+      "lesson_id": 72
+    },
+    {
+      "id": 1428,
+      "lexeme_id": 1366,
+      "lesson_id": 72
+    },
+    {
+      "id": 1429,
+      "lexeme_id": 1367,
+      "lesson_id": 73
+    },
+    {
+      "id": 1430,
+      "lexeme_id": 1368,
+      "lesson_id": 73
+    },
+    {
+      "id": 1431,
+      "lexeme_id": 1355,
+      "lesson_id": 73
+    },
+    {
+      "id": 1432,
+      "lexeme_id": 1356,
+      "lesson_id": 73
+    }
+  ]
+}
