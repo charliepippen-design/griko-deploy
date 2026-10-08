@@ -33,7 +33,10 @@ function citationEntry(source) {
 }
 
 function shareImage(article) {
-  const image = (article.images || []).find((item) => item.mime === "image/jpeg" || item.mime === "image/png");
+  const dedicated = article.ogImage;
+  const image = dedicated && dedicated.src
+    ? dedicated
+    : (article.images || []).find((item) => item.mime === "image/jpeg" || item.mime === "image/png");
   if (!image) return null;
   return {
     url: `https://www.griko.online${image.src}`,
@@ -110,12 +113,24 @@ export default function ApprofondimentoPage({ article }) {
           <div className="article-figures">
             {article.images.map((item) => (
               <figure key={item.src} className="article-figure">
-                <img
-                  src={item.src}
-                  alt={item.alt}
-                  width={item.width || undefined}
-                  height={item.height || undefined}
-                />
+                {item.webp ? (
+                  <picture>
+                    <source srcSet={item.webp} type="image/webp" />
+                    <img
+                      src={item.src}
+                      alt={item.alt}
+                      width={item.width || undefined}
+                      height={item.height || undefined}
+                    />
+                  </picture>
+                ) : (
+                  <img
+                    src={item.src}
+                    alt={item.alt}
+                    width={item.width || undefined}
+                    height={item.height || undefined}
+                  />
+                )}
                 <figcaption>
                   {item.caption ? <span className="article-figure-caption">{item.caption}</span> : null}
                   <span className="article-figure-credit">{item.credit}</span>

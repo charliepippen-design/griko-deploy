@@ -1,10 +1,14 @@
-// Scarica, senza modificarli, i file originali di Wikimedia Commons
-// indicati nel front matter degli approfondimenti.
-// Un'immagine entra nel manifest solo se il file e' l'originale
-// e la licenza dichiarata coincide con quella della pagina Commons.
+// Scarica i file di Wikimedia Commons indicati nel front matter.
+// Un'immagine entra nel manifest solo se il download coincide con
+// l'originale (SHA1 e dimensione) e la licenza dichiarata coincide
+// con quella della pagina Commons. I JPEG piu' larghi di 1600 px o
+// piu' pesanti di 300 KB vengono salvati come copia web (JPEG + WebP).
+// Le voci con role "og" gia' presenti nel manifest restano.
 
+import { spawnSync } from "child_process";
 import { createHash } from "crypto";
-import { mkdirSync, readFileSync, readdirSync, writeFileSync } from "fs";
+import { mkdirSync, mkdtempSync, readFileSync, readdirSync, rmSync, writeFileSync } from "fs";
+import { tmpdir } from "os";
 import { dirname, join } from "path";
 import { fileURLToPath } from "url";
 import { parse as parseYaml } from "yaml";
@@ -102,12 +106,35 @@ async function downloadOriginal(url) {
   return { mime, buffer };
 }
 
+function writeWebJpeg(buffer, destPath) {
+  const tmpDir = mkdtempSync(join(tmpdir(), "griko-img-"));
+  const tmpPath = join(tmpDir, "original.jpg");
+  try {
+    writeFileSync(tmpPath, buffer);
+    const result = spawnSync("python3", [join(root, "scripts/resize-web-image.py"), tmpPath, destPath], {
+      encoding: "utf8",
+    });
+    if (result.status !== 0) {
+      throw new Error((result.stderr || result.stdout || "resize fallito").trim());
+    }
+    return JSON.parse(result.stdout);
+  } finally {
+    rmSync(tmpDir, { recursive: true, force: true });
+  }
+}
+
 function safeFilename(fileTitle) {
   const base = fileTitle.split("/").pop() || "immagine";
   return base.replace(/[^\w.\-]+/g, "_");
 }
 
 async function main() {
+  let previous = {};
+  try {
+    previous = JSON.parse(readFileSync(join(contentDir, "immagini.json"), "utf8"));
+  } catch {
+    previous = {};
+  }
   const manifest = {};
   const files = readdirSync(contentDir).filter((name) => name.endsWith(".md")).sort();
   for (const filename of files) {
@@ -144,21 +171,51 @@ async function main() {
         const dir = join(root, "public/images/approfondimenti", slug);
         mkdirSync(dir, { recursive: true });
         const filenameOnDisk = safeFilename(fileTitle);
-        writeFileSync(join(dir, filenameOnDisk), downloaded.buffer);
-        manifest[slug].push({
+        const destPath = join(dir, filenameOnDisk);
+        const heavyJpeg = downloaded.mime === "image/jpeg" && ((info.width || 0) > 1600 || downloaded.buffer.length > 300000);
+        let width = Number.isInteger(info.width) ? info.width : null;
+        let height = Number.isInteger(info.height) ? info.height : null;
+        let bytes = downloaded.buffer.length;
+        let sha1 = info.sha1 || "";
+        let webp = "";
+        let sourceSha1 = "";
+        if (heavyJpeg) {
+          try {
+            const meta = writeWebJpeg(downloaded.buffer, destPath);
+            width = meta.width;
+            height = meta.height;
+            bytes = meta.jpegBytes;
+            sha1 = meta.sha1;
+            sourceSha1 = info.sha1 || "";
+            webp = `/images/approfondimenti/${slug}/${filenameOnDisk.replace(/\.jpe?g$/i, ".webp")}`;
+            console.log(`OK ${label}: copia web ${bytes} byte (originale ${downloaded.buffer.length}), ${commonsLicence}`);
+          } catch (error) {
+            writeFileSync(destPath, downloaded.buffer);
+            console.log(`WARN ${label}: resize non riuscito (${error.message}), salvato l'originale`);
+            console.log(`OK ${label}: ${downloaded.buffer.length} byte, ${commonsLicence}`);
+          }
+        } else {
+          writeFileSync(destPath, downloaded.buffer);
+          console.log(`OK ${label}: ${downloaded.buffer.length} byte, ${commonsLicence}`);
+        }
+        const entry = {
           pageUrl: image.url,
           src: `/images/approfondimenti/${slug}/${filenameOnDisk}`,
           mime: downloaded.mime,
-          width: Number.isInteger(info.width) ? info.width : null,
-          height: Number.isInteger(info.height) ? info.height : null,
-          bytes: downloaded.buffer.length,
-          sha1: info.sha1 || "",
-        });
-        console.log(`OK ${label}: ${downloaded.buffer.length} byte, ${commonsLicence}`);
+          width,
+          height,
+          bytes,
+          sha1,
+        };
+        if (webp) entry.webp = webp;
+        if (sourceSha1) entry.sourceSha1 = sourceSha1;
+        manifest[slug].push(entry);
       } catch (error) {
         console.log(`SKIP ${label}: ${error.message}`);
       }
     }
+    const keptOg = (Array.isArray(previous[slug]) ? previous[slug] : []).filter((item) => item && item.role === "og");
+    manifest[slug].push(...keptOg);
   }
   writeFileSync(join(contentDir, "immagini.json"), `${JSON.stringify(manifest, null, 2)}\n`);
   console.log("immagini.json aggiornato");

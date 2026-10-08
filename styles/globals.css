@@ -3307,6 +3307,11 @@ html.light .carmine-pill.active {
   margin: var(--space-6) 0 var(--space-8);
 }
 
+.article-figure picture {
+  display: block;
+  max-width: 100%;
+}
+
 .article-figure img {
   display: block;
   max-width: 100%;
