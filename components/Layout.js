@@ -13,6 +13,7 @@ const NAV_ITEMS = [
   { label: "Impara", href: "/dizionario" },
   { label: "Ascolta", href: "/ascolta" },
   { label: "Leggi", href: "/leggi" },
+  { label: "Approfondimenti", href: "/approfondimenti" },
   { label: "Esplora", href: "/esplora" },
   { label: "Persone", href: "/persone" },
   { label: "Archivio", href: "/archivio" },
@@ -22,7 +23,14 @@ const NAV_ITEMS = [
 export default function Layout({
   children,
   title = "griko.online | Lingua e cultura della Grecia Salentina",
-  description = "Portale dedicato alla tutela, documentazione e riscoperta della lingua grika e delle tradizioni della Grecia Salentina."
+  description = "Portale dedicato alla tutela, documentazione e riscoperta della lingua grika e delle tradizioni della Grecia Salentina.",
+  ogType = "website",
+  ogImage = "",
+  ogImageAlt = "",
+  ogImageWidth = 0,
+  ogImageHeight = 0,
+  publishedTime = "",
+  jsonLd = null,
 }) {
   const router = useRouter();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -38,6 +46,11 @@ export default function Layout({
   const canonicalUrl = `https://www.griko.online${cleanPath === "/" ? "" : cleanPath}`;
 
   const pageTitle = normalizeTitle(title);
+  const defaultShareImage = "https://www.griko.online/images/og-share.jpg";
+  const shareImage = ogImage || defaultShareImage;
+  const shareAlt = ogImageAlt || "griko.online | Portale culturale della Grecìa Salentina";
+  const shareWidth = ogImage ? ogImageWidth : 1200;
+  const shareHeight = ogImage ? ogImageHeight : 630;
   const schemaOrgJSONLD = normalizeJsonLdNames([
     {
       "@context": "https://schema.org",
@@ -104,24 +117,31 @@ export default function Layout({
         <meta property="og:title" content={pageTitle} />
         <meta property="og:description" content={description} />
         <meta property="og:url" content={canonicalUrl} />
-        <meta property="og:type" content="website" />
+        <meta property="og:type" content={ogType} />
         <meta property="og:locale" content="it_IT" />
-        <meta property="og:image" content="https://www.griko.online/images/og-share.jpg" />
-        <meta property="og:image:width" content="1200" />
-        <meta property="og:image:height" content="630" />
-        <meta property="og:image:alt" content="griko.online | Portale culturale della Grecìa Salentina" />
+        <meta property="og:image" content={shareImage} />
+        {shareWidth > 0 ? <meta property="og:image:width" content={String(shareWidth)} /> : null}
+        {shareHeight > 0 ? <meta property="og:image:height" content={String(shareHeight)} /> : null}
+        <meta property="og:image:alt" content={shareAlt} />
+        {publishedTime ? <meta property="article:published_time" content={publishedTime} /> : null}
 
         {/* Twitter Card */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={pageTitle} />
         <meta name="twitter:description" content={description} />
-        <meta name="twitter:image" content="https://www.griko.online/images/og-share.jpg" />
+        <meta name="twitter:image" content={shareImage} />
 
         {/* Schema.org Structured Data (JSON-LD) per Google e AI Knowledge Graph */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaOrgJSONLD) }}
         />
+        {jsonLd ? (
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(normalizeJsonLdNames(jsonLd)) }}
+          />
+        ) : null}
       </Head>
 
       {/* Top micro-bar with cultural contextual note */}

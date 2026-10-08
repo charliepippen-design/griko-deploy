@@ -1,11 +1,12 @@
 // Scrive public/sitemap.xml prima di next build.
-// Pagine statiche e ogni /leggi/[slug] dello snapshot.
+// Pagine statiche, ogni approfondimento e ogni /leggi/[slug] dello snapshot.
 // lastmod e' la data dello snapshot; se manca, la data del build.
 // Nessun changefreq.
 
 import { readFileSync, writeFileSync } from "fs";
 import { dirname, join } from "path";
 import { fileURLToPath } from "url";
+import { approfondimentiSitemapEntries } from "../lib/approfondimenti.mjs";
 import { isExcludedTesto } from "../lib/testiDiritti.mjs";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
@@ -16,6 +17,7 @@ const STATIC_PATHS = [
   "/dizionario",
   "/ascolta",
   "/leggi",
+  "/approfondimenti",
   "/esplora",
   "/persone",
   "/archivio",
@@ -56,18 +58,22 @@ function escapeXml(value) {
     .replace(/"/g, "&quot;");
 }
 
-function render(paths, lastmod) {
-  const urls = paths
-    .map((path) => {
-      const loc = path === "/" ? `${SITE}/` : `${SITE}${path}`;
-      return `  <url>\n    <loc>${escapeXml(loc)}</loc>\n    <lastmod>${lastmod}</lastmod>\n  </url>`;
+function render(entries) {
+  const urls = entries
+    .map((entry) => {
+      const loc = entry.path === "/" ? `${SITE}/` : `${SITE}${entry.path}`;
+      return `  <url>\n    <loc>${escapeXml(loc)}</loc>\n    <lastmod>${entry.lastmod}</lastmod>\n  </url>`;
     })
     .join("\n");
   return `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls}\n</urlset>\n`;
 }
 
 const lastmod = lastmodFromSnapshot();
-const paths = [...STATIC_PATHS, ...leggiPaths()];
-const xml = render(paths, lastmod);
+const entries = [
+  ...STATIC_PATHS.map((path) => ({ path, lastmod })),
+  ...approfondimentiSitemapEntries(),
+  ...leggiPaths().map((path) => ({ path, lastmod })),
+];
+const xml = render(entries);
 writeFileSync(join(root, "public/sitemap.xml"), xml);
-console.log(`sitemap.xml: ${paths.length} url, lastmod ${lastmod}`);
+console.log(`sitemap.xml: ${entries.length} url, lastmod ${lastmod}`);
