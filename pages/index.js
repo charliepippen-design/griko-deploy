@@ -75,11 +75,11 @@ const MUNICIPALITIES_PREVIEW = [
   { name: "Castrignano dei Greci", griko: "Kascignana" },
   { name: "Corigliano d'Otranto", griko: "Choriàna" },
   { name: "Martano", griko: "Martana" },
+  { name: "Martignano", griko: "Martignàna" },
   { name: "Melpignano", griko: "Lipignana" },
   { name: "Soleto", griko: "Sulìto" },
   { name: "Sternatia", griko: "Chóra" },
   { name: "Zollino", griko: "Tzuḍḍinu" },
-  { name: "Carpignano Salentino", griko: "Carpignanu" },
 ];
 
 export default function HomePage() {

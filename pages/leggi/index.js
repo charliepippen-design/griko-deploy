@@ -1,6 +1,7 @@
 import { useState, useMemo } from "react";
 import Link from "next/link";
 import Layout from "../../components/Layout";
+import TestoCredit from "../../components/TestoCredit";
 import { getLeggiIndexProps } from "../../lib/archive.mjs";
 import { categoryMeta, isGrikoText, leadingNumber } from "../../lib/testiMeta";
 
@@ -57,9 +58,10 @@ export default function LeggiPage({ testi = [], ricercaCompleta = false }) {
               : "Antologia non disponibile in archivio."}
           </p>
           <p className="sub" style={{ fontSize: "0.9rem" }}>
-            Fiabe, canti, morolòj, filastrocche e proverbi trascritti da fonti
-            popolari libere da diritti d'autore. Ogni testo riporta la pagina
-            di provenienza.
+            Fiabe, canti, morolòj, filastrocche e proverbi. Le trascrizioni e le
+            traduzioni italiane tratte da Ciuri ce Pedì sono di Salvatore Tommasi,
+            con licenza CC BY-NC 4.0. La Matinata di Vito Domenico Palumbo è in
+            pubblico dominio.
           </p>
         </div>
 
@@ -169,14 +171,17 @@ export default function LeggiPage({ testi = [], ricercaCompleta = false }) {
 function TestoCard({ testo }) {
   const preview = testo.anteprima || "";
   return (
-    <Link href={`/leggi/${testo.slug}`} className="testo-card">
-      <span className="testo-card-title">{testo.titolo}</span>
-      {isGrikoText(testo.categoria) ? (
-        <span className="testo-card-excerpt notranslate" translate="no">{preview}</span>
-      ) : (
-        <span className="testo-card-excerpt">{preview}</span>
-      )}
-    </Link>
+    <article className="testo-card">
+      <Link href={`/leggi/${testo.slug}`} className="testo-card-link">
+        <span className="testo-card-title">{testo.titolo}</span>
+        {isGrikoText(testo.categoria) ? (
+          <span className="testo-card-excerpt notranslate" translate="no">{preview}</span>
+        ) : (
+          <span className="testo-card-excerpt">{preview}</span>
+        )}
+      </Link>
+      <TestoCredit credito={testo.credito} className="testo-card-credit" />
+    </article>
   );
 }
 

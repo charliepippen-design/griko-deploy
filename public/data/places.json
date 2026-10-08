@@ -60,6 +60,21 @@
     "ordine": 4
   },
   {
+    "id": "martignano",
+    "nome": "Martignano",
+    "nome_griko": "Martignàna",
+    "nome_griko_alfabeto": "Μαρτυνιάνα",
+    "popolazione": null,
+    "anno_popolazione": null,
+    "lat": 40.23821,
+    "lng": 18.25602,
+    "cenno_storico": "Comune della provincia di Lecce. È uno dei nove centri di lingua grika indicati dall'articolo 1 della legge regionale pugliese 5/2012.",
+    "elemento_interesse": "Il nome griko documentato è Martignàna (Μαρτυνιάνα).",
+    "fonte_wikipedia_url": "https://it.wikipedia.org/wiki/Martignano",
+    "fonte_wikidata_url": "https://www.wikidata.org/wiki/Q52155",
+    "ordine": 5
+  },
+  {
     "id": "melpignano",
     "nome": "Melpignano",
     "nome_griko": "Lipignana",
@@ -72,7 +87,7 @@
     "elemento_interesse": "Piazza San Giorgio e l'ex Convento degli Agostiniani: caratterizzata dai rari portici rinascimentali a tutto sesto e dal maestoso complesso conventuale seicentesco, oggi scenario del concertone finale della Notte della Taranta.",
     "fonte_wikipedia_url": "https://it.wikipedia.org/wiki/Melpignano",
     "fonte_wikidata_url": "https://www.wikidata.org/wiki/Q52162",
-    "ordine": 5
+    "ordine": 6
   },
   {
     "id": "soleto",
@@ -87,7 +102,7 @@
     "elemento_interesse": "Guglia di Raimondello (fine XIV sec.): raffinata torre campanaria gotica alta circa 40 metri priva di campane, decorata da rilievi zoomorfi e antropomorfi; affiancata dalla coeva Chiesetta di Santo Stefano con affreschi e iscrizioni greche.",
     "fonte_wikipedia_url": "https://it.wikipedia.org/wiki/Soleto",
     "fonte_wikidata_url": "https://www.wikidata.org/wiki/Q656954",
-    "ordine": 6
+    "ordine": 7
   },
   {
     "id": "sternatia",
@@ -102,7 +117,7 @@
     "elemento_interesse": "Frantoio Ipogeo scavato nella pietra del sottosuolo: straordinaria testimonianza della secolare lavorazione comunitaria dell'olio d'oliva lampante nel Salento, con vasche e macine originali.",
     "fonte_wikipedia_url": "https://it.wikipedia.org/wiki/Sternatia",
     "fonte_wikidata_url": "https://www.wikidata.org/wiki/Q52206",
-    "ordine": 7
+    "ordine": 8
   },
   {
     "id": "zollino",
@@ -117,21 +132,6 @@
     "elemento_interesse": "Le Pozzelle e la tradizione della Scéblasti: cisterne sorgive ipogee d'uso civico e la memoria gastronomica della scéblasti (pane tipico condito cotto su pietra, termine griko che significa 'senza forma').",
     "fonte_wikipedia_url": "https://it.wikipedia.org/wiki/Zollino",
     "fonte_wikidata_url": "https://www.wikidata.org/wiki/Q52203",
-    "ordine": 8
-  },
-  {
-    "id": "carpignano-salentino",
-    "nome": "Carpignano Salentino",
-    "nome_griko": "Carpignanu",
-    "nome_griko_alfabeto": "Carpignanu (dialettale)",
-    "popolazione": 3604,
-    "anno_popolazione": 2024,
-    "lat": 40.200000,
-    "lng": 18.330000,
-    "cenno_storico": "Di radici messapiche e romane, fu un caposaldo religioso italo-greco del Salento orientale. Pur facendo parte a pieno titolo dell'Unione dei Comuni della Grecìa Salentina dal 2005, la lingua grika non vi è più attestata nell'uso orale quotidiano sin dai primi decenni del XIX secolo.",
-    "elemento_interesse": "Cripta rupestre delle Sante Marina e Cristina (X sec.): basilica ipogea con affreschi italo-bizantini straordinari e iscrizioni in greco, tra cui il Cristo Pantocratore firmato dal pittore Teofilatto nel 959 d.C.",
-    "fonte_wikipedia_url": "https://it.wikipedia.org/wiki/Carpignano_Salentino",
-    "fonte_wikidata_url": "https://www.wikidata.org/wiki/Q52136",
     "ordine": 9
   }
 ]

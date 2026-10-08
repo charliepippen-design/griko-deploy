@@ -8,12 +8,14 @@
 // Carmine Greco. Non legge carmine_transcripts_clean/ ne'
 // data/carmine_greco_lessons_full.json: il controllo usa categoria, licenza,
 // slug, id video noti e le impronte gia' salvate in scripts/carmine-shingles.json.
+// Gli slug in data/testi-esclusi.mjs non vengono scritti.
 // Se il download fallisce, i file gia' presenti restano invariati.
 
 import { readFileSync, writeFileSync, mkdirSync, renameSync } from "fs";
 import { dirname, join } from "path";
 import { fileURLToPath } from "url";
 import { normalizeTitle } from "../lib/titles.mjs";
+import { isExcludedTesto } from "../lib/testiDiritti.mjs";
 import { windowHashes } from "./shingles.mjs";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
@@ -126,6 +128,7 @@ function keepTesto(row) {
   }
   if (typeof row.slug !== "string" || !/^[a-z0-9_-]+$/i.test(row.slug)) return false;
   if (!row.titolo || typeof row.testo !== "string" || row.testo.trim().length < 20) return false;
+  if (isExcludedTesto(row)) return false;
   return true;
 }
 
@@ -212,7 +215,7 @@ async function main() {
     bytes: { palma: palmaBytes, carmine: carmineBytes, testi: testiBytes },
     places: "public/data/places.json (la tabella places non e' su Supabase)",
     excluded:
-      "Esclusi i campi transcript e trascrizione, i testi di Carmine Greco (categoria, licenza, slug carmine-*, id video noti, testo lungo attribuito a quell'autore) e le righe che ripetono una finestra di 24 parole delle trascrizioni.",
+      "Esclusi i campi transcript e trascrizione, i testi di Carmine Greco (categoria, licenza, slug carmine-*, id video noti, testo lungo attribuito a quell'autore), le righe che ripetono una finestra di 24 parole delle trascrizioni, e gli slug elencati in data/testi-esclusi.mjs.",
     refresh: "node scripts/refresh-snapshot.mjs",
   };
   writeAtomic("manifest.json", manifest);

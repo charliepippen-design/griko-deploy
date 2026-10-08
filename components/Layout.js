@@ -94,7 +94,7 @@ export default function Layout({
         <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
 
         {/* Parole chiave ed entità territoriali */}
-        <meta name="keywords" content="griko, greco salentino, lingua grika, grecia salentina, dizionario griko, grammatica griko, salento, puglia, calimera, martano, corigliano dotranto, soleto, sternatia, melpignano, zollino, castrignano dei greci, carpignano salentino, canzoni griche, kalinifta, canti salentini, minoranza linguistica" />
+        <meta name="keywords" content="griko, greco salentino, lingua grika, grecia salentina, dizionario griko, grammatica griko, salento, puglia, calimera, martano, martignano, corigliano dotranto, soleto, sternatia, melpignano, zollino, castrignano dei greci, canzoni griche, kalinifta, canti salentini, minoranza linguistica" />
         <meta name="author" content="griko.online" />
         <meta name="geo.region" content="IT-LE" />
         <meta name="geo.placename" content="Grecìa Salentina, Salento, Puglia, Italia" />
@@ -236,11 +236,11 @@ export default function Layout({
                 <li>Castrignano dei Greci <em>(Kascignana)</em></li>
                 <li>Corigliano d'Otranto <em>(Choriàna)</em></li>
                 <li>Martano <em>(Martana)</em></li>
+                <li>Martignano <em>(Martignàna)</em></li>
                 <li>Melpignano <em>(Lipignana)</em></li>
                 <li>Soleto <em>(Sulìto)</em></li>
                 <li>Sternatia <em>(Chora)</em></li>
                 <li>Zollino <em>(Tzuḍḍinu)</em></li>
-                <li>Carpignano Salentino</li>
               </ul>
             </div>
 
