@@ -4,7 +4,7 @@ import Layout from "../../components/Layout";
 export default function IlProgettoPage() {
   return (
     <Layout
-      title="Il Progetto — griko.online"
+      title="Il Progetto | griko.online"
       description="Cos'è griko.online, l'origine dei dati dal corso di Daniele Palma e la documentazione aperta della lingua grika."
     >
       <div className="editorial-hero">

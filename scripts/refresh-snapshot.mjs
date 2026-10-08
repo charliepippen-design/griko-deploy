@@ -5,12 +5,16 @@
 //   node scripts/refresh-snapshot.mjs
 //
 // Non scrive i campi transcript / trascrizione, ne' i commenti parlati di
-// Carmine Greco (categoria canto_carmine_greco, licenza cortesia_carmine_greco).
+// Carmine Greco. Non legge carmine_transcripts_clean/ ne'
+// data/carmine_greco_lessons_full.json: il controllo usa categoria, licenza,
+// slug, id video noti e le impronte gia' salvate in scripts/carmine-shingles.json.
 // Se il download fallisce, i file gia' presenti restano invariati.
 
-import { readFileSync, writeFileSync, mkdirSync, readdirSync, renameSync } from "fs";
+import { readFileSync, writeFileSync, mkdirSync, renameSync } from "fs";
 import { dirname, join } from "path";
 import { fileURLToPath } from "url";
+import { normalizeTitle } from "../lib/titles.mjs";
+import { windowHashes } from "./shingles.mjs";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const outDir = join(root, "data", "snapshot");
@@ -37,38 +41,46 @@ const TABLES = {
     "select=slug,titolo,categoria,testo,url_fonte,licenza&categoria=neq.canto_carmine_greco&licenza=neq.cortesia_carmine_greco&order=titolo.asc",
 };
 
-function normalize(text) {
-  return String(text || "").replace(/\s+/g, " ").trim().toLowerCase();
+// Commenti parlati gia' pubblicati in testi_liberi. Lo slug e' carmine-canto-<id>.
+const CARMINE_VIDEO_IDS = ["1aPLzdvMZD8", "HBPfozK7mmg", "kEjiN6uOi08", "msCVBKK1dD0"];
+
+// Un testo attribuito a Carmine Greco piu' lungo di cosi' e' un commento parlato,
+// non un canto in pubblico dominio. Le fiabe lunghe non portano questi segnali.
+const CARMINE_TESTO_LIMIT = 1500;
+
+function loadBannedShingles() {
+  const file = join(root, "scripts/carmine-shingles.json");
+  const parsed = JSON.parse(readFileSync(file, "utf8"));
+  const hashes = Array.isArray(parsed.hashes) ? parsed.hashes : [];
+  if (hashes.length < 1000) {
+    throw new Error("scripts/carmine-shingles.json non contiene le impronte attese");
+  }
+  return new Set(hashes);
 }
 
-function loadBannedSnippets() {
-  const snippets = [];
-  const dir = join(root, "carmine_transcripts_clean");
-  for (const name of readdirSync(dir)) {
-    if (!name.endsWith(".txt")) continue;
-    const text = normalize(readFileSync(join(dir, name), "utf8"));
-    if (text.length > 200) snippets.push(text.slice(0, 240));
-  }
-  const full = JSON.parse(readFileSync(join(root, "data/carmine_greco_lessons_full.json"), "utf8"));
-  for (const lesson of full.lessons || []) {
-    if (typeof lesson.transcript !== "string") continue;
-    const text = normalize(lesson.transcript);
-    if (text.length > 200) snippets.push(text.slice(0, 240));
-  }
-  return snippets;
+function isCarmineCommentary(row) {
+  const slug = String(row.slug || "");
+  const categoria = String(row.categoria || "");
+  const licenza = String(row.licenza || "");
+  if (categoria === "canto_carmine_greco" || /carmine/i.test(categoria)) return true;
+  if (licenza === "cortesia_carmine_greco" || /carmine/i.test(licenza)) return true;
+  if (/^carmine-/i.test(slug)) return true;
+  const blob = `${slug} ${row.titolo || ""} ${row.url_fonte || ""}`;
+  if (CARMINE_VIDEO_IDS.some((id) => blob.includes(id))) return true;
+  return false;
 }
 
-function assertClean(value, snippets, trail = "$") {
+function assertClean(value, banned, trail = "$") {
   if (typeof value === "string") {
-    if (value.length < 200) return;
-    const norm = normalize(value);
-    if (snippets.some((snippet) => norm.includes(snippet))) {
-      throw new Error(`Testo troppo vicino a una trascrizione di Carmine Greco in ${trail}`);
+    for (const hash of windowHashes(value, 1)) {
+      if (banned.has(hash)) {
+        throw new Error(`Testo troppo vicino a una trascrizione di Carmine Greco in ${trail}`);
+      }
     }
     return;
   }
   if (Array.isArray(value)) {
-    value.forEach((item, index) => assertClean(item, snippets, `${trail}[${index}]`));
+    value.forEach((item, index) => assertClean(item, banned, `${trail}[${index}]`));
     return;
   }
   if (value && typeof value === "object") {
@@ -76,7 +88,7 @@ function assertClean(value, snippets, trail = "$") {
       if (/^(transcript|trascrizione)$/i.test(key)) {
         throw new Error(`Chiave vietata "${key}" in ${trail}`);
       }
-      assertClean(inner, snippets, `${trail}.${key}`);
+      assertClean(inner, banned, `${trail}.${key}`);
     }
   }
 }
@@ -107,8 +119,11 @@ async function fetchTable(table, query) {
 
 function keepTesto(row) {
   if (!row || typeof row !== "object") return false;
-  if (row.categoria === "canto_carmine_greco") return false;
-  if (row.licenza === "cortesia_carmine_greco") return false;
+  if (isCarmineCommentary(row)) return false;
+  const authorHint = `${row.categoria || ""} ${row.licenza || ""} ${row.slug || ""} ${row.titolo || ""}`;
+  if (typeof row.testo === "string" && row.testo.length > CARMINE_TESTO_LIMIT && /carmine/i.test(authorHint)) {
+    return false;
+  }
   if (typeof row.slug !== "string" || !/^[a-z0-9_-]+$/i.test(row.slug)) return false;
   if (!row.titolo || typeof row.testo !== "string" || row.testo.trim().length < 20) return false;
   return true;
@@ -117,7 +132,7 @@ function keepTesto(row) {
 function presentTesto(row) {
   return {
     slug: row.slug,
-    titolo: row.titolo,
+    titolo: normalizeTitle(row.titolo),
     categoria: row.categoria,
     testo: row.testo,
     url_fonte: row.url_fonte || "",
@@ -142,7 +157,7 @@ function expectAtLeast(label, actual, minimum) {
 
 async function main() {
   mkdirSync(outDir, { recursive: true });
-  const banned = loadBannedSnippets();
+  const banned = loadBannedShingles();
   const data = {};
   for (const [table, query] of Object.entries(TABLES)) {
     data[table] = await fetchTable(table, query);
@@ -197,7 +212,7 @@ async function main() {
     bytes: { palma: palmaBytes, carmine: carmineBytes, testi: testiBytes },
     places: "public/data/places.json (la tabella places non e' su Supabase)",
     excluded:
-      "Esclusi i campi transcript e trascrizione e i testi con categoria canto_carmine_greco o licenza cortesia_carmine_greco.",
+      "Esclusi i campi transcript e trascrizione, i testi di Carmine Greco (categoria, licenza, slug carmine-*, id video noti, testo lungo attribuito a quell'autore) e le righe che ripetono una finestra di 24 parole delle trascrizioni.",
     refresh: "node scripts/refresh-snapshot.mjs",
   };
   writeAtomic("manifest.json", manifest);

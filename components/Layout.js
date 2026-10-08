@@ -6,6 +6,7 @@ import ThemeToggle from "./ThemeToggle";
 import GoogleTranslate from "./GoogleTranslate";
 import CookieBanner from "./CookieBanner";
 import GrikoLogo from "./GrikoLogo";
+import { normalizeJsonLdNames, normalizeTitle } from "../lib/titles.mjs";
 
 const NAV_ITEMS = [
   { label: "Home", href: "/" },
@@ -20,7 +21,7 @@ const NAV_ITEMS = [
 
 export default function Layout({
   children,
-  title = "griko.online — Lingua e cultura della Grecia Salentina",
+  title = "griko.online | Lingua e cultura della Grecia Salentina",
   description = "Portale dedicato alla tutela, documentazione e riscoperta della lingua grika e delle tradizioni della Grecia Salentina."
 }) {
   const router = useRouter();
@@ -36,7 +37,8 @@ export default function Layout({
   const cleanPath = router.asPath ? router.asPath.split("?")[0] : "";
   const canonicalUrl = `https://www.griko.online${cleanPath === "/" ? "" : cleanPath}`;
 
-  const schemaOrgJSONLD = [
+  const pageTitle = normalizeTitle(title);
+  const schemaOrgJSONLD = normalizeJsonLdNames([
     {
       "@context": "https://schema.org",
       "@type": "WebSite",
@@ -68,12 +70,12 @@ export default function Layout({
         "Legge 482/1999"
       ]
     }
-  ];
+  ]);
 
   return (
     <div className="site-wrapper">
       <Head>
-        <title>{title}</title>
+        <title>{pageTitle}</title>
         <meta name="description" content={description} />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta charSet="utf-8" />
@@ -99,7 +101,7 @@ export default function Layout({
 
         {/* Open Graph (Facebook, WhatsApp, LinkedIn, Telegram, AI Chat Previews) */}
         <meta property="og:site_name" content="griko.online" />
-        <meta property="og:title" content={title} />
+        <meta property="og:title" content={pageTitle} />
         <meta property="og:description" content={description} />
         <meta property="og:url" content={canonicalUrl} />
         <meta property="og:type" content="website" />
@@ -107,11 +109,11 @@ export default function Layout({
         <meta property="og:image" content="https://www.griko.online/images/og-share.jpg" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
-        <meta property="og:image:alt" content="griko.online — Portale culturale della Grecìa Salentina" />
+        <meta property="og:image:alt" content="griko.online | Portale culturale della Grecìa Salentina" />
 
         {/* Twitter Card */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content={title} />
+        <meta name="twitter:title" content={pageTitle} />
         <meta name="twitter:description" content={description} />
         <meta name="twitter:image" content="https://www.griko.online/images/og-share.jpg" />
 
@@ -136,7 +138,7 @@ export default function Layout({
       <header className="site-header">
         <div className="header-inner">
           <div className="site-brand">
-            <Link href="/" className="brand-link" aria-label="griko.online — Portale Culturale">
+            <Link href="/" className="brand-link" aria-label="griko.online | Portale Culturale">
               <GrikoLogo size={44} className="brand-logo" />
               <div className="brand-text">
                 <span className="brand-title">
@@ -256,7 +258,7 @@ export default function Layout({
 
           <div className="footer-bottom">
             <p className="copyright">
-              © {new Date().getFullYear()} griko.online — Portale per la tutela e valorizzazione del patrimonio linguistico griko.
+              © {new Date().getFullYear()} griko.online | Portale per la tutela e valorizzazione del patrimonio linguistico griko.
             </p>
             <p className="footer-license">
               Contenuti e documentazione rilasciati nel rispetto delle fonti territoriali e della cultura salentina.
