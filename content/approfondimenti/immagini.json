@@ -34,20 +34,35 @@
     {
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Porta_Fil%C3%ACa_Sternatia.jpg",
       "src": "/images/approfondimenti/paesi-grecia-salentina/Porta_Fil_a_Sternatia.jpg",
+      "webp": "/images/approfondimenti/paesi-grecia-salentina/Porta_Fil_a_Sternatia.webp",
       "mime": "image/jpeg",
-      "width": 4320,
-      "height": 3240,
-      "bytes": 5930156,
-      "sha1": "67386be57ae435049420c0c0c2448102ae46310e"
+      "width": 1600,
+      "height": 1200,
+      "bytes": 282278,
+      "sha1": "fa5265d369ead6f45754576c63794078bbe7f2c8",
+      "sourceSha1": "67386be57ae435049420c0c0c2448102ae46310e"
     },
     {
       "pageUrl": "https://commons.wikimedia.org/wiki/File:Calimera_-_Grecia_Salentina_-_panoramio.jpg",
       "src": "/images/approfondimenti/paesi-grecia-salentina/Calimera_-_Grecia_Salentina_-_panoramio.jpg",
+      "webp": "/images/approfondimenti/paesi-grecia-salentina/Calimera_-_Grecia_Salentina_-_panoramio.webp",
       "mime": "image/jpeg",
-      "width": 2048,
-      "height": 1362,
-      "bytes": 1661999,
-      "sha1": "d0e37d78f46798207c701a790c95f61b102a0116"
+      "width": 1600,
+      "height": 1064,
+      "bytes": 248873,
+      "sha1": "4f6341aa475227ce90e883556914169f654649f1",
+      "sourceSha1": "d0e37d78f46798207c701a790c95f61b102a0116"
+    },
+    {
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Calimera_-_Grecia_Salentina_-_panoramio.jpg#og",
+      "src": "/images/approfondimenti/paesi-grecia-salentina/calimera-og.jpg",
+      "mime": "image/jpeg",
+      "width": 1200,
+      "height": 630,
+      "bytes": 113871,
+      "sha1": "18e6b027e2d6aa5d5a7170c4e57885dbf984b564",
+      "role": "og",
+      "alt": "Veduta di Calimera"
     }
   ]
 }
