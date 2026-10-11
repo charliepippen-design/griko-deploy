@@ -3331,6 +3331,11 @@ html.light .carmine-pill.active {
   line-height: 1.45;
 }
 
+.article-figure-note {
+  display: block;
+  color: var(--text-tertiary);
+}
+
 .article-og-note {
   margin: 0 0 var(--space-8);
   color: var(--text-tertiary);

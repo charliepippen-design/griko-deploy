@@ -77,5 +77,54 @@
       "alt": "Veduta di Calimera",
       "note": "Immagine di anteprima per la condivisione: ritaglio della foto di Calimera di Michael Paraskevas, da Wikimedia Commons, licenza CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)"
     }
+  ],
+  "notte-della-taranta-grecia-salentina": [
+    {
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Notte_della_Taranta.png",
+      "src": "/images/approfondimenti/notte-della-taranta-grecia-salentina/Notte_della_Taranta.jpg",
+      "webp": "/images/approfondimenti/notte-della-taranta-grecia-salentina/Notte_della_Taranta.webp",
+      "mime": "image/jpeg",
+      "width": 1171,
+      "height": 569,
+      "bytes": 97792,
+      "sha1": "2ba24032a5ddf72f05d0c3b6971d00f297a15cf6",
+      "sourceSha1": "ddbaeb0d3eef724cacadebf1da74dc6244079c7d",
+      "note": "Copia web dell'originale PNG, convertita in JPEG e compressa per il web, senza ritagli."
+    },
+    {
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Notte_della_Taranta.png#og",
+      "src": "/images/approfondimenti/notte-della-taranta-grecia-salentina/taranta-og.jpg",
+      "mime": "image/jpeg",
+      "width": 1200,
+      "height": 630,
+      "bytes": 124135,
+      "sha1": "f9df20ee75d09c73f8d65a1e8db1459120c2c6e2",
+      "role": "og",
+      "alt": "Palco e pubblico del concerto finale della Notte della Taranta a Melpignano nel 2007",
+      "note": "Immagine di anteprima per la condivisione: la foto della Notte della Taranta 2007 di Quatar, da Wikimedia Commons, leggermente ingrandita e centrata su sfondo uniforme, senza ritagli, licenza CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)"
+    }
+  ],
+  "vito-domenico-palumbo": [
+    {
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Vito_Domenico_Palumbo.JPG",
+      "src": "/images/approfondimenti/vito-domenico-palumbo/Vito_Domenico_Palumbo.JPG",
+      "mime": "image/jpeg",
+      "width": 208,
+      "height": 283,
+      "bytes": 12727,
+      "sha1": "53ef3461315ad2ee19f96866777ed27d1cd2c6ec"
+    },
+    {
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Vito_Domenico_Palumbo.JPG#og",
+      "src": "/images/approfondimenti/vito-domenico-palumbo/palumbo-og.jpg",
+      "mime": "image/jpeg",
+      "width": 1200,
+      "height": 630,
+      "bytes": 50699,
+      "sha1": "e842203104c26619699fa869122ae5981270b74c",
+      "role": "og",
+      "alt": "Ritratto fotografico di Vito Domenico Palumbo",
+      "note": "Immagine di anteprima per la condivisione: il ritratto di Vito Domenico Palumbo (autore sconosciuto, prima del 1918, pubblico dominio), ingrandito e centrato su sfondo uniforme"
+    }
   ]
 }

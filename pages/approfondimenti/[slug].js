@@ -148,6 +148,7 @@ export default function ApprofondimentoPage({ article }) {
                 <figcaption>
                   {item.caption ? <span className="article-figure-caption">{item.caption}</span> : null}
                   <span className="article-figure-credit">{item.credit}</span>
+                  {item.note ? <span className="article-figure-note">{item.note}</span> : null}
                 </figcaption>
               </figure>
             ))}

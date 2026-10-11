@@ -88,7 +88,7 @@ Qui trovi il testo originale, una spiegazione strofa per strofa, la storia del c
 
 ## Chi l'ha scritta: Vito Domenico Palumbo
 
-Vito Domenico Palumbo nacque a Calimera il 22 aprile 1854 e vi morì il 2 marzo 1918 [3]. Fu poeta, grecista e studioso del griko, della storia e delle tradizioni della Grecìa Salentina. Si formò in gran parte da autodidatta e, oltre al latino e al greco, studiò francese, greco moderno, inglese e tedesco [3].
+Vito Domenico Palumbo nacque a Calimera il 22 aprile 1854 (Paolo Stomeo, nella biografia pubblicata su *Studi Salentini* nel 1956, indica invece il 2 aprile) e vi morì il 2 marzo 1918 [3]. Fu poeta, grecista e studioso del griko, della storia e delle tradizioni della Grecìa Salentina. Si formò in gran parte da autodidatta e, oltre al latino e al greco, studiò francese, greco moderno, inglese e tedesco [3].
 
 Marcello Aprile lo descrive come un intellettuale di Calimera con un respiro non solo locale: fu corrispondente di Carducci, fu invitato ufficialmente dal circolo Parnassós di Atene e il 4 settembre 1908 ricevette dal re di Grecia Giorgio I la Croce d'argento dell'Ordine del Salvatore. Scrisse versi propri, ma fu soprattutto un prezioso raccoglitore di canti e testi della letteratura popolare [4]. A lui si deve la più ampia raccolta di poesie, canti e filastrocche in griko, e dai suoi quaderni sono state pubblicate, tra il 1998 e il 2015, raccolte di fiabe, canti popolari e proverbi [3].
 
