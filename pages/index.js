@@ -113,12 +113,6 @@ export default function HomePage() {
               <span>Patrimonio Linguistico Minoritario · Legge 482/1999</span>
             </div>
 
-            {/* Verso sorgente della tradizione orale grica */}
-            <div className="hero-oral-motto">
-              <span className="oral-motto-verse">“I glossa ma ’en eni pràma chariatiko, ma en i kardìa ma”</span>
-              <span className="oral-motto-sub">La voce tramandata da millenni nei 9 comuni ellenofoni</span>
-            </div>
-
             <h1 className="hero-main-title" aria-label="Lingua, memoria e voce viva della Grecìa Salentina">
               <span className="title-row title-row-top">
                 <span className="word-sculpt">Lingua</span>
@@ -176,13 +170,6 @@ export default function HomePage() {
                 <span className="glyph-watermark">Γ</span>
                 <span className="heritage-tag">Identità Ellenofona</span>
               </div>
-
-              <blockquote className="griko-motto">
-                “I glossa ma en ghiati ena pràma chariatiko, ma en i kardìa ma.”
-              </blockquote>
-              <cite className="griko-motto-trans">
-                «La nostra lingua non è cosa rozza: è il nostro cuore.»
-              </cite>
 
               <div className="hero-stats-row">
                 <div className="stat-item">
