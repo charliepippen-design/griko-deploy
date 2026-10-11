@@ -6,3 +6,7 @@ node_modules/
 .vscode/
 __pycache__/
 *.pyc
+
+# Trascrizioni dei corsi: solo in locale, non vanno committate
+transcripts_clean/
+carmine_transcripts_clean/
