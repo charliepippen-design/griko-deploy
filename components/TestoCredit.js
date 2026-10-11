@@ -13,7 +13,10 @@ export default function TestoCredit({ credito, className = "testo-credit" }) {
     );
     return (
       <p className={className}>
-        Trascrizione e traduzione: Salvatore Tommasi, da {fonte}, licenza{" "}
+        {credito.testoFonte
+          ? `Testo griko: ${credito.testoFonte}. Traduzione libera: `
+          : "Trascrizione e traduzione: "}
+        Salvatore Tommasi, da {fonte}, licenza{" "}
         <a href={credito.licenzaUrl || CIURI_LICENSE_URL} target="_blank" rel="noopener noreferrer">
           CC BY-NC 4.0
         </a>
