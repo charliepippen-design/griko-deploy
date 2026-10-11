@@ -138,5 +138,45 @@
       "alt": "Ritratto fotografico di Vito Domenico Palumbo",
       "note": "Immagine di anteprima per la condivisione: il ritratto di Vito Domenico Palumbo (autore sconosciuto, prima del 1918, pubblico dominio), ingrandito e centrato su sfondo uniforme"
     }
+  ],
+  "pietra-forata-san-vito-calimera": [
+    {
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Calimera_Cappella_San_Vito.jpg",
+      "src": "/images/approfondimenti/pietra-forata-san-vito-calimera/Calimera_Cappella_San_Vito.jpg",
+      "webp": "/images/approfondimenti/pietra-forata-san-vito-calimera/Calimera_Cappella_San_Vito.webp",
+      "mime": "image/jpeg",
+      "width": 1600,
+      "height": 1200,
+      "bytes": 298879,
+      "sha1": "c80d218d632a895d391fd390ecaba7a5dd4be272",
+      "sourceSha1": "35da9c5ffb22c53c80ec370445a728d6a6e5e7ec",
+      "note": "Copia web dell'originale, ricompressa per il web, senza ritagli."
+    },
+    {
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Calimera_Cappella_San_Vito.jpg#og",
+      "src": "/images/approfondimenti/pietra-forata-san-vito-calimera/sanvito-og.jpg",
+      "mime": "image/jpeg",
+      "width": 1200,
+      "height": 630,
+      "bytes": 189584,
+      "sha1": "6cf84c312816a75c406fe32a95142ea4b34386df",
+      "role": "og",
+      "alt": "La facciata della cappella di San Vito tra gli ulivi, a Calimera",
+      "note": "Immagine di anteprima per la condivisione: la foto della cappella di San Vito di Lupiae (2009, pubblico dominio), ridotta e centrata su sfondo uniforme, senza ritagli"
+    }
+  ],
+  "passiuna-tu-christu": [
+    {
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:GrikoSpeakingCommunitiesTodayV4_it.png#og",
+      "src": "/images/approfondimenti/che-cos-e-il-griko/griko-mappa-og.jpg",
+      "mime": "image/jpeg",
+      "width": 1200,
+      "height": 630,
+      "bytes": 34301,
+      "sha1": "6be47e3665101cb134e164c5e5a0a798038a7c90",
+      "role": "og",
+      "alt": "Mappa dell'Italia meridionale con la Grecìa Salentina in Puglia e la Bovesia in Calabria segnate da una stella",
+      "note": "Immagine di anteprima per la condivisione: la mappa delle aree grecofone di 92bari, da Wikimedia Commons, ingrandita e centrata su sfondo uniforme, licenza CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)"
+    }
   ]
 }
