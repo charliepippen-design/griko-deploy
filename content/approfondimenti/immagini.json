@@ -31,6 +31,18 @@
       "height": 283,
       "bytes": 12727,
       "sha1": "53ef3461315ad2ee19f96866777ed27d1cd2c6ec"
+    },
+    {
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Vito_Domenico_Palumbo.JPG#og",
+      "src": "/images/approfondimenti/vito-domenico-palumbo/palumbo-og.jpg",
+      "mime": "image/jpeg",
+      "width": 1200,
+      "height": 630,
+      "bytes": 50699,
+      "sha1": "e842203104c26619699fa869122ae5981270b74c",
+      "role": "og",
+      "alt": "Ritratto fotografico di Vito Domenico Palumbo",
+      "note": "Immagine di anteprima per la condivisione: il ritratto di Vito Domenico Palumbo (autore sconosciuto, prima del 1918, pubblico dominio), ingrandito e centrato su sfondo uniforme"
     }
   ],
   "paesi-grecia-salentina": [
