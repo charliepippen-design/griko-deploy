@@ -11,11 +11,22 @@ export default function TestoCredit({ credito, className = "testo-credit" }) {
     ) : (
       "Ciuri ce Pedì"
     );
+    if (credito.fonte && credito.formula === "solo-fonte") {
+      return (
+        <p className={className}>
+          Testo griko e traduzione da: {credito.fonte}. Pubblicati su {fonte}.
+        </p>
+      );
+    }
+    let apertura = "Trascrizione e traduzione: ";
+    if (credito.fonte && credito.formula === "traduzione") {
+      apertura = `Testo griko: ${credito.fonte}. Traduzione libera: `;
+    } else if (credito.fonte) {
+      apertura = `${credito.fonte}. Trascrizione e traduzione: `;
+    }
     return (
       <p className={className}>
-        {credito.testoFonte
-          ? `Testo griko: ${credito.testoFonte}. Traduzione libera: `
-          : "Trascrizione e traduzione: "}
+        {apertura}
         Salvatore Tommasi, da {fonte}, licenza{" "}
         <a href={credito.licenzaUrl || CIURI_LICENSE_URL} target="_blank" rel="noopener noreferrer">
           CC BY-NC 4.0

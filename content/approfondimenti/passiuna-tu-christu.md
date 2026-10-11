@@ -118,9 +118,9 @@ Nel 2026 la rassegna "Canti di Passione - Ce Custi o Gaddho na Cantalisi" ha ann
 
 Se vuoi muoverti nei paesi del canto, la guida ai [paesi della Grecìa Salentina](/approfondimenti/paesi-grecia-salentina) è un buon punto di partenza. Per qualche parola del testo, c'è il [dizionario](/dizionario).
 
-## Leggere una versione su griko.online
+## Leggere una versione
 
-Nella pagina [Il canto della Passione](/leggi/il-canto-della-passione) trovi una versione di Corigliano d'Otranto. Ciuri ce Pedì la riprende da un libro di Salvatore Sicuro (*Ìtela na su po...*, Ghetonìa, 1999) e la accompagna con una traduzione libera [4].
+Nella pagina [Il canto della Passione](https://www.ciuricepedi.it/il-canto-della-passione/) di Ciuri ce Pedì trovi una versione di Corigliano d'Otranto. Ciuri ce Pedì la riprende da un libro di Salvatore Sicuro (*Ìtela na su po...*, Ghetonìa, 1999) e la accompagna con una traduzione libera [4].
 
 Un altro rito del periodo pasquale in Grecìa è raccontato in [La pietra forata di San Vito: il rito della Pasquetta a Calimera](/approfondimenti/pietra-forata-san-vito-calimera).
 
