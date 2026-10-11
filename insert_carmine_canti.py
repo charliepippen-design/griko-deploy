@@ -4,6 +4,10 @@ Inserisce in Supabase (tabella public.testi_liberi) i 4 commenti video di
 Carmine Greco ai canti tradizionali (Kalinifta, Klama, Aremu Rindinedda-mu,
 Agapi-mu Fidela Protinì), presi da data/carmine_greco_lessons_full.json.
 
+ATTENZIONE: le trascrizioni (campo "transcript") sono state rimosse dal
+repository per ragioni di diritto d'autore, quindi senza quel campo lo script
+si ferma senza fare richieste e i canti non vengono ripubblicati.
+
 IMPORTANTE: questo NON è testo tradizionale di pubblico dominio come il resto
 di testi_liberi — è la trascrizione della spiegazione parlata (in italiano)
 di Carmine Greco nei suoi video YouTube. Per questo la licenza è
@@ -44,6 +48,14 @@ def main():
         data = json.load(f)
 
     poesie = [l for l in data["lessons"] if l.get("is_poetry")]
+    if not any("transcript" in l for l in poesie):
+        print(
+            "Le trascrizioni di Carmine Greco sono state rimosse dal repository "
+            "per ragioni di diritto d'autore: i canti non vengono ripubblicati. "
+            "Nessuna richiesta eseguita."
+        )
+        return 0
+
     print(f"Trovate {len(poesie)} lezioni-canto di Carmine Greco da inserire.\n")
 
     for l in poesie:
@@ -70,4 +82,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main() or 0)
