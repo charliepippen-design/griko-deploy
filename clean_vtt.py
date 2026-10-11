@@ -1,3 +1,7 @@
+# Le trascrizioni del corso di Daniele Palma sono state rimosse dal
+# repository per ragioni di diritto d'autore: questo script le rigenera
+# solo in locale e la cartella transcripts_clean/ non va committata
+# (e' in .gitignore).
 import re, glob, os
 
 SRC = r"C:\griko"
