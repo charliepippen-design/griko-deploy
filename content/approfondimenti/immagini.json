@@ -8,6 +8,18 @@
       "height": 300,
       "bytes": 14176,
       "sha1": "139c9c5db63f7aa45d07a71dbe90a0b8d7c604b7"
+    },
+    {
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:GrikoSpeakingCommunitiesTodayV4_it.png#og",
+      "src": "/images/approfondimenti/che-cos-e-il-griko/griko-mappa-og.jpg",
+      "mime": "image/jpeg",
+      "width": 1200,
+      "height": 630,
+      "bytes": 34301,
+      "sha1": "6be47e3665101cb134e164c5e5a0a798038a7c90",
+      "role": "og",
+      "alt": "Mappa dell'Italia meridionale con la Grecìa Salentina in Puglia e la Bovesia in Calabria segnate da una stella",
+      "note": "Immagine di anteprima per la condivisione: la mappa delle aree grecofone di 92bari, da Wikimedia Commons, ingrandita e centrata su sfondo uniforme, licenza CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)"
     }
   ],
   "kalinifta-matinata": [
@@ -62,7 +74,8 @@
       "bytes": 113871,
       "sha1": "18e6b027e2d6aa5d5a7170c4e57885dbf984b564",
       "role": "og",
-      "alt": "Veduta di Calimera"
+      "alt": "Veduta di Calimera",
+      "note": "Immagine di anteprima per la condivisione: ritaglio della foto di Calimera di Michael Paraskevas, da Wikimedia Commons, licenza CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)"
     }
   ]
 }

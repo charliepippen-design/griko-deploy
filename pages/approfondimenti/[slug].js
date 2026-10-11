@@ -46,6 +46,20 @@ function shareImage(article) {
   };
 }
 
+function OgNote({ note }) {
+  const match = /\((https?:\/\/[^\s)]+)\)/.exec(note);
+  if (!match) return <p className="article-og-note">{note}</p>;
+  const before = note.slice(0, match.index + 1);
+  const after = note.slice(match.index + match[0].length - 1);
+  return (
+    <p className="article-og-note">
+      {before}
+      <a href={match[1]} target="_blank" rel="noopener noreferrer">{match[1]}</a>
+      {after}
+    </p>
+  );
+}
+
 function articleJsonLd(article) {
   const image = shareImage(article);
   const data = {
@@ -139,6 +153,8 @@ export default function ApprofondimentoPage({ article }) {
             ))}
           </div>
         ) : null}
+
+        {article.ogImage && article.ogImage.note ? <OgNote note={article.ogImage.note} /> : null}
 
         <div className="article-prose" dangerouslySetInnerHTML={{ __html: article.bodyHtml }} />
 

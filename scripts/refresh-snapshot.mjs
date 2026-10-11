@@ -5,8 +5,9 @@
 //   node scripts/refresh-snapshot.mjs
 //
 // Non scrive i campi transcript / trascrizione, ne' i commenti parlati di
-// Carmine Greco. Non legge carmine_transcripts_clean/ ne'
-// data/carmine_greco_lessons_full.json: il controllo usa categoria, licenza,
+// Carmine Greco. Non legge
+// data/carmine_greco_lessons_full.json (senza trascrizioni, rimosse dal
+// repository): il controllo usa categoria, licenza,
 // slug, id video noti e le impronte gia' salvate in scripts/carmine-shingles.json.
 // Gli slug in data/testi-esclusi.mjs non vengono scritti.
 // Se il download fallisce, i file gia' presenti restano invariati.
