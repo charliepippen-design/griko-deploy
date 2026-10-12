@@ -1,31 +1,40 @@
 import Link from "next/link";
 import Layout from "../../components/Layout";
+import { listPersone } from "../../lib/approfondimenti.mjs";
 
-export default function PersonePage() {
+export function getStaticProps() {
+  return { props: { articles: listPersone() } };
+}
+
+export default function PersonePage({ articles = [] }) {
   return (
     <Layout
-      title="Persone & Custodi della Memoria | griko.online"
-      description="Biografie e testimonianze dei poeti, studiosi e custodi della lingua grika."
+      title="Persone | griko.online"
+      description="Schede biografiche di chi ha documentato e cantato il griko, con le fonti di ogni scheda."
     >
       <div className="editorial-hero">
         <span className="editorial-hero-tag">Memoria e Biografie</span>
         <h1>Persone</h1>
         <p className="sub">
-          Questa sezione sarà dedicata alle donne e agli uomini che hanno custodito, documentato e cantato il griko nel tempo. 
-          Raccoglierà schede biografiche di studiosi, poeti popolari e testimoni della tradizione orale locale, per dare un volto e una storia a chi ha tenuto viva la lingua.
+          Schede biografiche di chi ha documentato e cantato il griko, con le fonti di ogni scheda.
         </p>
       </div>
 
-      <section style={{ maxWidth: "720px", marginTop: "32px" }}>
-        <p>
-          I profili biografici e le testimonianze storiche sono in corso di redazione filologica e verifica delle fonti archivistiche.
-        </p>
-        <p>
-          <Link href="/" className="section-card-action">
-            ← Torna alla Home page
-          </Link>
-        </p>
-      </section>
+      {articles.length === 0 ? (
+        <p className="empty">Nessuna scheda è disponibile.</p>
+      ) : (
+        <div className="article-index-list">
+          {articles.map((article) => (
+            <article key={article.slug} className="article-index-card">
+              <Link href={article.path} className="article-index-link">
+                <time dateTime={article.date}>{article.dateLabel}</time>
+                <h2>{article.title}</h2>
+                <p>{article.description}</p>
+              </Link>
+            </article>
+          ))}
+        </div>
+      )}
     </Layout>
   );
 }

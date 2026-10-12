@@ -2,10 +2,13 @@ import Link from "next/link";
 import Layout from "../../components/Layout";
 import { normalizeTitle } from "../../lib/titles.mjs";
 import { getApprofondimento, listApprofondimenti } from "../../lib/approfondimenti.mjs";
+import { PERSONE_SLUGS } from "../../lib/persone.mjs";
 
 export function getStaticPaths() {
   return {
-    paths: listApprofondimenti().map((article) => ({ params: { slug: article.slug } })),
+    paths: listApprofondimenti()
+      .filter((article) => !PERSONE_SLUGS.includes(article.slug))
+      .map((article) => ({ params: { slug: article.slug } })),
     fallback: false,
   };
 }
@@ -16,7 +19,7 @@ export function getStaticProps({ params }) {
   return { props: { article } };
 }
 
-function citationEntry(source) {
+export function citationEntry(source) {
   const entry = {
     "@type": "CreativeWork",
     name: source.title,
@@ -73,7 +76,7 @@ function articleJsonLd(article) {
     keywords: article.keywords,
     mainEntityOfPage: {
       "@type": "WebPage",
-      "@id": `https://www.griko.online/approfondimenti/${article.slug}`,
+      "@id": `https://www.griko.online${article.path}`,
     },
     author: {
       "@type": "Organization",
@@ -98,6 +101,8 @@ function articleJsonLd(article) {
 }
 
 export default function ApprofondimentoPage({ article }) {
+  const isPersona = PERSONE_SLUGS.includes(article.slug);
+  const sectionHref = isPersona ? "/persone" : "/approfondimenti";
   const image = shareImage(article);
   return (
     <Layout
@@ -114,7 +119,7 @@ export default function ApprofondimentoPage({ article }) {
       <article className="article-sheet">
         <header className="article-header">
           <p className="article-kicker">
-            <Link href="/approfondimenti">Approfondimenti</Link>
+            <Link href={sectionHref}>{isPersona ? "Persone" : "Approfondimenti"}</Link>
           </p>
           <h1>{article.title}</h1>
           <p className="article-date">
@@ -170,8 +175,8 @@ export default function ApprofondimentoPage({ article }) {
         </section>
 
         <p className="article-back">
-          <Link href="/approfondimenti" className="section-card-action">
-            ← Torna agli approfondimenti
+          <Link href={sectionHref} className="section-card-action">
+            {isPersona ? "← Torna a Persone" : "← Torna agli approfondimenti"}
           </Link>
         </p>
       </article>

@@ -26,7 +26,7 @@ export default function ApprofondimentiIndex({ articles = [] }) {
         <div className="article-index-list">
           {articles.map((article) => (
             <article key={article.slug} className="article-index-card">
-              <Link href={`/approfondimenti/${article.slug}`} className="article-index-link">
+              <Link href={article.path} className="article-index-link">
                 <time dateTime={article.date}>{article.dateLabel}</time>
                 <h2>{article.title}</h2>
                 <p>{article.description}</p>
