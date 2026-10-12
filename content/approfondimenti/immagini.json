@@ -178,5 +178,57 @@
       "alt": "Mappa dell'Italia meridionale con la Grecìa Salentina in Puglia e la Bovesia in Calabria segnate da una stella",
       "note": "Immagine di anteprima per la condivisione: la mappa delle aree grecofone di 92bari, da Wikimedia Commons, ingrandita e centrata su sfondo uniforme, licenza CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)"
     }
+  ],
+  "moroloja-lamento-funebre": [
+    {
+      "pageUrl": "https://archive.org/details/bub_gb_AvOksd59BCYC/page/n19/mode/1up",
+      "src": "/images/approfondimenti/moroloja-lamento-funebre/morosi-1870-nenie-ix.jpg",
+      "webp": "/images/approfondimenti/moroloja-lamento-funebre/morosi-1870-nenie-ix.webp",
+      "mime": "image/jpeg",
+      "width": 1410,
+      "height": 1710,
+      "bytes": 230310,
+      "sha1": "6748fa2f1bd614800fd54cd4b04313a22ac63a72",
+      "sourceSha1": "b343732adc29819afc47fa27d67ce53bbd081f6f",
+      "note": "Ritaglio della pagina con le Nenie, IX, senza il marchio di digitalizzazione di Google."
+    },
+    {
+      "pageUrl": "https://archive.org/details/bub_gb_AvOksd59BCYC/page/n19/mode/1up#og",
+      "src": "/images/approfondimenti/moroloja-lamento-funebre/moroloja-og.jpg",
+      "mime": "image/jpeg",
+      "width": 1200,
+      "height": 630,
+      "bytes": 74542,
+      "sha1": "e49e842b7f28f5dd50e5aaebf4bb545830cb1e30",
+      "role": "og",
+      "alt": "Il preambolo di un lamento funebre in griko con la traduzione italiana, dal libro di Giuseppe Morosi del 1870",
+      "note": "Immagine di anteprima per la condivisione: ritaglio della pagina delle Nenie, IX, da Giuseppe Morosi, Studi sui dialetti greci della Terra d'Otranto, Lecce 1870, pubblico dominio, scansione Internet Archive, ridotto e centrato su sfondo bianco"
+    }
+  ],
+  "biblioteca-aperta-griko": [
+    {
+      "pageUrl": "https://archive.org/details/bub_gb_AvOksd59BCYC/page/n6/mode/1up",
+      "src": "/images/approfondimenti/biblioteca-aperta-griko/morosi-1870-frontespizio.jpg",
+      "webp": "/images/approfondimenti/biblioteca-aperta-griko/morosi-1870-frontespizio.webp",
+      "mime": "image/jpeg",
+      "width": 1410,
+      "height": 1870,
+      "bytes": 107738,
+      "sha1": "cfa328037fca87b31b18fee1bfdc03f3f5a5afbb",
+      "sourceSha1": "c4678b9e0e3220483ecb17d6a46a21c794bce358",
+      "note": "Ritaglio del frontespizio, senza il marchio di digitalizzazione di Google."
+    },
+    {
+      "pageUrl": "https://archive.org/details/bub_gb_AvOksd59BCYC/page/n6/mode/1up#og",
+      "src": "/images/approfondimenti/biblioteca-aperta-griko/biblioteca-og.jpg",
+      "mime": "image/jpeg",
+      "width": 1200,
+      "height": 630,
+      "bytes": 48338,
+      "sha1": "7d7d3c16838ff71daffe54501e4e2acfb90c4ca9",
+      "role": "og",
+      "alt": "Il frontespizio del libro di Giuseppe Morosi del 1870 sui dialetti greci della Terra d'Otranto",
+      "note": "Immagine di anteprima per la condivisione: ritaglio del frontespizio di Giuseppe Morosi, Studi sui dialetti greci della Terra d'Otranto, Lecce 1870, pubblico dominio, scansione Internet Archive, ridotto e centrato su sfondo bianco"
+    }
   ]
 }

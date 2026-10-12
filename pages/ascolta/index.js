@@ -20,7 +20,7 @@ export default function AscoltaPage() {
         </div>
         <h1>Ascolta la Voce del Salento Ellenofono</h1>
         <p className="sub">
-          Dalle serenate notturne (*Kalinifta*) ai lamenti rituali (*Morolòja*), fino ai canti d’amore e dell’emigrazione. 
+          Dalle serenate notturne (<em>Kalinifta</em>) ai canti d’amore e dell’emigrazione. 
           Ascolta la viva voce del griko attraverso le video-letture e il commento esegetico di <strong>Carmine Greco</strong>.
         </p>
       </div>
