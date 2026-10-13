@@ -7,6 +7,11 @@ const nextConfig = {
         destination: "/persone/vito-domenico-palumbo",
         permanent: true,
       },
+      {
+        source: "/impara",
+        destination: "/dizionario",
+        permanent: true,
+      },
     ];
   },
 };
