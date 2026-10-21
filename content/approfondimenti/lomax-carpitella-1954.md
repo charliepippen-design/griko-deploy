@@ -116,7 +116,7 @@ Il corpus integrale è nel libro di Maurizio Agamennone *Musica e tradizione ora
 
 Il libro pubblica per la prima volta per intero la Raccolta 24B-Salento, conservata negli Archivi di Etnomusicologia dell'Accademia di Santa Cecilia: quasi tre ore di registrazione, con trascrizioni musicali e testi tradotti [1]. Secondo le recensioni citate dall'editore, i brani sono circa ottanta [1].
 
-Agamennone fu allievo di Carpitella e insegna all'Università di Firenze [3].
+Agamennone fu allievo di Carpitella; nel 2018 Santoro lo indicava come docente all'Università di Firenze [3].
 
 ## Dove ascoltare oggi
 
