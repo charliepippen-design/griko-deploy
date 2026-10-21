@@ -27,7 +27,7 @@ sources:
     title: "Soglia messapica. Uno straordinario documentario radio Rai del 1954 su tradizioni, riti e musiche del Salento"
     author: "Vincenzo Santoro"
     year: 2018
-    url: "http://lnx.vincenzosantoro.it/2018/02/20/soglia-messapica-uno-straordinario-documentario-radio-rai-del-1954-sul-salento-e-la-grecia-e-il-tarantismo/"
+    url: "https://www.vincenzosantoro.it/2018/02/20/soglia-messapica-uno-straordinario-documentario-radio-rai-del-1954-sul-salento-e-la-grecia-e-il-tarantismo/"
     licence: "Diritti riservati (solo fatti)"
   - n: 5
     title: "Puglia: The Salento (Rounder Records, serie Italian Treasury)"
@@ -133,7 +133,7 @@ Altre registrazioni e fonti sul griko sono elencate in [Biblioteca aperta del gr
 1. Squilibri editore, scheda del libro di Maurizio Agamennone "Musica e tradizione orale nel Salento. Le registrazioni di Alan Lomax e Diego Carpitella (agosto 1954)", collana AEM-Archivi di Etnomusicologia, https://www.squilibri.it/catalogo/aem-archivi-di-etnomusicologia/maurizio-agamennone-musica-e-tradizione-orale-in-salento (consultato il 21 ottobre 2026).
 2. FLORE, Università degli Studi di Firenze, scheda di Maurizio Agamennone, "Musica e tradizione orale nel Salento. Le registrazioni di Alan Lomax e Diego Carpitella (agosto 1954)", 2017, ISBN 9788889009994, https://flore.unifi.it/handle/2158/1105601 (consultato il 21 ottobre 2026).
 3. Vincenzo Santoro, "Musica e tradizione orale nel Salento. Le registrazioni di Alan Lomax e Diego Carpitella (agosto 1954)", 14 febbraio 2018, https://www.vincenzosantoro.it/2018/02/14/musica-e-tradizione-orale-nel-salento-le-registrazioni-di-alan-lomax-e-diego-carpitella-agosto-1954/ (consultato il 21 ottobre 2026).
-4. Vincenzo Santoro, "Soglia messapica. Uno straordinario documentario radio Rai del 1954 su tradizioni, riti e musiche del Salento", 20 febbraio 2018, http://lnx.vincenzosantoro.it/2018/02/20/soglia-messapica-uno-straordinario-documentario-radio-rai-del-1954-sul-salento-e-la-grecia-e-il-tarantismo/ (consultato il 21 ottobre 2026).
+4. Vincenzo Santoro, "Soglia messapica. Uno straordinario documentario radio Rai del 1954 su tradizioni, riti e musiche del Salento", 20 febbraio 2018, https://www.vincenzosantoro.it/2018/02/20/soglia-messapica-uno-straordinario-documentario-radio-rai-del-1954-sul-salento-e-la-grecia-e-il-tarantismo/ (consultato il 21 ottobre 2026).
 5. Association for Cultural Equity, "Puglia: The Salento" (Rounder Records, serie Italian Treasury), https://www.culturalequity.org/album/puglia-salento (consultato il 21 ottobre 2026).
 6. Concord, scheda dell'album "Alan Lomax Collection: Italian Treasury: Puglia: The Salento", https://concord.com/concord-albums/alan-lomax-collection-italian-treasury-puglia-the-salento/ (consultato il 21 ottobre 2026).
 7. Angel Romero, "New Alan Lomax Collection Release: Italian Treasury: Puglia: The Salento", World Music Central, 25 febbraio 2003, https://worldmusiccentral.org/new-alan-lomax-collection-release-italian-treasury-puglia-the-salento/ (consultato il 21 ottobre 2026).
